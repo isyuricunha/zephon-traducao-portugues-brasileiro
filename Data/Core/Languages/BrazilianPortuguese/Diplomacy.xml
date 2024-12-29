@@ -139,7 +139,7 @@
 	<entry name="OfferTradeAgreementHint" value="<string name='Diplomacy/TradeAgreementHint'/><br/><br/><string name='Diplomacy/IncreaseStandingHint'/>"/>
 	<entry name="PeaceHint" value="Duas partes com um tratado de paz assinado não podem atacar uma à outra."/>
 	<entry name="PeaceWith" value="<style name='Bold'/>Paz com:<style name='Default'/>"/>
-	<entry name="PraiseLabelResult" value"Sua posição com %2% aumentou devido a %3%."/>
+	<entry name="PraiseLabelResult" value="Sua posição com %2% aumentou devido a %3%."/>
 	<entry name="PraiseWarResult" value="Sua posição com %2% aumentou devido à sua guerra com %3%."/>
 	<entry name="RejectAlliance" value="<style name='Bold'/>Rejeitar aliança:<style name='Paragraph'/> "/>
 	<entry name="RejectAllianceTerminationWithThirdParty/RejectOutright" value="<style name='Bold'/>Rejeitar término de aliança com terceiro:<style name='Paragraph'/> "/>

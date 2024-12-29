@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="(Total)" value="(%1% total)"/>
+	<entry name="(Turn)" value="(%1% turn)"/>
+	<entry name="(Turns)" value="(%1% turns)"/>
+	<entry name="AI" value="AI"/>
+	<entry name="AITurn" value="Enemy Turn"/>
+	<entry name="AcceptCall" value="Accept"/>
+	<entry name="AchievementsDisabled" value="Achievements disabled."/>
+	<entry name="Action" value="Ability"/>
+	<entry name="Actions" value="Actions"/>
+	<entry name="AddPlayerHint" value="Add a player."/>
+	<entry name="AdditionalContentAvailable" value="Additional content available"/>
+	<entry name="Address" value="Address"/>
+	<entry name="AdvancedParametersHint" value="<style name='Title'/>Advanced Parameters [<control name='LobbyAdvancedParameters'/>]"/>
+	<entry name="AffectsCity" value="Affects city: %1%"/>
+	<entry name="Agree" value="Agree"/>
+	<entry name="AgreeTermsAndConditionsHint" value="I have read and agree to the terms and conditions."/>
+	<entry name="All" value="All"/>
+	<entry name="Attributes" value="Attributes"/>
+	<entry name="Available" value="Available"/>
+	<entry name="AvailableNow" value="Available Now"/>
+	<entry name="Back" value="Back"/>
+	<entry name="BackHint" value="<style name='Title'/>Back [<control name='Back'/>]"/>
+	<entry name="BasicParametersHint" value="<style name='Title'/>Basic Parameters [<control name='LobbyBasicParameters'/>]"/>
+	<entry name="Battle" value="Battle"/>
+	<entry name="BindingHint" value="[Mouse Left] to change binding.<br/><style color='GUI/Yellow'/>[Mouse Middle] to add new binding.<br/><style color='GUI/Red'/>[Mouse Right] to unbind."/>
+	<entry name="Block" value="Block"/>
+	<entry name="BuildOrders" value="Build Orders"/>
+	<entry name="BuildingSlotHint" value="[<control name='ToggleBuildingPower'/>] to toggle power.<br/>[<control name='DismantleBuilding'/>] to dismantle."/>
+	<entry name="BuildingUnpowered" value="Unpowered."/>
+	<entry name="Building" value="Building"/>
+	<entry name="BuildingAcrin" value="Acrin Building"/>
+	<entry name="BuildingCyber" value="Cyber Building"/>
+	<entry name="BuildingHuman" value="Human Building"/>
+	<entry name="BuildingReaver" value="Reaver Building"/>
+	<entry name="BuildingVoice" value="Voice Building"/>
+	<entry name="BuildingZephon" value="ZEPHON Building"/>
+	<entry name="Buildings" value="Buildings"/>
+	<entry name="BuildingsConstructed" value="Buildings Constructed"/>
+	<entry name="Buy" value="Buy"/>
+	<entry name="BuyBackground" value="<icon texture='GUI/LeftArrow'/><nbsp/><string name='GUI/Buy'/>"/>
+	<entry name="Call" value="Call"/>
+	<entry name="CallLeaderHint" value="Call leader."/>
+	<entry name="CallOrDeselectLeaderHint" value="<string name='GUI/CallLeaderHint'/><br/><br/><style name='Small'/>[<string name='Controls/MouseRight'/>] to deselect."/>
+	<entry name="CannotDisembarkThisTurn" value="Cannot disembark this turn."/>
+	<entry name="Cancel" value="Cancel"/>
+	<entry name="CancelHint" value="<style name='Title'/>Cancel [<control name='Cancel'/>]"/>
+	<entry name="CancelOrders" value="Cancel orders."/>
+	<entry name="Capturable" value="Capturable"/>
+	<entry name="CapturableOutpost" value="Capturable Outpost"/>
+	<entry name="Cargo" value="Cargo"/>
+	<entry name="CancelAlliance" value="Cancel Alliance"/>
+	<entry name="CancelTrade" value="Cancel Trade"/>
+	<entry name="Charges" value="Charges"/>
+	<entry name="Charging" value="Charging"/>
+	<entry name="Chat" value="Chat"/>
+	<entry name="ChatHint" value="<style name='Title'/>Chat [<control name='LobbyChat'/>]"/>
+	<entry name="ChooseResearch" value="Choose Research"/>
+	<entry name="ChooseResearchHint" value="Choose your research focus [<control name='NextTask'/>]."/>
+	<entry name="CityResources" value="City Resources"/>
+	<entry name="ClaimItemOnlyWithHero" value="Select hero before claiming item or sell at <icon height='20' texture='Icons/Shop'/><nbsp/>The<nbsp/>Concordat."/>
+	<entry name="ClearNotifications" value="Clear Notifications"/>
+	<entry name="ClearNotificationsHint" value="Clear all notifications [<control name='NextTask'/>]."/>
+	<entry name="Close" value="Close"/>
+	<entry name="CloseHint" value="<style name='Title'/>Close [<control name='Cancel'/>]"/>
+	<entry name="Communications" value="Communications"/>
+	<entry name="Community" value="Community"/>
+	<entry name="Compendium" value="Compendium"/>
+	<entry name="Connect" value="Connect"/>
+	<entry name="ConsumesAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> Consumes action"/>
+	<entry name="ConsumesMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> Consumes movement"/>
+	<entry name="Continue" value="Continue"/>
+	<entry name="Cooldown" value="Cooldown"/>
+	<entry name="Copy" value="Copy"/>
+	<entry name="CopyInviteCode" value="Copy Invite Code"/>
+	<entry name="CopyInviteCodeHint" value="Copy the invite code which can be pasted to other players to easily join this game.<br/><br/>Please note that your public IP address can be extracted from the code."/>
+	<entry name="Cost" value="Cost"/>
+	<entry name="Create" value="Create"/>
+	<entry name="Credits" value="Credits"/>
+	<entry name="Cyber" value="Cyber"/>
+	<entry name="DLC" value="DLC"/>
+	<entry name="DLCNotEnabled" value="<style color='GUI/Red'/>%1% not enabled for this game. Enable it in game lobby advanced settings before starting a new game."/>
+	<entry name="DLCNotInstalled" value="<style color='GUI/Red'/>%1% not installed."/>
+	<entry name="DamageDealt" value="Damage Dealt"/>
+	<entry name="DamageTaken" value="Damage Taken"/>
+	<entry name="Debug" value="Debug"/>
+	<entry name="DeclareWar" value="Declare War"/>
+	<entry name="DeclineCall" value="Decline"/>
+	<entry name="Default" value="Default"/>
+	<entry name="Defeated" value="Defeated"/>
+	<entry name="Delete" value="Delete"/>
+	<entry name="Details" value="Details"/>
+	<entry name="DigitalArtbook&Wallpapers" value="Digital Artbook & Wallpapers"/>
+	<entry name="Diplomacy" value="Diplomacy"/>
+	<entry name="DirectConnect" value="Direct Connect"/>
+	<entry name="Directory" value="Directory"/>
+	<entry name="DisableBuildingHint" value="Disable the lowest output building of this type, freeing its allocated population for other buildings.<br/><br/>To disable a specific building, interact with building slots on the map."/>
+	<entry name="DisableSimultaneousTurns" value="Disable Simultaneous Turns"/>
+	<entry name="DisableTips" value="Disable Tips"/>
+	<entry name="DisableTipsHint" value="Stop showing pop-up tips. You can re-enable them in the settings."/>
+	<entry name="DismantleBuildingHint" value="Dismantle the lowest potential output building of this type.<br/><br/>To dismantle a specific building, interact with building slots on the map."/>
+	<entry name="Disconnected" value="Disconnected"/>
+	<entry name="DismissReports" value="Dismiss All (%1%)"/>
+	<entry name="DragToChangeLoadOrder" value="Drag to change load priority."/>
+	<entry name="Economy" value="Economy"/>
+	<entry name="Elite" value="Elite"/>
+	<entry name="EmptyBuildingSlotHint" value="Empty building slot."/>
+	<entry name="EnableBuildingHint" value="Enable the highest output building of this type, allocating population to it.<br/><br/>To enable a specific building, interact with building slots on the map."/>
+	<entry name="EnableSimultaneousTurns" value="Enable Simultaneous Turns"/>
+	<entry name="EnableMod" value="Enable mod."/>
+	<entry name="EndTurn" value="End Turn"/>
+	<entry name="EndTurnHint" value="End your turn [<control name='NextTask'/>]."/>
+	<entry name="Enter" value="Enter"/>
+	<entry name="EquipItemHint" value="Right-click to equip."/>
+	<entry name="EstimatedCasualties" value="estimated %1%/%2% casualties"/>
+	<entry name="Events" value="Events"/>
+	<entry name="ExecuteQueuedOrders" value="Execute Queued Orders (%1%)"/>
+	<entry name="ExecuteQueuedOrdersHint" value="Execute orders queued in the previous turn [<control name='NextTask'/>]."/>
+	<entry name="Extra" value="Extra"/>
+	<entry name="ExitCity" value="Exit City"/>
+	<entry name="ExitCityHint" value="Exit the city screen [<control name='NextTask'/>]."/>
+	<entry name="ExitToMainMenu" value="Exit to Main Menu"/>
+	<entry name="ExitToDesktop" value="Exit to Desktop"/>
+	<entry name="ExperienceShort" value="xp"/>
+	<entry name="Explored" value="Explored"/>
+	<entry name="Factions" value="Leaders"/>
+	<entry name="FastForward" value="Fast Forward"/>
+	<entry name="FastForwardHint" value="Fast forward AI turn [<control name='NextTask'/>]."/>
+	<entry name="Feature" value="Feature"/>
+	<entry name="Features" value="Features"/>
+	<entry name="FocusOnPlayerCursorHint" value="<style name='Small'/>[<string name='Controls/MouseLeft'/>] to focus on player cursor."/>
+	<entry name="ForceEndTurnHint" value="End your turn [<control name='ForceEndTurn'/>]."/>
+	<entry name="ForwardHint" value="<style name='Title'/>Forward [<control name='Forward'/>]"/>
+	<entry name="FreeAction" value="<icon height='20' texture='Icons/Attributes/Actions'/> Free"/>
+	<entry name="Full" value="Full"/>
+	<entry name="GameBrowser" value="Game Browser"/>
+	<entry name="GameLobby" value="Game Lobby"/>
+	<entry name="GameLobbyHint" value="<style name='Title'/><string name='GUI/GameLobby'/><style name='Default'/><br/>Change parameters and invite players."/>
+	<entry name="Games" value="Games"/>
+	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/><style color='GUI/Red'/>%3%%4%<style name='Default'/>%5%%6%%7%%8%%9%%10%<style name='Italic'/>%11%<style name='Small'/>%12%"/>
+	<entry name="HintCost" value="<style name='Heading'/>Cost<style name='Default'/><br/>%1%<br/><br/>"/>
+	<entry name="HitpointsFull" value="Hitpoints full."/>
+	<entry name="TechnologyHint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%4%%6%%5%%7%%8%%9%%10%<style name='Small'/>%12%"/>
+	<entry name="HoldKeyForMeleeAttack" value="Hold Ctrl for max damage."/>
+	<entry name="HoldKeyToKeepVisible" value="Hold Shift to keep visible."/>
+	<entry name="HoldKeyToShowOpponentAttack" value="Hold Alt to show opponent attack."/>
+	<entry name="Host" value="Host"/>
+	<entry name="Hotseat" value="Hotseat"/>
+	<entry name="HotseatNotAvailable" value="<style name='Small'/>Hotseat only available in single player with simultaneous turns off."/>
+	<entry name="Human" value="Human"/>
+	<entry name="Inaccessible" value="Inaccessible"/>
+	<entry name="IncomingCall" value="Incoming Call: %1%"/>
+	<entry name="IncompatibleVersion" value="Incompatible Version"/>
+	<entry name="InfoFormat" value="<style name='Default'/>%6%<style name='Italic'/>%11%<style name='Default'/>%5%%7%%8%%9%"/>
+	<entry name="Installed" value="Installed"/>
+	<entry name="Introduction" value="Introduction"/>
+	<entry name="IntroductionGame" value="<string name='GUI/Introduction'/>"/>
+	<entry name="IntroductionGameHint" value="Start an introduction game."/>
+	<entry name="InvalidName" value="Invalid name."/>
+	<entry name="Inventory" value="Inventory"/>
+	<entry name="InviteEpicFriend" value="Invite Epic Friend"/>
+	<entry name="InviteSteamFriend" value="Invite Steam Friend"/>
+	<entry name="InviteSteamFriendHint" value="<style color='GUI/Yellow'/>Steam is only able to send friend invites if your profile privacy settings (game details) are not set to private."/>
+	<entry name="InviteSteamFriendDisabledHint" value="Host not running Steam version or Steam matchmaking unavailable."/>
+	<entry name="Invulnerable" value="Invulnerable"/>
+	<entry name="Item" value="Item"/>
+	<entry name="Items" value="Items"/>
+	<entry name="Join" value="Join"/>
+	<entry name="JoinGame" value="Join Game"/>
+	<entry name="JustOneMoreTurn" value="Wait! Just… one… more… turn…"/>
+	<entry name="KickPlayerHint" value="<style name='Small'/>[<string name='Controls/MouseRight'/>] to kick player."/>
+	<entry name="LevelHint" value="<icon texture='GUI/Bullet'/>%1%/%2% level<br/><icon texture='GUI/Bullet'/>%3%/%4% experience<br/><icon texture='GUI/Bullet'/>%5% death experience value="/>
+	<entry name="Levelable" value="<style color='GUI/LevelableAction'/>Levelable<style color='Default'/>"/>
+	<entry name="LevelableElite" value="<style color='GUI/LevelableAction'/>Levelable—Elite<style color='Default'/>"/>
+	<entry name="LimitReached" value="Limit reached."/>
+	<entry name="Load" value="Load"/>
+	<entry name="LoadGame" value="Load Game"/>
+	<entry name="LoadGameHelp" value="No saved games available to load."/>
+	<entry name="Locked" value="Locked."/>
+	<entry name="MainMenu" value="Main Menu"/>
+	<entry name="Map" value="Map"/>
+	<entry name="MarkTileHint" value="<style name='Title'/>Mark Tile [<control name='MarkTile'/>]<br/><style name='Default'/>Place a marker for yourself and your allies. AI allies will tend to move their units towards markers."/>
+	<entry name="Max" value="max"/>
+	<entry name="Melee" value="Melee"/>
+	<entry name="Menu" value="Menu"/>
+	<entry name="Military" value="Military"/>
+	<entry name="Min" value="min"/>
+	<entry name="Minimap" value="Minimap"/>
+	<entry name="Missing" value="?"/>
+	<entry name="Mixer" value="Mixer"/>
+	<entry name="ModDetailsHint" value="Open mod details on the Steam Workshop."/>
+	<entry name="ModFolderHint" value="Open mod folder."/>
+	<entry name="Modifier" value="Modifier"/>
+	<entry name="Mods" value="Mods"/>
+	<entry name="More" value="More"/>
+	<entry name="Multiplayer" value="Multiplayer"/>
+	<entry name="Mutators" value="Mutators"/>
+	<entry name="MutatorsHint" value="<style name='Title'/>Mutators [<control name='LobbyMutators'/>]"/>
+	<entry name="Name" value="Name"/>
+	<entry name="New" value="New"/>
+	<entry name="NewGame" value="New Game"/>
+	<entry name="NewGameHint" value="Choose your leader and customize world parameters."/>
+	<entry name="NoActionsRemaining" value="No actions remaining."/>
+	<entry name="NoChargesRemaining" value="No charges remaining."/>
+	<entry name="NoFreeItemSlots" value="No free space in hero's inventory."/>
+	<entry name="NoResearchSelected" value="No Research Selected"/>
+	<entry name="NoPointsRemaining" value="No points remaining."/>
+	<entry name="NoValidTargets" value="No valid targets."/>
+	<entry name="NotAvailableInDemo" value="<style color='GUI/Red'/>Not available in demo."/>
+	<entry name="NotEnoughResources" value="Not enough resources."/>
+	<entry name="NotOwner" value="Not owner of unit."/>
+	<entry name="NotReady" value="Not Ready"/>
+	<entry name="NotUsable" value="Not Usable"/>
+	<entry name="Objectives" value="Objectives"/>
+	<entry name="ObjectivesCompleted" value="Objectives Completed"/>
+	<entry name="Off" value="<style color='GUI/Red'/>Off<style color='Default'/>"/>
+	<entry name="OK" value="OK"/>
+	<entry name="OKHint" value="<style name='Title'/>OK [<control name='OK'/>]"/>
+	<entry name="Okay" value="Okay"/>
+	<entry name="On" value="<style color='GUI/Green'/>On<style color='Default'/>"/>
+	<entry name="OnlyInMainMenu" value="<br/><br/><style color='GUI/Yellow'/>Changing this settings can only be done in the main menu."/>
+	<entry name="OnThisSide" value="On this side:"/>
+	<entry name="OnCooldown" value="On cooldown."/>
+	<entry name="OpenHint" value="Open “%1%”."/>
+	<entry name="OpenStoreHint" value="Click to open store."/>
+	<entry name="Operation" value="Operation"/>
+	<entry name="Or" value="or"/>
+	<entry name="OrderCity" value="Order Cities (%1%)"/>
+	<entry name="OrderCityHint" value="Select next idle city [<control name='NextTask'/>]."/>
+	<entry name="OrderUnits" value="Order Units (%1%)"/>
+	<entry name="OrderUnitsHint" value="Select next idle unit [<control name='NextTask'/>]."/>
+	<entry name="OutsideCity" value="Outside City"/>
+	<entry name="Overwrite" value="Overwrite"/>
+	<entry name="PauseTurnTimer" value="Pause timer."/>
+	<entry name="Parameters" value="Parameters"/>
+	<entry name="PassiveActionOff" value="<icon height='20' texture='Icons/Attributes/Actions'/> Passive (Off)"/>
+	<entry name="PassiveActionOn" value="<icon height='20' texture='Icons/Attributes/Actions'/> Passive (On)"/>
+	<entry name="Paste" value="Paste"/>
+	<entry name="PasteInviteCode" value="Paste Invite Code"/>
+	<entry name="PasteInviteCodeHint" value="Join the game from the invite code in your clipboard."/>
+	<entry name="PasteInviteCodeInvalidHint" value="<style color='GUI/Red'/>Invalid invite code.<style color='Default'/><br/><br/><string name='GUI/PasteInviteCodeHint'/>"/>
+	<entry name="PatchNotes" value="Patch Notes"/>
+	<entry name="Ping" value="Ping"/>
+	<entry name="Play" value="Play"/>
+	<entry name="Player" value="Player"/>
+	<entry name="PlayerXTurn" value="%1%'s Turn"/>
+	<entry name="Players" value="Players"/>
+	<entry name="PleaseWait" value="Please Wait …"/>
+	<entry name="PleaseWaitHint" value="Please wait for other players."/>
+	<entry name="Port" value="Port"/>
+	<entry name="PoweredBuildingsHint" value="Amount of powered buildings of this type. [<control name='ToggleBuildingPower'/>] on the building icon on the map to toggle power."/>
+	<entry name="Properties" value="Properties"/>
+	<entry name="Quests" value="Quests"/>
+	<entry name="QuestOptionHint" value="%4%%7%<style color='Default'/>%8%"/>
+	<entry name="QuestOptionHintCost" value="Cost: %1%"/>
+	<entry name="RadiusTile" value="<icon height='20' texture='Icons/Attributes/Radius'/> %1%"/>
+	<entry name="RadiusTiles" value="<icon height='20' texture='Icons/Attributes/Radius'/> %1%"/>
+	<entry name="Random" value="Random"/>
+	<entry name="Randomize" value="Randomize"/>
+	<entry name="Ready" value="Ready"/>
+	<entry name="Refresh" value="Refresh"/>
+	<entry name="Regrouping" value="Regrouping"/>
+	<entry name="Relayed" value="Relayed"/>
+	<entry name="RemovePlayerHint" value="<style name='Small'/>[<string name='Controls/MouseRight'/>] to remove player."/>
+	<entry name="RenameHint" value="Rename."/>
+	<entry name="Result" value="Result"/>
+	<entry name="(Required)" value="(%1% required)"/>
+	<entry name="RequiredLevel" value="Required Level: %1%"/>
+	<entry name="Requires" value="Requires"/>
+	<entry name="RequiresAction" value="<icon height='20' texture='Icons/Attributes/Actions'/><style color='GUI/Yellow'/>Requires action<style color='Default'/>"/>
+	<entry name="RequiresMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/><style color='GUI/Yellow'/>Requires movement<style color='Default'/>"/>
+	<entry name="RequiresTechnology" value="<icon height='20' texture='Icons/Attributes/Research'/> Requires technology"/>
+	<entry name="Research" value="Research"/>
+	<entry name="ResearchCost" value="Research Cost"/>
+	<entry name="ResearchTierLockedHint" value="<style color='GUI/Red'/>Research %1% technologies from the previous tier to unlock."/>
+	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
+	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% accumulated"/>
+	<entry name="ResourceFromBuildings" value="    <icon texture='GUI/Bullet'/>%1% from buildings"/>
+	<entry name="ResourceFromCities" value="    <icon texture='GUI/Bullet'/>%1% from city count"/>
+	<entry name="ResourceFromDestruction" value="    <icon texture='GUI/Bullet'/>%1% from destruction"/>
+	<entry name="ResourceFromDifficulty" value="    <icon texture='GUI/Bullet'/>%1% from difficulty"/>
+	<entry name="ResourceFromFeatures" value="    <icon texture='GUI/Bullet'/>%1% from features"/>
+	<entry name="ResourceFromLoyalty" value="    <icon texture='GUI/Bullet'/>%1% from loyalty"/>
+	<entry name="ResourceFromPace" value="    <icon texture='GUI/Bullet'/>%1% from game speed"/>
+	<entry name="ResourceFromPopulation" value="    <icon texture='GUI/Bullet'/>%1% from population"/>
+	<entry name="ResourceFromShortage" value="    <icon texture='GUI/Bullet'/>%1% from resource shortage"/>
+	<entry name="ResourceFromTiles" value="    <icon texture='GUI/Bullet'/>%1% from tiles"/>
+	<entry name="ResourceFromTrade" value="    <icon texture='GUI/Bullet'/>%1% from trade"/>
+	<entry name="ResourceFromUnits" value="    <icon texture='GUI/Bullet'/>%1% from units"/>
+	<entry name="ResourcePerTurn" value="<icon texture='GUI/Bullet'/>%1% per turn"/>
+	<entry name="ResourcePopulation" value="<icon texture='GUI/Bullet'/>%1% population"/>
+	<entry name="ResourcePopulationRequired" value="<icon texture='GUI/Bullet'/>%1% population required"/>
+	<entry name="ResourceShortageTitle" value="Resource Shortage"/>
+	<entry name="ResourceShortage" value="<icon texture='GUI/Bullet'/><style color='GUI/Red'/>%1%%%<style color='Default'/> %2% shortage"/>
+	<entry name="ResourceTotal" value="<icon texture='GUI/Bullet'/>%1% total"/>
+	<entry name="Resources" value="Resources"/>
+	<entry name="ResourcesAccumulated" value="Resources Accumulated"/>
+	<entry name="Restart" value="Restart"/>
+	<entry name="RestoreDefaults" value="Restore Defaults"/>
+	<entry name="Rewards" value="Rewards"/>
+	<entry name="RewardsReceived" value="Rewards Received"/>
+	<entry name="Queued" value="Queued."/>
+	<entry name="QuickSelectLeaderHint" value="Quick-select leader."/>
+	<entry name="Quit" value="Quit"/>
+	<entry name="Save" value="Save"/>
+	<entry name="SaveAndExitToMainMenu" value="Save & Exit to Main Menu"/>
+	<entry name="SaveAndExitToDesktop" value="Save & Exit to Desktop"/>
+	<entry name="SaveGame" value="Save Game"/>
+	<entry name="SaveGameHelp" value="Enter new save name or select one to overwrite."/>
+	<entry name="Self" value="Self"/>
+	<entry name="Scenarios" value="Scenarios"/>
+	<entry name="Scores" value="Scores"/>
+	<entry name="SelectCityHint" value="Select city."/>
+	<entry name="SelectColorHint" value="Select color."/>
+	<entry name="SelectDifficultyHint" value="Select difficulty."/>
+	<entry name="SelectLeader" value="Select Leader"/>
+	<entry name="SelectLeaderHint" value="Select leader."/>
+	<entry name="SelectNextCityHint" value="Select next city."/>
+	<entry name="SelectPreviousCityHint" value="Select previous city."/>
+	<entry name="SelectResearch" value="Select research"/>
+	<entry name="SelectResearchHint" value="<string name='GUI/SelectResearch'/>."/>
+	<entry name="SelectTeamHint" value="Select team."/>
+	<entry name="SelectUnitHint" value="Select unit."/>
+	<entry name="SelectionPortraitHint" value="[<string name='Controls/MouseLeft'/>] to focus.<br/><string name='GUI/ShowInCompendium'/>"/>
+	<entry name="Sell" value="Sell"/>
+	<entry name="SellBackground" value="<icon texture='GUI/LeftArrow'/><nbsp/><string name='GUI/Sell'/>"/>
+	<entry name="Settings" value="Settings"/>
+	<entry name="Shop" value="The Concordat"/>
+	<entry name="ShopHint" value="<style name='Title'/>The Concordat [<control name='OpenShopScreen'/>]<br/><style name='Default'/>Trade resources and hero items.<br/><br/><style name='Italic'/>Everyone knew The Concordat. But no-one knew who they were. Maybe survivors on the surface, maybe a ZEPHON-fork, maybe an old Corp reaching outta the 20th century’s grave. They fed the rumor mill, hiding their truth under the chatter. All we did know was that they traded everything to everyone—and that they never made a loss."/>
+	<entry name="ShowInCompendium" value="[<control name='ShowInCompendium'/>] to show in compendium."/>
+	<entry name="ShowNatives" value="Show NPCs"/>
+	<entry name="SinglePlayer" value="Single Player"/>
+	<entry name="SkipCity" value="Skip City (1/%1%)"/>
+	<entry name="SkipCityHint" value="Skip this city [<control name='NextTask'/>].<br/>[<control name='SelectNext'/>]: select next idle city.<br/>[<control name='SelectPrevious'/>]: select previous idle city."/>
+	<entry name="SkipUnit" value="Skip Unit (1/%1%)"/>
+	<entry name="SkipUnitHint" value="Skip this unit [<control name='NextTask'/>].<br/>[<control name='SelectNext'/>]: select next idle unit.<br/>[<control name='SelectPrevious'/>]: select previous idle unit."/>
+	<entry name="Social" value="Social"/>
+	<entry name="Spectating" value="Spectating"/>
+	<entry name="Start" value="Start"/>
+	<entry name="Stats" value="Stats"/>
+	<entry name="StayingIndependent" value="Staying independent:"/>
+	<entry name="SteamWorkshop" value="Steam Workshop"/>
+	<entry name="Supporter" value="Supporter"/>
+	<entry name="SupporterUpgrade" value="Supporter Upgrade"/>
+	<entry name="Surrender" value="Surrender"/>
+	<entry name="TakeSlotHint" value="Take slot."/>
+	<entry name="Team" value="Team"/>
+	<entry name="Team0" value="No Team"/>
+	<entry name="Team0Hint" value="No Team:<style name='Default'/> plays alone; not part of an alliance."/>
+	<entry name="Team0Short" value="<style name='Bold'/>/"/>
+	<entry name="Team1" value="Team A"/>
+	<entry name="Team1Short" value="A"/>
+	<entry name="Team2" value="Team B"/>
+	<entry name="Team2Short" value="B"/>
+	<entry name="Team3" value="Team C"/>
+	<entry name="Team3Short" value="C"/>
+	<entry name="Team4" value="Team D"/>
+	<entry name="Team4Short" value="D"/>
+	<entry name="Team5" value="Team E"/>
+	<entry name="Team5Short" value="E"/>
+	<entry name="Team6" value="Team F"/>
+	<entry name="Team6Short" value="F"/>
+	<entry name="Team7" value="Team G"/>
+	<entry name="Team7Short" value="G"/>
+	<entry name="Team8" value="Team H"/>
+	<entry name="Team8Short" value="H"/>
+	<entry name="Technology" value="Technology"/>
+	<entry name="Tier" value="Tier %1%"/>
+	<entry name="TierLocked" value="Tier %1% (Locked)"/>
+	<entry name="Tip" value="Tip"/>
+	<entry name="Tips" value="Tips"/>
+	<entry name="ToggleHotseatHint" value="<style name='Small'/>[<string name='Controls/Control'/> + <string name='Controls/MouseLeft'/>] to toggle hotseat."/>
+	<entry name="Total" value="Total"/>
+	<entry name="Trait" value="Trait"/>
+	<entry name="Traits" value="Traits"/>
+	<entry name="Turn" value="Turn"/>
+	<entry name="Unblock" value="Unblock"/>
+	<entry name="UnequipItemHint" value="Drag to move.<br/>Right-click to unequip."/>
+	<entry name="Unexplored" value="Unexplored"/>
+	<entry name="Unit" value="Unit"/>
+	<entry name="UnitAcrin" value="Acrin Unit"/>
+	<entry name="UnitCyber" value="Cyber Unit"/>
+	<entry name="UnitHuman" value="Human Unit"/>
+	<entry name="UnitReaver" value="Reaver Unit"/>
+	<entry name="UnitVoice" value="Voice Unit"/>
+	<entry name="UnitZephon" value="ZEPHON Unit"/>
+	<entry name="Units" value="Units"/>
+	<entry name="UnitsCreated" value="Units Created"/>
+	<entry name="UnitsLost" value="Units Lost"/>
+	<entry name="UnitsKilled" value="Units Killed"/>
+	<entry name="UnitsKilledByPlayer" value="You killed: %2%"/>
+	<entry name="UnpauseTurnTimer" value="Unpause timer."/>
+	<entry name="Unready" value="Unready"/>
+	<entry name="UpgradeForSubject" value="%1% for %2%"/>
+	<entry name="Upgrades" value="Upgrades"/>
+	<entry name="Upkeep" value="Upkeep"/>
+	<entry name="UploadModHint" value="Upload mod to the Steam Workshop."/>
+	<entry name="UserData" value="User Data"/>
+	<entry name="VS" value="VS"/>
+	<entry name="Version" value="Version"/>
+	<entry name="VersionRevisionsDiffer" value="Version revisions differ (local = %1%, server = %2%)."/>
+	<entry name="Victorious" value="Victorious"/>
+	<entry name="Voice" value="Voice"/>
+	<entry name="Weapon" value="Weapon"/>
+	<entry name="Weapons" value="Weapons"/>
+	<entry name="WorldDataChecksumsDiffer" value="World data differs (local = %1%, server = %2%)."/>
+	<entry name="WorldSeedHint" value="World seed, click to copy."/>
+	<entry name="XTile" value="%1% tile"/>
+	<entry name="XTiles" value="%1% tiles"/>
+	<entry name="XTurn" value="%1% turn"/>
+	<entry name="XTurns" value="%1% turns"/>
+	<entry name="XTurnsUntilDead" value="%1% <string name='Attributes/TurnsIcon'/> turns until <style color='GUI/Red'/>dead<style color='Default'/>"/>
+	<entry name="XTurnsUntilHealed" value="%1% <string name='Attributes/TurnsIcon'/> turns until <style color='GUI/Green'/>fully healed<style color='Default'/>"/>
+	<entry name="You" value="You"/>
+	<entry name="YourName" value="Your Name"/>
+
+	<entry name="BuildingsFlavor" value="All structures serve a purpose. Will you lay the foundation for a strong empire, raise an army that could conquer the world, or find solace in the soft arms of science? Build wisely, or you will fall quickly."/>
+	<entry name="FactionsFlavor" value="Any good gambler knows how important it is to study the other players. Their tells will let you know if they're bluffing, holding a winning hand—or hiding a card up their sleeve. But beware. If you only watch the threats around the table, you might miss the knife that will stab you in the back."/>
+	<entry name="FeaturesFlavor" value="The Earth itself is a player in your game. Machines and monsters have torn apart the landscape, but the wind still blows through the trees, and snow will still chill you to the bone. Will you make it your ally, or walk right over it?"/>
+	<entry name="ItemsFlavor" value="The wilderness has many treasures waiting for you. Chasing down a bauble might turn the tide of war—or it could lead you straight to your doom. Know when to pursue riches, and when to walk away."/>
+	<entry name="TipsFlavor" value="It is not weakness to admit a lack of knowledge—all great leaders know when to seek counsel. These tomes have so much to teach you. If you have an ounce of wisdom, you'll play close attention to every word."/>
+	<entry name="TraitsFlavor" value="You will want to know the many distinguishing qualities of the world you are fighting for. If you cannot tell the difference between flying and hovering, how will you ever hope to win the war?"/>
+	<entry name="UnitsFlavor" value="From street to sky your soldiers stand ready. None of them can grasp how great the stakes of this battle are. It's up to you to lead them to victory—and to make their inevitable sacrifice worthwhile."/>
+	<entry name="WeaponsFlavor" value="Blades, bullets, and bombs are just the beginning. You will crack open the jaws of the universe and clutch the power of nature in the palm of your hand. But never forget—your enemies will too."/>
+</language>

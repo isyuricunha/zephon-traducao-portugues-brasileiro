@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <entry name="AbkhanDrey" value="Abkhan Drey"/>
+    <entry name="AcrinCrashSite" value="Local do Acidente Acrin"/>
+    <entry name="AdvancedCyberCache" value="Cache Cibernética Avançada"/>
+    <entry name="AdvancedCyberCacheProperties" value="<icon texture='GUI/Bullet'/>Concede uma recompensa cibernética avançada aleatória"/>
+    <entry name="AdvancedHumanCache" value="Cache Humana Avançada"/>
+    <entry name="AdvancedHumanCacheProperties" value="<icon texture='GUI/Bullet'/>Concede uma recompensa humana avançada aleatória"/>
+    <entry name="AdvancedVoiceCache" value="Cache de Voz Avançada"/>
+    <entry name="AdvancedVoiceCacheProperties" value="<icon texture='GUI/Bullet'/>Concede uma recompensa de voz avançada aleatória"/>
+    <entry name="ArcDischarge" value="Descarga de Arco"/>
+    <entry name="Arctic" value="Ártico"/>
+    <entry name="BlackHole" value="<string name='Actions/BlackHole'/>"/>
+    <entry name="BlackHoleFlavor" value="<string name='Actions/BlackHoleFlavor'/>"/>
+    <entry name="Bleed" value="Sangrar"/>
+    <entry name="Brush" value="Mato"/>
+    <entry name="Cicadas" value="Cicadas"/>
+    <entry name="City" value="Cidade"/>
+    <entry name="Construct" value="Construir"/>
+    <entry name="CortexNode" value="Nó do Córtex"/>
+    <entry name="CortexNodeFlavor" value="<string name='Quests/FormFunction/TrustIronFeather/FlushCortex2'/>"/>
+    <entry name="CrystalBasin" value="Bacia de Cristal"/>
+    <entry name="CyberCache" value="Cache Cibernética"/>
+    <entry name="CyberCacheProperties" value="<icon texture='GUI/Bullet'/>Concede uma recompensa cibernética aleatória"/>
+    <entry name="Desert" value="Deserto"/>
+    <entry name="DustStorm" value="Tempestade de Areia"/>
+    <entry name="Fire" value="Fogo"/>
+    <entry name="FleshTree" value="Árvore de Carne"/>
+    <entry name="Forest" value="Floresta"/>
+    <entry name="GravityField" value="Campo Gravitacional"/>
+    <entry name="HumanCache" value="Cache Humana"/>
+    <entry name="HumanCacheProperties" value="<icon texture='GUI/Bullet'/>Concede uma recompensa humana aleatória"/>
+    <entry name="HymnOfDecay" value="<string name='Actions/HymnOfDecay'/>"/>
+    <entry name="HymnOfDecayFlavor" value="<string name='Actions/HymnOfDecayFlavor'/>"/>
+    <entry name="MicrochipFabricator" value="Fabricador de Microchips"/>
+    <entry name="Mines" value="Minas"/>
+    <entry name="MinesFlavor" value="<string name='Actions/MinelayerFlavor'/>"/>
+    <entry name="NuclearFallout" value="Queda Nuclear"/>
+    <entry name="Outpost" value="Posto Avançado"/>
+    <entry name="ParticleBarrier" value="<string name='Actions/ParticleBarrier'/>"/>
+    <entry name="ParticleBarrierFlavor" value="<string name='Actions/ParticleBarrierFlavor'/>"/>
+    <entry name="PhaseGenerator" value="Gerador de Fase"/>
+    <entry name="RecyclingTanks" value="Tanques de Reciclagem"/>
+    <entry name="River" value="Rio"/>
+    <entry name="Road" value="Estrada"/>
+    <entry name="Rocks" value="Rochas"/>
+    <entry name="Ruins" value="Ruínas"/>
+    <entry name="Sandpit" value="Areal"/>
+    <entry name="SandpitFlavor" value="<string name='Quests/Sandpit/Intro'/>"/>
+    <entry name="SeedOfExtinction" value="<string name='Actions/SeedOfExtinction'/>"/>
+    <entry name="SeedOfExtinctionFlavor" value="<string name='Actions/SeedOfExtinctionFlavor'/>"/>
+    <entry name="SmokeScreen" value="Tela de Fumaça"/>
+    <entry name="SmokeScreenFlavor" value="<string name='Actions/SmokeLauncherFlavor'/>"/>
+    <entry name="SurvivorsBazaar" value="Bazar dos Sobreviventes"/>
+    <entry name="Swamp" value="Pântano"/>
+    <entry name="TheFog" value="<string name='Actions/TheFog'/>"/>
+    <entry name="TheFogFlavor" value="<string name='Actions/TheFogFlavor'/>"/>
+    <entry name="TheSummoning" value="<string name='Quests/TheSummoning'/>"/>
+    <entry name="TheSummoningFlavor" value="<string name='Quests/TheSummoning/Intro2'/>"/>
+    <entry name="VoiceCache" value="Cache de Voz"/>
+    <entry name="VoiceCacheProperties" value="<icon texture='GUI/Bullet'/>Concede uma recompensa de voz aleatória"/>
+    <entry name="Volcanic" value="Volcânico"/>
+    <entry name="Volcano" value="Vulcão"/>
+    <entry name="Wasteland" value="Terra Devastada"/>
+    <entry name="Water" value="Água"/>
+    <entry name="Watchtower" value="Torre de Vigia"/>
+    <entry name="WhisperingWights" value="Wights Sussurrantes"/>
+
+    <!-- Flavor. -->
+    <entry name="AbkhanDreyFlavor" value="Os Abkhan construíram seus ninhos com os troncos afiados de pinheiros. Perguntamos aos caçadores Acrin como poderíamos atraí-los e aprendemos que, em seu mundo, os Acrin avançavam lentamente para um ninho usando lanças. As caçadas podiam durar dias. Não tínhamos tempo para isso. O fogo de canhão funcionaria muito mais rápido."/>
+    <entry name="AcrinCrashSiteFlavor" value="Toda vez que pensávamos que a última nave Acrin havia caído da órbita, outra iluminava o céu enquanto queimava na atmosfera. Os Acrin saqueavam-nas para recuperar pedaços de seu mundo natal. Os humanos saqueavam-nas para roubar a tecnologia. E ZEPHON… bem, ainda não sei o que ZEPHON queria. Só sei que tivemos que lutar por nossa parte."/>
+    <entry name="AdvancedCyberCacheFlavor" value="Por um curto período, alguns de meus tenentes tentaram entender o propósito dessas quedas de cache. Se elas nos davam recursos, deveria ser para maximizar uma forma específica de produção. Se encontrássemos unidades, assumíamos que deveríamos construir estratégias ao redor delas. Eu os mandei parar com isso. Teríamos mais sorte tirando cartas de um baralho de tarô."/>
+    <entry name="AdvancedHumanCacheFlavor" value="Era sombrio, encontrar tesouros preciosos como esses. Claro, pegávamos recursos muito necessários ou encontrávamos reforços bem-vindos—mas sempre havia perguntas sobre como algo tão valioso foi deixado exposto. Quem abandonaria bens tão vitais? E se algo os matou… ainda estava lá fora?"/>
+    <entry name="AdvancedVoiceCacheFlavor" value="Os caches de alto valor dos Acrin literalmente caíam do céu. Após a destruição de sua frota, observávamos destroços descendo da órbita diariamente—às vezes caindo suprimentos ou sobreviventes bem em nossa fronteira. Encontrar esses caches deveria ser um alívio, mas era apenas um lembrete sobre o grande cemitério metálico sobre nossas cabeças, despejando destroços que poderiam nos matar a todos."/>
+    <entry name="ArcDischargeFlavor" value="Você sabe o que era isso? A fiação de ZEPHON corria sob tudo, em todos os lugares—milhas e milhas de cobre bruto. Esses arcos eram uma fração, de uma fração, de uma fração do poder de ZEPHON se lançando contra você. Você poderia aproveitar esse poder se quisesse—mas seus inimigos também poderiam."/>
+    <entry name="ArcticFlavor" value="As terras geladas da velha Terra agora eram lar dos Abkluth, que evoluíram rapidamente para caçar em um novo ambiente. Ainda avançávamos por aqui por uma razão vital: esse terreno oferecia o ambiente ideal para nossos técnicos realizarem suas pesquisas. Baixa umidade e temperaturas combinadas com linhas de visão claras tornavam os testes de armas muito mais eficientes, diziam eles. Talvez eles apenas preferissem o frio."/>
+    <entry name="BleedFlavor" value="Os tentáculos da Voz sangravam de uma realidade e entravam na nossa, abrindo uma porta para a loucura. Eles não deveriam ter assolado nossa Terra. Seus membros doentios e viscosos se estendiam em busca de carne—ou metal—para enredar. Eu nem consigo escapar da visão deles em meu sono. Algumas noites—geralmente nas noites de lua cheia—eu acordo, suando, ainda sentindo o puxão fantasmagórico deles me arrastando para a Terra. Achei que fosse tudo na minha cabeça, mas ouvi os sussurros no refeitório. Outros sonham em ser esmagados também."/>
+    <entry name="BrushFlavor" value="Você encontrava pequenas criaturas se alimentando de plantas nas pradarias, mamíferos maiores se alimentando das criaturas, e assim por diante. Se tivéssemos mais tempo, poderíamos ter trabalhado para nos colocar cuidadosamente nesse ciclo. Em vez disso, nós o perturbamos, forçando-nos a ele. Um exército marcha com o estômago, e nós tínhamos barrigas para alimentar."/>
+    <entry name="CicadasFlavor" value="Olha, eu não faço as regras. Os insetos eram ricos em proteínas e fáceis de cozinhar em refeições maiores. Alguns de nossos pessoas haviam vivido em países pré-guerra onde as cigarras estavam regularmente no menu. Caçá-las mantinha as barrigas de nosso povo alimentadas, e quem reclamasse—bem, tinha duas escolhas: morrer de fome, ou engolir o orgulho."/>
+    <entry name="CityFlavor" value="A guerra urbana é brutal. Cada pedaço de cobertura que protege suas tropas parece dar o dobro de proteção ao inimigo. Eu preferia defender cidades sitiadas do que lutar de rua em rua. Em um cerco, você sentia solidariedade com os civis e outros soldados. Nas ruas, você só podia confiar em sua equipe. Qualquer outra pessoa poderia te entregar."/>
+    <entry name="ConstructFlavor" value="ZEPHON deve ter precisado de uma quantidade inconcebível de energia para travar sua guerra contra os Acrin. Os técnicos acharam que, se os combustíveis fósseis ou as energias renováveis estivessem sendo rapidamente desativados, ZEPHON reagiria construindo zonas como essas para gerar um novo recurso eficiente em termos de energia. Se você avançasse o suficiente em uma dessas zonas, começaria a achar que o planeta agora era uma enorme máquina."/>
+    <entry name="CrystalBasinFlavor" value="Os centros de mineração ricos em minerais não eram apenas bons pontos de recursos, também forneciam muita cobertura. Aprendemos a construir fortalezas em regiões como essas e usá-las para reforçar nossas fronteiras. Claro, elas se tornavam alvos de alto valor quando nossos inimigos queriam atingir nossas linhas de suprimento—mas para armar as melhores armadilhas, você precisa do melhor isco."/>
+    <entry name="CyberCacheFlavor" value="Máquinas não precisam esconder suprimentos, e com certeza não deixam nada para trás quando abandonam uma base. Então o que esses caches estavam fazendo nas terras desertas? Alguém… ou algo, estava experimentando conosco? Distribuindo suprimentos para ver como isso mudaria o curso da guerra? Todos esses anos e ainda não sei quem está por trás deles."/>
+    <entry name="DesertFlavor" value="As planícies abertas e o clima estável tornavam o deserto um ambiente incrivelmente estável para gerar eletricidade. Mas dava aos nossos trabalhadores um ambiente hostil de trabalho. A desidratação podia derrubar humanos e alienígenas, e as tempestades de areia faziam um estrago particularmente cruel nas máquinas."/>
+    <entry name="DustStormFlavor" value="A armadura podia bloquear a areia. Os scanners conseguiam penetrar na escuridão. Mas nada podia proteger sua mente da fúria de tudo aquilo. Relâmpagos, areia e vento se confundiam e a Terra ROARAVA em vingança. Ela sabia da violência que trouxemos à sua superfície e esta, esta tempestade, era a forma dela de revidar."/>
+    <entry name="FireFlavor" value="A notícia se espalhou rapidamente sobre a Batalha da Planície de Castaic. Nossas forças realizaram um ataque para tomar o controle de uma reserva de água do inimigo. Tiros foram disparados. O vento estava forte. O chão seco como combustível. Em menos de uma hora, um incêndio florestal cercou os dois exércitos. Eles deveriam ter parado de lutar—trabalhado juntos para apagar as chamas. Mas, em vez disso, centenas foram mortos e a água potável foi envenenada, nunca mais podendo ser consumida."/>
+    <entry name="FleshTreeFlavor" value="Eu quase desisti no dia em que decidimos usar essas árvores como fonte de alimento. Mas um esperto oficial de logística me convenceu com a matemática. Se acampássemos perto de uma dessas árvores, poderíamos alimentar nosso povo por um mês. Pedi a eles que não me contassem se isso acabasse sendo carne humana."/>
+    <entry name="ForestFlavor" value="O último dia em que pensei na floresta como “segura”, eu estava acampado perto de um riacho, rabiscando planos de batalha na terra. Então ouvi o “estalo” de um galho. Fui lento demais para reagir—meu observador foi abatido por tiros vindos da margem oposta. Não havia consolo nas árvores depois disso. Apenas mil galhos farfalhando que disfarçavam o som do movimento inimigo."/>
+    <entry name="GravityFieldFlavor" value="Claro, se um Núcleo Tessera te esmagar com a força da gravidade, você provavelmente terá um dia péssimo. Mas sabe quem teve um dia pior? Eu. Tive que passar trinta minutos explicando a um Hashmallim Host por que dizer 'a gravidade é um saco' é uma boa piada. Máquinas não têm senso de humor…"/>
+    <entry name="HumanCacheFlavor" value="Encontrávamos vestígios de outros grupos durante as patrulhas—sobreviventes pré-guerra ou recentes. Às vezes, encontrávamos equipamentos abandonados perto de uma fogueira, caches de recursos cobertos de poeira, ocasionalmente uma alma solitária que partiu sozinha. Uma mão amiga para lutar era sempre bem-vinda, mas suas histórias sobre sobreviver sozinhos—essa inspiração tinha seu próprio valor."/>
+    <entry name="MicrochipFabricatorFlavor" value="O processo de fabricação de microchips de ZEPHON dependia de uma rede descentralizada. Houve um breve período em que achamos que capturar o suficiente desses fabricadores chamaria sua atenção. Mas por que ele se importaria? Se um fabricador fosse desativado, ele poderia fabricar um novo a uma distância segura, com sua produção quase sem interrupções."/>
+    <entry name="NuclearFalloutFlavor" value="Heh. Todo mundo fala sobre ZEPHON e os Acrin devastando a Terra, mas... nós flertamos com o apocalipse, não foi? Homens que não conseguiram chegar à órbita trouxeram a civilização à beira do esquecimento. Gerações depois, ainda usamos suas armas e a Terra ainda queima com sua passagem."/>
+    <entry name="PhaseGeneratorFlavor" value="A primeira vez que cruzei o caminho de uma Watchmaker, ela estava fazendo manutenção em um desses geradores. Nós... discutimos sobre quem deveria ter o controle deles. 'Você está aqui para vencer uma guerra. Eu estou aqui para impedir a próxima', ela disse. Fechamos um acordo. Se desviassemos um pouco de energia para as Watchmakers, elas ativariam o escudo para proteger nosso povo."/>
+    <entry name="RecyclingTanksFlavor" value="Coisas nojentas. Os cultos da Voz, lutando por uma vida miserável nas terras desertas, construíram essas instalações para fabricar mais Algas. Não há necessidade de construir cemitérios quando você pode simplesmente jogar corpos e vísceras em uma fossa tóxica que gera uma carne nojenta. Eu mantinha uma máscara de partículas enquanto visitava locais como esse."/>
+    <entry name="RiverFlavor" value="Todo predador na Terra sabia que você encontrará sua presa em seu ponto mais fraco quando ela procura por água. E as espécies presas sabiam que ao buscar água, corriam o risco de ser caçadas. Você se daria bem ao se tornar o predador, mas se se encontrasse como a presa, lembre-se de que atravessar a água corrente desaceleraria a maioria dos caçadores."/>
+    <entry name="RoadFlavor" value="Na primeira noite depois de termos construído nossas primeiras estradas, entrei em um Outrider e dirigi por milhas. Gastei gasolina demais só para sentir o vento passando pelos meus cabelos, sentindo os pneus grudarem no asfalto enquanto fazia as curvas. Eu não queria voltar para a guerra. Eu só queria dirigir para sempre."/>
+    <entry name="RocksFlavor" value="Minerar pedras da Terra é uma das primeiras indicações de civilização. Pena que o terreno dificultava a construção de civilização em regiões como essa. Fiquei grato por não termos que mover pedras como nossos ancestrais faziam, mas as missões de suprimento para as minas sempre me deixavam nervoso."/>
+    <entry name="RuinsFlavor" value="A Terra Que Foi. O Velho Mundo. O Tempo Antes. Havia muitas maneiras de se referir à vida antes dos Acrin. Nenhuma delas conseguia resumir o que era olhar para as ruínas e sonhar acordado sobre como era antes. Em breve, as crianças nascerão sem memória deste lugar. Não sei se as invejo ou não. Não consigo imaginar lutar sem essa tristeza dentro de mim."/>
+    <entry name="SurvivorsBazaarFlavor" value="Havia muitos oportunistas, idealistas e golpistas que atraíam pessoas para suas favelas nas terras desertas. O que sempre me surpreendeu foi que esses líderes astutos nunca pegavam em armas. Alguns deles poderiam ter liderado exércitos à vitória—mas, em vez disso, reuniram todos."/>
+    <entry name="SwampFlavor" value="Todo tipo de vida fez sua casa nos Pântanos—se você conseguisse lidar com a umidade, encontraria bastante comida para manter seu exército de pé. Rastreadors experientes sabiam que era preciso observar o terreno enlameado—se seus pés afundassem muito, você seria uma presa fácil para qualquer caçador atrás de você."/>
+    <entry name="VoiceCacheFlavor" value="Não era segredo quem deixava esses caches para trás. Andarilhos Acrin, desesperados para sobreviver nas ruínas da Terra, eram uma ocorrência comum. Era bom tirar algo deles—mesmo que fosse uma de suas tropas. Fazer seus recursos se tornarem parte do nosso esforço de guerra era só mais lama nos olhos deles. Eles tentaram nos matar. Nós sobrevivemos. Agora comemos na mesa deles."/>
+    <entry name="VolcanicFlavor" value="Depois que o Fulcrum rachou as placas tectônicas, houve atividade vulcânica por todo o planeta. Muito mais do que o próprio disparo causou. Uma nova pesquisadora teve uma boa teoria: ZEPHON agora podia acessar minerais raros perto do núcleo da Terra e estava minerando lá embaixo. Garota esperta. Espero que ela sobreviva."/>
+    <entry name="VolcanoFlavor" value="O primeiro disparo dos Acrin com aquele maldito Fulcrum rachou a Terra e deslocou suas placas tectônicas. O campo de batalha estava repleto de enormes vulcões em todos os continentes—torres de ar, cinzas e fogo que assavam os bons soldados vivos."/>
+    <entry name="WastelandFlavor" value="Os Acrin não viam isso como terras desertas. Eles devem ter ficado encantados quando descobriram que suas preciosas Algas cresciam naturalmente e tomavam conta de alguns ambientes da Terra. Era isso que eles queriam fazer com o nosso planeta inteiro. Aproveitamos o máximo que pudemos—afinal, tínhamos uma guerra para vencer—mas fiz planos para queimar cada local de Algas até o chão quando tudo terminasse."/>
+    <entry name="WatchtowerFlavor" value="Os técnicos ainda estão tentando descobrir quem construiu essas torres. A arquitetura é humana, mas não encontramos nenhum sobrevivente que tenha assumido a responsabilidade de construí-las. ZEPHON não precisa delas para enxergar, e os sobreviventes Acrin nunca gostaram de ficar em um só lugar. Era estranho. Usamos essas torres para ganhar terreno elevado e observar nossos inimigos... mas elas sempre deixavam a sensação de que alguém mais estava nos observando."/>
+    <entry name="WaterFlavor" value="A água ainda percorria as artérias do planeta e ainda era o veículo principal para gerar vida. Até as criaturas cibernéticas do nosso novo mundo precisavam de instalações com resfriamento a água. Uma tragédia sombria, então, o fato de que, embora todas as facções em guerra respeitassem as vias fluviais, nosso conflito crescente as envenenaria para as gerações futuras."/>
+    <entry name="WhisperingWightsFlavor" value="Cada um tinha uma história diferente sobre o que causava os sussurros de pesadelo nas terras desertas. Alguns diziam que eram os lamentos dos humanos mortos pelo Fulcrum. Outros diziam que eram advertências sobre o futuro de outra dimensão. Engraçado. Até monstros com mais olhos do que membros se encolhiam de terror quando as vozes suaves apareciam no ar..." />
+</language>

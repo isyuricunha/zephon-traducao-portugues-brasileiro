@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="BetaStart" value="Por favor, reporte todos os erros no #zephon-beta e #zephon-beta-feedback no servidor oficial do Discord da Proxy Studios.<br/><br/>Lembre-se de que você está sob um NDA e esses são os únicos canais de comunicação permitidos."/>
+	<entry name="BetaStartTitle" value="Bem-vindo à Beta"/>
+	<entry name="CallDeclined" value="Chamada Recusada"/>
+	<entry name="ConfirmDelete" value="Tem certeza de que deseja deletar “%1%”?"/>
+	<entry name="ConfirmDisband" value="Tem certeza de que deseja dissolver “%1%”?"/>
+	<entry name="ConfirmDismantle" value="Tem certeza de que deseja desmontar “%1%”?"/>
+	<entry name="ConfirmOverwrite" value="Tem certeza de que deseja sobrescrever “%1%”?"/>
+	<entry name="ConfirmRemoveItem" value="Tem certeza de que deseja destruir “%1%”?"/>
+	<entry name="ConfirmRestoreDefaults" value="Tem certeza de que deseja restaurar as configurações padrão de %1%?"/>
+	<entry name="ConfirmSurrender" value="Tem certeza de que deseja se render?"/>
+	<entry name="ConnectingToServer" value="Conectando ao servidor …"/>
+	<entry name="ConnectionLost" value="Conexão perdida."/>
+	<entry name="DemoEndTitle" value="Obrigado por Jogar"/>
+	<entry name="DemoEndDefault" value="Isso conclui a experiência da demo.<string name='Messages/DemoEndShared'/>"/>
+	<entry name="DemoEndLost" value="Você foi derrotado. Tentar novamente?<string name='Messages/DemoEndShared'/>"/>
+	<entry name="DemoEndShared" value="<br/><br/>Se você gostou de jogar, adicione ZEPHON à sua lista de desejos e siga o jogo no Steam.
+	<br/><br/>Se você quiser deixar um feedback, ficaremos felizes em receber suas mensagens nos fóruns do Steam ou no Discord da Proxy Studios."/>
+	<entry name="DemoStart" value="Esta é uma versão preliminar de uma versão alfa do jogo em desenvolvimento. Como tal, haverá bugs, desequilíbrios e assets ausentes.
+	<br/><br/>A demo inclui jogo single player e multiplayer, mas é limitada a até quatro jogadores em um mapa de tamanho médio. 5 líderes diferentes estão disponíveis para seleção e 3 facções NPC estão presentes. O progresso de pesquisa é limitado aos 6 primeiros níveis de tecnologia.
+	<br/><br/>A versão completa conterá mapas maiores, opções avançadas de configuração de jogo, 8 líderes, mais de 50 unidades distribuídas por 10 níveis de pesquisa, mais características de terreno e missões, um grandioso final de jogo, modificadores de jogo desbloqueáveis, conquistas, múltiplos idiomas e suporte completo ao workshop."/>
+	<entry name="DemoStartTitle" value="Bem-vindo à Demo"/>
+	<entry name="Error" value="Erro"/>
+	<entry name="GameLoaded" value="Jogo carregado"/>
+	<entry name="GameSaved" value="Jogo salvo"/>
+	<entry name="GraphicsDriverOutdated" value="Seu driver gráfico está desatualizado.<br/><br/>Para melhorar a estabilidade e o desempenho, atualize seu driver gráfico acessando o site de suporte do fabricante da sua placa de vídeo."/>
+	<entry name="IncompatibleVersion" value="Versão do jogo incompatível."/>
+	<entry name="Info" value="Informações"/>
+	<entry name="Kicked" value="Você foi expulso do servidor."/>
+	<entry name="MasterServerUnreachable" value="Não foi possível conectar ao servidor mestre."/>
+	<entry name="MissingDLC" value="DLC ausente."/>
+	<entry name="ModUploading" value="Enviando mod …"/>
+	<entry name="ModUploadComplete" value="Mod enviado.<br/><br/>Você pode abrir os detalhes do mod para alterar a descrição, adicionar mais imagens e vídeos ou configurar a visibilidade do mod no Steam Workshop."/>
+	<entry name="ModUploadFailed" value="Falha no envio do mod.<br/><br/>Verifique se o arquivo Preview.png / Preview.jpg não é maior que 1 MB e se você tem as permissões necessárias para enviar este mod."/>
+	<entry name="NoFreeSlots" value="Nenhum slot livre disponível no servidor."/>
+	<entry name="NoGames" value="Nenhum jogo disponível para entrar."/>
+	<entry name="NoMods" value="Nenhum mod instalado."/>
+	<entry name="NoValidTargets" value="<style color='GUI/Red'/>Nenhum alvo válido"/>
+	<entry name="PlayerChangedSlots" value="%1% mudou de %2% para %3%."/>
+	<entry name="PlayerJoined" value="%1% entrou."/>
+	<entry name="PlayerLeft" value="%1% saiu."/>
+	<entry name="PleaseEnterYourName" value="Por favor, insira seu nome."/>
+	<entry name="PleaseWait" value="<style color='GUI/Red'/>Por favor, aguarde"/>
+	<entry name="PreviewStart" value="Por favor, note que ainda estamos fazendo testes antes do lançamento, corrigindo bugs e realizando a tradução final. Você pode encontrar bugs, mas esperamos que não haja problemas graves. Nos avise se encontrar qualquer problema significativo e o corrigiremos em 24 horas.<br/><br/>Fique à vontade para usar o painel de depuração [Ctrl+D] se quiser trapacear (por exemplo, desbloquear todos os mutadores).<br/><br/>Lembre-se de que você está sob embargo até 4 de novembro às 6h PT / 13h GMT.<br/><br/>O lançamento no Steam será em 8 de novembro às 6h PT / 13h GMT."/>
+	<entry name="PreviewStartTitle" value="Bem-vindo ao Preview"/>
+	<entry name="ReceivingInfo" value="Recebendo informações …"/>
+	<entry name="RestartRequired" value="Você precisa reiniciar o jogo para que as mudanças tenham efeito."/>
+	<entry name="RetrievingServerList" value="Obtendo lista de servidores …"/>
+	<entry name="ScreenShotSaved" value="Captura de tela salva"/>
+	<entry name="SetBinding" value="Pressione uma nova combinação de teclas para vincular a %1%."/>
+	<entry name="ScreenShotSaveError" value="Erro ao salvar captura de tela"/>
+	<entry name="ServerUnreachable" value="Não foi possível conectar ao servidor.<br/><br/>Para melhorar a conectividade, certifique-se de desativar seus firewalls e habilitar o UPnP no seu roteador ou encaminhar a porta TCP %1% para sua máquina local."/>
+	<entry name="SelectTarget" value="Selecione o alvo"/>
+	<entry name="TerminatedWithDisableMods" value="Mods foram desativados devido a uma falha. Visite a tela de mods para reabilitá-los."/>
+	<entry name="TermsAndConditions" value="Termos e Condições"/>
+	<entry name="TurnTimerPaused" value="%1% pausou o cronômetro."/>
+	<entry name="TurnTimerUnpaused" value="%1% despausou o cronômetro."/>
+	<entry name="UnboundControl" value="Vinculação removida de %1%."/>
+	<entry name="Warning" value="Aviso"/>
+	<entry name="WorldSettingsChanged" value="Configurações do mundo alteradas."/>
+</language>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="3DAnimation" value="Animação 3D"/>
+	<entry name="Additional3DModeling" value="Modelagem 3D Adicional"/>
+	<entry name="Audio" value="Áudio"/>
+	<entry name="DesignAndProgramming" value="Design e Programação"/>
+	<entry name="DevelopedAndPublishedBy" value="Desenvolvido e publicado por"/>
+	<entry name="Fonts" value="Fontes"/>
+	<entry name="Graphics" value="Gráficos"/>
+	<entry name="Illustration" value="Ilustração"/>
+	<entry name="Localization" value="Localização"/>
+	<entry name="Libraries" value="Bibliotecas"/>
+	<entry name="Marketing" value="Marketing"/>
+	<entry name="Music" value="Música"/>
+	<entry name="Sound" value="Som"/>
+	<entry name="SpecialThanks" value="Agradecimentos Especiais"/>
+	<entry name="Voices" value="Vozes"/>
+	<entry name="Writing" value="Roteiro"/>
+</language>

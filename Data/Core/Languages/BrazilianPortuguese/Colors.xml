@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Blue" value="Azul"/>
+	<entry name="DarkBlue" value="Azul Escuro"/>
+	<entry name="DarkGreen" value="Verde Escuro"/>
+	<entry name="DarkOlive" value="Oliva Escuro"/>
+	<entry name="DarkPink" value="Rosa Escuro"/>
+	<entry name="DarkPurple" value="Roxo Escuro"/>
+	<entry name="DarkRed" value="Vermelho Escuro"/>
+	<entry name="DarkTeal" value="Azul Petróleo Escuro"/>
+	<entry name="DarkYellow" value="Amarelo Escuro"/>
+	<entry name="Green" value="Verde"/>
+	<entry name="Olive" value="Oliva"/>
+	<entry name="Orange" value="Laranja"/>
+	<entry name="Pink" value="Rosa"/>
+	<entry name="Purple" value="Roxo"/>
+	<entry name="White" value="Branco"/>
+	<entry name="Yellow" value="Amarelo"/>
+</language>

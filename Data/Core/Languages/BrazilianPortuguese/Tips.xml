@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+We're only doing the absolutely necessary pop-up tips to be able to play (win introduction).
+
+Text is shortest possible. Use simple words. Short sentences. Skip flavor.
+
+Too many tips that pop-up means the player is interrupted, annoyed and stops reading all of them.
+
+We can do longer explanatory tips that are only in the Compendium. E.g. Camera tip could have "More" that links to Camera (Advanced): arrows keys, mouse wheel, zoom, middle mouse rotate. Similarly for Combat.
+-->
+<language>
+	<entry name="AcquireTile" value="Adquirir Célula"/>
+	<entry name="AcquireTileDescription" value="Antes de construir mais edifícios, você precisa conquistar novas células. Clique em “<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Adquirir Célula” e <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>selecione uma célula com 1 ou mais <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>espaços para edifícios."/>
+	<entry name="AllianceVictory" value="Vitória da Aliança"/>
+	<entry name="AllianceVictoryDescription" value="Mesmo que você esteja aliado com todos, para alcançar a vitória, todos os seus aliados devem estar também aliados entre si."/>
+	<entry name="Bleed" value="Sangramento"/>
+	<entry name="BleedDescription" value="<icon height='20' color='GUI/Red' texture='Icons/Features/Bleed'/><nbsp/>Sangramento causa dano em unidades terrestres a cada turno. Não fique dentro por muito tempo."/>
+	<entry name="Camera" value="Câmera"/>
+	<entry name="CameraDescription" value="Bem-vindo à Terra pós-apocalíptica. Para mover a câmera, <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>pressione sobre o terreno e mova o mouse."/>
+	<entry name="CloseQuartersFire" value="Fogo à Queima-Roupa"/>
+	<entry name="CloseQuartersFireDescription" value="Milicianos têm uma arma com <icon height='20' texture='Icons/Traits/CloseQuartersFire'/><nbsp/>Fogo à Queima-Roupa e atacam com o dobro de velocidade à distância 1. Considere sua posição antes de atacar."/>
+	<entry name="ConstructInfantryBuilding" value="Construir Barracks"/>
+	<entry name="ConstructInfantryBuildingDescription" value="Construa edifícios de produção de unidades para reforçar sua presença. Clique em “<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Barracks” e <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>selecione uma célula válida para iniciar a construção."/>
+	<entry name="Cover" value="Abrigo"/>
+	<entry name="CoverDescription" value="<icon height='20' texture='Icons/Features/Forest'/><nbsp/>Florestas, <icon height='20' texture='Icons/Features/Ruins'/><nbsp/>ruínas, <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>postos avançados e <icon height='20' texture='Icons/Features/City'/><nbsp/>cidades fornecem redução de dano à distância para unidades não grandes. Procure abrigo quando possível."/>
+	<entry name="EquipItem" value="Equipar Item"/>
+	<entry name="EquipItemDescription" value="<icon height='20' texture='Icons/RightMouseButton'/><nbsp/>clique em um item para equipá-lo em seu herói. Itens recém-equipados têm um tempo de espera de 1 turno antes de poderem ser usados."/>
+	<entry name="FoundCity" value="Fundar Cidade"/>
+	<entry name="FoundCityDescription" value="Para fundar sua primeira cidade, clique em “<icon height='20' texture='Icons/Actions/FoundCity'/><nbsp/>Fundar Cidade” e <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>selecione uma célula."/>
+	<entry name="HabitationBlocks" value="Blocos Habitacionais"/>
+	<entry name="HabitationBlocksDescription" value="Cada edifício, exceto o quartel-general, exige 1 <icon height='20' texture='Icons/Attributes/Population'/><nbsp/>população para funcionar. É crucial pesquisar e construir <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>Blocos Habitacionais para aumentar o <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>limite de população da cidade."/>
+	<entry name="Healing" value="Cura"/>
+	<entry name="HealingDescription" value="A unidade sofreu danos significativos. Para curar, ela precisa ficar parada e não participar do combate. Clique em “<icon height='20' texture='Icons/Actions/HoldPositionUntilHealed'/><nbsp/>Segurar Posição Até Curar” para esperar até que esteja de volta em sua força total. Considere se retirar para um posto avançado ou célula de cidade onde a cura é acelerada."/>
+	<entry name="Housing" value="Moradia"/>
+	<entry name="HousingDescription" value="A <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>moradia da cidade está cheia. Construa <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>Blocos Habitacionais para aumentar a quantidade de espaço habitacional e permitir que sua população cresça novamente."/>
+	<entry name="Loyalty" value="Lealdade"/>
+	<entry name="LoyaltyDescription" value="Lealdade negativa está diminuindo a produção de recursos da cidade. Pesquise e construa um <icon height='20' texture='Icons/Buildings/Loyalty'/><nbsp/>Teatro Holo para manter sua população trabalhando de forma eficaz."/>
+	<entry name="MarkTiles" value="Marcar Células"/>
+	<entry name="MarkTilesDescription" value="<string name='Tips/Loading/54'/>"/>
+	<entry name="Morale" value="Moral"/>
+	<entry name="MoraleDescription" value="A unidade sofreu uma perda de <icon height='20' texture='Icons/Attributes/Morale'/><nbsp/>moral devido à perda de aliados próximos. Isso reduzirá seu desempenho em combate. Para se recuperar, mantenha a unidade fora do combate ou elimine unidades inimigas."/>
+	<entry name="Movement" value="Movimento"/>
+	<entry name="MovementDescription" value="Movimente a unidade pressionando <icon height='20' texture='Icons/RightMouseButton'/>. Cada unidade pode se mover uma vez por turno."/>
+	<entry name="NPCs" value="NPCs"/>
+	<entry name="NPCsDescription" value="Três líderes não-jogadores também estão lutando pela supremacia: <icon height='20' texture='Icons/Factions/Anchorite'/><nbsp/>Anchorite, <icon height='20' texture='Icons/Factions/Chieftess'/><nbsp/>Chieftess e <icon height='20' texture='Icons/Factions/Zephon'/><nbsp/>ZEPHON. A paz com eles permite que você peça seu apoio. Um bom relacionamento pode desbloquear escolhas adicionais nas missões."/>
+	<entry name="Population" value="População"/>
+	<entry name="PopulationDescription" value="A cidade não tem população suficiente <icon height='20' texture='Icons/Attributes/Population'/><nbsp/>para operar todos os edifícios com eficiência total. Você pode clicar em <icon height='20' texture='Icons/DisableBuilding'/> para desativar um edifício."/>
+	<entry name="ProduceUnits" value="Produzir Unidades"/>
+	<entry name="ProduceUnitsDescription" value="Inicie a produção de <icon height='20' texture='Icons/Units/Militant'/><nbsp/>Milicianos no Quartel. Outros edifícios podem continuar produzindo ao mesmo tempo. Se você construir mais Quartéis, as unidades terminarão o treinamento mais rápido."/>
+	<entry name="Recon" value="Reconhecimento"/>
+	<entry name="ReconDescription" value="Muitas unidades possuem habilidades ativáveis. Batedores podem revelar seus arredores com a habilidade de <icon height='20' texture='Icons/Actions/Recon'/><nbsp/>Reconhecimento."/>
+	<entry name="Research" value="Pesquisa"/>
+	<entry name="ResearchDescription" value="Pesquisar um herói é um bom ponto de partida. Você poderá produzi-los no quartel-general."/>
+	<entry name="TheConcordat" value="O Concordato"/>
+	<entry name="TheConcordatDescription" value="Você pode comprar e vender recursos e itens de herói a qualquer momento no <icon height='20' texture='Icons/Shop'/><nbsp/>Concordato."/>
+	<entry name="Transports" value="Transportes"/>
+	<entry name="TransportsDescription" value="Transportes podem carregar unidades não grandes como carga. Para embarcar, <icon height='20' texture='Icons/RightMouseButton'/><nbsp/>mova-se para a célula do transporte. As unidades embarcadas se curam dentro, mas se o transporte for destruído, a carga morre junto."/>
+	<entry name="Selection" value="Seleção"/>
+	<entry name="SelectionDescription" value="<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>clique em uma unidade para selecioná-la."/>
+	<entry name="Winning" value="Vitória"/>
+	<entry name="WinningDescription" value="Para vencer, derrote todos os jogadores ou una todos sob uma aliança."/>
+	<!-- Meat Harvest/player ability usage. -->
+	<!-- Dremeater in sight. Maybe fancier trigger condition, -->
+	<!-- <entry name="Dreameaters" value="Dreameaters"/>
+	<entry name="DreameatersDescription" value="It would be wise to gather a sizable force before engaging this horror."/> -->
+
+	<entry name="Loading" value="Dicas da Tela de Carregamento"/>
+	<entry name="Loading/0" value="Sangramento e fogo impedem unidades terrestres e as danificam."/>
+	<entry name="Loading/1" value="Terrenos como rios, florestas e ruínas reduzem o movimento de unidades terrestres."/>
+	<entry name="Loading/2" value="<string name='Tips/CoverDescription'/>"/>
+	<entry name="Loading/3" value="Estradas aumentam o movimento das unidades terrestres."/>
+	<entry name="Loading/4" value="<string name='Attributes/HitpointsDescription/Healing'/>"/>
+	<entry name="Loading/5" value="Unidades se curam mais rápido em postos avançados e cidades."/>
+	<entry name="Loading/6" value="<string name='Attributes/DamageDescription/Reductions'/>"/>
+	<entry name="Loading/7" value="<string name='Attributes/AccuracyDescription'/>"/>
+	<entry name="Loading/8" value="<string name='Attributes/ArmorDescription/Reduction'/>"/>
+	<entry name="Loading/9" value="<string name='Attributes/GroupSizeDescription/Change'/>"/>
+	<entry name="Loading/10" value="<string name='Attributes/LevelDescription/Death'/>"/>
+	<entry name="Loading/11" value="<string name='Attributes/LevelDescription/DeathNoAttacker'/>"/>
+	<entry name="Loading/12" value="<string name='Attributes/LevelDescription/Effect'/>"/>
+	<entry name="Loading/13" value="<string name='Attributes/MoraleDescription/Regeneration'/>"/>
+	<entry name="Loading/14" value="<string name='Attributes/MoraleDescription/Shaken'/>"/>
+	<entry name="Loading/15" value="<string name='Attributes/MoraleDescription/Broken'/>"/>
+	<entry name="Loading/16" value="<string name='Attributes/MoraleDescription/Death'/>"/>
+	<entry name="Loading/17" value="As defesas da cidade são afetadas por buffs, debuffs e moral."/>
+	<entry name="Loading/18" value="Matar Abkhans irá recompensá-lo com recursos e um item."/>
+	<entry name="Loading/19" value="Unidades neutras não perseguem até serem atacadas."/>
+	<entry name="Loading/20" value="Produzir um segundo herói custa o dobro."/>
+	<entry name="Loading/21" value="A altura do terreno e os recursos das células afetam a visão e o alcance das unidades."/>
+	<entry name="Loading/22" value="Reduzir a moral do inimigo tem um efeito devastador e pode permitir que você vença batalhas que pensava ser impossíveis."/>
+	<entry name="Loading/23" value="<string name='Tips/TheConcordatDescription'/>"/>
+	<entry name="Loading/24" value="Esgotar um recurso reduz a produção dos edifícios que dependem dele."/>
+	<entry name="Loading/25" value="Esgotar recursos faz com que as unidades fiquem mal supridas e sofram penalidades de precisão."/>
+	<entry name="Loading/26" value="Quanto mais tempo uma unidade ficar mal suprida, maior será sua penalidade de precisão."/>
+	<entry name="Loading/27" value="Adquirir uma célula de posto avançado com uma cidade concede bônus percentuais para toda a cidade."/>
+	<entry name="Loading/28" value="Construir múltiplos edifícios do mesmo tipo aumenta a velocidade de produção deles."/>
+	<entry name="Loading/29" value="A produção e pesquisa restantes são transferidas para o próximo item."/>
+	<entry name="Loading/30" value="<string name='Tips/HabitationBlocksDescription'/>"/>
+	<entry name="Loading/31" value="A população pode crescer apenas até o limite de habitação disponível."/>
+	<entry name="Loading/32" value="<string name='Attributes/GrowthDescription/Increase'/>"/>
+	<entry name="Loading/33" value="<string name='Attributes/GrowthDescription/Decrease'/>"/>
+	<entry name="Loading/34" value="Ter uma escassez de população faz com que todos fiquem igualmente distribuídos por todos os edifícios, reduzindo fracamente sua produção."/>
+	<entry name="Loading/35" value="<string name='Attributes/LoyaltyDescription/Effect'/>"/>
+	<entry name="Loading/36" value="<string name='Attributes/LoyaltyDescription/CityPenalty'/>"/>
+	<entry name="Loading/37" value="Influência: <string name='Attributes/InfluenceDescription'/>"/>
+	<entry name="Loading/38" value="Pressione [<control name='ToggleYieldOverlay'/>] para mostrar as informações das células em todas as células."/>
+	<entry name="Loading/39" value="[<control name='ToggleBuildingPower'/>] ícones de edifícios nas células para alternar a energia dos edifícios conforme desejado, liberando população e recursos de entrada para construção."/>
+	<entry name="Loading/40" value="[<control name='DismantleBuilding'/>] ícones de edifícios nas células para demolir edifícios."/>
+	<entry name="Loading/41" value="Cidades danificadas têm penalidades de destruição na produção de recursos até serem reparadas."/>
+	<entry name="Loading/42" value="Os recursos são acumulados e compartilhados por toda a sua economia, permitindo que você especialize cidades e estocar para tempos de guerra."/>
+	<entry name="Loading/43" value="<string name='Tips/WinningDescription'/>"/>
+	<entry name="Loading/44" value="Fortificações, aeronaves e titãs estão mais altos no ar e são mais fáceis de ter uma linha de fogo para."/>
+	<entry name="Loading/45" value="Pesquisando uma tecnologia que não seja da sua afinidade pode fornecer sinergias únicas."/>
+	<entry name="Loading/46" value="Cada célula possui um bônus de recurso que aumenta a produção dos edifícios nessa célula."/>
+	<entry name="Loading/47" value="Unidades que têm ações restantes possuem o ícone <icon texture='Icons/Attributes/Actions'/><nbsp/> visível sobre elas."/>
+	<entry name="Loading/48" value="Unidades neutras com coleira podem atacá-lo no turno delas se você estiver dentro do alcance de ataque delas."/>
+	<entry name="Loading/49" value="Até mesmo unidades neutras com coleira fazem vigilância em qualquer um que entre no seu alcance de ataque."/>
+	<entry name="Loading/50" value="Considere desativar a vigilância para não liberar unidades neutras com seus ataques."/>
+	<entry name="Loading/51" value="O dano causado por um único ataque de arma é limitado pelos pontos de vida do membro do esquadrão alvo e depois reduzido pela precisão da arma."/>
+	<entry name="Loading/52" value="Os ataques em área atingem até 2 membros adicionais do esquadrão, causando 3 vezes o dano do que contra um único membro."/>
+	<entry name="Loading/53" value="Unidades grandes têm -33% de precisão quando estão abaixo da metade dos pontos de vida."/>
+	<entry name="Loading/54" value="[<control name='MarkTile'/>] para marcar células para você e seus aliados. Aliados controlados pela IA tendem a mover suas unidades em direção às suas marcações."/>
+	<entry name="Loading/55" value="<string name='Tips/AllianceVictoryDescription'/>"/>
+	<entry name="Loading/56" value="Efeitos de “Cada turno”, como “Em chamas”, são ativados no início do turno do jogador fonte." />
+	<entry name="Loading/57" value="As unidades podem ver até 3 células de distância."/>
+	<entry name="Loading/58" value="Postos avançados e cidades concedem visão para células adjacentes."/>
+	<entry name="Loading/59" value="A última coordenada da célula é a altura da célula (x, y, altura)." />
+	<entry name="Loading/60" value="Mova itens para heróis aliados adjacentes, arrastando-os do inventário."/>
+	<entry name="Loading/Count" value="61"/>
+</language>

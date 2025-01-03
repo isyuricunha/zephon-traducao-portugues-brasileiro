@@ -172,7 +172,7 @@
 	<entry name="KickPlayerHint" value="<style name='Small'/>[<string name='Controls/MouseRight'/>] para expulsar o jogador."/>
 	<entry name="LevelHint" value="<icon texture='GUI/Bullet'/>%1%/%2% nível<br/><icon texture='GUI/Bullet'/>%3%/%4% experiência<br/><icon texture='GUI/Bullet'/>%5% valor da experiência por morte"/>
 	<entry name="Levelable" value="<style color='GUI/LevelableAction'/>Nívelável<style color='Default'/>"/>
-	<entry name="LevelableElite" value="<style color='GUI/LevelableAction'/>Nívelável—Elite<style color='Default'/>"/>
+	<entry name="LevelableElite" value="<style color='GUI/LevelableAction'/>Nívelável — Elite<style color='Default'/>"/>
 	<entry name="LimitReached" value="Limite atingido."/>
 	<entry name="Load" value="Carregar"/>
 	<entry name="LoadGame" value="Carregar Jogo"/>
@@ -318,7 +318,7 @@
 	<entry name="SelectLeaderHint" value="Selecione o líder."/>
 	<entry name="SelectNextCityHint" value="Selecione a próxima cidade."/>
 	<entry name="SelectPreviousCityHint" value="Selecione a cidade anterior."/>
-	<entry name="SelectResearch" value="Selecione pesquisa"/>
+	<entry name="SelectResearch" value="Selecionar pesquisa"/>
 	<entry name="SelectResearchHint" value="<string name='GUI/SelectResearch'/>."/>
 	<entry name="SelectTeamHint" value="Selecione a equipe."/>
 	<entry name="SelectUnitHint" value="Selecione a unidade."/>
@@ -418,9 +418,9 @@
 	<entry name="BuildingsFlavor" value="Todas as estruturas têm um propósito. Você vai lançar as bases para um império forte, levantar um exército capaz de conquistar o mundo ou buscar consolo nos braços suaves da ciência? Construa sabiamente, ou você cairá rapidamente."/>
 	<entry name="FactionsFlavor" value="Todo bom jogador sabe o quão importante é estudar os outros jogadores. Seus gestos te dirão se estão blefando, com uma mão vencedora, ou escondendo uma carta na manga. Mas cuidado. Se você só observar as ameaças ao redor da mesa, pode acabar ignorando a faca que te atingirá pelas costas."/>
 	<entry name="FeaturesFlavor" value="A própria Terra é uma jogadora no seu jogo. Máquinas e monstros destruíram a paisagem, mas o vento ainda sopra pelas árvores, e a neve ainda te congelará até os ossos. Você fará dela sua aliada, ou caminhará por cima dela?"/>
-	<entry name="ItemsFlavor" value="A selva tem muitos tesouros esperando por você. Perseguir uma joia pode virar a maré da guerra—ou pode te levar diretamente à sua morte. Saiba quando buscar riquezas, e quando se afastar."/>
-	<entry name="TipsFlavor" value="Não é fraqueza admitir a falta de conhecimento—todos grandes líderes sabem quando buscar conselhos. Estes tomos têm muito a te ensinar. Se você tiver uma gota de sabedoria, prestará atenção a cada palavra."/>
+	<entry name="ItemsFlavor" value="A selva tem muitos tesouros esperando por você. Perseguir uma joia pode virar a maré da guerra — ou pode te levar diretamente à sua morte. Saiba quando buscar riquezas, e quando se afastar."/>
+	<entry name="TipsFlavor" value="Não é fraqueza admitir a falta de conhecimento — todos grandes líderes sabem quando buscar conselhos. Estes tomos têm muito a te ensinar. Se você tiver uma gota de sabedoria, prestará atenção a cada palavra."/>
 	<entry name="TraitsFlavor" value="Você precisará conhecer as muitas qualidades que distinguem o mundo pelo qual está lutando. Se você não consegue distinguir entre voar e flutuar, como espera ganhar a guerra?"/>
-	<entry name="UnitsFlavor" value="Da rua ao céu, seus soldados estão prontos. Nenhum deles entende quão grandes são as apostas dessa batalha. Cabe a você liderá-los à vitória—e fazer com que o sacrifício inevitável deles valha a pena."/>
-	<entry name="WeaponsFlavor" value="Lâminas, balas e bombas são apenas o começo. Você vai abrir as mandíbulas do universo e segurar o poder da natureza na palma da sua mão. Mas nunca se esqueça—seus inimigos também farão isso."/>
+	<entry name="UnitsFlavor" value="Da rua ao céu, seus soldados estão prontos. Nenhum deles entende quão grandes são as apostas dessa batalha. Cabe a você liderá-los à vitória — e fazer com que o sacrifício inevitável deles valha a pena."/>
+	<entry name="WeaponsFlavor" value="Lâminas, balas e bombas são apenas o começo. Você vai abrir as mandíbulas do universo e segurar o poder da natureza na palma da sua mão. Mas nunca se esqueça — seus inimigos também farão isso."/>
 </language>

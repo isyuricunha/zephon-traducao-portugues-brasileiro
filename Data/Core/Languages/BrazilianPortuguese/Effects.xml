@@ -27,7 +27,7 @@
 
 	<!-- %1% nome, %2% condicional de Modifiers.xml -->
 	<!-- <entry name="UnlockItem" value="%1% agora está disponível no The Concordat para esta e futuras jogadas"/> -->
-	<entry name="UnlockMutator" value="<icon texture='GUI/Bullet'/>Desbloqueia o mutador %1%%2%—agora pode ser ativado para futuras jogadas"/>
+	<entry name="UnlockMutator" value="<icon texture='GUI/Bullet'/>Desbloqueia o mutador %1%%2% — agora pode ser ativado para futuras jogadas"/>
 
 	<!-- %1% condicional de Modifiers.xml, %2% nome do jogador -->
 	<entry name="ChangePlayerToOwner" value="<icon texture='GUI/Bullet'/>Restaura o controle%1%"/>

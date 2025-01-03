@@ -34,6 +34,8 @@ Se cuidem,
 ### Passo 1: Baixe o Arquivo de Tradução
 Você pode obter a tradução em formato **ZIP** ou **7ZIP**. O arquivo contém todos os dados necessários para a tradução do jogo.  
 - Baixe o arquivo com o nome "**Data**".
+- Baixar aqui no GitHub: https://github.com/isyuricunha/zephon-traducao-portugues-brasileiro/releases
+- Baixar no NexusMod: https://www.nexusmods.com/zephon/mods/2?tab=files
 
 ### Passo 2: Extraia os Arquivos na Pasta Raiz do Jogo
 1. Abra a pasta onde o jogo **Zephon** está instalado. Isso pode variar dependendo de onde você o baixou ou instalou.

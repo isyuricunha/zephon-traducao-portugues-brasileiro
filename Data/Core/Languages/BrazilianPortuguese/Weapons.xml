@@ -231,4 +231,39 @@
 	<entry name="TachyonRayFlavor" value="Os humanos nunca foram feitos para controlar tanto poder, mas a história da humanidade já era uma longa sucessão de decisões ruins. Por que não pegar as forças mais poderosas do universo e colocá-las dentro de uma arma? Não tínhamos mais nada a perder e tudo a ganhar."/>
 	<entry name="ValkyrieAutocannonFlavor" value="Os trajes Valkyria fundiam os nervos dos pilotos com as armas, e eles podiam disparar o Canhão Automático com o simples movimento de um dedo. Se você olhasse para o cockpit, veria o quão imóveis eles mantinham as mãos, esperando pelo momento de liberar o inferno."/>
 	<entry name="WrathOfTheLeviathanFlavor" value="Tanta morte em apenas um instante. Eu estava agachado na jaula de um Leviatã, impotente enquanto três esquadrões de Pretorianos avançavam sobre nós, espadas erguidas. A fera não vacilou. Ela se ergueu e abriu seus membros, batendo-os e sua cabeça no chão. Todos os malditos dedos envolveram com força as tropas presas, esmagando crânios como frutas gordas e suculentas."/>
+
+	<entry name="ArmorPiercingRounds" value="Projéteis Perfurantes"/>
+	<entry name="GolgothanDeluge" value="Dilúvio Golgothan"/>
+	<entry name="IndiscriminateConsumption" value="Consumo Indiscriminado"/>
+	<entry name="MangledChelae" value="Quelíceras Retalhadas"/>
+	<entry name="Minigun" value="Minigun"/>
+	<entry name="PlasmaCannon" value="Canhão de Plasma"/>
+	<entry name="Retort" value="Retorta"/>
+	<entry name="Reyndverra" value="<string name='Items/Reyndverra'/>"/>
+	<entry name="ReyndverraFlavor" value="<string name='Quests/Reyndverra/TakeBlade2'/>"/>
+	<entry name="SniperRifle" value="Rifle de Precisão"/>
+	<entry name="SomethingWicked" value="Algo Maligno"/>
+	<entry name="SomethingWickedFlavor" value="<string name='Quests/CircusCambion/ErelimPuppets2'/>"/>
+	<entry name="SuicideDrones" value="<string name='Items/SuicideDrones'/>"/>
+	<entry name="SuicideDronesFlavor" value="<string name='Items/SuicideDronesFlavor'/>"/>
+
+	<entry name="ArmorPiercingRoundsFlavor" value="Perguntei à equipe de atiradores por que tinham uma caixa de munição AP com “ferro frio” rabiscado nela. “Impede os fantasmas de saírem”, disse o Observador. “Sair? Sair de quê?” Ela revirou os olhos. “Dos corpos. Obviamente.”"/>
+
+	<entry name="GolgothanDelugeFlavor" value="Como se mata uma besta de carne que devora tudo? Primeiro, mantendo distância. Mas esses desgraçados evoluíram rápido. Começaram a nos pulverizar com ácido de longe. Se queria viver, tinha que lutar contra a dor, arrancar qualquer armadura que estivesse corroendo e então correr feito um condenado — porque ela certamente vinha investindo, pronta pra devorar seu traseiro."/>
+
+	<entry name="IndiscriminateConsumptionFlavor" value="Primeiro pegou o Rodney. Depois a Gina. Depois o Acrin que se juntou a nós, Kor'thok. Disparamos balas, tentamos ignorar o sangue, mas cada um que consumia só restaurava a carne em decomposição. Só havia uma saída: puxar o pino de uma granada e mergulhar naquela boca miserável…."/>
+
+	<entry name="MangledChelaeFlavor" value="Ah. É por isso que esses insetos queriam carne humana. Usando corpos humanos como… fábricas de ossos. Afiando caixas torácicas e cartilagens em projéteis. Gritei quando um fêmur fraturado acertou a cabeça do meu motorista um dia. O Outrider começou a girar fora de controle e eu simplesmente… desabei. Ela não merecia morrer assim."/>
+
+	<entry name="MinigunFlavor" value="O cano longo de uma minigun anima qualquer sargento quente por ação, mas todo entusiasmo some quando você tem que enchar o óleo e limpar cada maldito cano. Miniguns são armas para pacientes, para os que cuidam — os que vão se dar ao trabalho de despejar dez mil cartuchos a dois mil tiros por minuto."/>
+
+	<entry name="PlasmaCannonFlavor" value="Um canhão de plasma em tamanho real significa uma explosão maior quando você não lida direito com ele. Mecânicos humanos sofreram pra aprender isso. As queimaduras se acumularam e a quantidade de material desperdiçado foi… inconcebível. Só máquinas podiam montá-los. Mantê-los. Queimar vivos seus inimigos com eles."/>
+
+	<entry name="RetortFlavor" value="Talvez eu não devesse ter sentido uma alegria sombria vendo os Reavers ferrar um tiro de balista do fundo de um Wastelander. Eles não levaram o alvo em conta e só espetaram seus próprios capangas. Me fez desejar estar lutando contra um Abkluth — pelo menos aquilo tinha duas células cerebrais para juntar."/>
+
+	<entry name="ShredderFlavor" value="Quase chamamos os engenheiros de motim depois que os peguei mexendo nos Shredders. Parecia sabotagem… mas… descobriram que, ao brincar com a velocidade das lâminas, elas soavam como um coro mecânico. Falavam em fazer um show para os civis. Como se ver um pelotão de drones gritando distraísse alguém da morte e destruição…" />
+
+	<entry name="SniperRifleFlavor" value="“No fim, é só respirar,” disse um atirador veterano numa caçada a Abkhan. “Mirar é fácil. Mas para encaixar um disparo limpo você tem que expirar do jeito certo ao puxar o gatilho. Foda quando o cheiro do Bleed ou o ar quente vulcânico enchem seus pulmões…”"/>
+
+
 </language>

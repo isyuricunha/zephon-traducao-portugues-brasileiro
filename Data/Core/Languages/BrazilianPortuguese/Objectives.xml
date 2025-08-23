@@ -85,4 +85,17 @@
 	<entry name="WaitForGlandHarvest" value="Aguardar %2% turnos enquanto as glândulas do seu povo estão sendo colhidas"/>
 	<entry name="WaitForHwedoToFeed" value="Aguardar Hwedo se alimentar de sua população por %2% turnos"/>
 	<entry name="WaitForYetunde" value="Aguardar %2% turnos para Yetunde terminar sua investigação"/>
+
+	<entry name="ExecuteOrderWithEngineers" value="Execute a ordem %1% com <string name='Units/Engineer'/>"/>
+	<entry name="FightChieftessForReyndverra" value="Enfrente a Chefe Tribal pelo direito sobre Reyndverra"/>
+	<entry name="KillAnchoriteCamp" value="Destrua o acampamento de <string name='Factions/Anchorite'/>"/>
+	<entry name="KillBrynnAndForces" value="Mate Brynn e suas forças"/>
+	<entry name="KillDreadPearlman" value="Destrua a fortaleza Dread Pearlman em até %2% turnos"/>
+	<entry name="KillServerDefenders" value="Elimine os defensores da Fazenda de Servidores"/>
+	<entry name="KillYourHusband" value="Mate seu marido"/>
+	<entry name="RecoverHusband" value="Recupere seu marido"/>
+	<entry name="ResistVirus" value="Resista ao vírus por %2% turnos"/>
+	<entry name="SurviveCircusPerformers" value="Sobreviva aos artistas do Circo Cambion"/>
+	<entry name="VisitTileWithHollowWarlord" value="Visite o tile com <string name='Factions/HollowWarlord'/>"/>
+
 </language>

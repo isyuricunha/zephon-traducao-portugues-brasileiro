@@ -105,4 +105,13 @@
     <entry name="WatchtowerFlavor" value="Os técnicos ainda estão tentando descobrir quem construiu essas torres. A arquitetura é humana, mas não encontramos nenhum sobrevivente que tenha assumido a responsabilidade de construí-las. ZEPHON não precisa delas para enxergar, e os sobreviventes Acrin nunca gostaram de ficar em um só lugar. Era estranho. Usamos essas torres para ganhar terreno elevado e observar nossos inimigos... mas elas sempre deixavam a sensação de que alguém mais estava nos observando."/>
     <entry name="WaterFlavor" value="A água ainda percorria as artérias do planeta e ainda era o veículo principal para gerar vida. Até as criaturas cibernéticas do nosso novo mundo precisavam de instalações com resfriamento a água. Uma tragédia sombria, então, o fato de que, embora todas as facções em guerra respeitassem as vias fluviais, nosso conflito crescente as envenenaria para as gerações futuras."/>
     <entry name="WhisperingWightsFlavor" value="Cada um tinha uma história diferente sobre o que causava os sussurros de pesadelo nas terras desertas. Alguns diziam que eram os lamentos dos humanos mortos pelo Fulcrum. Outros diziam que eram advertências sobre o futuro de outra dimensão. Engraçado. Até monstros com mais olhos do que membros se encolhiam de terror quando as vozes suaves apareciam no ar..." />
+
+    <entry name="ErebusExcavator" value="Escavadora Erebus"/>
+    <entry name="ErebusExcavatorProperties" value="<icon texture='GUI/Bullet'/>5% de chance de conceder um item aleatório"/>
+    <entry name="ServerFarm" value="Fazenda de Servidores"/>
+    <entry name="ServerFarmFlavor" value="<string name='Quests/MessageToTheStars/Intro2'/>"/>
+    <entry name="TempleOfCrla" value="Templo de Cr'la"/>
+    <entry name="ErebusExcavatorFlavor" value="O Senhor da Guerra e a Chefe eram os únicos que podiam me dizer como as escavadoras pré-guerra foram parar sobre os depósitos de chips. Ele dizia que elas atravessavam a terra como feras poderosas. Ela disse que viu as máquinas de ZEPHON as posicionando. Acho que ele estava bêbado."/>
+    <entry name="TempleOfCrlaFlavor" value="Cultistas que seguem o caminho de Cr'la podiam sentir esses lugares a quilômetros de distância. Diziam que seu “deus” os abençoava com presentes aqui, fornecia alimento, algas e cura para seu rebanho cansado. Eu não fiquei convencido. Nenhum outro cultista da Voz falava de tanta bondade. Cr'la não seria aquele que exigiria qualquer coisa além da dor."/>
+
 </language>

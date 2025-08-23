@@ -236,4 +236,13 @@
 	<entry name="Video/VerticalSynchronization1" value="Regular"/>
 	<entry name="Video/VerticalSynchronizationHint" value="Sincroniza sua taxa de quadros com a taxa de atualização do seu monitor."/>
 	<entry name="World" value="Mundo"/>
+
+	<entry name="Achievements/CanAJourneyBeAnEndInItself" value="Uma jornada pode ser um fim em si mesma?"/>
+	<entry name="Achievements/CanAnythingRedeemThisHorror" value="Algo pode redimir este horror?"/>
+	<entry name="Achievements/MustWeSufferSo" value="Devemos sofrer assim?"/>
+	<entry name="General/EdgeScroll" value="Rolagem de Borda"/>
+	<entry name="General/EdgeScrollHint" value="Desloque a câmera quando o mouse estiver na borda da tela em modo de tela cheia."/>
+	<entry name="General/FriendNames" value="Nomes de Amigos"/>
+	<entry name="General/FriendNamesHint" value="Permite o uso dos nomes de seus amigos nas mensagens do ZEPHON dentro do jogo."/>
+
 </language>

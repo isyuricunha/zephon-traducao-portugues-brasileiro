@@ -97,16 +97,12 @@
 	<entry name="Difficulty2Hint" value="<style name='Bold'/>%1%:<style name='Default'/> sem vantagem ou desvantagem."/>
 	<entry name="Difficulty2RecommendationHint" value="<style name='Italic'/>Recomendado para fãs de jogos de estratégia por turnos."/>
 	<entry name="Difficulty3" value="Difícil"/>
-	<entry name="Difficulty3Hint" value="<style name='Bold'/>%1%:<style name='Default'/> pequena vantagem de lealdade das cidades e nível das unidades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> nível"/>
 	<entry name="Difficulty3RecommendationHint" value="<style name='Italic'/>Recomendado para veteranos dos jogos da Proxy Studios."/>
 	<entry name="Difficulty4" value="Muito Difícil"/>
-	<entry name="Difficulty4Hint" value="<style name='Bold'/>%1%:<style name='Default'/> vantagem moderada de lealdade das cidades e nível das unidades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> nível"/>
 	<entry name="Difficulty4RecommendationHint" value="<style name='Italic'/>Recomendado após vencer o nível Difícil."/>
 	<entry name="Difficulty5" value="Ultra Difícil"/>
-	<entry name="Difficulty5Hint" value="<style name='Bold'/>%1%:<style name='Default'/> grande vantagem de lealdade das cidades e nível das unidades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> nível"/>
 	<entry name="Difficulty5RecommendationHint" value="<style name='Italic'/>Recomendado após vencer o nível Muito Difícil."/>
 	<entry name="Difficulty6" value="Pesadelo"/>
-	<entry name="Difficulty6Hint" value="<style name='Bold'/>%1%:<style name='Default'/> extrema vantagem de lealdade das cidades e nível das unidades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> nível"/>
 	<entry name="Difficulty6RecommendationHint" value="<style name='Italic'/>Não recomendado."/>
 	<entry name="DustStormDensity" value="Densidade de Tempestade de Areia"/>
 	<entry name="DustStormDensity0" value="Nenhuma"/>
@@ -192,7 +188,6 @@
 	<entry name="Mutators/WhatAreYou" value="<string name='Settings/Achievements/WhatAreYou'/>"/>
 	<entry name="Mutators/WhatAreYouHint" value="Só pode pesquisar tecnologias com sua afinidade ou sem afinidade."/>
 	<entry name="Mutators/WhatPriceForLiberty" value="<string name='Settings/Achievements/WhatPriceForLiberty'/>"/>
-	<entry name="Mutators/WhatPriceForLibertyHint" value="Líderes não têm afinidades de pesquisa."/>
 	<entry name="Mutators/WhereAreWe" value="<string name='Settings/Achievements/WhereAreWe'/>"/>
 	<entry name="Mutators/WhereAreWeHint" value="Todos os tiles são explorados desde o início."/>
 	<entry name="Mutators/WhyDidHumanityDieAlone" value="<string name='Settings/Achievements/WhyDidHumanityDieAlone'/>"/>
@@ -363,4 +358,29 @@
 	<entry name="ZephonCityDensity3" value="Média"/>
 	<entry name="ZephonCityDensity4" value="Alta"/>
 	<entry name="ZephonCityDensity5" value="Muito Alta"/>
+
+	<entry name="DLC1" value="The Twisted & The Hollow DLC"/>
+	<!-- DLC name. Do not translate. -->
+	<entry name="Difficulty3Hint" value="<style name='Bold'/>%1%:<style name='Default'/> concede pequena vantagem em lealdade das cidades e nível de unidades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> de nível<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressividade"/>
+	<entry name="Difficulty4Hint" value="<style name='Bold'/>%1%:<style name='Default'/> concede vantagem moderada em lealdade das cidades e nível de unidades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> de nível<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressividade"/>
+	<entry name="Difficulty5Hint" value="<style name='Bold'/>%1%:<style name='Default'/> concede grande vantagem em lealdade das cidades e nível de unidades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> de nível<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressividade"/>
+	<entry name="Difficulty6Hint" value="<style name='Bold'/>%1%:<style name='Default'/> concede vantagem extrema em lealdade das cidades e nível de unidades.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> de nível<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressividade"/>
+
+	<entry name="Mutators/CanAJourneyBeAnEndInItself" value="<string name='Settings/Achievements/CanAJourneyBeAnEndInItself'/>"/>
+	<entry name="Mutators/CanAJourneyBeAnEndInItselfHint" value="Unidades recebem um ponto de ação adicional."/>
+
+	<entry name="Mutators/CanAnythingRedeemThisHorror" value="<string name='Settings/Achievements/CanAnythingRedeemThisHorror'/>"/>
+	<entry name="Mutators/CanAnythingRedeemThisHorrorHint" value="Comprar unidades de NPCs custa 50% menos."/>
+
+	<entry name="Mutators/CanFreeWillExist" value="<string name='Settings/Achievements/CanFreeWillExist'/>"/>
+	<entry name="Mutators/CanFreeWillExistHint" value="O dano das armas é randomizado em ±20%."/>
+
+	<entry name="Mutators/MustWeSufferSo" value="<string name='Settings/Achievements/MustWeSufferSo'/>"/>
+	<entry name="Mutators/MustWeSufferSoHint" value="Comece o jogo com as pesquisas Laboratório de Pesquisa, Teatro Holo, Bloco Habitacional, Pátio de Construção e Engenheiro já concluídas."/>
+
+	<entry name="Mutators/WhatPriceForLibertyHint" value="Líderes possuem todas as afinidades de pesquisa."/>
+
+	<entry name="VictoryRequiresDefeatingNPCs" value="Derrotar NPCs é necessário para vencer"/>
+	<entry name="VictoryRequiresDefeatingNPCsHint" value="Se derrotar os NPCs (Anchorite, Chieftess, ZEPHON) é requisito para vencer por eliminação."/>
+
 </language>

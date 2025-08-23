@@ -20,6 +20,8 @@
 	<entry name="Embark" value="<icon texture='GUI/Bullet'/>Embarca%1%"/>
 	<entry name="KillCargo" value="<icon texture='GUI/Bullet'/>Destrói carga%1%"/>
 	<entry name="Pull" value="<icon texture='GUI/Bullet'/>Puxa%1%"/>
+	<entry name="RemoveBuffs" value="<icon texture='GUI/Bullet'/>Remove bônus%1% (exceto bônus de ações passivas)"/>
+	<entry name="RemoveDebuffs" value="<icon texture='GUI/Bullet'/>Remove penalidades%1% (exceto quebrado, danificado, abalado e penalidades de ações passivas)"/>
 	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>Restaura pontos de ação%1%"/>
 	<entry name="ResetCooldowns" value="<icon texture='GUI/Bullet'/>Restaura recargas%1%"/>
 	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>Restaura pontos de movimento%1%"/>

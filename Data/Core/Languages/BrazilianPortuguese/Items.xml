@@ -82,4 +82,12 @@
 	<entry name="SpotterDroneFlavor" value="A névoa da guerra pode entrar na sua cabeça. Se você não sabe o que está bem na sua frente, começa a imaginar todo tipo de monstros esperando por você na escuridão. Drones podiam ajudar com isso. Às vezes, apenas ver um pouco mais longe ajudava nossos soldados a manterem a calma."/>
 	<entry name="TraumaKitFlavor" value="Nossos médicos… bem, eram amadores. Mas haviam sobrevivido e conseguiam fazer o suficiente para te consertar e te colocar de volta em campo. Os kits do Concordato, no entanto, eram… outra coisa. O melhor do velho mundo misturado com o que as IAs e os alienígenas sabiam. Eles chamavam isso de “kit de trauma”, mas o verdadeiro trauma era ver aquela *coisa* te abrir e te remontar. Se conseguisse esquecer, valia cada centavo."/>
 	<entry name="VorodaiProselyteFlavor" value="Uma pessoa nunca poderia esperar invocar um Vorodai sozinha. Mas um pedaço do seu poder? Uma garra de prata que se estendia do Bleed para cortar seu inimigo? Isso era o suficiente."/>
+
+	<entry name="StolenFlesh" value="Carne Roubada"/>
+	<entry name="SuicideDrones" value="Drones Suicidas"/>
+	<entry name="ICARFluidDeflectorFlavor" value="“Então é um escudo de água?” perguntei ao agente do Concórdio. “PELA TERCEIRA VEZ, é um desviador de fluidos,” disse o agente. “É tecnologia de ponta pré-guerra. Tecnologia hidroestática experimental.” “Então é um escudo de água,” disse sorrindo. Ele me deu um desconto só pra eu levar a coisa e sumir."/>
+	<entry name="StolenFleshFlavor" value="Pedaços da carne do Soldado Caído às vezes chegavam ao mercado negro, raspados dos corpos de seu povo. A maior parte se deteriorava; era caro preservar e nutrir sem sua influência. O Concórdio decifrou o código, claro. Sempre disposto a compartilhar seus tesouros… pelo preço certo."/>
+	<entry name="SuicideDronesFlavor" value="Essas coisas não eram drones “suicidas”. “Suicídio” é algo que só os vivos podem fazer. Humanos, Acrin, talvez cultistas do Voz, mas não máquinas. Não brinquedos que eram granadas com asas. Idiotas. Nunca conseguiam mudar o nome."/>
+
+
 </language>

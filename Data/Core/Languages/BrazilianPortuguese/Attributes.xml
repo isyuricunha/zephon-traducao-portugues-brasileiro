@@ -48,6 +48,12 @@
 	<entry name="AttacksPerAdditionalEnemyGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
 	<entry name="BuildingSlots" value="Espaços para Construção"/>
 	<entry name="BuildingSlotsIcon" value="<icon height='20' texture='Icons/Attributes/BuildingSlots'/>"/>
+	<entry name="BlockSight" value="bloqueia a visão de tiles não adjacentes"/>
+	<entry name="BlockSight+" value="Bloqueia"/>
+	<entry name="CanBeShaken" value="abalável"/>
+	<entry name="CanBeShaken+" value="Pode ser"/>
+	<entry name="CanBeShaken-" value="Não pode ser"/>
+	<entry name="CanBeShakenIcon" value="<icon height='20' texture='Icons/Traits/Shaken'/>"/>
 	<entry name="CanCaptureOutposts" value="Capturar postos avançados"/>
 	<entry name="CanCaptureOutposts+" value="Pode"/>
 	<entry name="CanCaptureOutposts-" value="Não pode"/>
@@ -55,6 +61,10 @@
 	<entry name="CanEnemyOverwatch" value="ataques de sobrecarga ao mirar nesta unidade"/>
 	<entry name="CanEnemyOverwatch-" value="Previne"/>
 	<entry name="CanEnemyOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints" value="cura passivamente sem pontos de movimento completos"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints+" value="Pode"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints-" value="Não pode"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPointsIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
 	<entry name="CanOverwatch" value="sobrecarga"/>
 	<entry name="CanOverwatch+" value="Pode"/>
 	<entry name="CanOverwatch-" value="Não pode"/>
@@ -78,6 +88,7 @@
 	<entry name="CityDamageReduction" value="Redução de Dano na Cidade"/>
 	<entry name="CityDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="CityLoyaltyUpkeep" value="Manutenção de Lealdade da Cidade"/>
+	<entry name="ConcordatBuyCost" value="Custo de Compra do Concórdat"/>
 	<entry name="ConsumedActionPoints" value="Pontos de Ação Consumidos"/>
 	<entry name="ConsumedActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
 	<entry name="ConsumedMovement" value="Movimento Consumido"/>
@@ -92,6 +103,8 @@
 	<entry name="DamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="DamageTaken" value="Dano Recebido"/>
 	<entry name="DamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DeathExperience" value="Experiência de Morte"/>
+	<entry name="DeathExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
 	<entry name="DeathMorale" value="Moral da Morte"/>
 	<entry name="DeathMoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
 	<entry name="DimensionalEchoes" value="Ecos Dimensionais"/>

@@ -138,11 +138,10 @@
 	<entry name="CrystalBasinUnit" value="<string name='Features/CrystalBasin'/>"/>
 	<entry name="CrystalBasinUnitFlavor" value="<string name='Features/CrystalBasinFlavor'/>"/>
 	<entry name="CultExpansion" value="Expansão do Culto"/>
-	<entry name="CultExpansionProperties" value="Diminui a manutenção da lealdade da cidade."/>
 	<entry name="CursecharmOfCrla" value="<string name='Items/CursecharmOfCrla'/>"/>
 	<entry name="CursecharmOfCrlaFlavor" value="<string name='Items/CursecharmOfCrlaFlavor'/>"/>
 	<entry name="CyberAircraftUpgrade" value="Sinalizador Babelliano"/>
-	<entry name="CyberAircraftUpgradeFlavoRr" value="<string name='Traits/BabellianBeaconFlavor'/>"/>
+	<entry name="CyberAircraftUpgradeFlavor" value="<string name='Traits/BabellianBeaconFlavor'/>"/>
 	<entry name="CyberInfantryUpgrade" value="Produção Interpolada"/>
 	<entry name="CyberOperationsUpgrade" value="Integração de Perspectiva"/>
 	<entry name="CyberOperationsUpgradeFlavor" value="<string name='Upgrades/CyberOperationsUpgradeFlavor'/>"/>
@@ -297,8 +296,6 @@
 	<entry name="HungerOfHwedoFlavor" value="A besta pode ser saciada — se você estiver disposto a sacrificar seu próprio povo."/>
 	<entry name="HungeringCirclet" value="<string name='Items/HungeringCirclet'/>"/>
 	<entry name="HungeringCircletFlavor" value="<string name='Items/HungeringCircletFlavor'/>"/>
-	<entry name="Hovering" value="Flutuando"/>
-	<entry name="HoveringProperties" value="<icon texture='GUI/Bullet'/>Pode se mover sobre a água<br/><icon texture='GUI/Bullet'/>Não é afetado por estradas, rios e Hemorragia"/>
 	<entry name="HwedosBrain" value="Cérebro de Hwedo"/>
 	<entry name="HwedosBrainFlavor" value="<string name='Quests/PerfectionFromBeyondTheStars/KillHwedoSuccess2'/>"/>
 	<entry name="HymnOfDecay" value="<string name='Actions/HymnOfDecay'/>"/>
@@ -310,7 +307,6 @@
 	<entry name="Immobilizing" value="Imobilizando"/>
 	<entry name="ImmobilizingFlavor" value="<string name='Traits/ImmobilizedFlavor'/>"/>
 	<entry name="Immoral" value="Imoral"/>
-	<entry name="ImmoralProperties" value="<icon texture='GUI/Bullet'/>A penalidade de lealdade aumenta a cada turno"/>
 	<entry name="IncandescentIcon" value="<string name='Items/IncandescentIcon'/>"/>
 	<entry name="IncandescentIconFlavor" value="<string name='Items/IncandescentIconFlavor'/>"/>
 	<entry name="Independent" value="Independente"/>
@@ -456,7 +452,6 @@
 	<entry name="ReactiveTrigger" value="<string name='Items/ReactiveTrigger'/>"/>
 	<entry name="ReactiveTriggerFlavor" value="<string name='Items/ReactiveTriggerFlavor'/>"/>
 	<entry name="Recession" value="Recessão"/>
-	<entry name="RecessionFlavor" value="Recessão"/>
 	<entry name="RecyclingTanksUnit" value="<string name='Features/RecyclingTanks'/>"/>
 	<entry name="RecyclingTanksUnitFlavor" value="<string name='Features/RecyclingTanksFlavor'/>"/>
 	<entry name="Regeneration" value="Regeneração"/>
@@ -698,7 +693,6 @@
 	<entry name="HeartlessArtificerAffinityUpgradeFlavor" value="A Artífice sorriu para mim enquanto conectava um núcleo danificado de ZEPHON à rede da Impressora Sintética. “Vê, velho amigo,” ela disse, ignorando os violentos klaxons eletrônicos da máquina. “Integrar este núcleo vai aumentar a velocidade de produção de nossas impressoras. Mas, na verdade... eu só queria ouvir o grito de ZEPHON.”"/>
 	<entry name="HeavyFlavor" value="Armas mais pesadas precisavam de tempo para serem configuradas e calibradas para uma solução de alvo. Usá-las enquanto se move era uma aposta e tanto. Algumas tropas azaradas poderiam se viciar nessas probabilidades longas. Os mais espertos sabiam como jogar de forma mais segura para um tiro certeiro."/>
 	<entry name="HeroFlavor" value="Bons generais sabiam o perigo de deixar qualquer um se destacar da multidão. Nossos soldados precisavam ser sem rosto, para que pudessem morrer e nós sentirmos pouco. Mas alguns soldados desafiavam essa lógica. Eles se levantavam da lama para se tornar peças-chave no campo de batalha. Perder eles sempre doía mais."/>
-	<entry name="HitAndRunFlavor" value="Na antiga vida da Operativa, todo momento em que ela ficava parada era um momento em que as autoridades finalmente poderiam alcançá-la. Achei que discutiríamos mais sobre seu passado criminoso, mas fui forçado a admitir que seus velhos hábitos eram... bem ajustados para ganhar esta guerra. Talvez soldados e ladrões tenham mais em comum do que dizem."/>
 	<entry name="HolopatterFlavor" value="O truque mais antigo da guerra é se cobrir com galhos para ser mais difícil de ser visto na floresta. Os técnicos criaram capas holográficas que também funcionavam bem em ruínas densas. Não podia te esconder para sempre, mas comprava alguns segundos extras para alinhar o tiro perfeito. Não precisa se esconder se a coisa que você está atirando já estiver morta."/>
 	<entry name="HonorableAristocratAffinityUpgradeFlavor" value="“Um chefe… nutricionista?” Eu fiquei surpreso. Mas o Aristocrata disse que eu poderia aceitar ou procurar um novo chefe. A teoria dele era que um cientista dedicado à comida gerenciando nossas linhas de suprimento poderia garantir que cada soldado comesse uma refeição que maximizasse sua função no trabalho. E eu ficaria impressionado se isso não funcionasse. Eu definitivamente comi melhor lutando por ele."/>
 	<entry name="HonorboundFlavor" value="O Aristocrata podia ser uma dor no saco, mas ele era um dos poucos vigaristas nos desperdícios que estavam olhando por você. Se você assinasse um contrato comercial com ele — até um ruim — ele cantava seus louvores para os mercados, fazia você parecer um parceiro respeitável. Faça acordos assim, e você atrairá muitos amigos para perto. E seus inimigos não saberão que estão em sua rede até que seja tarde demais."/>
@@ -797,4 +791,86 @@
 	<entry name="XenogenesisFlavor" value="Os cultistas que se transformaram em Ioks passaram mais alguns dias no Hino ao Amanhecer? Após completar a conversão, sua tarefa não estava concluída. Eles tinham o poder de gerar mais Ioks apenas sentando e se alimentando de corpos. Os novos cresciam nas bolhas em suas costas, explodindo para viver em uma chuva de pus e vísceras. E então aquele gerava outro. E outro. E outro…"/>
 	<entry name="ZephonAdvancementFlavor" value="Tudo era apenas uma equação para ZEPHON. Reavers e Acrin tinham que lutar, roubar e brigar como nunca para manter sua vantagem, mas aquela máquina estava sempre planejando seu caminho até o fim. O poder das suas máquinas simplesmente subia, subia, subia… cuidadosamente calculado para acompanhar nosso ritmo. Nunca se adiantava. Apenas observava. Seguia. E observava."/>
 	<entry name="ZephonStandingFlavor" value="Era quase um pensamento secundário. Durante uma comunicação com ZEPHON, um general fez uma piada de que trocaria os direitos sobre a IA por um exército de Chips. “Isso seria aceitável,” respondeu ele. Ninguém sabia o que fazer com isso. Será que ZEPHON estava pensando no futuro, após a guerra? Ou… não. Certamente não. Não poderia haver outra IA entre nós… certo?"/>
+
+	<entry name="Abhorrent" value="Abominável"/>
+	<entry name="Cataphora" value="<string name='Actions/Cataphora'/>"/>
+	<entry name="CataphoraFlavor" value="<string name='Actions/CataphoraFlavor'/>"/>
+	<entry name="ConcordatSanctions" value="Sanções do Concórdio"/>
+	<entry name="ConcordatSanctionsFlavor" value="<string name='Quests/ConcordatCompromised/DontComply2'/>"/>
+	<entry name="CullTheWeak" value="Extermínio dos Fracos"/>
+	<entry name="Cursed" value="Amaldiçoado"/>
+	<entry name="CursedFlavor" value="<string name='Quests/CircusCambion/TakeYourCutCursed2'/>"/>
+	<entry name="DimensionalShunts" value="<string name='Items/DimensionalShunts'/>"/>
+	<entry name="DimensionalShuntsFlavor" value="<string name='Quests/ConcordatCompromised/ComplyCarefullySuccess3'/>"/>
+	<entry name="EnrichedAlloys" value="<string name='Actions/EnrichedAlloys'/>"/>
+	<entry name="EnrichedAlloysFlavor" value="<string name='Actions/EnrichedAlloysFlavor'/>"/>
+	<entry name="ExcessiveBlades" value="Lâminas Excessivas"/>
+	<entry name="HeartfeltLossUpgrade" value="<string name='Upgrades/HeartfeltLossUpgrade'/>"/>
+	<entry name="HeartfeltLossUpgradeFlavor" value="<string name='Upgrades/HeartfeltLossUpgradeFlavor'/>"/>
+	<entry name="HollowWarlordAffinityUpgrade" value="Juntos Até o Fim"/>
+	<entry name="HollowWarlordAffinityUpgrade2" value="Juventude Condenada"/>
+	<entry name="HordeMandate" value="<string name='Actions/HordeMandate'/>"/>
+	<entry name="HordeMandateFlavor" value="<string name='Actions/HordeMandateFlavor'/>"/>
+	<entry name="Hovering" value="Pairando"/>
+	<entry name="HoveringProperties" value="<icon texture='GUI/Bullet'/>Pode mover-se sobre a água<br/><icon texture='GUI/Bullet'/>Não é afetado por rios nem pelo Bleed"/>
+	<entry name="ImmoralProperties" value="<icon texture='GUI/Bullet'/>Lealdade diminui 0.5 a cada turno"/>
+	<entry name="ImmaculateDeliveryUpgrade" value="<string name='Upgrades/ImmaculateDeliveryUpgrade'/>"/>
+	<entry name="ImmaculateDeliveryUpgradeFlavor" value="<string name='Upgrades/ImmaculateDeliveryUpgradeFlavor'/>"/>
+	<entry name="MobileHardpoints" value="Suportes Móveis"/>
+	<entry name="MothersFavor" value="<string name='Actions/MothersFavor'/>"/>
+	<entry name="MothersFavorFlavor" value="<string name='Actions/MothersFavorFlavor'/>"/>
+	<entry name="MothersVengeance" value="Vingança da Mãe"/>
+	<entry name="MothersVengeanceFlavor" value="<string name='Quests/ImpossibleConception/LetHimGoSuccess2'/>"/>
+	<entry name="Mysticism" value="Misticismo"/>
+	<entry name="ICARFluidDeflector" value="<string name='Items/ICARFluidDeflector'/>"/>
+	<entry name="ICARFluidDeflectorFlavor" value="<string name='Items/ICARFluidDeflectorFlavor'/>"/>
+	<entry name="EnthralledByTheErelim" value="Enfeitiçado pelos Erelim"/>
+	<entry name="EnthralledByTheErelimFlavor" value="<string name='Quests/CircusCambion/ErelimPuppets3'/>"/>
+	<entry name="PraesidiumAbAstris" value="Praesidium Ab Astris"/>
+	<entry name="PraesidiumAbAstrisFlavor" value="<string name='Quests/TheLastDaysOfEarth/MessageToTheStars2'/>"/>
+	<entry name="RailgunRoads" value="Estradas Railgun"/>
+	<entry name="Restless" value="Inquieto"/>
+	<entry name="ShieldDome" value="Cúpula de Escudo"/>
+	<entry name="StolenFlesh" value="<string name='Items/StolenFlesh'/>"/>
+	<entry name="StolenFleshFlavor" value="<string name='Items/StolenFleshFlavor'/>"/>
+	<entry name="SurthodaisKiss" value="<string name='Upgrades/SurthodaisKiss'/>"/>
+	<entry name="SurthodaisKissFlavor" value="<string name='Upgrades/SurthodaisKissFlavor'/>"/>
+	<entry name="SurthodaisKissProperties" value="<string name='Traits/BleedwalkerProperties'/>"/>
+	<entry name="SwarmHavoc" value="Caos do Enxame"/>
+	<entry name="TalesOfTheHunt" value="Contos da Caçada"/>
+	<entry name="TempleOfCrla" value="<string name='Features/TempleOfCrla'/>"/>
+	<entry name="TempleOfCrlaFlavor" value="<string name='Features/TempleOfCrlaFlavor'/>"/>
+	<entry name="TenderMinistrations" value="Cuidados Afetuosos"/>
+	<entry name="ThrashEm" value="<string name='Actions/ThrashEm'/>"/>
+	<entry name="ThrashEmFlavor" value="<string name='Actions/ThrashEmFlavor'/>"/>
+	<entry name="TitanMeleeProperties" value="<icon texture='GUI/Bullet'/>Pode atingir unidades voadoras<br/><icon texture='GUI/Bullet'/>Pode atacar sobre penhascos"/>
+	<entry name="Transubstantiation" value="<string name='Actions/Transubstantiation'/>"/>
+	<entry name="TransubstantiationFlavor" value="<string name='Actions/TransubstantiationFlavor'/>"/>
+	<entry name="Trochanters" value="Trochanters"/>
+	<entry name="TwistedMotherAffinityUpgrade2" value="Selo Amniótico"/>
+	<entry name="UndersuppliedProperties" value="<icon texture='GUI/Bullet'/>Precisão diminui 10% a cada turno que os recursos de manutenção não forem satisfeitos (até -50%)"/>
+	<entry name="WeWhoAreAboutToDie" value="Nós que Estamos Prestes a Morrer"/>
+	<entry name="WeWhoAreAboutToDieProperties" value="<icon texture='GUI/Bullet'/>Lealdade aumenta 0.5 a cada turno depois que você mata ou perde uma unidade, diminui 0.5 caso contrário"/>
+	<entry name="ZephonVirus" value="Vírus ZEPHON"/>
+	<entry name="ZephonVirusFlavor" value="<string name='Quests/ImpossibleConception/MotherDefendSuccess'/>"/>
+
+	<!-- Flavor. -->
+	<entry name="AbhorrentFlavor" value="Oh mãe. Nunca foi boa em negociar. Talvez os outros tivessem pena dela, mas… vamos ser francos. Difícil sentir compaixão vendo seu corpo. Será que ela deixou que se aproveitassem? Que pegassem mais do que davam?"/>
+	<entry name="CullTheWeakFlavor" value="Predadores de topo caçam os mais vulneráveis para se alimentar e sobreviver. Os Throkos — servos? monstros? criações? — eram comedoras de fundo. Tirando a escória das nossas forças para que os pesadelos de Uzhodai ou Surthodai pudessem atacar peixes maiores. Como ecossistemas que ensinam na escola. Só que mais sangrentos."/>
+	<entry name="ExcessiveBladesFlavor" value="Tudo em nome do ofício, né? Achei que em algum ponto, quanto mais serras você colocasse num Shredder, mais lento ele ficaria. Mas não. Os desgraçados pareciam sobrecarregados, mas se moveram igual e cortaram ainda mais fundo."/>
+	<entry name="HitAndRunFlavor" value="Soldados e criminosos têm mais em comum do que se pensa. Bandido sabe: se ficar parado a autoridade te pega. Soldado sabe: se congelar ao ouvir tiros, leva uma bala na cabeça. Nada de sossego. Nada de se apegar. Só ficar sempre em movimento."/>
+	<entry name="HollowWarlordAffinityUpgradeFlavor" value="O Warlord era mecânico no mundo antigo? Talvez um funcionário de escritório numa fabricante de motos? Ele conhecia um Scrambler como ninguém no deserto. Ajustava alguns no tempo livre, ensinou outros. Nunca respondeu minhas perguntas — parecia feliz apenas em colocar mais motos na estrada."/>
+	<entry name="HollowWarlordAffinityUpgrade2Flavor" value="Demasiados jovens inquietos que só queriam matar, matar, matar… Eu fui um deles no começo. Sozinho, raivoso, com medo mas sem admitir. Muitos de nós não queriam dinheiro ou comida. Só um líder que nos apontasse um alvo para descarregar tudo."/>
+	<entry name="MarketDefluctuationFlavor" value="Quer que eu explique essas coisas de dinheiro? Se eu soubesse, não estaria aqui — estaria no melhor bunker que se podia comprar antes da guerra. Terminais que previam mercados pra achar o melhor preço, ‘oferta e demanda…’ Achei que deixamos isso pra trás. Mas a guerra tem um jeito de fazer o capitalismo rastejar de volta."/>
+	<entry name="MobileHardpointsFlavor" value="Ter algo que era basicamente um mini-bunker no seu kit salvava vidas — se você tivesse tempo pra montar. Muita gente boa morreu achando que era só largar no chão e pronto."/>
+	<entry name="RailgunRoadsFlavor" value="Cada segundo conta na guerra. Especialmente quando gigantes andam pela Terra. Nos últimos dias, nossos engenheiros colocaram trilhos railgun que você podia prender qualquer coisa — máquina, monstro, supersoldado — segurar firme e tentar não desmaiar com forças de 5–7g."/>
+	<entry name="RestlessFlavor" value="Era constrangedor. Ver um pelotão de Militants desperdiçar munição atirando ao vento e berrando bêbados. O Warlord parecia igualmente enfurecido enquanto olhávamos. 'É esse tipo de soldado que você atrai,' eu disse, enquanto uma bala ricocheteava na parede perto da minha cabeça. Precisava mantê-los em movimento, lutando — senão destruiriam tudo por frustração."/>
+	<entry name="ShieldDomeFlavor" value="A nova tecnologia de escudo para nossa sede deu um baita impulso na moral civil. Debaixo daquela bolha brilhante você sentia que o mundo exterior não podia te ferir. Em patrulha, olhando a cidade de longe, não parecia… sabe… um escudo. Parecia uma bola de neve. Bonita. Brilhante. Frágil. Esperando ser quebrada."/>
+	<entry name="SwarmHavocFlavor" value="Sim, dava um som satisfatório de 'crunch' quando derrubava um Shredder do céu, mas não te dava sossego. As lâminas cortavam cada vez mais perto quanto mais você derrubava. Acho que com menos 'irmãos' pra se chocar, eles focavam em nos dilacerar membro por membro…" />
+	<entry name="TalesOfTheHuntFlavor" value="O Warlord e eu nos embebedávamos sempre, falávamos besteira. No fundo do barzinho dele, resmunguei algo sobre 'Toda batalha tem sua história'. Resposta dele… 'Poder nisso. Transforma mortais em lendas,' ele ronronou. 'Poder que pode vencer uma guerra.'" />
+	<entry name="TenderMinistrationsFlavor" value="Quando um dos filhos dela se aproximava dos camaradas, as palavras dela ficavam mais claras e confortantes. O espírito se movia, e ver feridas se fechar não parecia estranho."/>
+	<entry name="TrochantersFlavor" value="Acho que saquei… os humanos que se entregaram a esse 'Throkos' pensavam que estavam se transformando, como os outros. Mas eram só hospedeiros. Sacos de incubação para um novo tipo de vida, meio homem meio inseto, que ficou mais rápido e mortal conforme o veneno se espalhava."/>
+	<entry name="TwistedMotherAffinityUpgrade2Flavor" value="“No mundo antigo, prisioneiros libertos às vezes voltavam a viver lá,” disse o velho. “Ansiavam pelas paredes que os prenderam.” Vimos o povo da Twisted Mother indo alegremente ao interior de uma Hermitage Selada. Ambos tensos. Pensando no que havíamos passado antes de ela nos libertar."/>
+	<entry name="WeWhoAreAboutToDieFlavor" value="O pessoal do Warlord não o seguia por segurança, mas por ação. Ganhasse ou perdesse, queriam ver a morte. Caso contrário, lutadores inquietos provocavam-se e arranjavam brigas no acampamento. Mantínhamos a ordem, mas se andasse à noite veria olhos brilhando das tendas… homens e mulheres perturbados esperando que você se exponha para uma morte rápida."/>
+
 </language>

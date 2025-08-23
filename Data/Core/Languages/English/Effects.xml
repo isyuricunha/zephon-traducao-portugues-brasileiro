@@ -20,9 +20,11 @@
 	<entry name="Embark" value="<icon texture='GUI/Bullet'/>Embarks%1%"/>
 	<entry name="KillCargo" value="<icon texture='GUI/Bullet'/>Kills cargo%1%"/>
 	<entry name="Pull" value="<icon texture='GUI/Bullet'/>Pulls%1%"/>
-	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>Resets action points%1%"/>
+	<entry name="RemoveBuffs" value="<icon texture='GUI/Bullet'/>Removes buffs%1% (except buffs from passive actions)"/>
+	<entry name="RemoveDebuffs" value="<icon texture='GUI/Bullet'/>Removes debuffs%1% (except broken, damaged, shaken and debuffs from passive actions)"/>
+	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>Restores action points%1%"/>
 	<entry name="ResetCooldowns" value="<icon texture='GUI/Bullet'/>Resets cooldowns%1%"/>
-	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>Resets movement points%1%"/>
+	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>Restores movement points%1%"/>
 	<entry name="Reveal" value="<icon texture='GUI/Bullet'/>Reveals tiles%1%"/>
 
 	<!-- %1% name, %2% conditional from Modifiers.xml -->

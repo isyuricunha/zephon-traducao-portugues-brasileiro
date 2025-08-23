@@ -42,12 +42,18 @@
 	<entry name="ArmorPenetrationDescription" value="The amount of a target's armor the weapon ignores when a unit is attacking with it."/>
 	<entry name="ArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
 	<entry name="Attacks" value="Attacks"/>
-	<entry name="AttacksDescription" value="The number of attacks a weapon makes against its target when a unit is attacking with it."/>
+	<entry name="AttacksDescription" value="The number of attacks a weapon makes against its target when a unit attacks with it."/>
 	<entry name="AttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
 	<entry name="AttacksPerAdditionalEnemyGroupMember" value="Attacks Per Additional Target Group Member"/>
 	<entry name="AttacksPerAdditionalEnemyGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
 	<entry name="BuildingSlots" value="Building Slots"/>
 	<entry name="BuildingSlotsIcon" value="<icon height='20' texture='Icons/Attributes/BuildingSlots'/>"/>
+	<entry name="BlockSight" value="sight from non-adjacent tiles"/>
+	<entry name="BlockSight+" value="Blocks"/>
+	<entry name="CanBeShaken" value="shaken"/>
+	<entry name="CanBeShaken+" value="Can be"/>
+	<entry name="CanBeShaken-" value="Cannot be"/>
+	<entry name="CanBeShakenIcon" value="<icon height='20' texture='Icons/Traits/Shaken'/>"/>
 	<entry name="CanCaptureOutposts" value="capture outposts"/>
 	<entry name="CanCaptureOutposts+" value="Can"/>
 	<entry name="CanCaptureOutposts-" value="Cannot"/>
@@ -55,6 +61,10 @@
 	<entry name="CanEnemyOverwatch" value="overwatch attacks from targeting this unit"/>
 	<entry name="CanEnemyOverwatch-" value="Prevents"/>
 	<entry name="CanEnemyOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints" value="heal passively without full movement points"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints+" value="Can"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPoints-" value="Cannot"/>
+	<entry name="CanHealPassivelyWithoutFullMovementPointsIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
 	<entry name="CanOverwatch" value="overwatch"/>
 	<entry name="CanOverwatch+" value="Can"/>
 	<entry name="CanOverwatch-" value="Cannot"/>
@@ -78,6 +88,7 @@
 	<entry name="CityDamageReduction" value="City Damage Reduction"/>
 	<entry name="CityDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="CityLoyaltyUpkeep" value="City Loyalty Upkeep"/>
+	<entry name="ConcordatBuyCost" value="Concordat Buy Cost"/>
 	<entry name="ConsumedActionPoints" value="Consumed Action Points"/>
 	<entry name="ConsumedActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
 	<entry name="ConsumedMovement" value="Consumed Movement"/>
@@ -92,6 +103,8 @@
 	<entry name="DamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
 	<entry name="DamageTaken" value="Damage Taken"/>
 	<entry name="DamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DeathExperience" value="Death Experience"/>
+	<entry name="DeathExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
 	<entry name="DeathMorale" value="Death Morale"/>
 	<entry name="DeathMoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
 	<entry name="DimensionalEchoes" value="Dimensional Echoes"/>

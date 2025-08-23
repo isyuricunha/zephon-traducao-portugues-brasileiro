@@ -263,4 +263,56 @@
 	<entry name="WardenFlavor" value="ZEPHON poderia ter feito qualquer tipo de máquina e fez… isso? Por que uma IA toda-poderosa criaria uma máquina que parecia montada com peças sobressalentes? Fomos idiotas. ZEPHON não construiu uma arma, fez uma pilha de sucata automatizada, autossustentável e armada. Metal vivo não se importa se é feio como o pecado, só calcula constantemente maneiras melhores de matar."/>
 	<entry name="WhispererOfGoldrauchFlavor" value="Havia rumores de uma mulher que vendava os ouvidos, cobria os olhos e… bem, o que ela fez com sua pele… ela queria não sentir nada. Apenas a Voz. Ela foi a humana mais próxima de entender os Acrin. Ela envolveu a dor deles em si mesma e esculpiu um novo propósito. Não fique no caminho dela."/>
 	<entry name="ZephonTitanFlavor" value="Sentinelas. Cabeças-de-martelo. Guardiões. ZEPHON sempre teve esse apego às máquinas humanas — como se pudesse olhar dentro delas e ver os monstros que as criaram. Seu Titã era uma máquina de fúria profunda, esculpida no coração de um navio de guerra enferrujado que um dia levou a morte de um lado para o outro nos oceanos."/>
+
+	<entry name="AmoetiasDevourer" value="Devorador de Amoetia"/>
+	<entry name="AmoetiasDevourerProperties" value="<icon texture='GUI/Bullet'/>Grande criatura biológica que se decompõe e precisa consumir seus inimigos ou incapacitar-se para se sustentar"/>
+	<entry name="AnchoriteCamp" value="Acampamento Anacoreta"/>
+	<entry name="AnchoriteCampFlavor" value="<string name='Quests/Reyndverra/Intro2'/>"/>
+	<entry name="AnchoriteCampProperties" value="<icon texture='GUI/Bullet'/>Grande fortificação mecânica"/>
+	<entry name="BanditKingMutated" value="Rei Bandido (Mutante)"/>
+	<entry name="BanditKingMutatedFlavor" value="<string name='Quests/TheLastDaysOfEarth/PhilosophersStone2'/>"/>
+	<entry name="BanditKingMutatedProperties" value="<icon texture='GUI/Bullet'/>Líder bandido transformado pela Pedra Filosofal"/>
+	<entry name="Brynn" value="Brynn"/>
+	<entry name="BrynnFlavor" value="<string name='Quests/Reyndverra/Intro4'/>"/>
+	<entry name="BrynnProperties" value="<icon texture='GUI/Bullet'/>Um relojoeiro em busca de Reyndverra"/>
+	<entry name="CassielShredder" value="Trituradores Cassiel"/>
+	<entry name="CassielShredderProperties" value="<icon texture='GUI/Bullet'/>Infantaria mecânica de assalto que mantém o dano mesmo com grupo reduzido"/>
+	<entry name="Chieftess" value="<string name='Factions/Chieftess'/>"/>
+	<entry name="ChieftessFlavor" value="<string name='Quests/Reyndverra/FightChieftess2'/>"/>
+	<entry name="CircusAbkhan" value="Circo Abkhan"/>
+	<entry name="CircusAbkhanFlavor" value="<string name='Quests/CircusCambion/AbkluthJousting2'/>"/>
+	<entry name="CircusAbkhanProperties" value="<icon texture='GUI/Bullet'/>Um Abkhan domesticado"/>
+	<entry name="CombatDrone" value="Drones de Combate"/>
+	<entry name="DevoteeOfThrokos" value="Devotos de Throkos"/>
+	<entry name="DevoteeOfThrokosProperties" value="<icon texture='GUI/Bullet'/>Monstros biológicos de longo alcance, fortes contra inimigos feridos"/>
+	<entry name="DreadPearlman" value="Dread Pearlman"/>
+	<entry name="DreadPearlmanFlavor" value="<string name='Quests/ConcordatCompromised/Intro2'/>"/>
+	<entry name="DreadPearlmanProperties" value="<icon texture='GUI/Bullet'/>Grande fortificação mecânica"/>
+	<entry name="HollowWarlord" value="<string name='Factions/HollowWarlord'/>"/>
+	<entry name="HollowWarlordFlavor" value="<string name='Quests/Reyndverra/FollowTheChieftess2'/>"/>
+	<entry name="Husband" value="Marido"/>
+	<entry name="HusbandFlavor" value="<string name='Quests/ImpossibleConception/Intro2'/>"/>
+	<entry name="IthurielHarbinger" value="Arauto Ithuriel"/>
+	<entry name="IthurielHarbingerProperties" value="<icon texture='GUI/Bullet'/>Grande robô mecânico com canhões que sobreaquecem"/>
+	<entry name="RadioTelescope" value="Radiotelescópio"/>
+	<entry name="RadioTelescopeFlavor" value="<string name='Quests/MessageToTheStars/Contact/FindYourWay2'/>"/>
+	<entry name="Scrambler" value="Scramblers"/>
+	<entry name="ScramblerProperties" value="<icon texture='GUI/Bullet'/>Motociclistas bio-mecânicos que se destacam em se mover pelo campo de batalha"/>
+	<entry name="Sharpshooter" value="Atiradores de Elite"/>
+	<entry name="SharpshooterProperties" value="<icon texture='GUI/Bullet'/>Infantaria biológica com rifles sniper anti-infantaria, além de furtividade e reconhecimento"/>
+	<entry name="TwistedChildCyber" value="Experimento Fracassado (Ciborgue)"/>
+	<entry name="TwistedChildCyberFlavor" value="<string name='Quests/ImpossibleConception/MotherExperiment32'/>"/>
+	<entry name="TwistedChildVoice" value="Experimento Fracassado (Voz)"/>
+	<entry name="TwistedChildVoiceFlavor" value="<string name='Quests/ImpossibleConception/MotherExperiment12'/>"/>
+	<entry name="Wastelander" value="Errante do Deserto"/>
+	<entry name="WastelanderProperties" value="<icon texture='GUI/Bullet'/>Grande transporte mecânico fortemente armado que fortalece aliados próximos"/>
+
+	<entry name="AmoetiasDevourerFlavor" value="Não se deixe enganar pela carne em decomposição. Os devoradores farão qualquer coisa para se aproximar e devorar seus membros. Começa com a cabeça esquerda esmagando seu rosto, a direita rasgando seu coração e, quando você cai, puxa seu corpo para aquela boca vil…"/>
+	<entry name="CassielShredderFlavor" value="Fazer aliança com as máquinas fazia mais sentido depois de ver uma matilha de Shredders eviscerar os sacos de carne de um Dark Vassael. As serras cortavam pedaços de carne de seus ossos, e ele morreu com seus órgãos espalhados no chão… a cena era tão intensa que nem me importei com o cheiro."/>
+	<entry name="DevoteeOfThrokosFlavor" value="Às vezes, em missões de reconhecimento, víamos cultistas da Voz mutilando seus corpos para agradar seus deuses. Os freaks de Throkos — observei com binóculos enquanto engoliam ovos de insetos mutantes. Coisa vil, nojenta. Parecia suicídio ritual… até ver os insetos saindo dos corpos. Não era suicídio. Renascimento. Como insetos, a forma de vida mais baixa."/>
+	<entry name="IthurielHarbingerFlavor" value="“Isso não é um jogo!” gritei para a máquina. Ele — o Arauto — me tinha preso sob um de seus enormes pés. Eu o caçava há dias, mas não percebia que era eu o caçado. Ele me atraiu para uma armadilha, me esmagou e apontou o canhão para meu rosto. “Condição de vitória estabelecida,” disse calmamente enquanto seu Canhão de Plasma brilhava mais e mais. “Objetivo terminando em 3, 2, 1…”"/>
+	<entry name="ScramblerFlavor" value="Ver um Scrambler passar rugindo parece apenas um tolo com desejo de morte. Um doador de órgãos à espera. Mas quando um segundo segue, um terceiro, um quarto… algo muda na visão. Não é desejo de morte. Eles encontraram liberdade juntos, em cavalos de duas rodas e 500 cavalos de potência."/>
+	<entry name="SharpshooterFlavor" value="Já ouviu um time sniper-spotter em ação? É clínico… até não ser. “Vá para setor 3 delta.” “Contato.” “5 graus fora da pilha de carne.” “Contato.” “Vá para vidro.” “O alvo tem quatro membros e um braço saindo da boca. Confirmar?” “É–droga. Droga… sim, esse é o alvo. Confirmado.”"/>
+	<entry name="WastelanderFlavor" value="Todo piloto impulsivo nas fileiras do Reaver queria comandar esta bela fera e gritar junto com o rugido de seu motor diesel de 6 cilindros… mas entrar na tripulação era praticamente uma sentença de morte. Alguém poderia sufocar com os gases. Ser lançado contra os espinhos… ou escorregar e ter seus ossos esmagados pelas rodas giratórias."/>
+
 </language>

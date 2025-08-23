@@ -423,4 +423,18 @@
 	<entry name="TraitsFlavor" value="Você precisará conhecer as muitas qualidades que distinguem o mundo pelo qual está lutando. Se você não consegue distinguir entre voar e flutuar, como espera ganhar a guerra?"/>
 	<entry name="UnitsFlavor" value="Da rua ao céu, seus soldados estão prontos. Nenhum deles entende quão grandes são as apostas dessa batalha. Cabe a você liderá-los à vitória — e fazer com que o sacrifício inevitável deles valha a pena."/>
 	<entry name="WeaponsFlavor" value="Lâminas, balas e bombas são apenas o começo. Você vai abrir as mandíbulas do universo e segurar o poder da natureza na palma da sua mão. Mas nunca se esqueça — seus inimigos também farão isso."/>
+
+	<entry name="BuildingDisabledDueToEnemy" value="Desativado devido a inimigo na tile."/>
+	<entry name="BuildingsDisabledDueToEnemies" value="<style color='GUI/Red'/>%1% desativados devido a inimigos nas tiles.<style color='Default'/>"/>
+	<!-- %1% é a quantidade de construções. -->
+	<entry name="DeclineCalls" value="Recusar Chamadas"/>
+	<entry name="DeclineCallsHint" value="Recusar todas as chamadas recebidas [<control name='NextTask'/>]."/>
+	<entry name="NoMovementRemaining" value="Nenhum movimento restante."/>
+	<entry name="OrderQueuedUnits" value="Ordenar Unidades na Fila (%1%)"/>
+	<entry name="OrderQueuedUnitsHint" value="Selecionar a próxima unidade com ordem na fila [<control name='NextTask'/>].<br/>[<string name='Controls/MouseRight'/>] para executar todas as ordens da fila."/>
+	<entry name="PlayerResearchedTechnology" value="%1% pesquisou esta tecnologia."/>
+	<entry name="PlayerResearchingTechnology" value="%1% está pesquisando esta tecnologia."/>
+	<entry name="ResearchTierScrollTo" value="<style name='Small'/>[%1%] para rolar até este nível."/>
+	<entry name="ResourceFromPlayer" value="    <icon texture='GUI/Bullet'/>%1% de jogador"/>
+
 </language>

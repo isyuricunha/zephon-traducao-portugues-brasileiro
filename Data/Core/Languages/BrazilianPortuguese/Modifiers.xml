@@ -39,16 +39,16 @@
 	<entry name="ForChieftessUnits" value=" para unidades Chieftess"/>
 	<entry name="ForConstructionYard" value=" para <string name='Buildings/Construction'/>"/>
 	<entry name="ForControllingCity" value=" dentro da cidade"/>
-	<entry name="ForCyberUnits" value=" para unidades Cyber"/>
-	<entry name="ForCyberProductionBuildings" value=" para edifícios de produção Cyber"/>
+	<entry name="ForCyberUnits" value=" para unidades Cibernéticas"/>
+	<entry name="ForCyberProductionBuildings" value=" para edifícios de produção Cibernética"/>
 	<entry name="ForEnemyGroundUnits" value=" para unidades terrestres inimigas"/>
 	<entry name="ForGroundUnits" value=" para unidades terrestres"/>
 	<entry name="ForHumanBiologicalUnits" value=" para unidades biológicas humanas"/>
 	<entry name="ForLargeGroundUnits" value=" para unidades terrestres grandes"/>
 	<entry name="ForMeleeWeapons" value=" para armas de combate corpo a corpo"/>
-	<entry name="ForNonAffinityTechnologies" value=" para tecnologias humanas, Cyber e Voice que não são da sua afinidade"/>
+	<entry name="ForNonAffinityTechnologies" value=" para tecnologias humanas, Cibernéticas e da Voz que não são da sua afinidade"/>
 	<entry name="ForNonAgileGroundUnits" value=" para unidades terrestres não ágeis"/>
-	<entry name="ForNonLargeCyberUnits" value=" para unidades Cyber não grandes"/>
+	<entry name="ForNonLargeCyberUnits" value=" para unidades Cibernéticas não grandes"/>
 	<entry name="ForNonLargeGroundUnits" value=" para unidades terrestres não grandes"/>
 	<entry name="ForNonLargeGroundUnitsAgainstRangedWeapons" value=" para unidades terrestres não grandes e não voadoras contra armas de longo alcance"/>
 	<entry name="ForNonLargeNonFlyingUnitsWhenAttackingFromForestsOrRuins" value=" para unidades terrestres não grandes e não voadoras ao atacar de florestas ou ruínas"/>
@@ -182,7 +182,7 @@
 	<entry name="AtRank18OrHigher" value="no rank 7 ou superior"/>
 	<entry name="AtRank14OrHigher" value="no rank 3 ou superior"/>
 	<entry name="ForCyberTechnologies" value="para tecnologias cibernéticas"/>
-	<entry name="ForCyberUnitsWhenAttackingFromForestsOrRuins" value="para unidades cibernéticas ao atacar a partir de florestas ou ruínas"/>
+	<entry name="ForCyberUnitsWhenAttackingFromForestsOrRuins" value="para unidades Cibernéticas ao atacar a partir de florestas ou ruínas"/>
 	<entry name="FromGenerousContacts" value="de contatos generosos"/>
 	<entry name="FromTargetAlliedUnit" value="da unidade aliada alvo"/>
 	<entry name="FromTargetAlliedUnitWithMothersFavor" value="da unidade aliada alvo com <string name='Traits/MothersFavor'/>"/>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="Abkhan" value="Abkhan"/>
-	<entry name="AbkhanProperties" value="<icon texture='GUI/Bullet'/>Grande Andador Sangrento biológico que protege seu ninho"/>
+	<entry name="AbkhanProperties" value="<icon texture='GUI/Bullet'/>Grande Caminhante Sangrento biológico que protege seu covil"/>
 	<entry name="Abkluth" value="Abkluths"/>
-	<entry name="AbkluthProperties" value="<icon texture='GUI/Bullet'/>Andadores Sangrentos biológicos de combate corpo a corpo que regeneram pontos de vida a cada turno"/>
+	<entry name="AbkluthProperties" value="<icon texture='GUI/Bullet'/>Caminhantes Sangrentos biológicos de combate corpo a corpo que regeneram pontos de vida a cada turno"/>
 	<entry name="AbkluthDragoon" value="Dragões Abkluth"/>
-	<entry name="AbkluthDragoonProperties" value="<icon texture='GUI/Bullet'/>Andadores Sangrentos biológicos de combate corpo a corpo que podem assumir o controle de Abkluths inimigos"/>
+	<entry name="AbkluthDragoonProperties" value="<icon texture='GUI/Bullet'/>Caminhantes Sangrentos biológicos de combate corpo a corpo que podem assumir o controle de Abkluths inimigos"/>
 	<entry name="AcrinMilitia" value="Remanescentes Acrin"/>
-	<entry name="AcrinMilitiaProperties" value="<icon texture='GUI/Bullet'/>Andadores Sangrentos biológicos com fortes poderes de cura e a capacidade de conjurar Sangue"/>
+	<entry name="AcrinMilitiaProperties" value="<icon texture='GUI/Bullet'/>Caminhantes Sangrentos biológicos com fortes poderes de cura e a capacidade de conjurar Sangue"/>
 	<entry name="AcrinTitan" value="Titã Acrin"/>
 	<entry name="AcrinTitanProperties" value="<icon texture='GUI/Bullet'/>Titã biológico que pode puxar inimigos para seu poço causal e devorá-los"/>
 	<entry name="AcrinZealot" value="Fanático Acrin"/>
-	<entry name="AcrinZealotProperties" value="<icon texture='GUI/Bullet'/>Andadores Sangrentos biológicos com armas de combate corpo a corpo debilitantes e a capacidade de se teletransportar entre áreas de Sangue"/>
+	<entry name="AcrinZealotProperties" value="<icon texture='GUI/Bullet'/>Caminhantes Sangrentos biológicos com armas de combate corpo a corpo debilitantes e a capacidade de se teletransportar entre áreas de Sangue"/>
 	<entry name="AegyllanWorm" value="Vermes Aegyllan"/>
 	<entry name="AegyllanWormProperties" value="<icon texture='GUI/Bullet'/>Infantaria biológica de curto alcance antiblindagem que pode se mover pelo subsolo"/>
 	<entry name="AkavishProvost" value="Provost Akavish"/>
@@ -34,7 +34,7 @@
 	<entry name="BanditKingProperties" value="<icon texture='GUI/Bullet'/>Um líder bandido corrompido pela Pedra Filosofal"/>
 	<entry name="Bunker" value="Bunker"/>
 	<entry name="BunkerProperties" value="<icon texture='GUI/Bullet'/>Grande fortificação mecânica que protege uma área e as unidades dentro dela"/>
-	<entry name="Buster" value="Destruidores"/>
+	<entry name="Buster" value="Exterminadores"/>
 	<entry name="BusterProperties" value="<icon texture='GUI/Bullet'/>Infantaria biológica antiblindagem que pode incendiar inimigos"/>
 	<entry name="CalemVorshole" value="Calem Vorshole"/>
 	<entry name="CalemVorsholeFlavor" value="<string name='Quests/StolenGoods/HuntThemDown2'/>"/>
@@ -130,7 +130,7 @@
 	<entry name="Orin" value="Orin"/>
 	<entry name="OrinFlavor" value="<string name='Quests/ThePulledThread/CaptureScientistSuccess2'/>"/>
 	<entry name="OrinProperties" value="<icon texture='GUI/Bullet'/>Um cientista sacrílego"/>
-	<entry name="Outrider" value="Explorador"/>
+	<entry name="Outrider" value="Batedor"/>
 	<entry name="OutriderProperties" value="<icon texture='GUI/Bullet'/>Grande transporte mecânico com equipamento leve e excelentes capacidades de reconhecimento"/>
 	<entry name="PhenarisEpicurean" value="Epicurista Phenaris"/>
 	<entry name="PhenarisEpicureanProperties" value="<icon texture='GUI/Bullet'/>Infantaria biológica corpo a corpo que aumenta temporariamente seus próprios pontos de vida e cura aliados ao atacar inimigos em combate corpo a corpo"/>
@@ -140,8 +140,8 @@
 	<entry name="PhoenixInterceptorProperties" value="<icon texture='GUI/Bullet'/>Grande aeronave mecânica capaz de tremenda velocidade e excelente desempenho contra alvos aéreos"/>
 	<entry name="PlangentOrolos" value="Orolos Retumbante"/>
 	<entry name="PlangentOrolosProperties" value="<icon texture='GUI/Bullet'/>Grande criatura biológica que manipula o som para danificar e imobilizar inimigos"/>
-	<entry name="Praetorian" value="Pretores"/>
-	<entry name="PraetorianProperties" value="<icon texture='GUI/Bullet'/>Infantaria biológica equipada com armamento de antimatéria e mochilas propulsoras para chocar e devastar inimigos em combate corpo a corpo"/>
+	<entry name="Praetorian" value="Pretorianos"/>
+	<entry name="PraetorianProperties" value="<icon texture='GUI/Bullet'/>Infantaria biológica equipada com armamento de antimatéria e propulsores para investir e devastar inimigos em combate corpo a corpo"/>
 	<entry name="ReamingCrodeus" value="Crodeus Lacerante"/>
 	<entry name="ReamingCrodeusProperties" value="<icon texture='GUI/Bullet'/>Titã voador biológico que incapacita e engole inimigos para digeri-los em seu estômago"/>
 	<entry name="Reaver" value="Assaltantes"/>
@@ -180,11 +180,11 @@
 	<entry name="VorodaisLeviathanProperties" value="<icon texture='GUI/Bullet'/>Titã biológico de transporte que se destaca na eliminação de grandes grupos de inimigos e na drenagem de suas essências"/>
 	<entry name="VulkanR5" value="Vulkan R-5"/>
 	<entry name="VulkanR5Properties" value="<icon texture='GUI/Bullet'/>Grande mecha mecânico que esmaga e incinera seus inimigos"/>
-	<entry name="Warden" value="Guardião"/>
-	<entry name="WardenProperties" value="<icon texture='GUI/Bullet'/>Grande robô mecânico que rouba pontos de vida de unidades mecânicas e queima suas vítimas vivas"/>
-	<entry name="WardenAugmented" value="Guardião (Aprimorado)"/>
+	<entry name="Warden" value="Sentinela"/>
+	<entry name="WardenProperties" value="<icon texture='GUI/Bullet'/>Grande robô mecânico que drena pontos de vida de unidades mecânicas e queima suas vítimas vivas"/>
+	<entry name="WardenAugmented" value="Sentinela (Aprimorado)"/>
 	<entry name="WardenAugmentedFlavor" value="<string name='Quests/TheSpaceEngine/SellTechToZephonSuccess2'/>"/>
-	<entry name="WardenAugmentedProperties" value="<icon texture='GUI/Bullet'/>Um Guardião altamente avançado"/>
+	<entry name="WardenAugmentedProperties" value="<icon texture='GUI/Bullet'/>Um Sentinela altamente avançado"/>
 	<entry name="WhispererOfGoldrauch" value="Sussurrador de Goldrauch"/>
 	<entry name="WhispererOfGoldrauchProperties" value="<icon texture='GUI/Bullet'/>Herói biológico flutuante com habilidades à distância para curar e invocar aliados, além de revelar e causar dano a inimigos"/>
 	<entry name="ZandraKyne" value="Zandra Kyne"/>
@@ -300,7 +300,7 @@
 	<entry name="ScramblerProperties" value="<icon texture='GUI/Bullet'/>Motociclistas bio-mecânicos que se destacam em se mover pelo campo de batalha"/>
 	<entry name="Sharpshooter" value="Atiradores de Elite"/>
 	<entry name="SharpshooterProperties" value="<icon texture='GUI/Bullet'/>Infantaria biológica com rifles sniper anti-infantaria, além de furtividade e reconhecimento"/>
-	<entry name="TwistedChildCyber" value="Experimento Fracassado (Ciborgue)"/>
+	<entry name="TwistedChildCyber" value="Experimento Fracassado (Cibernético)"/>
 	<entry name="TwistedChildCyberFlavor" value="<string name='Quests/ImpossibleConception/MotherExperiment32'/>"/>
 	<entry name="TwistedChildVoice" value="Experimento Fracassado (Voz)"/>
 	<entry name="TwistedChildVoiceFlavor" value="<string name='Quests/ImpossibleConception/MotherExperiment12'/>"/>

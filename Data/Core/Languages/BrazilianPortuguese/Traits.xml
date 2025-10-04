@@ -84,7 +84,7 @@
 	<entry name="BlightingFlavor" value="<string name='Traits/BlightedFlavor'/>"/>
 	<entry name="Blinded" value="Cego"/>
 	<entry name="BreachCollector" value="Coletor de Brechas"/>
-	<entry name="BreachCollectorProperties" value="<icon texture='GUI/Bullet'/>Concede acesso a itens Cyber raros em <icon height='20' texture='Icons/Shop'/> O Concordato"/>
+	<entry name="BreachCollectorProperties" value="<icon texture='GUI/Bullet'/>Concede acesso a itens Cibernéticos raros em <icon height='20' texture='Icons/Shop'/> O Concordato"/>
 	<entry name="Broken" value="Quebrado"/>
 	<entry name="BunkerExtension" value="Extensão do Bunker"/>
 	<entry name="BunkerExtensionProperties" value="<icon texture='GUI/Bullet'/>Concede um <string name='Weapons/HeavyMachineGun'/> adicional"/>

@@ -15,7 +15,7 @@
 	<entry name="AdditionalMembersHit" value="Membros do Grupo Acertados com Meia Precisão"/>
 	<entry name="AdditionalMembersHitIcon" value="<icon height='20' texture='Icons/Attributes/GroupSize'/>"/>
 	<entry name="Algae" value="Algas"/>
-	<entry name="AlgaeDescription" value="Usado para produzir e manter unidades Voice."/>
+	<entry name="AlgaeDescription" value="Usado para produzir e manter unidades da Voz."/>
 	<entry name="AlgaeIcon" value="<icon height='20' texture='Icons/Attributes/Algae'/>"/>
 	<entry name="AlgaeCost" value="Custo de Algas"/>
 	<entry name="AlgaeCostDescription" value="A quantidade de algas necessária para produzir a entidade."/>
@@ -77,7 +77,7 @@
 	<entry name="Charges" value="Cargas"/>
 	<entry name="ChargesIcon" value="<icon height='20' texture='Icons/Attributes/Charges'/>"/>
 	<entry name="Chips" value="Chips"/>
-	<entry name="ChipsDescription" value="Usado para produzir e manter unidades Cyber."/>
+	<entry name="ChipsDescription" value="Usado para produzir e manter unidades Cibernéticas."/>
 	<entry name="ChipsIcon" value="<icon height='20' texture='Icons/Attributes/Chips'/>"/>
 	<entry name="ChipsCost" value="Custo de Chips"/>
 	<entry name="ChipsCostDescription" value="A quantidade de chips necessária para a produção da entidade."/>

@@ -7,12 +7,12 @@
     <entry name="AdvancedHumanCache" value="Cache Humana Avançada"/>
     <entry name="AdvancedHumanCacheProperties" value="<icon texture='GUI/Bullet'/>Concede uma recompensa humana avançada aleatória"/>
     <entry name="AdvancedVoiceCache" value="Cache de Voz Avançada"/>
-    <entry name="AdvancedVoiceCacheProperties" value="<icon texture='GUI/Bullet'/>Concede uma recompensa de voz avançada aleatória"/>
+    <entry name="AdvancedVoiceCacheProperties" value="<icon texture='GUI/Bullet'/>Concede uma recompensa da Voz avançada aleatória"/>
     <entry name="ArcDischarge" value="Descarga de Arco"/>
     <entry name="Arctic" value="Ártico"/>
     <entry name="BlackHole" value="<string name='Actions/BlackHole'/>"/>
     <entry name="BlackHoleFlavor" value="<string name='Actions/BlackHoleFlavor'/>"/>
-    <entry name="Bleed" value="Sangrar"/>
+    <entry name="Bleed" value="Sangramento"/>
     <entry name="Brush" value="Mato"/>
     <entry name="Cicadas" value="Cicadas"/>
     <entry name="City" value="Cidade"/>

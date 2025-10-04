@@ -105,7 +105,7 @@
 	<entry name="Extirpate" value="Extirpar"/>
 	<entry name="ExtirpateProperties" value="<icon texture='GUI/Bullet'/>Usável quando o inimigo puder ser puxado para um dos três terrenos adjacentes livres mais próximos do inimigo"/>
 	<entry name="EyeOfZephon" value="Olho de ZEPHON"/>
-	<entry name="FirstAidDrone" value="Dron de Primeiros Socorros"/>
+	<entry name="FirstAidDrone" value="Drone de Primeiros Socorros"/>
 	<entry name="FleshTree" value="Árvore da Carne"/>
 	<entry name="FleshTreeFlavor" value="<string name='Features/FleshTreeFlavor'/>"/>
 	<entry name="Frenzy" value="Frenesi"/>
@@ -165,7 +165,7 @@
 	<entry name="NomadicLifeProperties" value="<string name='Actions/FoundCityProperties'/><br/><icon texture='GUI/Bullet'/>Custo dobrado quando não controlado por <icon texture='Icons/Factions/Chieftess' color='Factions/Chieftess' height='20'/><nbsp/><string name='Factions/Chieftess'/>"/>
 	<entry name="OrbitalDeployment" value="Desdobramento Orbital"/>
 	<entry name="OrbitalDeploymentProperties" value="<icon texture='GUI/Bullet'/>Teleporta de cidade aliada para o terreno avistado alvo"/>
-	<entry name="Overwatch" value="Sobrevivência"/>
+	<entry name="Overwatch" value="Vigilância"/>
 	<entry name="OverwatchDescription" value="<icon texture='GUI/Bullet'/>Ataca unidades inimigas que terminam seu movimento na faixa de ataque"/>
 	<entry name="Pandemonium" value="Pandemônio"/>
 	<entry name="Paramedic" value="Paramédico"/>
@@ -231,8 +231,6 @@
 	<entry name="Sleep" value="Dormir"/>
 	<entry name="SleepDescription" value="<icon texture='GUI/Bullet'/>Interrompe a produção até ser cancelado"/>
 	<entry name="SmokeLauncher" value="Lançador de Fumaça"/>
-	<entry name="SomethingWicked" value="Algo Maligno"/>
-	<entry name="SomethingWickedFlavor" value="<string name='Quests/CircusCambion/ErelimPuppets2'/>"/>
 	<entry name="SomethingWicked" value="Algo Maligno"/>
 	<entry name="SomethingWickedFlavor" value="<string name='Quests/CircusCambion/ErelimPuppets2'/>"/>
 	<entry name="Soundquake" value="Tremor Sonoro"/>

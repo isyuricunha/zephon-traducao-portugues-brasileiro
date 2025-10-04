@@ -58,7 +58,7 @@
     <entry name="TheSummoning" value="<string name='Quests/TheSummoning'/>"/>
     <entry name="TheSummoningFlavor" value="<string name='Quests/TheSummoning/Intro2'/>"/>
     <entry name="VoiceCache" value="Cache de Voz"/>
-    <entry name="VoiceCacheProperties" value="<icon texture='GUI/Bullet'/>Concede uma recompensa de voz aleatória"/>
+    <entry name="VoiceCacheProperties" value="<icon texture='GUI/Bullet'/>Concede uma recompensa da Voz aleatória"/>
     <entry name="Volcanic" value="Volcânico"/>
     <entry name="Volcano" value="Vulcão"/>
     <entry name="Wasteland" value="Terra Devastada"/>
@@ -97,7 +97,7 @@
     <entry name="RocksFlavor" value="Minerar pedras da Terra é uma das primeiras indicações de civilização. Pena que o terreno dificultava a construção de civilização em regiões como essa. Fiquei grato por não termos que mover pedras como nossos ancestrais faziam, mas as missões de suprimento para as minas sempre me deixavam nervoso."/>
     <entry name="RuinsFlavor" value="A Terra Que Foi. O Velho Mundo. O Tempo Antes. Havia muitas maneiras de se referir à vida antes dos Acrin. Nenhuma delas conseguia resumir o que era olhar para as ruínas e sonhar acordado sobre como era antes. Em breve, as crianças nascerão sem memória deste lugar. Não sei se as invejo ou não. Não consigo imaginar lutar sem essa tristeza dentro de mim."/>
     <entry name="SurvivorsBazaarFlavor" value="Havia muitos oportunistas, idealistas e golpistas que atraíam pessoas para suas favelas nas terras desertas. O que sempre me surpreendeu foi que esses líderes astutos nunca pegavam em armas. Alguns deles poderiam ter liderado exércitos à vitória — mas, em vez disso, reuniram todos."/>
-    <entry name="SwampFlavor" value="Todo tipo de vida fez sua casa nos Pântanos — se você conseguisse lidar com a umidade, encontraria bastante comida para manter seu exército de pé. Rastreadors experientes sabiam que era preciso observar o terreno enlameado — se seus pés afundassem muito, você seria uma presa fácil para qualquer caçador atrás de você."/>
+    <entry name="SwampFlavor" value="Todo tipo de vida fez sua casa nos Pântanos — se você conseguisse lidar com a umidade, encontraria bastante comida para manter seu exército de pé. Rastreadores experientes sabiam que era preciso observar o terreno enlameado — se seus pés afundassem muito, você seria uma presa fácil para qualquer caçador atrás de você."/>
     <entry name="VoiceCacheFlavor" value="Não era segredo quem deixava esses caches para trás. Andarilhos Acrin, desesperados para sobreviver nas ruínas da Terra, eram uma ocorrência comum. Era bom tirar algo deles — mesmo que fosse uma de suas tropas. Fazer seus recursos se tornarem parte do nosso esforço de guerra era só mais lama nos olhos deles. Eles tentaram nos matar. Nós sobrevivemos. Agora comemos na mesa deles."/>
     <entry name="VolcanicFlavor" value="Depois que o Fulcrum rachou as placas tectônicas, houve atividade vulcânica por todo o planeta. Muito mais do que o próprio disparo causou. Uma nova pesquisadora teve uma boa teoria: ZEPHON agora podia acessar minerais raros perto do núcleo da Terra e estava minerando lá embaixo. Garota esperta. Espero que ela sobreviva."/>
     <entry name="VolcanoFlavor" value="O primeiro disparo dos Acrin com aquele maldito Fulcrum rachou a Terra e deslocou suas placas tectônicas. O campo de batalha estava repleto de enormes vulcões em todos os continentes — torres de ar, cinzas e fogo que assavam os bons soldados vivos."/>

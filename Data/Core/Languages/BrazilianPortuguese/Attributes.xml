@@ -58,14 +58,14 @@
 	<entry name="CanCaptureOutposts+" value="Pode"/>
 	<entry name="CanCaptureOutposts-" value="Não pode"/>
 	<entry name="CanCaptureOutpostsIcon" value="<icon height='20' texture='Icons/Traits/Outpost'/>"/>
-	<entry name="CanEnemyOverwatch" value="ataques de sobrecarga ao mirar nesta unidade"/>
+	<entry name="CanEnemyOverwatch" value="ataques de vigilância ao mirar nesta unidade"/>
 	<entry name="CanEnemyOverwatch-" value="Previne"/>
 	<entry name="CanEnemyOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints" value="cura passivamente sem pontos de movimento completos"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints+" value="Pode"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPoints-" value="Não pode"/>
 	<entry name="CanHealPassivelyWithoutFullMovementPointsIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
-	<entry name="CanOverwatch" value="sobrecarga"/>
+	<entry name="CanOverwatch" value="vigilância"/>
 	<entry name="CanOverwatch+" value="Pode"/>
 	<entry name="CanOverwatch-" value="Não pode"/>
 	<entry name="CanOverwatchIcon" value="<icon height='20' texture='Icons/Actions/Overwatch'/>"/>
@@ -88,7 +88,7 @@
 	<entry name="CityDamageReduction" value="Redução de Dano na Cidade"/>
 	<entry name="CityDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
 	<entry name="CityLoyaltyUpkeep" value="Manutenção de Lealdade da Cidade"/>
-	<entry name="ConcordatBuyCost" value="Custo de Compra do Concórdat"/>
+	<entry name="ConcordatBuyCost" value="Custo de Compra do Concordato"/>
 	<entry name="ConsumedActionPoints" value="Pontos de Ação Consumidos"/>
 	<entry name="ConsumedActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
 	<entry name="ConsumedMovement" value="Movimento Consumido"/>
@@ -108,7 +108,7 @@
 	<entry name="DeathMorale" value="Moral da Morte"/>
 	<entry name="DeathMoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
 	<entry name="DimensionalEchoes" value="Ecos Dimensionais"/>
-	<entry name="DimensionalEchoesDescription" value="Usado para produzir e manter unidades avançadas Voice."/>
+	<entry name="DimensionalEchoesDescription" value="Usado para produzir e manter unidades avançadas da Voz."/>
 	<entry name="DimensionalEchoesIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
 	<entry name="DimensionalEchoesCost" value="Custo de Ecos Dimensionais"/>
 	<entry name="DimensionalEchoesCostDescription" value="A quantidade de ecos dimensionais necessária para a produção da entidade."/>
@@ -133,7 +133,7 @@
 	<entry name="ExperienceGainRate" value="Taxa de Ganho de Experiência"/>
 	<entry name="FlatResourcesFromOutposts" value="Recursos Fixos de Postos Avançados"/>
 	<entry name="Food" value="Comida"/>
-	<entry name="FoodDescription" value="Usado para sustentar a população nas cidades, bem como produzir e manter principalmente unidades Humanas e Voice."/>
+	<entry name="FoodDescription" value="Usado para sustentar a população nas cidades, bem como produzir e manter principalmente unidades Humanas e da Voz."/>
 	<entry name="FoodIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
 	<entry name="FoodCost" value="Custo de Comida"/>
 	<entry name="FoodCostDescription" value="A quantidade de comida necessária para a produção da entidade."/>

@@ -52,7 +52,7 @@
 	<entry name="ForNonLargeGroundUnits" value=" para unidades terrestres não grandes"/>
 	<entry name="ForNonLargeGroundUnitsAgainstRangedWeapons" value=" para unidades terrestres não grandes e não voadoras contra armas de longo alcance"/>
 	<entry name="ForNonLargeNonFlyingUnitsWhenAttackingFromForestsOrRuins" value=" para unidades terrestres não grandes e não voadoras ao atacar de florestas ou ruínas"/>
-	<entry name="ForOverwatchAttacks" value=" para ataques de sobrecarga"/>
+	<entry name="ForOverwatchAttacks" value=" para ataques de vigilância"/>
 	<entry name="ForRangedWeapons" value=" para armas de longo alcance"/>
 	<entry name="ForResearchLaboratory" value=" para <string name='Buildings/Research'/>"/>
 	<entry name="ForStationedBiologicalUnitEachTurn" value=" para unidade biológica estacionada a cada turno"/>

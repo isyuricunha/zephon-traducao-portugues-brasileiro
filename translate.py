@@ -62,6 +62,7 @@ class Config:
     agent_id: str
     batch_size: int = 20
     max_retries: int = 3
+    batch_delay: float = 3.0  # seconds to wait between API calls
 
 
 def load_config() -> Config:
@@ -80,8 +81,15 @@ def load_config() -> Config:
 
     batch_size = int(os.getenv("BATCH_SIZE", "20"))
     max_retries = int(os.getenv("MAX_RETRIES", "3"))
+    batch_delay = float(os.getenv("BATCH_DELAY", "3.0"))
 
-    return Config(api_key=api_key, agent_id=agent_id, batch_size=batch_size, max_retries=max_retries)
+    return Config(
+        api_key=api_key,
+        agent_id=agent_id,
+        batch_size=batch_size,
+        max_retries=max_retries,
+        batch_delay=batch_delay,
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -497,6 +505,12 @@ def translate_file(
         checkpoint[filename] = file_checkpoint
         save_checkpoint(checkpoint)
 
+        # Respect rate limits: pause between batches (skip after the last one).
+        is_last_batch = (batch_start + batch_size) >= len(pending_units)
+        if not dry_run and not is_last_batch and config.batch_delay > 0:
+            log.debug("  Waiting %.1fs before next batch…", config.batch_delay)
+            time.sleep(config.batch_delay)
+
     # Apply translations back to entries.
     apply_translations(entries, units, translations)
 
@@ -591,6 +605,12 @@ def main() -> None:
         action="store_true",
         help="Ignore existing checkpoint and re-translate from scratch.",
     )
+    parser.add_argument(
+        "--batch-delay",
+        type=float,
+        metavar="SECONDS",
+        help="Seconds to wait between API batches (overrides BATCH_DELAY in .env, default: 3.0).",
+    )
     args = parser.parse_args()
 
     # Load config (skipped on dry-run since no API call is made).
@@ -598,6 +618,10 @@ def main() -> None:
         config = Config(api_key="dry-run", agent_id="dry-run")
     else:
         config = load_config()
+
+    # CLI flag overrides .env value.
+    if args.batch_delay is not None:
+        config.batch_delay = args.batch_delay
 
     client = Mistral(api_key=config.api_key)
 

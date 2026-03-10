@@ -26,31 +26,31 @@
 	<entry name="Anchorite23" value="Rescht'eka"/>
 	<entry name="Anchorite24" value="Midkrin'fe'lurch"/>
 	<entry name="AnchoriteCount" value="25"/>
-	<entry name="Chieftess0" value="Rusted Scrape"/>
-	<entry name="Chieftess1" value="Broken Knuckle"/>
-	<entry name="Chieftess2" value="Bloodgutter"/>
-	<entry name="Chieftess3" value="Gutflay"/>
-	<entry name="Chieftess4" value="Blackmoon"/>
-	<entry name="Chieftess5" value="No Way Back"/>
-	<entry name="Chieftess6" value="Serrate"/>
-	<entry name="Chieftess7" value="The Fallen Breach"/>
-	<entry name="Chieftess8" value="Choked Gullet"/>
-	<entry name="Chieftess9" value="Den of the Alphas"/>
-	<entry name="Chieftess10" value="Feral Bite"/>
-	<entry name="Chieftess11" value="Wasted Pass"/>
-	<entry name="Chieftess12" value="Piercewall"/>
-	<entry name="Chieftess13" value="Devil's Backbone"/>
-	<entry name="Chieftess14" value="Blast Site"/>
+	<entry name="Chieftess0" value="Arranhão Enferrujado"/>
+	<entry name="Chieftess1" value="Nó Quebrado"/>
+	<entry name="Chieftess2" value="Sanguesuga"/>
+	<entry name="Chieftess3" value="Esventrador"/>
+	<entry name="Chieftess4" value="Lua Negra"/>
+	<entry name="Chieftess5" value="Sem Volta"/>
+	<entry name="Chieftess6" value="Serra"/>
+	<entry name="Chieftess7" value="A Brecha dos Caídos"/>
+	<entry name="Chieftess8" value="Garganta Estrangulada"/>
+	<entry name="Chieftess9" value="Toca dos Alfas"/>
+	<entry name="Chieftess10" value="Mordida Selvagem"/>
+	<entry name="Chieftess11" value="Passagem Devastada"/>
+	<entry name="Chieftess12" value="Perfura-Muros"/>
+	<entry name="Chieftess13" value="Espinha do Diabo"/>
+	<entry name="Chieftess14" value="Local da Explosão"/>
 	<entry name="Chieftess15" value="Dredgekust"/>
 	<entry name="Chieftess16" value="Freepost"/>
 	<entry name="Chieftess17" value="Saltbone"/>
-	<entry name="Chieftess18" value="Her Last Nerve"/>
-	<entry name="Chieftess19" value="Choked Vale"/>
-	<entry name="Chieftess20" value="Shatterwall"/>
-	<entry name="Chieftess21" value="Twisted Redoubt"/>
-	<entry name="Chieftess22" value="Thousand Bodies"/>
-	<entry name="Chieftess23" value="Dealer's Play"/>
-	<entry name="Chieftess24" value="The Old Hideout"/>
+	<entry name="Chieftess18" value="Seu Último Nervo"/>
+	<entry name="Chieftess19" value="Vale Asfixiado"/>
+	<entry name="Chieftess20" value="Muro Esfacelado"/>
+	<entry name="Chieftess21" value="Reduto Torcido"/>
+	<entry name="Chieftess22" value="Mil Corpos"/>
+	<entry name="Chieftess23" value="Jogo do Mercador"/>
+	<entry name="Chieftess24" value="O Esconderijo Velho"/>
 	<entry name="ChieftessCount" value="25"/>
 	<entry name="EmulatedMind0" value="Marylebone"/>
 	<entry name="EmulatedMind1" value="Bicester"/>
@@ -94,7 +94,7 @@
 	<entry name="FallenSoldier8" value="Dickson"/>
 	<entry name="FallenSoldier9" value="Nickledown"/>
 	<entry name="FallenSoldier10" value="Fort Rucker"/>
-	<entry name="FallenSoldier11" value="Greenstone Arsenal"/>
+	<entry name="FallenSoldier11" value="Arsenal Greenstone"/>
 	<entry name="FallenSoldier12" value="Fort Nicholson"/>
 	<entry name="FallenSoldier13" value="Lone Star"/>
 	<entry name="FallenSoldier14" value="Cedar Point"/>
@@ -104,17 +104,17 @@
 	<entry name="FallenSoldier18" value="Nellis"/>
 	<entry name="FallenSoldier19" value="Mercury"/>
 	<entry name="FallenSoldier20" value="Tonopah"/>
-	<entry name="FallenSoldier21" value="Calico Basin"/>
-	<entry name="FallenSoldier22" value="Little Yangtze"/>
+	<entry name="FallenSoldier21" value="Bacia Calico"/>
+	<entry name="FallenSoldier22" value="Pequeno Yangtzé"/>
 	<entry name="FallenSoldier23" value="Goodsprings"/>
 	<entry name="FallenSoldier24" value="Primm"/>
-	<entry name="FallenSoldier25" value="Boulder Beach Reserve"/>
-	<entry name="FallenSoldier26" value="Cottonwood Cove"/>
-	<entry name="FallenSoldier27" value="Fortification Hill"/>
-	<entry name="FallenSoldier28" value="Old Nipton"/>
+	<entry name="FallenSoldier25" value="Reserva da Praia Boulder"/>
+	<entry name="FallenSoldier26" value="Enseada Cottonwood"/>
+	<entry name="FallenSoldier27" value="Colina da Fortificação"/>
+	<entry name="FallenSoldier28" value="Velha Nipton"/>
 	<entry name="FallenSoldier29" value="Novac"/>
-	<entry name="FallenSoldier30" value="Gasheap"/>
-	<entry name="FallenSoldier31" value="Foxlair"/>
+	<entry name="FallenSoldier30" value="Monturo de Sucata"/>
+	<entry name="FallenSoldier31" value="Toca da Raposa"/>
 	<entry name="FallenSoldierCount" value="32"/>
 	<entry name="FurtiveTribunal0" value="The Kodinsk"/>
 	<entry name="FurtiveTribunal1" value="The Surgut"/>
@@ -124,40 +124,40 @@
 	<entry name="FurtiveTribunal5" value="The Khatanga"/>
 	<entry name="FurtiveTribunal6" value="The Uelen"/>
 	<entry name="FurtiveTribunal7" value="The Shebunino"/>
-	<entry name="FurtiveTribunal8" value="The Zabaykalsk"/>
-	<entry name="FurtiveTribunal9" value="The Severobaykalsk"/>
-	<entry name="FurtiveTribunal10" value="The Yarost"/>
-	<entry name="FurtiveTribunal11" value="The Sud’Ba"/>
-	<entry name="FurtiveTribunal12" value="The Dobryye"/>
-	<entry name="FurtiveTribunal13" value="The Tunguska"/>
-	<entry name="FurtiveTribunal14" value="The Irkutsk"/>
-	<entry name="FurtiveTribunal15" value="The Buryat"/>
-	<entry name="FurtiveTribunal16" value="The Altai"/>
-	<entry name="FurtiveTribunal17" value="The Khakass"/>
-	<entry name="FurtiveTribunal18" value="The Tuva"/>
-	<entry name="FurtiveTribunal19" value="The Shor"/>
-	<entry name="FurtiveTribunal20" value="The Komi"/>
-	<entry name="FurtiveTribunal21" value="The Mansi"/>
-	<entry name="FurtiveTribunal22" value="The Selkups"/>
-	<entry name="FurtiveTribunal23" value="The Nenets"/>
-	<entry name="FurtiveTribunal24" value="The Khanty"/>
-	<entry name="FurtiveTribunal25" value="The Enets"/>
-	<entry name="FurtiveTribunal26" value="The Yukaghir"/>
-	<entry name="FurtiveTribunal27" value="The Nganasan"/>
-	<entry name="FurtiveTribunal28" value="The Evenk"/>
-	<entry name="FurtiveTribunal29" value="The Golos"/>
-	<entry name="FurtiveTribunal30" value="The Gorlo"/>
-	<entry name="FurtiveTribunal31" value="The Zvuki"/>
-	<entry name="FurtiveTribunal32" value="The Peniye"/>
-	<entry name="FurtiveTribunal33" value="The Krik"/>
-	<entry name="FurtiveTribunal34" value="The Shepot"/>
-	<entry name="FurtiveTribunal35" value="The Rech"/>
-	<entry name="FurtiveTribunal36" value="The Tishina"/>
-	<entry name="FurtiveTribunal37" value="The Proklyatie"/>
-	<entry name="FurtiveTribunal38" value="The Mox"/>
-	<entry name="FurtiveTribunal39" value="The Temnota"/>
+	<entry name="FurtiveTribunal8" value="O Zabaykalsk"/>
+	<entry name="FurtiveTribunal9" value="O Severobaykalsk"/>
+	<entry name="FurtiveTribunal10" value="O Yarost"/>
+	<entry name="FurtiveTribunal11" value="O Sud’Ba"/>
+	<entry name="FurtiveTribunal12" value="O Dobryye"/>
+	<entry name="FurtiveTribunal13" value="O Tunguska"/>
+	<entry name="FurtiveTribunal14" value="O Irkutsk"/>
+	<entry name="FurtiveTribunal15" value="O Buryat"/>
+	<entry name="FurtiveTribunal16" value="O Altai"/>
+	<entry name="FurtiveTribunal17" value="O Khakass"/>
+	<entry name="FurtiveTribunal18" value="O Tuva"/>
+	<entry name="FurtiveTribunal19" value="O Shor"/>
+	<entry name="FurtiveTribunal20" value="O Komi"/>
+	<entry name="FurtiveTribunal21" value="O Mansi"/>
+	<entry name="FurtiveTribunal22" value="Os Selkups"/>
+	<entry name="FurtiveTribunal23" value="Os Nenets"/>
+	<entry name="FurtiveTribunal24" value="Os Khanty"/>
+	<entry name="FurtiveTribunal25" value="Os Enets"/>
+	<entry name="FurtiveTribunal26" value="Os Yukaghir"/>
+	<entry name="FurtiveTribunal27" value="Os Nganasan"/>
+	<entry name="FurtiveTribunal28" value="Os Evenk"/>
+	<entry name="FurtiveTribunal29" value="Os Golos"/>
+	<entry name="FurtiveTribunal30" value="Os Gorlo"/>
+	<entry name="FurtiveTribunal31" value="Os Zvuki"/>
+	<entry name="FurtiveTribunal32" value="Os Peniye"/>
+	<entry name="FurtiveTribunal33" value="Os Krik"/>
+	<entry name="FurtiveTribunal34" value="Os Shepot"/>
+	<entry name="FurtiveTribunal35" value="Os Rech"/>
+	<entry name="FurtiveTribunal36" value="Os Tishina"/>
+	<entry name="FurtiveTribunal37" value="Os Proklyatie"/>
+	<entry name="FurtiveTribunal38" value="Os Mox"/>
+	<entry name="FurtiveTribunal39" value="Os Temnota"/>
 	<entry name="FurtiveTribunalCount" value="40"/>
-	<entry name="HeartlessArtificer0" value="Brazen Head"/>
+	<entry name="HeartlessArtificer0" value="Cabeça de Bronze"/>
 	<entry name="HeartlessArtificer1" value="Galatea"/>
 	<entry name="HeartlessArtificer2" value="Golem"/>
 	<entry name="HeartlessArtificer3" value="Nephele"/>
@@ -166,7 +166,7 @@
 	<entry name="HeartlessArtificer6" value="Tulpa"/>
 	<entry name="HeartlessArtificer7" value="Tokeloshe"/>
 	<entry name="HeartlessArtificer8" value="Tupilaq"/>
-	<entry name="HeartlessArtificer9" value="Homunculus"/>
+	<entry name="HeartlessArtificer9" value="Homúnculo"/>
 	<entry name="HeartlessArtificer10" value="Serashi"/>
 	<entry name="HeartlessArtificer11" value="Migibari"/>
 	<entry name="HeartlessArtificer12" value="Tikikilenyaneti"/>
@@ -174,7 +174,7 @@
 	<entry name="HeartlessArtificer14" value="Kongamato"/>
 	<entry name="HeartlessArtificer15" value="Ninki Nanka"/>
 	<entry name="HeartlessArtificer16" value="Nkisi"/>
-	<entry name="HeartlessArtificer17" value="Oshun"/>
+	<entry name="HeartlessArtificer17" value="Oxum"/>
 	<entry name="HeartlessArtificer18" value="Sekhmet"/>
 	<entry name="HeartlessArtificer19" value="Wadj-Wert"/>
 	<entry name="HeartlessArtificer20" value="Zumbi"/>
@@ -183,8 +183,8 @@
 	<entry name="HeartlessArtificer23" value="Alkebulan"/>
 	<entry name="HeartlessArtificer24" value="Asiman"/>
 	<entry name="HeartlessArtificer25" value="Zuvembie"/>
-	<entry name="HeartlessArtificer26" value="Chimera"/>
-	<entry name="HeartlessArtificer27" value="Cynocephalus"/>
+	<entry name="HeartlessArtificer26" value="Quimera"/>
+	<entry name="HeartlessArtificer27" value="Cinocéfalo"/>
 	<entry name="HeartlessArtificer28" value="Luxor"/>
 	<entry name="HeartlessArtificer29" value="Karnak"/>
 	<entry name="HeartlessArtificer30" value="Tep-Renpet"/>
@@ -207,29 +207,29 @@
 	<entry name="HollowWarlord4" value="Strutstymie"/>
 	<entry name="HollowWarlord5" value="Bailiwick"/>
 	<entry name="HollowWarlord6" value="Kinesbotch"/>
-	<entry name="HollowWarlord7" value="Glycoburg"/>
+	<entry name="HollowWarlord7" value="Glicoburgo"/>
 	<entry name="HollowWarlord8" value="Viicaya Alcazar"/>
-	<entry name="HollowWarlord9" value="Fasthold Gym"/>
-	<entry name="HollowWarlord10" value="Twitch Rocca"/>
+	<entry name="HollowWarlord9" value="Ginásio Fasthold"/>
+	<entry name="HollowWarlord10" value="Rocca Twitch"/>
 	<entry name="HollowWarlord11" value="Bermblow"/>
-	<entry name="HollowWarlord12" value="Barbizan"/>
-	<entry name="HollowWarlord13" value="Fortalice"/>
-	<entry name="HollowWarlord14" value="Plume Redoubt"/>
+	<entry name="HollowWarlord12" value="Barbacã"/>
+	<entry name="HollowWarlord13" value="Fortaleza"/>
+	<entry name="HollowWarlord14" value="Reduto Plume"/>
 	<entry name="HollowWarlord15" value="Presidiojo"/>
-	<entry name="HollowWarlord16" value="The Bullwork"/>
-	<entry name="HollowWarlord17" value="Iso Laager"/>
-	<entry name="HollowWarlord18" value="Stationne"/>
+	<entry name="HollowWarlord16" value="O Baluarte"/>
+	<entry name="HollowWarlord17" value="Laager Isolado"/>
+	<entry name="HollowWarlord18" value="Estaçãone"/>
 	<entry name="HollowWarlord19" value="Hooktch"/>
 	<entry name="HollowWarlord20" value="Snatchshiel"/>
-	<entry name="HollowWarlord21" value="Pique Cuartel"/>
-	<entry name="HollowWarlord22" value="Jerk’s Ranch"/>
-	<entry name="HollowWarlord23" value="Cock’s Roost"/>
-	<entry name="HollowWarlord24" value="The Squat"/>
-	<entry name="HollowWarlord25" value="Crunch Circuit"/>
-	<entry name="HollowWarlord26" value="Sarco Station"/>
-	<entry name="HollowWarlord27" value="Primp Eyrie"/>
-	<entry name="HollowWarlord28" value="Plyo Balance"/>
-	<entry name="HollowWarlord29" value="Adductor"/>
+	<entry name="HollowWarlord21" value="Quartel Pique"/>
+	<entry name="HollowWarlord22" value="Rancho do Jerk"/>
+	<entry name="HollowWarlord23" value="Poleiro do Cock"/>
+	<entry name="HollowWarlord24" value="O Aglomerado"/>
+	<entry name="HollowWarlord25" value="Circuito Crunch"/>
+	<entry name="HollowWarlord26" value="Estação Sarco"/>
+	<entry name="HollowWarlord27" value="Ninho de Primp"/>
+	<entry name="HollowWarlord28" value="Equilíbrio Plyo"/>
+	<entry name="HollowWarlord29" value="Adutor"/>
 	<entry name="HollowWarlordCount" value="30"/>
 	<entry name="HonorableAristocrat0" value="Umebachi"/>
 	<entry name="HonorableAristocrat1" value="Propolditz"/>
@@ -296,36 +296,36 @@
 	<entry name="InfiniteCount28" value="Fenza Sine"/>
 	<entry name="InfiniteCount29" value="Minabile"/>
 	<entry name="InfiniteCountCount" value="30"/>
-	<entry name="PlatinumScion0" value="Sunvisage Spires"/>
-	<entry name="PlatinumScion1" value="Dividend Downs"/>
-	<entry name="PlatinumScion2" value="Yieldport"/>
-	<entry name="PlatinumScion3" value="Margin Ridge"/>
-	<entry name="PlatinumScion4" value="Venture Reach"/>
-	<entry name="PlatinumScion5" value="Monist Market"/>
-	<entry name="PlatinumScion6" value="Chairman's Quay"/>
-	<entry name="PlatinumScion7" value="Platinum Gate"/>
-	<entry name="PlatinumScion8" value="Promisewell"/>
-	<entry name="PlatinumScion9" value="Executive Heights"/>
-	<entry name="PlatinumScion10" value="Scale Harbor"/>
-	<entry name="PlatinumScion11" value="Fulfillment Fields"/>
-	<entry name="PlatinumScion12" value="Optics Station"/>
+	<entry name="PlatinumScion0" value="Torres de Sunvisage"/>
+	<entry name="PlatinumScion1" value="Colinas do Dividendo"/>
+	<entry name="PlatinumScion2" value="Porto da Produção"/>
+	<entry name="PlatinumScion3" value="Cume da Margem"/>
+	<entry name="PlatinumScion4" value="Alcance Empreendedor"/>
+	<entry name="PlatinumScion5" value="Mercado Monista"/>
+	<entry name="PlatinumScion6" value="Cais do Presidente"/>
+	<entry name="PlatinumScion7" value="Portão de Platina"/>
+	<entry name="PlatinumScion8" value="Poço da Promessa"/>
+	<entry name="PlatinumScion9" value="Alturas Executivas"/>
+	<entry name="PlatinumScion10" value="Porto da Escala"/>
+	<entry name="PlatinumScion11" value="Campos do Cumprimento"/>
+	<entry name="PlatinumScion12" value="Estação Óptica"/>
 	<entry name="PlatinumScion13" value="Faceforge"/>
-	<entry name="PlatinumScion14" value="Mogul's Steppe"/>
-	<entry name="PlatinumScion15" value="Aggregate Arcology"/>
-	<entry name="PlatinumScion16" value="Ship-It Yards"/>
-	<entry name="PlatinumScion17" value="Sunny Bench"/>
-	<entry name="PlatinumScion18" value="Marginopolis"/>
-	<entry name="PlatinumScion19" value="Cashflow Crest"/>
-	<entry name="PlatinumScion20" value="Bondholder Bay"/>
-	<entry name="PlatinumScion21" value="Scalability Sands"/>
-	<entry name="PlatinumScion22" value="Neon Ledger"/>
-	<entry name="PlatinumScion23" value="Ratchet Point"/>
-	<entry name="PlatinumScion24" value="KPI Terrace"/>
-	<entry name="PlatinumScion25" value="Founder's Folly"/>
-	<entry name="PlatinumScion26" value="Humble Hub"/>
-	<entry name="PlatinumScion27" value="Clickthrough Quarters"/>
-	<entry name="PlatinumScion28" value="Utopia Park"/>
-	<entry name="PlatinumScion29" value="Daedline City"/>
+	<entry name="PlatinumScion14" value="Estepe do Mogul"/>
+	<entry name="PlatinumScion15" value="Arcologia Agregada"/>
+	<entry name="PlatinumScion16" value="Estaleiros Ship-It"/>
+	<entry name="PlatinumScion17" value="Banco Ensolarado"/>
+	<entry name="PlatinumScion18" value="Marginópolis"/>
+	<entry name="PlatinumScion19" value="Cume do Fluxo"/>
+	<entry name="PlatinumScion20" value="Baía dos Acionistas"/>
+	<entry name="PlatinumScion21" value="Areias da Escalabilidade"/>
+	<entry name="PlatinumScion22" value="Livro-Razão Neon"/>
+	<entry name="PlatinumScion23" value="Ponto de Ajuste"/>
+	<entry name="PlatinumScion24" value="Terraço dos KPIs"/>
+	<entry name="PlatinumScion25" value="Desatino do Fundador"/>
+	<entry name="PlatinumScion26" value="Núcleo Modesto"/>
+	<entry name="PlatinumScion27" value="Bairro do Clique"/>
+	<entry name="PlatinumScion28" value="Parque Utopia"/>
+	<entry name="PlatinumScion29" value="Cidade Prazo-Final"/>
 	<entry name="PlatinumScionCount" value="30"/>
 	<entry name="PracticalRomantic0" value="Séfra"/>
 	<entry name="PracticalRomantic1" value="Zaoutine"/>
@@ -397,15 +397,15 @@
 	<entry name="RogueOperative36" value="Zìdònghuà Gōngjí"/>
 	<entry name="RogueOperative37" value="Hēikè Rùqīn"/>
 	<entry name="RogueOperativeCount" value="38"/>
-	<entry name="TwistedMother0" value="Old Roots"/>
-	<entry name="TwistedMother1" value="Meju Hills"/>
+	<entry name="TwistedMother0" value="Raízes Antigas"/>
+	<entry name="TwistedMother1" value="Colinas Meju"/>
 	<entry name="TwistedMother2" value="Mamaple"/>
-	<entry name="TwistedMother3" value="Goose Cradle"/>
-	<entry name="TwistedMother4" value="Bacon Bay"/>
-	<entry name="TwistedMother5" value="Hogshome"/>
+	<entry name="TwistedMother3" value="Ninho do Ganso"/>
+	<entry name="TwistedMother4" value="Baía do Toucinho"/>
+	<entry name="TwistedMother5" value="Lar dos Porcos"/>
 	<entry name="TwistedMother6" value="Pucksatawn"/>
 	<entry name="TwistedMother7" value="Hohkee Wrinc"/>
-	<entry name="TwistedMother8" value="Hudson Crack"/>
+	<entry name="TwistedMother8" value="Fenda Hudson"/>
 	<entry name="TwistedMother9" value="Les Brasseurs"/>
 	<entry name="TwistedMother10" value="Creemore"/>
 	<entry name="TwistedMother11" value="Mollston"/>
@@ -429,55 +429,55 @@
 	<entry name="TwistedMother29" value="Hayden’s Fall"/>
 	<entry name="TwistedMotherCount" value="30"/>
 	<entry name="UntoldProphet0" value="Obispo"/>
-	<entry name="UntoldProphet1" value="Consagración"/>
-	<entry name="UntoldProphet2" value="Misericordia"/>
-	<entry name="UntoldProphet3" value="Santificación"/>
-	<entry name="UntoldProphet4" value="Ayunar"/>
+	<entry name="UntoldProphet1" value="Consagração"/>
+	<entry name="UntoldProphet2" value="Misericórdia"/>
+	<entry name="UntoldProphet3" value="Santificação"/>
+	<entry name="UntoldProphet4" value="Jejuar"/>
 	<entry name="UntoldProphet5" value="Castillo Sagrado"/>
-	<entry name="UntoldProphet6" value="Basílica"/>
-	<entry name="UntoldProphet7" value="Encrucijada"/>
-	<entry name="UntoldProphet8" value="Purgatorio"/>
-	<entry name="UntoldProphet9" value="Corderos"/>
-	<entry name="UntoldProphet10" value="Rebaño"/>
-	<entry name="UntoldProphet11" value="Sectario"/>
+	<entry name="UntoldProphet6" value="Basilíca"/>
+	<entry name="UntoldProphet7" value="Encruzilhada"/>
+	<entry name="UntoldProphet8" value="Purgatório"/>
+	<entry name="UntoldProphet9" value="Cordeiros"/>
+	<entry name="UntoldProphet10" value="Rebanho"/>
+	<entry name="UntoldProphet11" value="Sectário"/>
 	<entry name="UntoldProphet12" value="Fanático"/>
-	<entry name="UntoldProphet13" value="Rabia"/>
-	<entry name="UntoldProphet14" value="Cántico"/>
-	<entry name="UntoldProphet15" value="Devoción"/>
-	<entry name="UntoldProphet16" value="Ciudadela"/>
+	<entry name="UntoldProphet13" value="Fúria"/>
+	<entry name="UntoldProphet14" value="Cântico"/>
+	<entry name="UntoldProphet15" value="Devoção"/>
+	<entry name="UntoldProphet16" value="Cidadela"/>
 	<entry name="UntoldProphet17" value="Fortaleza"/>
-	<entry name="UntoldProphet18" value="Monasterio"/>
-	<entry name="UntoldProphet19" value="Palacio Sagrado"/>
-	<entry name="UntoldProphet20" value="Orden"/>
-	<entry name="UntoldProphet21" value="Redención"/>
-	<entry name="UntoldProphet22" value="Salvación"/>
-	<entry name="UntoldProphet23" value="Verdad"/>
-	<entry name="UntoldProphet24" value="Virtud"/>
+	<entry name="UntoldProphet18" value="Mosteiro"/>
+	<entry name="UntoldProphet19" value="Palácio Sagrado"/>
+	<entry name="UntoldProphet20" value="Ordem"/>
+	<entry name="UntoldProphet21" value="Redenção"/>
+	<entry name="UntoldProphet22" value="Salvação"/>
+	<entry name="UntoldProphet23" value="Verdade"/>
+	<entry name="UntoldProphet24" value="Virtude"/>
 	<entry name="UntoldProphetCount" value="25"/>
-	<entry name="Zephon0" value="NODE 11D3R"/>
-	<entry name="Zephon1" value="JUNCTION 1013M8"/>
+	<entry name="Zephon0" value="NÓ 11D3R"/>
+	<entry name="Zephon1" value="JUNÇÃO 1013M8"/>
 	<entry name="Zephon2" value="CAPITAL 85"/>
-	<entry name="Zephon3" value="TESTZONE JW39D"/>
-	<entry name="Zephon4" value="BRIDGELINK G1T56"/>
-	<entry name="Zephon5" value="SHATTERED DOME 3T3"/>
-	<entry name="Zephon6" value="WALLBREAK 19"/>
-	<entry name="Zephon7" value="TERRAFORMER 4242"/>
-	<entry name="Zephon8" value="DATASPIRAL 777"/>
-	<entry name="Zephon9" value="FRAMEHANGAR 1P0T1"/>
-	<entry name="Zephon10" value="COLDFOUNDRY C424"/>
-	<entry name="Zephon11" value="REVISED AUDITOR G41T"/>
-	<entry name="Zephon12" value="STRINGSTATION [CLASSIFIED]"/>
-	<entry name="Zephon13" value="TESTARENA F19H"/>
-	<entry name="Zephon14" value="BORDERSCAPE 5UND4"/>
-	<entry name="Zephon15" value="SOFTSTATION T43"/>
-	<entry name="Zephon16" value="DATARARRIUM N3R0"/>
-	<entry name="Zephon17" value="COREDCELL WK1073"/>
-	<entry name="Zephon18" value="OBSIDIANCOLONY Q73"/>
-	<entry name="Zephon19" value="MUNITIONHUB V443"/>
-	<entry name="Zephon20" value="CONTAINMENT T4L0S1"/>
-	<entry name="Zephon21" value="HARBOR VV89V"/>
+	<entry name="Zephon3" value="ZONA DE TESTE JW39D"/>
+	<entry name="Zephon4" value="PONTELIGAÇÃO G1T56"/>
+	<entry name="Zephon5" value="CÚPULA DESTRUÍDA 3T3"/>
+	<entry name="Zephon6" value="ROMBO 19"/>
+	<entry name="Zephon7" value="TERRAFORMADOR 4242"/>
+	<entry name="Zephon8" value="ESPIRAL DE DADOS 777"/>
+	<entry name="Zephon9" value="GALPÃO ESTRUTURAL 1P0T1"/>
+	<entry name="Zephon10" value="FUNDIÇÃO FRIA C424"/>
+	<entry name="Zephon11" value="AUDITOR REVISADO G41T"/>
+	<entry name="Zephon12" value="ESTAÇÃO DE LINHAS [CLASSIFICADO]"/>
+	<entry name="Zephon13" value="ARENA DE TESTE F19H"/>
+	<entry name="Zephon14" value="FRONTEIRA 5UND4"/>
+	<entry name="Zephon15" value="ESTAÇÃO BRANDA T43"/>
+	<entry name="Zephon16" value="DATARIUM N3R0"/>
+	<entry name="Zephon17" value="CELULACENTRAL WK1073"/>
+	<entry name="Zephon18" value="COLÔNIA DE OBSIDIANA Q73"/>
+	<entry name="Zephon19" value="CENTRO DE MUNIÇÃO V443"/>
+	<entry name="Zephon20" value="CONTENÇÃO T4L0S1"/>
+	<entry name="Zephon21" value="PORTO VV89V"/>
 	<entry name="Zephon22" value="ARBORFORT 689O"/>
-	<entry name="Zephon23" value="HAZARDYARD LL3M"/>
-	<entry name="Zephon24" value="BOLTCENTER 924TT"/>
+	<entry name="Zephon23" value="ÁREA DE RISCO LL3M"/>
+	<entry name="Zephon24" value="NÚCLEO DO RAIO 924TT"/>
 	<entry name="ZephonCount" value="25"/>
 </language>

@@ -2,5 +2,5 @@
 <language>
 	<entry name="LevelUp" value="<style name='ShadowedHeading' color='GUI/Yellow'/>Subiu de Nível"/>
 	<entry name="Overwatch" value="<style name='ShadowedHeading'/><icon height='20' texture='Icons/Actions/Overwatch'/> Vigilância"/>
-	<entry name="Rallied" value="<style name='ShadowedHeading'/>Reagrupado"/>
+	<entry name="Rallied" value="<style name='ShadowedHeading'/>Recuperado"/>
 </language>

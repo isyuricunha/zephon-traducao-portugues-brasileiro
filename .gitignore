@@ -1,0 +1,15 @@
+# Environment / secrets — never commit these
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Translation runtime outputs
+translation_checkpoint.json
+translate.log
+
+# OS
+.DS_Store
+Thumbs.db

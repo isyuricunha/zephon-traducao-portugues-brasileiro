@@ -1,124 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="AccomplishFriendlyZephonStanding" value="Reach <string name='Diplomacy/Standing5'/> or higher standing with <string name='Factions/Zephon'/>"/>
-	<entry name="AccumulateAntimatter" value="Accumulate antimatter<nbsp/>(%1%/%2%)"/>
-	<entry name="AccumulateAntimatterWithTurnLimit" value="Accumulate antimatter within %3% turns<nbsp/>(%1%/%2%)"/>
-	<entry name="AccumulateDimensionalEchoes" value="Accumulate dimensional echoes<nbsp/>(%1%/%2%)"/>
-	<entry name="AccumulateDimensionalEchoesWithTurnLimit" value="Accumulate dimensional echoes within %3% turns<nbsp/>(%1%/%2%)"/>
-	<entry name="AccumulateEnergy" value="Accumulate energy<nbsp/>(%1%/%2%)"/>
-	<entry name="AccumulateMinerals" value="Accumulate minerals<nbsp/>(%1%/%2%)"/>
-	<entry name="AccumulateResearch" value="Accumulate research<nbsp/>(%1%/%2%)"/>
-	<entry name="AccumulateResearchWithTurnLimit" value="Accumulate research within %3% turns<nbsp/>(%1%/%2%)"/>
-	<entry name="AccumulateSingularityCores" value="Accumulate singularity cores<nbsp/>(%1%/%2%)"/>
-	<entry name="AccumulateSingularityCoresWithTurnLimit" value="Accumulate singularity cores within %3% turns<nbsp/>(%1%/%2%)"/>
-	<entry name="ArrangeInventory" value="Properly arrange all 6 ICAR patterns in a hero's inventory"/>
-	<entry name="CaptureErelimPriest" value="Capture Erelim Priest in the badlands"/>
-	<entry name="CaptureScientist" value="Capture scientist in the badlands"/>
+	<entry name="AccomplishFriendlyZephonStanding" value="Alcançar <string name='Diplomacy/Standing5'/> ou reputação maior com <string name='Factions/Zephon'/>"/>
+	<entry name="AccumulateAntimatter" value="Acumular antimátria<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateAntimatterWithTurnLimit" value="Acumular %1% de antimátria em %3% turnos<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateDimensionalEchoes" value="Acumular ecos dimensionais<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateDimensionalEchoesWithTurnLimit" value="Acumular %1% de ecos dimensionais em %3% turnos<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateEnergy" value="Acumular energia<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateMinerals" value="Acumular minerais<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateResearch" value="Acumular pesquisa<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateResearchWithTurnLimit" value="Acumular %1% de pesquisa em %3% turnos<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateSingularityCores" value="Acumular núcleos de singularidade<nbsp/>(%1%/%2%)"/>
+	<entry name="AccumulateSingularityCoresWithTurnLimit" value="Acumule núcleos de singularidade em %3% turnos<nbsp/>(%1%/%2%)"/>
+	<entry name="ArrangeInventory" value="Organize corretamente todos os 6 padrões ICAR no inventário de um herói"/>
+	<entry name="CaptureErelimPriest" value="Capture o Sacerdote Erelim nas terras devastadas"/>
+	<entry name="CaptureScientist" value="Capture o cientista nas terras devastadas"/>
 	<entry name="CaptureUnit" value="Capture %2%"/>
-	<entry name="ConstructBarracks" value="Construct Barracks"/>
-	<entry name="CreateCaitiffWithPerfectForever" value="Create <string name='Units/Caitiff'/> using <string name='Actions/PerfectForever'/><nbsp/>(%1%/%2%)"/>
-	<entry name="DefeatHeartlessArtificer" value="Defeat the <string name='Factions/HeartlessArtificer'/>"/>
-	<entry name="EstablishContacts" value="Establish contacts<nbsp/>(%1%/%2%)"/>
-	<entry name="ExecuteDiplomaticActions" value="Execute diplomatic actions<nbsp/>(%1%/%2%)"/>
-	<entry name="ExecuteOrder" value="Execute order %1%"/>
-	<entry name="ExecuteOrderWithHonorableAristocrat" value="Execute order %1% with <string name='Factions/HonorableAristocrat'/>"/>
-	<entry name="ExecuteOrderWithEngineers" value="Execute order %1% with <string name='Units/Engineer'/>"/>
-	<entry name="ExecuteOrderWithEngineersWithinTurns" value="Execute order %1% with <string name='Units/Engineer'/> within %4% turns"/>
-	<entry name="ExecuteOrderWithinTurns" value="Execute order %1% within %4% turns"/>
-	<entry name="ExecutePlayerAbilityProductRecall" value="Execute player ability <string name='Actions/JustShipItUpgrade2'/> (%2%/%3%)"/>
-	<entry name="ExecuteQuantumReflector" value="Claim and use %1% with hero unit"/>
-	<entry name="ExecuteTimeOutOfJoint" value="Execute <string name='Actions/TimeOutOfJoint'/> (%2%/%3%)"/>
-	<entry name="FightChieftessForReyndverra" value="Fight the Chieftess for the right to Reyndverra"/>
-	<entry name="FormTradeAgreementWithNPC" value="Form a trade agreement with an NPC"/>
-	<entry name="FoundCity" value="Found a city"/>
-	<entry name="KeepAcrinTitanAlive" value="Keep <string name='Units/AcrinTitan'/> alive<nbsp/>(%1%/%2%)"/>
-	<entry name="KeepDeformityAlive" value="Keep <string name='Units/Deformity'/> alive<nbsp/>(%1%/%2%)"/>
-	<entry name="KeepUnitAlive" value="Keep %2% alive"/>
-	<entry name="KeepZephonTitanAlive" value="Keep <string name='Units/ZephonTitan'/> alive<nbsp/>(%1%/%2%)"/>
-	<entry name="KillAcrinTitan" value="Kill <string name='Units/AcrinTitan'/><nbsp/>(%1%/%2%)"/>
-	<entry name="KillAnchoriteCamp" value="Destroy camp of <string name='Factions/Anchorite'/>"/>
-	<entry name="KillAnchoriteCity" value="Raze Anchorite's new city"/>
-	<entry name="KillAnnelidDefenders" value="Kill defenders of the annelid"/>
-	<entry name="KillArshem" value="Kill Arshem and his Reavers"/>
-	<entry name="KillAugursMonsters" value="Kill the Augur's monsters"/>
-	<entry name="KillBanditKing" value="Kill bandit king and his elite"/>
-	<entry name="KillBlackSite" value="Destroy ZEPHON black site within %2% turns"/>
-	<entry name="KillBlockadingReavers" value="Kill blockading Reavers"/>
-	<entry name="KillBrynnAndForces" value="Kill Brynn and his forces"/>
-	<entry name="KillCalem" value="Kill <string name='Units/CalemVorshole'/> and his gang within %2% turns"/>
-	<entry name="KillCamp" value="Kill camp"/>
-	<entry name="KillCityInTheClouds" value="Kill the city in the clouds"/>
-	<entry name="KillCultists" value="Kill cultists within %2% turns"/>
-	<entry name="KillDreadPearlman" value="Destroy the fortress Dread Pearlman within %2% turns"/>
-	<entry name="KillIronFeather" value="Purge IronFeather from your mind"/>
-	<entry name="KillLaborUnionUnits" value="Kill the Labor Union rabble-rousers"/>
-	<entry name="KillMarkedUnit" value="Kill %2%"/>
-	<entry name="KillMech" value="Destroy patrolling mech"/>
-	<entry name="KillMonster" value="Kill monster"/>
-	<entry name="KillOminousLair" value="Kill <string name='Units/OminousLair'/>"/>
-	<entry name="KillOrin" value="Kill <string name='Units/Orin'/>"/>
-	<entry name="KillReaverCamp" value="Kill Reaver camp"/>
-	<entry name="KillServerDefenders" value="Kill Server Farm defenders"/>
-	<entry name="KillStormhearthFacility" value="Destroy the Stormhearth Facility"/>
-	<entry name="KillTheFalseSpeaker" value="Destroy %2%"/>
-	<entry name="KillTheTerror" value="Kill <string name='Units/TheTerror'/>"/>
-	<entry name="KillUnit" value="Kill enemy units<nbsp/>(%1%/%2%)"/>
-	<entry name="KillUrsaMajorDefenders" value="Kill Ursa Major defenders within %2% turns"/>
-	<entry name="KillVillage" value="Destroy villages (%1%/%2%)"/>
-	<entry name="KillWardenWithMercenaries" value="Kill %2% with <string name='Units/HonorableAristocratMissileTeam'/>"/>
-	<entry name="KillWithUnit" value="Kill enemies with %3%<nbsp/>(%1%/%2%)"/>
-	<entry name="KillYourHusband" value="Kill your husband"/>
-	<entry name="KillZephonTitan" value="Kill <string name='Units/ZephonTitan'/><nbsp/>(%1%/%2%)"/>
-	<entry name="PreventUnitDestruction" value="Prevent destruction of %2%"/>
-	<entry name="ProduceUnit" value="Produce %3%<nbsp/>(%1%/%2%)"/>
-	<entry name="RecoverSplenetics" value="Recover Splenetics within %3% turns<nbsp/>(%1%/%2%)"/>
-	<entry name="RecoverHusband" value="Recover your husband"/>
-	<entry name="RepairUnit" value="Repair %2%"/>
-	<entry name="ResistVirus" value="Resist the virus for %2% turns"/>
-	<entry name="SendHeroUnitToFight" value="Send a hero unit to fight in the arena"/>
-	<entry name="SurviveAugursMonsters" value="Survive against the Augur's horde"/>
-	<entry name="SurviveCircusPerformers" value="Survive against the Circus Cambion performers"/>
-	<entry name="SurviveDrugAddictedReavers" value="Survive against drug-addicted Reavers"/>
-	<entry name="SurviveInvasion" value="Survive invasion"/>
-	<entry name="SurviveIronFeatherGuardian" value="Survive against IronFeather's guardian"/>
-	<entry name="SurviveRebelliousAcrin" value="Survive against rebellious Acrin"/>
-	<entry name="SurviveRebelliousMachines" value="Survive against rebellious machines"/>
-	<entry name="SurviveRebelliousVeterans" value="Survive against rebellious veterans"/>
-	<entry name="SurviveRivalForces" value="Survive against rival forces"/>
-	<entry name="SurviveSplenetics" value="Survive against Splenetics"/>
-	<entry name="SurviveUnknownAssailants" value="Survive against unknown assailants"/>
-	<entry name="SurviveVoiceInvasion" value="Survive Voice invasion"/>
-	<entry name="SurviveZephonAssaultForce" value="Survive against ZEPHON assault force"/>
-	<entry name="VisitAugur" value="Search nearby outposts for the Twisted Augur<nbsp/>(%1%/%2%)"/>
-	<entry name="VisitBanditKing" value="Move your troops to the bandit king's camp"/>
-	<entry name="VisitBlackSite" value="Move non-large hero unit adjacent to <string name='Units/ZephonBlackSite'/> within %4% turns"/>
-	<entry name="VisitCornucopia" value="Retrieve Cornucopia with any unit"/>
-	<entry name="VisitCornucopiaWithHonorableAristocrat" value="Retrieve Cornucopia with <string name='Factions/HonorableAristocrat'/>"/>
-	<entry name="VisitCortexNodes" value="Flush cortex nodes<nbsp/>(%1%/%2%)"/>
-	<entry name="VisitIronFeather" value="Search nearby outposts for IronFeather<nbsp/>(%1%/%2%)"/>
-	<entry name="VisitJezina" value="Search nearby outposts for Jezina<nbsp/>(%1%/%2%)"/>
-	<entry name="VisitLootStash" value="Collect bandit king's loot stash"/>
-	<entry name="VisitOracleShardAndClearEnemies" value="Visit Oracle shard and clear enemies"/>
-	<entry name="VisitPassage" value="Search for the Garcic Passage<nbsp/>(%1%/%2%)"/>
-	<entry name="VisitRitualSite" value="Move your troops to ritual site"/>
-	<entry name="VisitTileWithGroupSize1" value="Visit tile with unit of group size 1<nbsp/>(%1%/%2%)"/>
-	<entry name="VisitTileWithGroupSize3" value="Visit tile with unit of group size 3<nbsp/>(%1%/%2%)"/>
-	<entry name="VisitTileWithGroupSize6" value="Visit tile with unit of group size 6<nbsp/>(%1%/%2%)"/>
-	<entry name="VisitTileWithDeformity" value="Visit tile with given <string name='Units/Deformity'/>"/>
-	<entry name="VisitTileWithIokSwarm" value="Visit tile with <string name='Units/IokSwarm'/>"/>
-	<entry name="VisitTileWithErelimPriest" value="Visit tile with <string name='Units/ErelimPriest'/>"/>
-	<entry name="VisitTileWithFlyingUnit" value="Visit tile with flying unit to locate the city<nbsp/>(%1%/%2%)"/>
-	<entry name="VisitTileWithHammerheadAndClearEnemies" value="Visit tiles with <string name='Units/Hammerhead'/> and clear enemies<nbsp/>(%3%/%2%)"/>
-	<entry name="VisitTileWithHollowWarlord" value="Visit tile with <string name='Factions/HollowWarlord'/>"/>
-	<entry name="VisitTileWithHonorableAristocrat" value="Deliver supplies with <string name='Factions/HonorableAristocrat'/>"/>
-	<entry name="VisitTileWithJackal" value="Visit tile with <string name='Units/TheJackal'/>"/>
-	<entry name="VisitTileWithJezina" value="Visit tile with <string name='Units/Jezina'/>"/>
-	<entry name="VisitTileWithJezinaAndClearEnemies" value="Visit tile with <string name='Units/Jezina'/> and clear enemies"/>
-	<entry name="VisitTileWithLandanGrahamAndClearEnemies" value="Visit tile with <string name='Units/LandanGraham'/> and clear enemies"/>
-	<entry name="VisitTileWithPhenarisHunter" value="Visit tile with <string name='Units/PhenarisHunter'/>"/>
-	<entry name="VisitTileWithResourceTransport" value="Visit tile with <string name='Units/ResourceTransport'/> within %4% turns"/>
-	<entry name="WaitForFinalBattle" value="Wait %2% turns before choosing a side for the final battle"/>
-	<entry name="WaitForGlandHarvest" value="Wait %2% turns while your people's glands are being harvested"/>
-	<entry name="WaitForHwedoToFeed" value="Wait for Hwedo to feed on your population for %2% turns"/>
-	<entry name="WaitForYetunde" value="Wait %2% turns for Yetunde to finish her investigation"/>
+	<entry name="ConstructBarracks" value="Construa o Quartel"/>
+	<entry name="CreateCaitiffWithPerfectForever" value="Crie <string name='Units/Caitiff'/> usando <string name='Actions/PerfectForever'/><nbsp/>(%1%/%2%)"/>
+	<entry name="DefeatHeartlessArtificer" value="Derrote o <string name='Factions/HeartlessArtificer'/>"/>
+	<entry name="EstablishContacts" value="Estabeleça contatos<nbsp/>(%1%/%2%)"/>
+	<entry name="ExecuteDiplomaticActions" value="Execute ações diplomáticas<nbsp/>(%1%/%2%)"/>
+	<entry name="ExecuteOrder" value="Execute a ordem %1%"/>
+	<entry name="ExecuteOrderWithHonorableAristocrat" value="Execute a ordem %1% com <string name='Factions/HonorableAristocrat'/>"/>
+	<entry name="ExecuteOrderWithEngineers" value="Execute a ordem %1% com <string name='Units/Engineer'/>"/>
+	<entry name="ExecuteOrderWithEngineersWithinTurns" value="Execute a ordem %1% com <string name='Units/Engineer'/> em %4% turnos"/>
+	<entry name="ExecuteOrderWithinTurns" value="Execute a ordem %1% em %4% turnos"/>
+	<entry name="ExecutePlayerAbilityProductRecall" value="Ativar habilidade do jogador <string name='Actions/JustShipItUpgrade2'/> (%2%/%3%)"/>
+	<entry name="ExecuteQuantumReflector" value="Reivindicar e usar %1% com unidade herói"/>
+	<entry name="ExecuteTimeOutOfJoint" value="Executar <string name='Actions/TimeOutOfJoint'/> (%2%/%3%)"/>
+	<entry name="FightChieftessForReyndverra" value="Enfrentar a Chieftess pelo direito a Reyndverra"/>
+	<entry name="FormTradeAgreementWithNPC" value="Firmar um acordo comercial com um NPC"/>
+	<entry name="FoundCity" value="Fundar uma cidade"/>
+	<entry name="KeepAcrinTitanAlive" value="Manter <string name='Units/AcrinTitan'/> vivo(a)<nbsp/>(%1%/%2%)"/>
+	<entry name="KeepDeformityAlive" value="Manter <string name='Units/Deformity'/> vivo(a)<nbsp/>(%1%/%2%)"/>
+	<entry name="KeepUnitAlive" value="Manter %2% vivo(a)"/>
+	<entry name="KeepZephonTitanAlive" value="Manter <string name='Units/ZephonTitan'/> vivo(a)<nbsp/>(%1%/%2%)"/>
+	<entry name="KillAcrinTitan" value="Eliminar <string name='Units/AcrinTitan'/><nbsp/>(%1%/%2%)"/>
+	<entry name="KillAnchoriteCamp" value="Destruir acampamento de <string name='Factions/Anchorite'/>"/>
+	<entry name="KillAnchoriteCity" value="Arrasar a nova cidade da Âncora"/>
+	<entry name="KillAnnelidDefenders" value="Matar os defensores do anelídeo"/>
+	<entry name="KillArshem" value="Matar Arshem e seus Reavers"/>
+	<entry name="KillAugursMonsters" value="Matar os monstros do Áugure"/>
+	<entry name="KillBanditKing" value="Matar o rei dos bandidos e sua elite"/>
+	<entry name="KillBlackSite" value="Destruir o sítio negro do ZEPHON em %2% turnos"/>
+	<entry name="KillBlockadingReavers" value="Matar os Reavers bloqueadores"/>
+	<entry name="KillBrynnAndForces" value="Matar Brynn e suas forças"/>
+	<entry name="KillCalem" value="Matar <string name='Units/CalemVorshole'/> e sua gangue em %2% turnos"/>
+	<entry name="KillCamp" value="Matar acampamento"/>
+	<entry name="KillCityInTheClouds" value="Destruir a cidade nas nuvens"/>
+	<entry name="KillCultists" value="Matar cultistas em %2% turnos"/>
+	<entry name="KillDreadPearlman" value="Destruir a fortaleza Dread Pearlman em %2% turnos"/>
+	<entry name="KillIronFeather" value="Purgar o IronFeather da sua mente"/>
+	<entry name="KillLaborUnionUnits" value="Matar os agitadores da União Trabalhista"/>
+	<entry name="KillMarkedUnit" value="Matar %2%"/>
+	<entry name="KillMech" value="Destruir o mech em patrulha"/>
+	<entry name="KillMonster" value="Mate o monstro"/>
+	<entry name="KillOminousLair" value="Mate <string name='Units/OminousLair'/>"/>
+	<entry name="KillOrin" value="Mate <string name='Units/Orin'/>"/>
+	<entry name="KillReaverCamp" value="Mate o acampamento Reaver"/>
+	<entry name="KillServerDefenders" value="Mate os defensores da Fazenda de Servidores"/>
+	<entry name="KillStormhearthFacility" value="Destrua a Instalação Stormhearth"/>
+	<entry name="KillTheFalseSpeaker" value="Destrua %2%"/>
+	<entry name="KillTheTerror" value="Mate <string name='Units/TheTerror'/>"/>
+	<entry name="KillUnit" value="Mate unidades inimigas<nbsp/>(%1%/%2%)"/>
+	<entry name="KillUrsaMajorDefenders" value="Mate os defensores de Ursa Major em %2% turnos"/>
+	<entry name="KillVillage" value="Destrua aldeias (%1%/%2%)"/>
+	<entry name="KillWardenWithMercenaries" value="Mate %2% com <string name='Units/HonorableAristocratMissileTeam'/>"/>
+	<entry name="KillWithUnit" value="Mate inimigos com %3%<nbsp/>(%1%/%2%)"/>
+	<entry name="KillYourHusband" value="Mate seu marido"/>
+	<entry name="KillZephonTitan" value="Mate <string name='Units/ZephonTitan'/><nbsp/>(%1%/%2%)"/>
+	<entry name="PreventUnitDestruction" value="Impeda a destruição de %2%"/>
+	<entry name="ProduceUnit" value="Produza %3%<nbsp/>(%1%/%2%)"/>
+	<entry name="RecoverSplenetics" value="Recupere Esplênicos em %3% turnos<nbsp/>(%1%/%2%)"/>
+	<entry name="RecoverHusband" value="Recupere seu marido"/>
+	<entry name="RepairUnit" value="Reparar %2%"/>
+	<entry name="ResistVirus" value="Resista ao vírus por %2% turnos"/>
+	<entry name="SendHeroUnitToFight" value="Envie uma unidade herói para lutar na arena"/>
+	<entry name="SurviveAugursMonsters" value="Sobreviva contra a horda do Áugure"/>
+	<entry name="SurviveCircusPerformers" value="Sobreviva contra os artistas do Circo Câmbio"/>
+	<entry name="SurviveDrugAddictedReavers" value="Sobreviva contra Devastadores viciados em drogas"/>
+	<entry name="SurviveInvasion" value="Sobreviva à invasão"/>
+	<entry name="SurviveIronFeatherGuardian" value="Sobreviva contra o guardião da IronFeather"/>
+	<entry name="SurviveRebelliousAcrin" value="Sobreviva contra Acrin rebeldes"/>
+	<entry name="SurviveRebelliousMachines" value="Sobreviva contra máquinas rebeldes"/>
+	<entry name="SurviveRebelliousVeterans" value="Sobreviva contra veteranos rebeldes"/>
+	<entry name="SurviveRivalForces" value="Sobreviva contra forças rivais"/>
+	<entry name="SurviveSplenetics" value="Sobreviva contra Esplênicos"/>
+	<entry name="SurviveUnknownAssailants" value="Sobreviva contra agressores desconhecidos"/>
+	<entry name="SurviveVoiceInvasion" value="Sobreviva à invasão da Voz"/>
+	<entry name="SurviveZephonAssaultForce" value="Sobreviva contra a força de assalto do ZEPHON"/>
+	<entry name="VisitAugur" value="Procure postos avançados próximos pelo Áugure Torcido<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitBanditKing" value="Movimente suas tropas até o acampamento do rei dos bandidos"/>
+	<entry name="VisitBlackSite" value="Movimente uma unidade herói não grande adjacente a <string name='Units/ZephonBlackSite'/> em %4% turnos"/>
+	<entry name="VisitCornucopia" value="Recupere a Cornucópia com qualquer unidade"/>
+	<entry name="VisitCornucopiaWithHonorableAristocrat" value="Recupere a Cornucópia com <string name='Factions/HonorableAristocrat'/>"/>
+	<entry name="VisitCortexNodes" value="Limpe os nós córtices<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitIronFeather" value="Procure postos avançados próximos pela IronFeather<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitJezina" value="Procure postos avançados próximos pela Jezina<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitLootStash" value="Colete o esconderijo de saque do rei dos bandidos"/>
+	<entry name="VisitOracleShardAndClearEnemies" value="Visite o fragmento do Oráculo e elimine os inimigos"/>
+	<entry name="VisitPassage" value="Busque pela Passagem Garcic<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitRitualSite" value="Movimente suas tropas até o local do ritual"/>
+	<entry name="VisitTileWithGroupSize1" value="Visite uma casela com uma unidade de tamanho de grupo 1<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitTileWithGroupSize3" value="Visite a célula com uma unidade de grupo de tamanho 3<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitTileWithGroupSize6" value="Visite a célula com uma unidade de grupo de tamanho 6<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitTileWithDeformity" value="Visite a célula com a <string name='Units/Deformity'/>"/>
+	<entry name="VisitTileWithIokSwarm" value="Visite a célula com <string name='Units/IokSwarm'/>"/>
+	<entry name="VisitTileWithErelimPriest" value="Visite a célula com <string name='Units/ErelimPriest'/>"/>
+	<entry name="VisitTileWithFlyingUnit" value="Visite a célula com uma unidade voadora para localizar a cidade<nbsp/>(%1%/%2%)"/>
+	<entry name="VisitTileWithHammerheadAndClearEnemies" value="Visite as células com <string name='Units/Hammerhead'/> e elimine os inimigos<nbsp/>(%3%/%2%)"/>
+	<entry name="VisitTileWithHollowWarlord" value="Visite a célula com <string name='Factions/HollowWarlord'/>"/>
+	<entry name="VisitTileWithHonorableAristocrat" value="Entregue suprimentos com <string name='Factions/HonorableAristocrat'/>"/>
+	<entry name="VisitTileWithJackal" value="Visite a célula com <string name='Units/TheJackal'/>"/>
+	<entry name="VisitTileWithJezina" value="Visite a célula com <string name='Units/Jezina'/>"/>
+	<entry name="VisitTileWithJezinaAndClearEnemies" value="Visite a célula com <string name='Units/Jezina'/> e elimine os inimigos"/>
+	<entry name="VisitTileWithLandanGrahamAndClearEnemies" value="Visite a célula com <string name='Units/LandanGraham'/> e elimine os inimigos"/>
+	<entry name="VisitTileWithPhenarisHunter" value="Visite a célula com <string name='Units/PhenarisHunter'/>"/>
+	<entry name="VisitTileWithResourceTransport" value="Visite a célula com <string name='Units/ResourceTransport'/> em %4% turnos"/>
+	<entry name="WaitForFinalBattle" value="Espere %2% turnos antes de escolher um lado para a batalha final"/>
+	<entry name="WaitForGlandHarvest" value="Espere %2% turnos enquanto as glândulas do seu povo são colhidas"/>
+	<entry name="WaitForHwedoToFeed" value="Espere %2% turnos enquanto Hwedo se alimenta da sua população"/>
+	<entry name="WaitForYetunde" value="Espere %2% turnos para Yetunde concluir sua investigação"/>
 </language>

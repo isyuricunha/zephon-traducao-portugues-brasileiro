@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 	<!-- %1% = subject, %2% = object -->
-	<entry name="Diplomacy1Summary" value="%1% declared war on %2%."/>
-	<entry name="Diplomacy2Summary" value="%1% signed peace treaty with %2%."/>
-	<entry name="Diplomacy3Summary" value="%1% signed trade agreement with %2%."/>
-	<entry name="Diplomacy4Summary" value="%1% entered alliance with %2%."/>
-	<entry name="CityFoundedSummary" value="%1% founded."/>
-	<entry name="CityGrownSummary" value="%1% grown to %2% population."/>
-	<entry name="FactionDefeated" value="Faction Defeated"/>
-	<entry name="FactionDiscovered" value="Faction Discovered"/>
-	<entry name="FactionDiscoveredSummary" value="%1% discovered."/>
-	<entry name="FeatureTypeDiscoveredSummary" value="%1% discovered."/>
-	<entry name="Foundations" value="Shallow Foundations"/>
-	<entry name="FoundationsWithMutator" value="Altered Foundations"/>
-	<entry name="Interlude0" value="A Scintilla of Hope"/>
-	<entry name="Interlude0Info" value="Your people hoped they would return to the surface and find untended wilderness—not a world of monsters and vile ZEPHON machines. Reports regularly come in of refugees who wandered too close to the Wardens' territory—and were slaughtered for their trespass.<br/><br/>What is ZEPHON doing in there? Ironically it is the monsters who know something about the machines. Your comms team is surprised one day to hear the voice of an Acrin leader—The Anchorite—broadcasting on an old AM radio frequency.<br/><br/>He sounds like a preacher whose voice would have once haunted the airwaves of the empty countryside. In his sermons, he proclaims that his people want peace. “To seek a new future, without the Voice,” he says. “To know it was the Voice who hunted humans—who hunted ZEPHON—not my people.”<br/><br/>His preaching sometimes descends to rambling. He mumbles about mysterious factories belching fire and smoke into the night. He mourns his people slain by the Wardens who guard them.<br/><br/>“To want peace, simple peace. Peace must light up the land like the sun rising over a glimmering ocean.” the Anchorite intones.<br/><br/>You listen to his sermon, keenly aware that if peace is a distant sunrise, there is still a long night ahead of you."/>
-	<entry name="Interlude1" value="Portents of Despair"/>
-	<entry name="Interlude1Info" value="The Anchorite has taken to the airwaves again. He seems particularly agitated. “To mourn the loss of my people slaughtered by ZEPHON,” he declaims into a microphone. “To hear the crushing sound of ZEPHON's factories rumbling in the night. To agonize over what weapon it forges in the depths.”<br/><br/>“The depths”—that information is new. ZEPHON acts like the factories don't exist. But if their goods are being shipped to the coast, to the bottom of the ocean… no one could ever know what it was making.<br/><br/>The Anchorite continues. “To recall our mission to this planet was one of… genocide,” he slowly says. “To hope the mission had died with the Acrin fleet.”<br/><br/>You tense at his next words. “The fleet still hangs in orbit. Horrible creatures of war lie sleeping in its bowels.”<br/><br/>How does he know this? No one should be able to access the fleet. The Anchorite's voice falters as if he can hear your thoughts across a great distance.<br/><br/>“To prepare-,” he says—but then cuts himself off. “To know” he says with a harsher tone, “that we must do what is necessary to prevent our own genocide.”"/>
-	<entry name="PlayerCondemnedSummary" value="%1% condemned %2%."/>
-	<entry name="PlayerLost" value="Defeat!"/>
-	<entry name="PlayerLostSummary" value="%1% defeated!"/>
-	<entry name="PlayerPraisedSummary" value="%1% praised %2%."/>
-	<entry name="PlayerRegroupedSummary" value="%1% regrouped."/>
+	<entry name="Diplomacy1Summary" value="%1% declarou guerra contra %2%."/>
+	<entry name="Diplomacy2Summary" value="%1% assinou tratado de paz com %2%."/>
+	<entry name="Diplomacy3Summary" value="%1% firmou acordo comercial com %2%."/>
+	<entry name="Diplomacy4Summary" value="%1% formou aliança com %2%."/>
+	<entry name="CityFoundedSummary" value="%1% foi fundada."/>
+	<entry name="CityGrownSummary" value="%1% cresceu para %2% de população."/>
+	<entry name="FactionDefeated" value="Facção Derrotada"/>
+	<entry name="FactionDiscovered" value="Facção Descoberta"/>
+	<entry name="FactionDiscoveredSummary" value="%1% descoberto(a)."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="%1% descoberto(a)."/>
+	<entry name="Foundations" value="Fundamentos Rasos"/>
+	<entry name="FoundationsWithMutator" value="Fundamentos Alterados"/>
+	<entry name="Interlude0" value="Uma Faísca de Esperança"/>
+	<entry name="Interlude0Info" value="Seu povo esperava retornar à superfície e encontrar uma natureza intocada — não um mundo de monstros e máquinas abomináveis do ZEPHON. Relatos chegam com frequência de refugiados que se aproximaram demais do território dos Guardiões... e foram massacrados por sua intrusão.<br/><br/>O que o ZEPHON está fazendo lá dentro? Ironicamente, são os monstros que sabem algo sobre as máquinas. Um dia, sua equipe de comunicações se surpreende ao ouvir a voz de um líder Acrin — o <style stop='true'/>Anchorite<style stop='true'/>, transmitindo em uma antiga frequência de rádio AM.<br/><br/>Ele soa como um pregador cuja voz já assombrou as ondas do rádio no campo deserto. Em seus sermões, ele proclama que seu povo quer paz. "Buscar um futuro novo, sem a <style stop='true'/>Voice<style stop='true'/>", diz ele. "Sabendo que foi a <style stop='true'/>Voice<style stop='true'/>, não meu povo, quem caçou humanos — quem caçou o ZEPHON."<br/><br/>Suas pregações às vezes descambam para divagações. Ele murmura sobre fábricas misteriosas cuspindo fogo e fumaça na noite. Lamenta seu povo abatido pelos Guardiões que os vigiam.<br/><br/>"Querer paz, uma paz simples. Que a paz ilumine a terra como o sol nascendo sobre um oceano cintilante." entoa o <style stop='true'/>Anchorite<style stop='true'/>.<br/><br/>Você ouve seu sermão, ciente de que, se a paz é um nascer do sol distante, ainda há uma longa noite pela frente."/>
+	<entry name="Interlude1" value="Presságios do Desespero"/>
+	<entry name="Interlude1Info" value="O Anchorite voltou aos ares novamente. Parece particularmente agitado. "Lamentar a perda do meu povo, massacrado pelo ZEPHON", ele declara no microfone. "Ouvir o som esmagador das fábricas do ZEPHON roncando na noite. Angustiar-se com a arma que forjam nas profundezas."<br/><br/>"As profundezas" — essa informação é nova. O ZEPHON age como se as fábricas não existissem. Mas se seus produtos estão sendo enviados para a costa, para o fundo do oceano… ninguém jamais saberia o que estão fabricando.<br/><br/>O Anchorite continua. "Lembrar que nossa missão neste planeta foi uma de… genocídio", ele diz lentamente. "Esperar que a missão tivesse morrido com a frota Acrin."<br/><br/>Você se tensa com suas próximas palavras. "A frota ainda paira em órbita. Criaturas horríveis de guerra repousam adormecidas em suas entranhas."<br/><br/>Como ele sabe disso? Ninguém deveria ter acesso à frota. A voz do Anchorite vacila, como se pudesse ouvir seus pensamentos através de uma grande distância.<br/><br/>"Preparar-," ele diz — mas então se interrompe. "Saber", ele diz com um tom mais áspero, "que devemos fazer o que for necessário para evitar nosso próprio genocídio.""/>
+	<entry name="PlayerCondemnedSummary" value="%1% condenou %2%."/>
+	<entry name="PlayerLost" value="Derrota!"/>
+	<entry name="PlayerLostSummary" value="%1% derrotado(a)!"/>
+	<entry name="PlayerPraisedSummary" value="%1% elogiou %2%."/>
+	<entry name="PlayerRegroupedSummary" value="%1% reagrupou."/>
 	<entry name="PlayerUsedActionOnSummary" value="<string name='Notifications/UnitUsedActionOnSummary'/>"/>
-	<entry name="PlayerWon" value="Victory!"/>
-	<entry name="PlayerWonSummary" value="%1% victorious!"/>
-	<entry name="ProductionCompletedSummary" value="%1% produced %2%."/>
-	<entry name="RegionDiscoveredSummary" value="%1% discovered."/>
-	<entry name="ResearchCompleted" value="Research Completed"/>
-	<entry name="ResearchCompletedSummary" value="%1% researched."/>
-	<entry name="RewardGainedSummary" value="Gained %2%."/>
-	<entry name="TileAcquiredSummary" value="%1% acquired tile."/>
-	<entry name="TileCapturedSummary" value="%1% captured %2%."/>
-	<entry name="TileClearedSummary" value="%1% cleared %2%."/>
-	<entry name="UnitAttackedSummary" value="%1% attacked %2%."/>
-	<entry name="UnitCapturedSummary" value="%1% captured %2%."/>
-	<entry name="UnitDamagedSummary" value="%1% damaged %2%."/>
-	<entry name="UnitKilledSummary" value="%1% killed %2%."/>
-	<entry name="UnitGainedTraitSummary" value="%1% gained %2%."/>
-	<entry name="UnitTransformedSummary" value="%1% transformed into %2%."/>
-	<entry name="UnitTypeDiscoveredSummary" value="%1% discovered."/>
-	<entry name="UnitUsedActionOnSummary" value="%1% used %2% on %3%."/>
+	<entry name="PlayerWon" value="Vitória!"/>
+	<entry name="PlayerWonSummary" value="%1% vitorioso(a)!"/>
+	<entry name="ProductionCompletedSummary" value="%1% produziu %2%."/>
+	<entry name="RegionDiscoveredSummary" value="%1% descobriu."/>
+	<entry name="ResearchCompleted" value="Pesquisa Concluída"/>
+	<entry name="ResearchCompletedSummary" value="%1% pesquisou."/>
+	<entry name="RewardGainedSummary" value="Ganhou %2%."/>
+	<entry name="TileAcquiredSummary" value="%1% adquiriu território."/>
+	<entry name="TileCapturedSummary" value="%1% capturou %2%."/>
+	<entry name="TileClearedSummary" value="%1% limpou %2%."/>
+	<entry name="UnitAttackedSummary" value="%1% atacou %2%."/>
+	<entry name="UnitCapturedSummary" value="%1% capturou %2%."/>
+	<entry name="UnitDamagedSummary" value="%1% danificou %2%."/>
+	<entry name="UnitKilledSummary" value="%1% matou %2%."/>
+	<entry name="UnitGainedTraitSummary" value="%1% ganhou %2%."/>
+	<entry name="UnitTransformedSummary" value="%1% se transformou em %2%."/>
+	<entry name="UnitTypeDiscoveredSummary" value="%1% descoberto(a)."/>
+	<entry name="UnitUsedActionOnSummary" value="%1% usou %2% em %3%."/>
 </language>

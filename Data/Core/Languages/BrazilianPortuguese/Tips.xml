@@ -9,32 +9,32 @@ Too many tips that pop-up means the player is interrupted, annoyed and stops rea
 We can do longer explanatory tips that are only in the Compendium. E.g. Camera tip could have "More" that links to Camera (Advanced): arrows keys, mouse wheel, zoom, middle mouse rotate. Similarly for Combat.
 -->
 <language>
-	<entry name="AcquireTile" value="Acquire Tile"/>
-	<entry name="AcquireTileDescription" value="Before constructing additional buildings, you must first claim another tile. Click “<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Acquire Tile” and <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>select a tile with at least 1 <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>building slot. This process will take a few <string name='Attributes/TurnsIcon'/> turns."/>
-	<entry name="Affinities" value="Affinities"/>
+	<entry name="AcquireTile" value="Adquirir Terreno"/>
+	<entry name="AcquireTileDescription" value="Antes de construir mais edifícios, você deve primeiro reivindicar outro terreno. Clique em “<icon height='20' texture='Icons/Actions/AcquireTile'/><nbsp/>Adquirir Terreno” e <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>selecionar um terreno com pelo menos 1 <icon height='20' texture='Icons/Attributes/BuildingSlots'/><nbsp/>espaço para construção. Esse processo levará alguns <string name='Attributes/TurnsIcon'/> turnos."/>
+	<entry name="Affinities" value="Afinidades"/>
 	<entry name="AffinitiesDescription" value="Because of your %1% affinity, you gain earlier and cheaper access to %1% technologies, including exclusive access to the highest tier of %1% research. However, you can discover unique synergies by researching outside your affinity—toggle between branches to view their technologies."/> <!-- Exclusively for this string, %1% is the affinity icon and name. -->
-	<entry name="AllianceVictory" value="Alliance Victory"/>
-	<entry name="AllianceVictoryDescription" value="Even if you are allied with everyone, you can only achieve victory if all of your allies are also allied with each other. Note that NPCs will never agree to ally with one another."/>
-	<entry name="AreaOrderUnits" value="Area Order Units"/>
-	<entry name="AreaOrderUnitsDescription" value="[<control name='OrderAreaUnits'/>] to order all units within 3 tiles of the target enemy to attack it."/>
+	<entry name="AllianceVictory" value="Vitória por Aliança"/>
+	<entry name="AllianceVictoryDescription" value="Mesmo que esteja aliado a todos, só alcançará a vitória se todos os seus aliados também estiverem aliados entre si. Note que NPCs nunca concordarão em se aliar uns aos outros."/>
+	<entry name="AreaOrderUnits" value="Unidades de Ordem por Área"/>
+	<entry name="AreaOrderUnitsDescription" value="[<control name='OrderAreaUnits'/>] para ordenar que todas as unidades em um raio de 3 terrenos do alvo inimigo o ataquem."/>
 	<entry name="Bleed" value="Bleed"/>
-	<entry name="BleedDescription" value="<icon height='20' color='GUI/Red' texture='Icons/Features/Bleed'/><nbsp/>Bleed damages ground units each turn—don’t stay inside for too long."/>
-	<entry name="Camera" value="Camera"/>
-	<entry name="CameraDescription" value="Welcome to post-apocalyptic Earth. To move the camera, <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>press over terrain and move your mouse."/>
-	<entry name="CloseQuartersFire" value="Close-Quarters Fire"/>
-	<entry name="CloseQuartersFireDescription" value="<icon height='20' texture='Icons/Units/Militant'/><nbsp/>Militants wield weapons with <icon height='20' texture='Icons/Traits/CloseQuartersFire'/><nbsp/>Close-Quarters Fire and attack at double rate at range 1. Consider your positioning before <icon height='20' texture='Icons/RightMouseButton'/><nbsp/>attacking."/>
-	<entry name="Caches" value="Caches"/>
-	<entry name="CachesDescription" value="Caches of <icon height='20' texture='Icons/HumanBranch'/><nbsp/>Human, <icon height='20' texture='Icons/VoiceBranch'/><nbsp/>Voice and <icon height='20' texture='Icons/CyberBranch'/><nbsp/>Cyber supplies are scattered throughout the map. Move a unit onto a cache to collect its contents."/>
-	<entry name="Communications" value="Communications"/>
-	<entry name="CommunicationsDescription" value="The <icon height='20' texture='Icons/Communications'/><nbsp/>Communications screen lets you manage diplomacy with other players: call or block them, declare war, forge or end pacts, shift relations through gifts, praise or denunciations, and even influence their ties with other factions."/>
-	<entry name="ConstructInfantryBuilding" value="Construct Barracks"/>
-	<entry name="ConstructInfantryBuildingDescription" value="Construct unit production buildings to reinforce your struggling presence. Click “<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Barracks” and <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>select a valid tile to start construction there. This will take several <string name='Attributes/TurnsIcon'/> turns."/>
-	<entry name="Cover" value="Cover"/>
-	<entry name="CoverDescription" value="<icon height='20' texture='Icons/Features/Forest'/><nbsp/>Forests, <icon height='20' texture='Icons/Features/Ruins'/><nbsp/>ruins, <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>outposts and <icon height='20' texture='Icons/Features/City'/><nbsp/>cities grant ranged damage reduction for non-large units. Take cover when you can."/>
-	<entry name="DamageCap" value="Damage Cap"/>
-	<entry name="DamageCapDescription" value="A weapon’s <icon height='20' texture='Icons/Attributes/Damage'/><nbsp/>damage exceeds the <icon height='20' texture='Icons/Attributes/Hitpoints'/><nbsp/>hitpoints of a single member of the target enemy, which causes any excess to be wasted."/>
-	<entry name="DamageCalculation" value="Damage Calculation"/>
-	<entry name="DamageCalculationDescription" value="There are a few important concepts to understand about damage calculation.<br/><br/>Each unit has a number of identical group members, with the unit’s total hitpoints being composed of the hitpoints of each individual group member. When a unit loses hitpoints equivalent to a group member, that member dies and no longer contributes its weapons to attacks, effectively reducing inflicted damage by the fraction that squad member represents. Healing the unit will bring the group member back to life, restoring the unit’s power. Units with only 1 squad member, such as large units, become damaged when below 50% hitpoints which reduces their accuracy by 33%.<br/><br/>When calculating a weapon’s final inflicted damage, the weapon’s damage value is first capped by the target unit’s group member hitpoints. That means a single attack of a weapon can never do more damage than there are hitpoints for an individual member in the target group. That is, a 6 damage weapon against a Militants group where each Militant has 2 hitpoints can never deal more than 2 damage. For single group member units, such as large units, this is irrelevant as their total hitpoints equals their member hitpoints.<br/><br/>After the hitpoints cap, attacks, accuracy and the target’s armor and other damage reductions are all applied multiplicatively.<br/><br/>Attacks specifies the number of attacks a weapon makes against its target when the unit attacks. This is the most valuable stat to increase, because it scales the damage after the hitpoints cap. And unlike accuracy it is unbounded in the upper limit.<br/><br/>Accuracy can range from 2 to 12, each point being 1/12 or 0.083 that is multiplied into the final damage value. It cannot be decreased below 2 or increased above 12.<br/><br/>Armor and other damage reductions (cover, evasion, city, invulnerable) of the same type are added together and then each reduce the damage by their corresponding factor multiplicatively, but no individual type can reduce the damage by more than 10/12 or 83%. Armor penetration indicates how many points of armor are ignored. Unless specifically mentioned otherwise, all damage reductions apply to both melee and ranged weapons.<br/><br/>Traits are built on top of and use these elementary concepts. For example, weapons with the splash trait gain additional attacks for each extra living member in the target group, and weapons with the ignore cover trait ignore cover damage reduction of the target unit.<br/><br/>Some consequences of all this:<br/><icon texture='GUI/Bullet'/>Increasing the damage of a weapon may not increase the inflicted damage.<br/><icon texture='GUI/Bullet'/>Infantry are tankier than their hitpoints might indicate. Single attack high damage non-splash weapons won’t be able to kill more than 1 group member. And at full hitpoints won’t even be able to kill 1 group member unless the weapon has 100% accuracy.<br/><icon texture='GUI/Bullet'/>To kill infantry, it’s better to have high accuracy, more attacks or splash.<br/><icon texture='GUI/Bullet'/>Hitpoint gains from leveling are less useful for low hitpoints group members. The increase in hitpoints is canceled out by the increase in group member hitpoints cap, making it worthless against weapons that already exceed the cap.<br/><icon texture='GUI/Bullet'/>Healing is more valuable on infantry.<br/><icon texture='GUI/Bullet'/>Modifying low accuracy by a flat amount is more valuable than modifying high accuracy. E.g. increasing accuracy from 6 to 8 (50% to 67%) is a 33% damage increase. However, increasing accuracy from 8 to 10 (67% to 83%) is a 25% damage increase.<br/><icon texture='GUI/Bullet'/>Damage reduction of the same type has increasing returns. E.g. increasing armor from 0 to 1 will only give an (12-0)/(12-1)=+9% increase in survivability. However, increasing armor from 9 to 10 will give a (12-9)/(12-10)=+50% increase in survivability."/>
+	<entry name="BleedDescription" value="<icon height='20' color='GUI/Red' texture='Icons/Features/Bleed'/><nbsp/>Bleed causa dano a unidades terrestres a cada turno — não fique dentro por muito tempo."/>
+	<entry name="Camera" value="Câmera"/>
+	<entry name="CameraDescription" value="Bem-vindo à Terra pós-apocalíptica. Para mover a câmera, <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>clique e arraste sobre o terreno com o mouse."/>
+	<entry name="CloseQuartersFire" value="Fogo em Curta Distância"/>
+	<entry name="CloseQuartersFireDescription" value="<icon height='20' texture='Icons/Units/Militant'/><nbsp/>Militantes usam armas com <icon height='20' texture='Icons/Traits/CloseQuartersFire'/><nbsp/>Fogo em Curta Distância e atacam com o dobro da velocidade no alcance 1. Considere seu posicionamento antes <icon height='20' texture='Icons/RightMouseButton'/><nbsp/>atacando."/>
+	<entry name="Caches" value="Depósitos"/>
+	<entry name="CachesDescription" value="Depósitos de <icon height='20' texture='Icons/HumanBranch'/><nbsp/>Humano, <icon height='20' texture='Icons/VoiceBranch'/><nbsp/>Voz e <icon height='20' texture='Icons/CyberBranch'/><nbsp/>Suprimentos cibernéticos estão espalhados pelo mapa. Mova uma unidade até um depósito para coletar seu conteúdo."/>
+	<entry name="Communications" value="Comunicações"/>
+	<entry name="CommunicationsDescription" value="A <icon height='20' texture='Icons/Communications'/><nbsp/>A tela de Comunicações permite gerenciar a diplomacia com outros jogadores: chamar ou bloquear, declarar guerra, forjar ou encerrar pactos, alterar relações por meio de presentes, elogios ou denúncias e até influenciar seus laços com outras facções."/>
+	<entry name="ConstructInfantryBuilding" value="Construir Quartel"/>
+	<entry name="ConstructInfantryBuildingDescription" value="Construa edifícios de produção de unidades para reforçar sua presença em dificuldades. Clique em “<icon height='20' texture='Icons/Buildings/HumanInfantry'/><nbsp/>Quartel” e <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>selecionar um espaço válido para iniciar a construção ali. Isso levará vários <string name='Attributes/TurnsIcon'/> turnos."/>
+	<entry name="Cover" value="Cobertura"/>
+	<entry name="CoverDescription" value="<icon height='20' texture='Icons/Features/Forest'/><nbsp/>Florestas, <icon height='20' texture='Icons/Features/Ruins'/><nbsp/>ruínas, <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>postos avançados e <icon height='20' texture='Icons/Features/City'/><nbsp/>cidades concedem redução de dano à distância para unidades não grandes. Busque cobertura sempre que possível."/>
+	<entry name="DamageCap" value="Limite de Dano"/>
+	<entry name="DamageCapDescription" value="O dano de uma <icon height='20' texture='Icons/Attributes/Damage'/><nbsp/>arma excede os <icon height='20' texture='Icons/Attributes/Hitpoints'/><nbsp/>pontos de vida de um único membro do alvo inimigo, fazendo com que qualquer excesso seja desperdiçado."/>
+	<entry name="DamageCalculation" value="Cálculo de Dano"/>
+	<entry name="DamageCalculationDescription" value="Existem alguns conceitos importantes para entender sobre o cálculo de dano.<br/><br/>Cada unidade possui vários membros de grupo idênticos, sendo que os pontos de vida totais da unidade são compostos pelos pontos de vida de cada membro individual. Quando uma unidade perde pontos de vida equivalentes a um membro do grupo, esse membro morre e não contribui mais com suas armas nos ataques, reduzindo efetivamente o dano infligido pela fração que aquele membro representava. Curar a unidade trará o membro de volta à vida, restaurando o poder da unidade. Unidades com apenas 1 membro, como unidades grandes, ficam *danificadas* quando estão com menos de 50% dos pontos de vida, o que reduz sua precisão em 33%.<br/><br/>Ao calcular o dano final infligido por uma arma, o valor de dano da arma é primeiro limitado pelos pontos de vida de um membro do grupo alvo. Isso significa que um único ataque de uma arma nunca pode causar mais dano do que os pontos de vida de um membro individual no grupo alvo. Ou seja, uma arma com 6 de dano contra um grupo de Milicianos, onde cada um tem 2 pontos de vida, nunca poderá causar mais de 2 de dano. Para unidades com um único membro, como unidades grandes, isso é irrelevante, já que seus pontos de vida totais equivalem aos pontos de vida do membro.<br/><br/>Após o limite de pontos de vida, ataques, precisão e a armadura do alvo, além de outras reduções de dano, são aplicados de forma multiplicativa.<br/><br/><b>Ataques</b> especifica quantos ataques uma arma faz contra seu alvo quando a unidade ataca. Essa é a estatística mais valiosa para aumentar, pois escala o dano após o limite de pontos de vida. E, diferentemente da precisão, não possui limite superior.<br/><br/>A <b>precisão</b> pode variar de 2 a 12, cada ponto representando 1/12 (ou ~8,3%) que é multiplicado no valor final do dano. Não pode ser reduzida abaixo de 2 nem aumentada acima de 12.<br/><br/>A <b>armadura</b> e outras reduções de dano (cobertura, esquiva, cidade, invulnerabilidade) do mesmo tipo são somadas e, em seguida, cada uma reduz o dano pelo fator correspondente de forma multiplicativa. Porém, nenhum tipo individual pode reduzir o dano em mais de 10/12 (ou ~83%). A <b>penetração de armadura</b> indica quantos pontos de armadura são ignorados. A menos que seja mencionado o contrário, todas as reduções de dano se aplicam tanto a armas corpo a corpo quanto a armas à distância.<br/><br/>Os <b>traços</b> são construídos sobre esses conceitos elementares. Por exemplo, armas com o traço <i>área de efeito</i> ganham ataques adicionais para cada membro extra vivo no grupo alvo, enquanto armas com o traço <i>ignora cobertura</i> ignoram a redução de dano por cobertura da unidade alvo.<br/><br/>Algumas consequências disso tudo:<br/><icon texture='GUI/Bullet'/>Aumentar o dano de uma arma pode não aumentar o dano infligido.<br/><icon texture='GUI/Bullet'/>A infantaria é mais resistente do que seus pontos de vida podem indicar. Armas de alto dano, ataque único e sem área de efeito não conseguirão matar mais de 1 membro do grupo por vez. E, com os pontos de vida cheios, nem mesmo conseguirão matar 1 membro, a menos que a arma tenha 100% de precisão.<br/><icon texture='GUI/Bullet'/>Para matar infantaria, é melhor ter alta precisão, mais ataques ou área de efeito.<br/><icon texture='GUI/Bullet'/>Ganhos de pontos de vida ao subir de nível são menos úteis para membros de grupo com poucos pontos de vida. O aumento nos pontos de vida é anulado pelo aumento no limite de pontos de vida por membro, tornando-o ineficaz contra armas que já excedem esse limite.<br/><icon texture='GUI/Bullet'/>Curar é mais valioso em unidades de infantaria.<br/><icon texture='GUI/Bullet'/>Modificar uma precisão baixa por um valor fixo é mais vantajoso do que modificar uma precisão alta. Ex.: aumentar a precisão de 6 para 8 (50% para 67%) resulta em um aumento de 33% no dano. Já aumentar de 8 para 10 (67% para 83%) resulta em apenas 25% de aumento.<br/><icon texture='GUI/Bullet'/>A redução de dano do mesmo tipo tem retornos crescentes. Ex.: aumentar a armadura de 0 para 1 dá apenas um aumento de (12-0)/(12-1) = +9% na sobrevivência. Porém, aumentar de 9 para 10 dá um aumento de (12-9)/(12-10) = +50% na sobrevivência."/>
 	<entry name="Debuff" value="Debuff"/>
 	<entry name="DebuffDescription" value="The unit is suffering from the %1% debuff—consider your options."/> <!-- Exclusively for this string, %1% is the trait icon and name. -->
 	<entry name="EnemyInCity" value="Enemy In City"/>
@@ -48,65 +48,65 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="FallenSoldier" value="Fallen Soldier"/>
 	<entry name="FallenSoldierDescription" value="You are playing as the <icon height='20' texture='Icons/Factions/FallenSoldier'/><nbsp/>Fallen Soldier, a Human-affinity leader whose units heal each turn thanks to <icon height='20' texture='Icons/Traits/Undying'/><nbsp/><string name='Traits/Undying'/>, but are more expensive to maintain because of <icon height='20' texture='Icons/Traits/LeaveNoManBehind'/><nbsp/><string name='Traits/LeaveNoManBehind'/>. Through research, you can unlock more of your leader’s unique properties."/>
 	<entry name="FoundCity" value="Found City"/>
-	<entry name="FoundCityDescription" value="<icon height='20' texture='Icons/Units/Engineer'/><nbsp/>Engineers can found cities. To establish your first city, click “<icon height='20' texture='Icons/Actions/FoundCity'/><nbsp/>Found City” and <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>select a tile."/>
-	<entry name="HabitationBlocks" value="Habitation Blocks"/>
-	<entry name="HabitationBlocksDescription" value="Each building except the headquarters requires 1 <icon height='20' texture='Icons/Attributes/Population'/><nbsp/>population to operate. It's critical to research and construct <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>Habitation Blocks to increase your city's <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>housing (population limit)."/>
-	<entry name="Healing" value="Healing"/>
-	<entry name="HealingDescription" value="The unit has suffered significant damage. To heal, it must stay still and not participate in combat. Click “<icon height='20' texture='Icons/Actions/HoldPositionUntilHealed'/><nbsp/>Hold Position Until Healed” to wait until it is back at full strength. Consider retreating to a friendly outpost or city tile where healing is accelerated."/>
-	<entry name="Housing" value="Housing"/>
-	<entry name="HousingDescription" value="The city's <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>housing is full. Construct <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>Habitation Blocks to increase the amount of living space and allow your population to grow again."/>
-	<entry name="Loyalty" value="Loyalty"/>
-	<entry name="LoyaltyDescription" value="Negative loyalty is decreasing the city's resource output. Research and construct a <icon height='20' texture='Icons/Buildings/Loyalty'/><nbsp/>Holo Theater to keep your population working effectively."/>
-	<entry name="MarkTiles" value="Mark Tiles"/>
+	<entry name="FoundCityDescription" value="<icon height='20' texture='Icons/Units/Engineer'/><nbsp/>Engineers can found cities. To establish your first city, click “<icon height='20' texture='Icons/Actions/FoundCity'/><nbsp/>Found City” and <icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>selecione um terreno."/>
+	<entry name="HabitationBlocks" value="Blocos Habitacionais"/>
+	<entry name="HabitationBlocksDescription" value="Cada construção, exceto o quartel-general, exige 1 <icon height='20' texture='Icons/Attributes/Population'/><nbsp/>habitante para funcionar. É crucial pesquisar e construir <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>Blocos Habitacionais para aumentar a <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>capacidade de moradia (limite populacional) da sua cidade."/>
+	<entry name="Healing" value="Cura"/>
+	<entry name="HealingDescription" value="A unidade sofreu danos significativos. Para se curar, deve permanecer parada e não participar de combates. Clique em “<icon height='20' texture='Icons/Actions/HoldPositionUntilHealed'/><nbsp/>Manter Posição Até a Cura” para esperar até que esteja totalmente recuperada. Considere recuar para um posto avançado aliado ou terreno urbano, onde a cura é acelerada."/>
+	<entry name="Housing" value="Moradia"/>
+	<entry name="HousingDescription" value="A <icon height='20' texture='Icons/Attributes/PopulationLimit'/><nbsp/>moradia da cidade está lotada. Construa <icon height='20' texture='Icons/Buildings/PopulationLimit'/><nbsp/>Blocos Habitacionais para aumentar o espaço habitável e permitir que sua população cresça novamente."/>
+	<entry name="Loyalty" value="Lealdade"/>
+	<entry name="LoyaltyDescription" value="Lealdade negativa está reduzindo a produção de recursos da cidade. Pesquise e construa um <icon height='20' texture='Icons/Buildings/Loyalty'/><nbsp/>Teatro Holográfico para manter sua população trabalhando de forma eficiente."/>
+	<entry name="MarkTiles" value="Marcar Terrenos"/>
 	<entry name="MarkTilesDescription" value="<string name='Tips/Loading/54'/>"/>
-	<entry name="MassOrderUnits" value="Mass Order Units"/>
-	<entry name="MassOrderUnitsDescription" value="[<control name='OrderAllUnits'/>] to order all units or [<control name='OrderAllIdleUnits'/>] to order all idle units to move to a target tile or attack a target enemy."/>
-	<entry name="Morale" value="Morale"/>
-	<entry name="MoraleDescription" value="The unit has taken a hit to <icon height='20' texture='Icons/Attributes/Morale'/><nbsp/>morale from the loss of nearby allies. This will reduce their performance in combat. To recover, keep them out of combat or kill enemy units."/>
-	<entry name="Movement" value="Movement"/>
-	<entry name="MovementDescription" value="Move the unit by pressing <icon height='20' texture='Icons/RightMouseButton'/>. Each unit can only move once per turn inside the <style color='GUI/Green'/>green area<style color='Default'/>. Cliffs, which are only traversable by titans and flying units, are represented by <style color='GUI/Orange'/>orange lines<style color='Default'/>."/>
+	<entry name="MassOrderUnits" value="Ordenar Unidades em Massa"/>
+	<entry name="MassOrderUnitsDescription" value="[<control name='OrderAllUnits'/>] para ordenar todas as unidades ou [<control name='OrderAllIdleUnits'/> para ordenar que todas as unidades ociosas se movam para um quadrante alvo ou ataquem um inimigo alvo."/>
+	<entry name="Morale" value="Moral"/>
+	<entry name="MoraleDescription" value="A unidade sofreu um golpe no <icon height='20' texture='Icons/Attributes/Morale'/><nbsp/>moral devido à perda de aliados próximos. Isso reduzirá seu desempenho em combate. Para se recuperar, mantenha-as fora de combate ou elimine unidades inimigas."/>
+	<entry name="Movement" value="Movimento"/>
+	<entry name="MovementDescription" value="Movimente a unidade pressionando <icon height='20' texture='Icons/RightMouseButton'/>. Cada unidade só pode se mover uma vez por turno dentro da <style color='GUI/Green'/>área verde<style color='Default'/>. Penhascos, que só podem ser atravessados por titãs e unidades voadoras, são representados por <style color='GUI/Orange'/>linhas laranjas<style color='Default'/>."/>
 	<entry name="NPCs" value="NPCs"/>
-	<entry name="NPCsDescription" value="Three non-player leaders are also fighting for supremacy: <icon height='20' texture='Icons/Factions/Anchorite'/><nbsp/>Anchorite, <icon height='20' texture='Icons/Factions/Chieftess'/><nbsp/>Chieftess and <icon height='20' texture='Icons/Factions/Zephon'/><nbsp/>ZEPHON. Peace with them allows you to ask for their support. Good standing may unlock additional choices in quests."/>
-	<entry name="NextTask" value="Next Task"/>
-	<entry name="NextTaskDescription" value="Take your time to explore the interface—every element has a hint with extra information. If you’re unsure what to do next, check the large red task button on the bottom right side of the screen. It will help you focus on the next task before you end your turn."/>
-	<entry name="Operations" value="Operations"/>
-	<entry name="OperationsDescription" value="Operations, shown in the top-left of the screen, are <icon height='20' texture='Icons/Attributes/Range'/><nbsp/>map-wide abilities with limited <icon height='20' texture='Icons/Attributes/Charges'/><nbsp/>uses, earned as rewards or produced in your cities. Because they have an upkeep cost, you can dismantle them with a <icon height='20' texture='Icons/RightMouseButton'/><nbsp/>click if you do not plan to use them."/>
-	<entry name="Outposts" value="Outposts"/>
-	<entry name="OutpostsDescription" value="Capture <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>outposts to increase your resource gain. When within cities, they also grant % bonuses to the entire city. Some outposts also provide bonuses to the stationed unit or grant rewards at regular intervals."/>
-	<entry name="Overwatch" value="Overwatch"/>
-	<entry name="OverwatchDescription" value="Units with actions remaining will fire overwatch shots at enemies that enter their <style color='GUI/Red'/>red attack area<style color='Default'/>. Consider disabling <icon height='20' texture='Icons/Actions/Overwatch'/><nbsp/>overwatch if you don't want to unleash neutral units."/>
-	<entry name="LeaderAbilities" value="Leader Abilities"/>
-	<entry name="LeaderAbilitiesDescription" value="Each leader has unique abilities that cost <icon height='20' texture='Icons/Attributes/Influence'/><nbsp/>influence to activate, displayed in the top-left of the screen. Some of these powers can also be earned through quests. Use them at the right moment to maximize your chances of success."/>
-	<entry name="Population" value="Population"/>
-	<entry name="PopulationDescription" value="The city’s <icon height='20' texture='Icons/Attributes/Population'/><nbsp/>population is too low to operate all buildings at full efficiency. Click <icon height='20' texture='Icons/DisableBuilding'/> to disable a nonessential building."/>
-	<entry name="ProduceUnits" value="Produce Units"/>
-	<entry name="ProduceUnitsDescription" value="Start <icon height='20' texture='Icons/Units/Militant'/><nbsp/>Militant production in the Barracks. Other buildings can keep producing at the same time. If you construct additional Barracks, units will finish training faster."/>
-	<entry name="Recon" value="Recon"/>
-	<entry name="ReconDescription" value="Many units have activatable abilities. <icon height='20' texture='Icons/Units/Outrider'/><nbsp/>Outriders and <icon height='20' texture='Icons/Units/Sharpshooter'/><nbsp/>Sharpshooters can reveal everything within <icon height='20' texture='Icons/Attributes/Radius'/><nbsp/>3 tiles with the <icon height='20' texture='Icons/Actions/Recon'/><nbsp/>Recon ability."/>
-	<entry name="Research" value="Research"/>
-	<entry name="ResearchDescription" value="Researching a hero is a good place to start. Once unlocked, you can produce them in the headquarters. Note that changing your active research will forfeit any partial progress."/>
-	<entry name="ResearchLaboratory" value="Research Laboratory"/>
-	<entry name="ResearchLaboratoryDescription" value="It’s valuable to unlock the construction of <icon height='20' texture='Icons/Buildings/Research'/><nbsp/>Research Laboratories to increase your research speed."/>
-	<entry name="TheConcordat" value="The Concordat"/>
-	<entry name="TheConcordatDescription" value="You can buy and sell resources and hero items at any time at <icon height='20' texture='Icons/Shop'/><nbsp/>The Concordat."/>
-	<entry name="Transports" value="Transports"/>
-	<entry name="TransportsDescription" value="<icon height='20' texture='Icons/Traits/Transport'/><nbsp/>Transports can carry non-large units as cargo. Embarked units heal inside, but if the transport is destroyed, the cargo dies with it."/>
-	<entry name="Selection" value="Selection"/>
-	<entry name="SelectionDescription" value="<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>click on a unit to select it."/>
-	<entry name="TileEffect" value="Tile Effect"/>
+	<entry name="NPCsDescription" value="Três líderes não jogáveis também lutam pela supremacia: <icon height='20' texture='Icons/Factions/Anchorite'/><nbsp/>Anchorite, <icon height='20' texture='Icons/Factions/Chieftess'/><nbsp/>Chieftess e <icon height='20' texture='Icons/Factions/Zephon'/><nbsp/>ZEPHON. Fazer paz com eles permite pedir apoio. Uma boa relação pode desbloquear escolhas adicionais em missões."/>
+	<entry name="NextTask" value="Próxima Tarefa"/>
+	<entry name="NextTaskDescription" value="Tire um tempo para explorar a interface — cada elemento tem uma dica com informações extras. Se não souber o que fazer em seguida, verifique o grande botão vermelho de tarefas no canto inferior direito da tela. Ele ajuda a focar na próxima tarefa antes de encerrar seu turno."/>
+	<entry name="Operations" value="Operações"/>
+	<entry name="OperationsDescription" value="Operações, exibidas no canto superior esquerdo da tela, são <icon height='20' texture='Icons/Attributes/Range'/><nbsp/>habilidades globais com usos <icon height='20' texture='Icons/Attributes/Charges'/><nbsp/>limitados, obtidas como recompensas ou produzidas em suas cidades. Como têm um custo de manutenção, você pode desmontá-las com um <icon height='20' texture='Icons/RightMouseButton'/><nbsp/>clique se não planeja usá-las."/>
+	<entry name="Outposts" value="Postos Avançados"/>
+	<entry name="OutpostsDescription" value="Capture <icon height='20' texture='Icons/Traits/Outpost'/><nbsp/>postos avançados para aumentar sua obtenção de recursos. Quando dentro de cidades, eles também concedem % de bônus para toda a cidade. Alguns postos também oferecem bônus para a unidade estacionada ou recompensas em intervalos regulares."/>
+	<entry name="Overwatch" value="Sobreaviso"/>
+	<entry name="OverwatchDescription" value="Unidades com ações restantes dispararão tiros de sobreaviso em inimigos que entrarem em sua <style color='GUI/Red'/>área de ataque vermelha<style color='Default'/>. Considere desativar o <icon height='20' texture='Icons/Actions/Overwatch'/><nbsp/>sobreaviso se não quiser liberar unidades neutras."/>
+	<entry name="LeaderAbilities" value="Habilidades do Líder"/>
+	<entry name="LeaderAbilitiesDescription" value="Cada líder possui habilidades únicas que custam <icon height='20' texture='Icons/Attributes/Influence'/><nbsp/>influência para ativar, exibidas no canto superior esquerdo da tela. Alguns desses poderes também podem ser obtidos por meio de missões. Use-os no momento certo para maximizar suas chances de sucesso."/>
+	<entry name="Population" value="População"/>
+	<entry name="PopulationDescription" value="A <icon height='20' texture='Icons/Attributes/Population'/><nbsp/>população da cidade está baixa demais para operar todos os edifícios com eficiência total. Clique em <icon height='20' texture='Icons/DisableBuilding'/> para desativar um edifício não essencial."/>
+	<entry name="ProduceUnits" value="Produzir Unidades"/>
+	<entry name="ProduceUnitsDescription" value="Iniciar <icon height='20' texture='Icons/Units/Militant'/><nbsp/>Produção militar no Quartel. Outros edifícios podem continuar produzindo ao mesmo tempo. Se você construir Quartéis adicionais, as unidades terminarão o treinamento mais rápido."/>
+	<entry name="Recon" value="Reconhecimento"/>
+	<entry name="ReconDescription" value="Muitas unidades têm habilidades ativáveis. <icon height='20' texture='Icons/Units/Outrider'/><nbsp/>Batedores e <icon height='20' texture='Icons/Units/Sharpshooter'/><nbsp/>Atiradores de elite podem revelar tudo dentro de <icon height='20' texture='Icons/Attributes/Radius'/><nbsp/>3 hexágonos com a habilidade <icon height='20' texture='Icons/Actions/Recon'/><nbsp/>Reconhecimento."/>
+	<entry name="Research" value="Pesquisa"/>
+	<entry name="ResearchDescription" value="Pesquisar um herói é um bom ponto de partida. Uma vez desbloqueado, você pode produzi-los no quartel-general. Observe que mudar sua pesquisa ativa resultará na perda de qualquer progresso parcial."/>
+	<entry name="ResearchLaboratory" value="Laboratório de Pesquisa"/>
+	<entry name="ResearchLaboratoryDescription" value="É valioso desbloquear a construção de <icon height='20' texture='Icons/Buildings/Research'/><nbsp/>Laboratórios de Pesquisa para aumentar sua velocidade de pesquisa."/>
+	<entry name="TheConcordat" value="O Concordato"/>
+	<entry name="TheConcordatDescription" value="Você pode comprar e vender recursos e itens de herói a qualquer momento no <icon height='20' texture='Icons/Shop'/><nbsp/>Concordato."/>
+	<entry name="Transports" value="Transportes"/>
+	<entry name="TransportsDescription" value="<icon height='20' texture='Icons/Traits/Transport'/><nbsp/>Transportes podem carregar unidades não grandes como carga. Unidades embarcadas se curam dentro, mas se o transporte for destruído, a carga morre com ele."/>
+	<entry name="Selection" value="Seleção"/>
+	<entry name="SelectionDescription" value="<icon height='20' texture='Icons/LeftMouseButton'/><nbsp/>clique em uma unidade para selecioná-la."/>
+	<entry name="TileEffect" value="Efeito do Hexágono"/>
 	<entry name="TileEffectDescription" value="The unit is standing on a tile affected by the %1% status effect. Hover over the unit’s traits in the bottom-left of the screen to see what the effect does."/> <!-- Exclusively for this string, %1% is the trait icon and name. -->
-	<entry name="UnitLevels" value="Unit Levels"/>
-	<entry name="UnitLevelsDescription" value="Kills made within 3 tiles of a unit grant it <icon height='20' texture='Icons/Attributes/Level'/><nbsp/>experience. All units gain levels, but heroes also gain special abilities that you can choose on <icon height='20' texture='Icons/Actions/LevelUp'/><nbsp/>level-up."/>
-	<entry name="Winning" value="Winning"/>
-	<entry name="WinningDescription" value="To win, either defeat all other players or unite everyone under one alliance. In the introduction, you only need to defeat the <icon height='20' texture='Icons/Factions/HeartlessArtificer'/><nbsp/>Heartless Artificer."/>
+	<entry name="UnitLevels" value="Níveis de Unidade"/>
+	<entry name="UnitLevelsDescription" value="Abates feitos a até 3 espaços de uma unidade concedem <icon height='20' texture='Icons/Attributes/Level'/><nbsp/>experiência a ela. Todas as unidades ganham níveis, mas heróis também desbloqueiam habilidades especiais que você pode escolher ao <icon height='20' texture='Icons/Actions/LevelUp'/><nbsp/>subir de nível."/>
+	<entry name="Winning" value="Vitória"/>
+	<entry name="WinningDescription" value="Para vencer, derrote todos os outros jogadores ou una todos sob uma única aliança. No tutorial, basta derrotar o <icon height='20' texture='Icons/Factions/HeartlessArtificer'/><nbsp/>Artificer Sem-Coração."/>
 
-	<entry name="Loading" value="Loading Screen Tips"/>
-	<entry name="Loading/0" value="Bleed and fire stops ground units and damages them."/>
-	<entry name="Loading/1" value="Rivers, forests and ruins reduce ground unit movement."/>
+	<entry name="Loading" value="Dicas da Tela de Carregamento"/>
+	<entry name="Loading/0" value="Sangramento e fogo imobilizam unidades terrestres e causam dano a elas."/>
+	<entry name="Loading/1" value="Rios, florestas e ruínas reduzem o movimento de unidades terrestres."/>
 	<entry name="Loading/2" value="<string name='Tips/CoverDescription'/>"/>
-	<entry name="Loading/3" value="Roads increase ground unit movement."/>
+	<entry name="Loading/3" value="Estradas aumentam o movimento de unidades terrestres."/>
 	<entry name="Loading/4" value="<string name='Attributes/HitpointsDescription/Healing'/>"/>
-	<entry name="Loading/5" value="Units heal faster in outposts and cities."/>
+	<entry name="Loading/5" value="Unidades se curam mais rápido em postos avançados e cidades."/>
 	<entry name="Loading/6" value="<string name='Attributes/DamageDescription/Reductions'/>"/>
 	<entry name="Loading/7" value="<string name='Attributes/AccuracyDescription'/>"/>
 	<entry name="Loading/8" value="<string name='Attributes/ArmorDescription/Reduction'/>"/>
@@ -118,56 +118,56 @@ We can do longer explanatory tips that are only in the Compendium. E.g. Camera t
 	<entry name="Loading/14" value="<string name='Attributes/MoraleDescription/Shaken'/>"/>
 	<entry name="Loading/15" value="<string name='Attributes/MoraleDescription/Broken'/>"/>
 	<entry name="Loading/16" value="<string name='Attributes/MoraleDescription/Death'/>"/>
-	<entry name="Loading/17" value="City defenses are affected by buffs, debuffs and morale."/>
-	<entry name="Loading/18" value="Killing Abkhans will reward you with resources and items."/>
-	<entry name="Loading/19" value="Neutral units do not chase until they are attacked."/>
-	<entry name="Loading/20" value="Producing a second hero costs double."/>
-	<entry name="Loading/21" value="Terrain height and tile features affect the vision and range of units."/>
-	<entry name="Loading/22" value="Lowering enemy morale has a devastating effect and can allow you to win battles you thought were impossible."/>
+	<entry name="Loading/17" value="Defesas da cidade são afetadas por bônus, penalidades e moral."/>
+	<entry name="Loading/18" value="Matar Abkhans recompensará você com recursos e itens."/>
+	<entry name="Loading/19" value="Unidades neutras não perseguem até serem atacadas."/>
+	<entry name="Loading/20" value="Produzir um segundo herói custa o dobro."/>
+	<entry name="Loading/21" value="Altitude do terreno e características do espaço afetam a visão e o alcance das unidades."/>
+	<entry name="Loading/22" value="Reduzir o moral inimigo tem um efeito devastador e pode permitir que você vença batalhas que pareciam impossíveis."/>
 	<entry name="Loading/23" value="<string name='Tips/TheConcordatDescription'/>"/>
-	<entry name="Loading/24" value="Running out of a resource reduces the output of buildings that require it."/>
-	<entry name="Loading/25" value="Running out of resources causes units to be undersupplied and suffer accuracy penalties."/>
-	<entry name="Loading/26" value="The longer a unit is undersupplied, the higher its accuracy penalty."/>
-	<entry name="Loading/27" value="Acquiring an outpost tile with a city grants the whole city percentage bonuses."/>
-	<entry name="Loading/28" value="Constructing multiple buildings of the same type increases their production speed."/>
-	<entry name="Loading/29" value="Leftover production and research carries over to the next item."/>
+	<entry name="Loading/24" value="Ficar sem um recurso reduz a produção de construções que o exigem."/>
+	<entry name="Loading/25" value="Ficar sem recursos faz com que unidades fiquem mal supridas e sofram penalidades de precisão."/>
+	<entry name="Loading/26" value="Quanto mais tempo uma unidade ficar sem suprimentos, maior será sua penalidade de precisão."/>
+	<entry name="Loading/27" value="Adquirir um terreno de posto avançado com uma cidade concede bônus percentuais para toda a cidade."/>
+	<entry name="Loading/28" value="Construir múltiplos prédios do mesmo tipo aumenta sua velocidade de produção."/>
+	<entry name="Loading/29" value="Produção e pesquisa excedentes são transferidas para o próximo item."/>
 	<entry name="Loading/30" value="<string name='Tips/HabitationBlocksDescription'/>"/>
-	<entry name="Loading/31" value="Population can grow only up to your available housing."/>
+	<entry name="Loading/31" value="A população só pode crescer até o limite da sua capacidade de moradia."/>
 	<entry name="Loading/32" value="<string name='Attributes/GrowthDescription/Increase'/>"/>
 	<entry name="Loading/33" value="<string name='Attributes/GrowthDescription/Decrease'/>"/>
-	<entry name="Loading/34" value="Having a shortage of population causes everyone to be spread equally across all buildings, fractionally reducing their output."/>
+	<entry name="Loading/34" value="Falta de população faz com que todos sejam distribuídos igualmente entre os prédios, reduzindo fracionalmente sua produção."/>
 	<entry name="Loading/35" value="<string name='Attributes/LoyaltyDescription/Effect'/>"/>
 	<entry name="Loading/36" value="<string name='Attributes/LoyaltyDescription/CityPenalty'/>"/>
-	<entry name="Loading/37" value="Influence: <string name='Attributes/InfluenceDescription'/>"/>
-	<entry name="Loading/38" value="Press [<control name='ToggleYieldOverlay'/>] to show tile information on all tiles."/>
-	<entry name="Loading/39" value="[<control name='ToggleBuildingPower'/>] building icons on tiles to toggle building power at will, freeing population and building input resources."/>
-	<entry name="Loading/40" value="[<control name='DismantleBuilding'/>] building icons on tiles to demolish buildings."/>
-	<entry name="Loading/41" value="Damaged cities have destruction penalties to resource output until repaired."/>
-	<entry name="Loading/42" value="Resources are accumulated and shared across your whole economy, allowing you to specialize cities and stock up for wartime."/>
+	<entry name="Loading/37" value="Influência: <string name='Attributes/InfluenceDescription'/>"/>
+	<entry name="Loading/38" value="Pressione [<control name='ToggleYieldOverlay'/>] para mostrar informações do terreno em todos os terrenos."/>
+	<entry name="Loading/39" value="Clique em [<control name='ToggleBuildingPower'/>] nos ícones de prédios nos terrenos para alternar o fornecimento de energia, liberando população e recursos de entrada."/>
+	<entry name="Loading/40" value="Clique em [<control name='DismantleBuilding'/>] nos ícones de prédios nos terrenos para demolir os prédios."/>
+	<entry name="Loading/41" value="Cidades danificadas têm penalidades de destruição na produção de recursos até serem reparadas."/>
+	<entry name="Loading/42" value="Os recursos são acumulados e compartilhados em toda a sua economia, permitindo especializar cidades e estocar para tempos de guerra."/>
 	<entry name="Loading/43" value="<string name='Tips/WinningDescription'/>"/>
-	<entry name="Loading/44" value="Fortifications, flyers and titans are higher in the air and are easier to have a line of fire to."/>
-	<entry name="Loading/45" value="Researching a technology that is not of your affinity may provide unique synergies."/>
-	<entry name="Loading/46" value="Each tile has a resource bonus that increases the output of buildings on that tile."/>
-	<entry name="Loading/47" value="Units that have actions remaining have the <icon texture='Icons/Attributes/Actions'/><nbsp/>icon visible on them."/>
-	<entry name="Loading/48" value="Leashed neutral units may attack you in their turn if you're in their attack range."/>
-	<entry name="Loading/49" value="Even leashed neutral units overwatch anyone entering their attack range."/>
-	<entry name="Loading/50" value="Consider turning off overwatch to not unleash neutral units with your attacks."/>
-	<entry name="Loading/51" value="Damage dealt by a single weapon attack is capped by the target squad member's hitpoints and then reduced by the weapon's accuracy."/>
-	<entry name="Loading/52" value="Splash weapons deal extra attacks against targets with multiple squad members."/>
-	<entry name="Loading/53" value="Large units have -33% accuracy while below half hitpoints."/>
-	<entry name="Loading/54" value="[<control name='MarkTile'/>] to mark tiles for yourself and your allies. AI allies will tend to move their units towards your markers."/>
+	<entry name="Loading/44" value="Fortificações, unidades voadoras e titãs estão mais altos no ar e têm linha de tiro mais fácil."/>
+	<entry name="Loading/45" value="Pesquisar uma tecnologia fora da sua afinidade pode oferecer sinergias únicas."/>
+	<entry name="Loading/46" value="Cada terreno possui um bônus de recurso que aumenta a produção dos prédios nele construídos."/>
+	<entry name="Loading/47" value="Unidades que ainda têm ações disponíveis exibem o <icon texture='Icons/Attributes/Actions'/><nbsp/>ícone visível nelas."/>
+	<entry name="Loading/48" value="Unidades neutras amansadas podem atacar você em seu turno se estiverem no alcance de ataque delas."/>
+	<entry name="Loading/49" value="Mesmo unidades neutras amansadas ficam em sobreaviso contra qualquer um que entre em seu alcance de ataque."/>
+	<entry name="Loading/50" value="Considere desativar o sobreaviso para não provocar ataques de unidades neutras com seus próprios ataques."/>
+	<entry name="Loading/51" value="O dano causado por um único ataque de arma é limitado pelos pontos de vida do membro do esquadrão alvo e depois reduzido pela precisão da arma."/>
+	<entry name="Loading/52" value="Armas de área afetam alvos com vários membros no esquadrão com ataques adicionais."/>
+	<entry name="Loading/53" value="Unidades grandes têm -33% de precisão quando estão com menos da metade dos pontos de vida."/>
+	<entry name="Loading/54" value="[<control name='MarkTile'/>] para marcar tiles para você e seus aliados. Aliados controlados por IA tenderão a mover suas unidades em direção às suas marcações."/>
 	<entry name="Loading/55" value="<string name='Tips/AllianceVictoryDescription'/>"/>
-	<entry name="Loading/56" value="“Each turn” effects like “On Fire” trigger at the start of the source player's turn."/>
-	<entry name="Loading/57" value="Units can see 3 tiles away."/>
-	<entry name="Loading/58" value="Outposts and cities grant sight to adjacent tiles."/>
-	<entry name="Loading/59" value="The last coordinate of the tile is the tile's height (x, y, height)."/>
-	<entry name="Loading/60" value="Move items to adjacent allied heroes by dragging them from the inventory."/>
-	<entry name="Loading/61" value="[<control name='OrderAllIdleUnits'/>] to order all idle units."/>
-	<entry name="Loading/62" value="[<control name='OrderAllUnits'/>] to order all units."/>
-	<entry name="Loading/63" value="[<control name='OrderAreaUnits'/>] to order all units in the area (radius 3)."/>
-	<entry name="Loading/64" value="Move units large distances by right-clicking on the minimap."/>
+	<entry name="Loading/56" value="Efeitos do tipo “a cada turno”, como “Em Chamas”, são acionados no início do turno do jogador que os aplicou."/>
+	<entry name="Loading/57" value="As unidades enxergam até 3 tiles de distância."/>
+	<entry name="Loading/58" value="Postos avançados e cidades concedem visão para os tiles adjacentes."/>
+	<entry name="Loading/59" value="A última coordenada do tile é a altura dele (x, y, altura)."/>
+	<entry name="Loading/60" value="Mova itens para heróis aliados adjacentes arrastando-os do inventário."/>
+	<entry name="Loading/61" value="[<control name='OrderAllIdleUnits'/>] para ordenar todas as unidades ociosas."/>
+	<entry name="Loading/62" value="[<control name='OrderAllUnits'/>] para ordenar todas as unidades."/>
+	<entry name="Loading/63" value="[<control name='OrderAreaUnits'/>] para ordenar todas as unidades na área (raio 3)."/>
+	<entry name="Loading/64" value="Mova unidades por longas distâncias clicando com o botão direito no minimapa."/>
 	<entry name="Loading/65" value="<string name='Tips/DamageCapDescription'/>"/>
-	<entry name="Loading/66" value="Bleed, forests, ruins, volcanoes and city buildings block unit sight."/>
+	<entry name="Loading/66" value="Terrenos de Bleed, florestas, ruínas, vulcões e construções urbanas bloqueiam a linha de visão das unidades."/>
 	<entry name="Loading/67" value="<string name='Tips/EnemyInCityDescription'/>"/>
 	<entry name="Loading/68" value="<string name='GUI/DuplicateItemHint'/>"/>
 	<entry name="Loading/Count" value="69"/>

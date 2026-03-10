@@ -111,14 +111,14 @@
 	<entry name="HeartlessArtificer15" value="Naima"/>
 	<entry name="HeartlessArtificer16" value="Amina"/>
 	<entry name="HeartlessArtificer17" value="Sarai"/>
-	<entry name="HeartlessArtificer18" value="Ruth"/>
-	<entry name="HeartlessArtificer19" value="Naomi"/>
-	<entry name="HeartlessArtificer20" value="Leah"/>
-	<entry name="HeartlessArtificer21" value="Rachel"/>
-	<entry name="HeartlessArtificer22" value="Esther"/>
-	<entry name="HeartlessArtificer23" value="Dinah"/>
-	<entry name="HeartlessArtificer24" value="Rebecca"/>
-	<entry name="HeartlessArtificer25" value="Bathsheba"/>
+	<entry name="HeartlessArtificer18" value="Rute"/>
+	<entry name="HeartlessArtificer19" value="Noemi"/>
+	<entry name="HeartlessArtificer20" value="Léia"/>
+	<entry name="HeartlessArtificer21" value="Raquel"/>
+	<entry name="HeartlessArtificer22" value="Éster"/>
+	<entry name="HeartlessArtificer23" value="Dina"/>
+	<entry name="HeartlessArtificer24" value="Rebeca"/>
+	<entry name="HeartlessArtificer25" value="Bate-Seba"/>
 	<entry name="HeartlessArtificer26" value="Abena"/>
 	<entry name="HeartlessArtificer27" value="Asantewaa"/>
 	<entry name="HeartlessArtificer28" value="Mamle"/>
@@ -143,7 +143,7 @@
 	<entry name="HollowWarlord16" value="Maile"/>
 	<entry name="HollowWarlord17" value="Keoni"/>
 	<entry name="HollowWarlord18" value="Ikaika"/>
-	<entry name="HollowWarlord19" value="’Alika"/>
+	<entry name="HollowWarlord19" value="'Alika"/>
 	<entry name="HollowWarlord20" value="Keola"/>
 	<entry name="HollowWarlord21" value="Nāinoa"/>
 	<entry name="HollowWarlord22" value="Makana"/>
@@ -331,40 +331,40 @@
 	<entry name="RogueOperative28" value="Xia"/>
 	<entry name="RogueOperative29" value="Jia"/>
 	<entry name="RogueOperativeCount" value="30"/>
-	<entry name="TwistedMother0" value="Misery"/>
-	<entry name="TwistedMother1" value="Sorrow"/>
-	<entry name="TwistedMother2" value="Anguish"/>
-	<entry name="TwistedMother3" value="Woe"/>
-	<entry name="TwistedMother4" value="Heartache"/>
-	<entry name="TwistedMother5" value="Dolor"/>
-	<entry name="TwistedMother6" value="Melancholia"/>
-	<entry name="TwistedMother7" value="Rue"/>
-	<entry name="TwistedMother8" value="Chagrin"/>
+	<entry name="TwistedMother0" value="Desgraça"/>
+	<entry name="TwistedMother1" value="Tristeza"/>
+	<entry name="TwistedMother2" value="Angústia"/>
+	<entry name="TwistedMother3" value="Desdita"/>
+	<entry name="TwistedMother4" value="Aflição"/>
+	<entry name="TwistedMother5" value="Dor"/>
+	<entry name="TwistedMother6" value="Melancolia"/>
+	<entry name="TwistedMother7" value="Arrependimento"/>
+	<entry name="TwistedMother8" value="Desgosto"/>
 	<entry name="TwistedMother9" value="Catatonia"/>
-	<entry name="TwistedMother10" value="Lament"/>
-	<entry name="TwistedMother11" value="Infelicity"/>
-	<entry name="TwistedMother12" value="Nemesis"/>
-	<entry name="TwistedMother13" value="Ruin"/>
-	<entry name="TwistedMother14" value="Blues"/>
-	<entry name="TwistedMother15" value="Torment"/>
-	<entry name="TwistedMother16" value="Mulligrubs"/>
-	<entry name="TwistedMother17" value="Ennui"/>
-	<entry name="TwistedMother18" value="Megrim"/>
-	<entry name="TwistedMother19" value="Agita"/>
-	<entry name="TwistedMother20" value="Dither"/>
-	<entry name="TwistedMother21" value="Fret"/>
-	<entry name="TwistedMother22" value="Qualm"/>
-	<entry name="TwistedMother23" value="Envy"/>
-	<entry name="TwistedMother24" value="Quivers"/>
-	<entry name="TwistedMother25" value="Shiver"/>
-	<entry name="TwistedMother26" value="Ache"/>
-	<entry name="TwistedMother27" value="Grief"/>
-	<entry name="TwistedMother28" value="Longing"/>
-	<entry name="TwistedMother29" value="Regret"/>
-	<entry name="TwistedMother30" value="Bale"/>
-	<entry name="TwistedMother31" value="Dirge"/>
-	<entry name="TwistedMother32" value="Pother"/>
-	<entry name="TwistedMother33" value="Plaint"/>
+	<entry name="TwistedMother10" value="Lamento"/>
+	<entry name="TwistedMother11" value="Infelicidade"/>
+	<entry name="TwistedMother12" value="Nêmesis"/>
+	<entry name="TwistedMother13" value="Ruína"/>
+	<entry name="TwistedMother14" value="Melancolia"/>
+	<entry name="TwistedMother15" value="Tormento"/>
+	<entry name="TwistedMother16" value="Abatimento"/>
+	<entry name="TwistedMother17" value="Tédio"/>
+	<entry name="TwistedMother18" value="Enxaqueca"/>
+	<entry name="TwistedMother19" value="Agonia"/>
+	<entry name="TwistedMother20" value="Indecisão"/>
+	<entry name="TwistedMother21" value="Angústia"/>
+	<entry name="TwistedMother22" value="Remorso"/>
+	<entry name="TwistedMother23" value="Inveja"/>
+	<entry name="TwistedMother24" value="Tremores"/>
+	<entry name="TwistedMother25" value="Calafrio"/>
+	<entry name="TwistedMother26" value="Dor"/>
+	<entry name="TwistedMother27" value="Luto"/>
+	<entry name="TwistedMother28" value="Saudade"/>
+	<entry name="TwistedMother29" value="Arrependimento"/>
+	<entry name="TwistedMother30" value="Desgraça"/>
+	<entry name="TwistedMother31" value="Lamento"/>
+	<entry name="TwistedMother32" value="Alvoroço"/>
+	<entry name="TwistedMother33" value="Queixa"/>
 	<entry name="TwistedMotherCount" value="34"/>
 	<entry name="UntoldProphet0" value="Adelelmus"/>
 	<entry name="UntoldProphet1" value="Xavier"/>

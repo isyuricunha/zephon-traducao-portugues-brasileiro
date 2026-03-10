@@ -47,6 +47,7 @@
 	<entry name="AttacksPerAdditionalEnemyGroupMember" value="Attacks Per Additional Target Group Member"/>
 	<entry name="AttacksPerAdditionalEnemyGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
 	<entry name="BuildingSlots" value="Building Slots"/>
+	<entry name="BuildingSlotsDescription" value="The number of buildings that can be constructed on a tile."/>
 	<entry name="BuildingSlotsIcon" value="<icon height='20' texture='Icons/Attributes/BuildingSlots'/>"/>
 	<entry name="BlockSight" value="sight from non-adjacent tiles"/>
 	<entry name="BlockSight+" value="Blocks"/>
@@ -117,6 +118,7 @@
 	<entry name="DimensionalEchoesUpkeepDescription" value="The amount of dimensional echoes it costs each turn for the entity to be maintained."/>
 	<entry name="DimensionalEchoesUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/DimensionalEchoes'/>"/>
 	<entry name="DuplicateTypeCost" value="Duplicate Type Cost"/>
+	<entry name="DuplicateTypeCostLimit" value="Duplicate Type Cost Limit"/>
 	<entry name="Energy" value="Energy"/>
 	<entry name="EnergyDescription" value="Used to maintain buildings as well as produce and maintain special units."/>
 	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
@@ -163,9 +165,11 @@
 	<entry name="HitpointsFromMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="HitpointsMax" value="Hitpoints Max"/>
 	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsPerGroupMember" value="Hitpoints Per Group Member"/>
+	<entry name="HitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="IgnoreLineOfSight" value="line of sight"/>
 	<entry name="IgnoreLineOfSight+" value="Ignores"/>
-	<entry name="IgnoreZoneOfControl" value="movement through enemy units"/>
+	<entry name="IgnoreZoneOfControl" value="movement through enemy units and their zone of control"/>
 	<entry name="IgnoreZoneOfControl+" value="Allows"/>
 	<entry name="Influence" value="Influence"/>
 	<entry name="InfluenceDescription" value="Used to acquire and maintain city tiles, invoke special abilities, recruit and maintain hero units as well as purchase items and resources."/>
@@ -206,8 +210,6 @@
 	<entry name="LoyaltyUpkeep" value="Loyalty Upkeep"/>
 	<entry name="LoyaltyUpkeepDescription" value="The amount of loyalty it costs each turn for the entity to be maintained."/>
 	<entry name="LoyaltyUpkeepIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
-	<entry name="MaximumHitpointsPerGroupMember" value="Maximum Hitpoints Per Group Member"/>
-	<entry name="MaximumHitpointsPerGroupMemberIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
 	<entry name="Morale" value="Morale"/>
 	<entry name="MoraleDescription" value="The psychological state of the unit. <string name='Attributes/MoraleDescription/Regeneration'/> <string name='Attributes/MoraleDescription/Shaken'/> <string name='Attributes/MoraleDescription/Broken'/><br/><br/><string name='Attributes/MoraleDescription/Death'/>"/>
 	<entry name="MoraleDescription/Regeneration" value="Morale regenerates if the unit has not taken damage the previous turn."/>

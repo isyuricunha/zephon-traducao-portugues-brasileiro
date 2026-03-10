@@ -79,6 +79,7 @@
 	<entry name="ConstructRegionDensity4" value="High"/>
 	<entry name="ConstructRegionDensity5" value="Very High"/>
 	<entry name="DLC1" value="The Twisted & The Hollow DLC"/> <!-- DLC name. Do not translate. -->
+	<entry name="DLC2" value="The Platinum & The Infinite DLC"/> <!-- DLC name. Do not translate. -->
 	<entry name="DesertRegionDensity" value="Desert Region Density"/>
 	<entry name="DesertRegionDensity0" value="None"/>
 	<entry name="DesertRegionDensity1" value="Very Low"/>
@@ -87,27 +88,27 @@
 	<entry name="DesertRegionDensity4" value="High"/>
 	<entry name="DesertRegionDensity5" value="Very High"/>
 	<entry name="Difficulty" value="Difficulty"/>
-	<entry name="DifficultyHint" value="Modifies AI and natives' advantanges."/>
+	<entry name="DifficultyHint" value="Modifies AI advantanges."/>
 	<entry name="Difficulty0" value="Very Easy"/>
-	<entry name="Difficulty0Hint" value="<style name='Bold'/>%1%:<style name='Default'/> moderate city loyalty disadvantage given.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> loyalty"/>
+	<entry name="Difficulty0Hint" value="<style name='Bold'/>%1%:<style name='Default'/> moderate city loyalty disadvantage.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> loyalty"/>
 	<entry name="Difficulty0RecommendationHint" value="<style name='Italic'/>Recommended for story-focused players."/>
 	<entry name="Difficulty1" value="Easy"/>
-	<entry name="Difficulty1Hint" value="<style name='Bold'/>%1%:<style name='Default'/> small city loyalty disadvantage given.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> loyalty"/>
+	<entry name="Difficulty1Hint" value="<style name='Bold'/>%1%:<style name='Default'/> small city loyalty disadvantage.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> loyalty"/>
 	<entry name="Difficulty1RecommendationHint" value="<style name='Italic'/>Recommended for inexperienced turn-based strategy players."/>
 	<entry name="Difficulty2" value="Medium"/>
-	<entry name="Difficulty2Hint" value="<style name='Bold'/>%1%:<style name='Default'/> no advantage or disadvantage given."/>
+	<entry name="Difficulty2Hint" value="<style name='Bold'/>%1%:<style name='Default'/> no advantage or disadvantage."/>
 	<entry name="Difficulty2RecommendationHint" value="<style name='Italic'/>Recommended for turn-based strategy fans."/>
 	<entry name="Difficulty3" value="Hard"/>
-	<entry name="Difficulty3Hint" value="<style name='Bold'/>%1%:<style name='Default'/> small city loyalty and unit level advantage given.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> loyalty<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> level<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> aggressiveness"/>
+	<entry name="Difficulty3Hint" value="<style name='Bold'/>%1%:<style name='Default'/> small city loyalty and unit level advantage, as well as a small increase in AI diplomatic aggressiveness.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> loyalty<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> level<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> aggressiveness"/>
 	<entry name="Difficulty3RecommendationHint" value="<style name='Italic'/>Recommended for veterans of Proxy Studios games."/>
 	<entry name="Difficulty4" value="Very Hard"/>
-	<entry name="Difficulty4Hint" value="<style name='Bold'/>%1%:<style name='Default'/> moderate city loyalty and unit level advantage given.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> loyalty<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> level<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> aggressiveness"/>
+	<entry name="Difficulty4Hint" value="<style name='Bold'/>%1%:<style name='Default'/> moderate city loyalty and unit level advantage, as well as a moderate increase in AI diplomatic aggressiveness.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> loyalty<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> level<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> aggressiveness"/>
 	<entry name="Difficulty4RecommendationHint" value="<style name='Italic'/>Recommended after beating Hard."/>
 	<entry name="Difficulty5" value="Ultra Hard"/>
-	<entry name="Difficulty5Hint" value="<style name='Bold'/>%1%:<style name='Default'/> large city loyalty and unit level advantage given.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> loyalty<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> level<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> aggressiveness"/>
+	<entry name="Difficulty5Hint" value="<style name='Bold'/>%1%:<style name='Default'/> large city loyalty and unit level advantage, as well as a large increase in AI diplomatic aggressiveness.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> loyalty<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> level<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> aggressiveness"/>
 	<entry name="Difficulty5RecommendationHint" value="<style name='Italic'/>Recommended after beating Very Hard."/>
 	<entry name="Difficulty6" value="Nightmare"/>
-	<entry name="Difficulty6Hint" value="<style name='Bold'/>%1%:<style name='Default'/> extreme city loyalty and unit level advantage given.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> loyalty<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> level<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> aggressiveness"/>
+	<entry name="Difficulty6Hint" value="<style name='Bold'/>%1%:<style name='Default'/> extreme city loyalty and unit level advantage, as well as an extreme increase in AI diplomatic aggressiveness.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> loyalty<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> level<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> aggressiveness"/>
 	<entry name="Difficulty6RecommendationHint" value="<style name='Italic'/>Not recommended."/>
 	<entry name="DustStormDensity" value="Sandstorm Density"/>
 	<entry name="DustStormDensity0" value="None"/>
@@ -184,20 +185,28 @@
 	<entry name="Mutators/CanFreeWillExistHint" value="Weapon damage is randomized by ±20%."/>
 	<entry name="Mutators/DidHonorBalanceGreed" value="<string name='Settings/Achievements/DidHonorBalanceGreed'/>"/>
 	<entry name="Mutators/DidHonorBalanceGreedHint" value="Whenever you cancel any agreement you become Untrustworthy forever."/>
+	<entry name="Mutators/DidIDoomMyFriends" value="<string name='Settings/Achievements/DidIDoomMyFriends'/>"/>
+	<entry name="Mutators/DidIDoomMyFriendsHint" value="Unsighted tiles become unexplored each turn."/>
 	<entry name="Mutators/DidMyDeathMeanAnything" value="<string name='Settings/Achievements/DidMyDeathMeanAnything'/>"/>
 	<entry name="Mutators/DidMyDeathMeanAnythingHint" value="Doubled morale change from death."/>
 	<entry name="Mutators/DidOurSacrificeMeanNothing" value="<string name='Settings/Achievements/DidOurSacrificeMeanNothing'/>"/>
 	<entry name="Mutators/DidOurSacrificeMeanNothingHint" value="Non-neutral units lose 5% hitpoints each turn when outside of allied cities or outposts."/>
 	<entry name="Mutators/DidOurUnificationMatter" value="<string name='Settings/Achievements/DidOurUnificationMatter'/>"/>
 	<entry name="Mutators/DidOurUnificationMatterHint" value="Non-Deformity biological units that die become neutral Deformities. Triggers after other death effects."/>
+	<entry name="Mutators/IsWisdomTheMeasureOfWorth" value="<string name='Settings/Achievements/IsWisdomTheMeasureOfWorth'/>"/>
+	<entry name="Mutators/IsWisdomTheMeasureOfWorthHint" value="Doubled experience gain."/>
 	<entry name="Mutators/MustWeSufferSo" value="<string name='Settings/Achievements/MustWeSufferSo'/>"/>
-	<entry name="Mutators/MustWeSufferSoHint" value="Start the game with Research Laboratory, Holo Theater, Habitation Block, Construction Yard and Engineer researched."/>
+	<entry name="Mutators/MustWeSufferSoHint" value="Start the game with Research Laboratory, Administration Complex, Holo Theater, Habitation Block, Construction Yard and Engineer researched."/>
+	<entry name="Mutators/WasITheBestPersonAliveOrWhat" value="<string name='Settings/Achievements/WasITheBestPersonAliveOrWhat'/>"/>
+	<entry name="Mutators/WasITheBestPersonAliveOrWhatHint" value="Accumulated resources compound at 10% per turn."/>
 	<entry name="Mutators/WasITrulyHuman" value="<string name='Settings/Achievements/WasITrulyHuman'/>"/>
 	<entry name="Mutators/WasITrulyHumanHint" value="Damage is divided between all adjacent allies of the target unit."/>
 	<entry name="Mutators/WasPerfectionWorthIt" value="<string name='Settings/Achievements/WasPerfectionWorthIt'/>"/>
 	<entry name="Mutators/WasPerfectionWorthItHint" value="Duplicate units cost +20% resources."/>
 	<entry name="Mutators/WasZephonTrulyAlive" value="<string name='Settings/Achievements/WasZephonTrulyAlive'/>"/>
 	<entry name="Mutators/WasZephonTrulyAliveHint" value="Unlimited tile acquisition range."/>
+	<entry name="Mutators/WhatAmITruly" value="<string name='Settings/Achievements/WhatAmITruly'/>"/>
+	<entry name="Mutators/WhatAmITrulyHint" value="Doubled unit production speed."/>
 	<entry name="Mutators/WhatAreYou" value="<string name='Settings/Achievements/WhatAreYou'/>"/>
 	<entry name="Mutators/WhatAreYouHint" value="Can only research technologies with your affinity or no affinity."/>
 	<entry name="Mutators/WhatPriceForLiberty" value="<string name='Settings/Achievements/WhatPriceForLiberty'/>"/>
@@ -353,6 +362,8 @@
 	<entry name="WildlifeDensity4" value="High"/>
 	<entry name="WildlifeDensity5" value="Very High"/>
 	<entry name="WorldSeed" value="World Seed"/>
+	<entry name="WorldParameters" value="World Parameters"/>
+	<entry name="WorldParametersHint" value="An encoded string of all the world parameters, including the mutators, but without the players.<br/><br/>Use this to share your world setup with others or to save it for later."/>
 	<entry name="WastelandRegionDensity" value="Wasteland Region Density"/>
 	<entry name="WastelandRegionDensity0" value="None"/>
 	<entry name="WastelandRegionDensity1" value="Very Low"/>

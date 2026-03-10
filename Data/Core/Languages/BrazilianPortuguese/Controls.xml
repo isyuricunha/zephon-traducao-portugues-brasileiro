@@ -2,19 +2,19 @@
 <language>
 
 	<!-- Keyboard keys. -->
-	<entry name="Space" value="Space"/>
-	<entry name="World1" value="World 1"/>
-	<entry name="World2" value="World 2"/>
-	<entry name="Escape" value="Escape"/>
+	<entry name="Space" value="Espaço"/>
+	<entry name="World1" value="Mundo 1"/>
+	<entry name="World2" value="Mundo 2"/>
+	<entry name="Escape" value="Esc"/>
 	<entry name="Enter" value="Enter"/>
 	<entry name="Tab" value="Tab"/>
 	<entry name="Backspace" value="Backspace"/>
 	<entry name="Insert" value="Insert"/>
 	<entry name="Delete" value="Delete"/>
-	<entry name="ArrowRight" value="Arrow Right"/>
-	<entry name="ArrowLeft" value="Arrow Left"/>
-	<entry name="ArrowDown" value="Arrow Down"/>
-	<entry name="ArrowUp" value="Arrow Up"/>
+	<entry name="ArrowRight" value="Seta Direita"/>
+	<entry name="ArrowLeft" value="Seta Esquerda"/>
+	<entry name="ArrowDown" value="Seta Baixo"/>
+	<entry name="ArrowUp" value="Seta Cima"/>
 	<entry name="PageUp" value="Page Up"/>
 	<entry name="PageDown" value="Page Down"/>
 	<entry name="Home" value="Home"/>
@@ -22,7 +22,7 @@
 	<entry name="CapsLock" value="Caps Lock"/>
 	<entry name="NumLock" value="Num Lock"/>
 	<entry name="PrintScreen" value="Print Screen"/>
-	<entry name="Pause" value="Pause"/>
+	<entry name="Pause" value="Pausar"/>
 	<entry name="F1" value="F1"/>
 	<entry name="F2" value="F2"/>
 	<entry name="F3" value="F3"/>
@@ -62,29 +62,29 @@
 	<entry name="KPDivide" value="Numpad /"/>
 	<entry name="KPMultiply" value="Numpad *"/>
 	<entry name="KPSubtract" value="Numpad -"/>
-	<entry name="KPAdd" value="Numpad +"/>
-	<entry name="KPEnter" value="Numpad Enter"/>
-	<entry name="KPEqual" value="Numpad ="/>
-	<entry name="LeftShift" value="Left Shift"/>
-	<entry name="LeftControl" value="Left Control"/>
-	<entry name="LeftAlt" value="Left Alt"/>
-	<entry name="LeftSuper" value="Left Super"/>
-	<entry name="RightShift" value="Right Shift"/>
-	<entry name="RightControl" value="Right Control"/>
-	<entry name="RightAlt" value="Right Alt"/>
-	<entry name="RightSuper" value="Right Super"/>
+	<entry name="KPAdd" value="Teclado Num +"/>
+	<entry name="KPEnter" value="Teclado Num Enter"/>
+	<entry name="KPEqual" value="Teclado Num ="/>
+	<entry name="LeftShift" value="Shift Esquerdo"/>
+	<entry name="LeftControl" value="Ctrl Esquerdo"/>
+	<entry name="LeftAlt" value="Alt Esquerdo"/>
+	<entry name="LeftSuper" value="Super Esquerdo"/>
+	<entry name="RightShift" value="Shift Direito"/>
+	<entry name="RightControl" value="Ctrl Direito"/>
+	<entry name="RightAlt" value="Alt Direito"/>
+	<entry name="RightSuper" value="Super Direito"/>
 	<entry name="Menu" value="Menu"/>
 	
 	<!-- Keyboard modifiers. -->
 	<entry name="Alt" value="Alt"/>
-	<entry name="Control" value="Control"/>
+	<entry name="Control" value="Ctrl"/>
 	<entry name="Shift" value="Shift"/>
 	<entry name="Super" value="Super"/>
 	
 	<!-- Mouse buttons. -->
-	<entry name="MouseLeft" value="Mouse Left"/>
-	<entry name="MouseRight" value="Mouse Right"/>
-	<entry name="MouseMiddle" value="Mouse Middle"/>
+	<entry name="MouseLeft" value="Mouse Esquerdo"/>
+	<entry name="MouseRight" value="Mouse Direito"/>
+	<entry name="MouseMiddle" value="Mouse Central"/>
 	<entry name="Mouse1" value="Mouse 1"/>
 	<entry name="Mouse2" value="Mouse 2"/>
 	<entry name="Mouse3" value="Mouse 3"/>

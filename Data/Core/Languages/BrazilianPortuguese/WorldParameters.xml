@@ -64,7 +64,7 @@
 	<entry name="ChieftessCityDensity3" value="Médio"/>
 	<entry name="ChieftessCityDensity4" value="Alto"/>
 	<entry name="ChieftessCityDensity5" value="Muito Alto"/>
-	<entry name="CicadasDensity" value="Densidade de <style stop='true'/>Cicadas"/>
+	<entry name="CicadasDensity" value="Densidade de Cicadas"/>
 	<entry name="CicadasDensity0" value="Nenhum"/>
 	<entry name="CicadasDensity1" value="Muito Baixo"/>
 	<entry name="CicadasDensity2" value="Baixo"/>
@@ -371,7 +371,7 @@
 	<entry name="WastelandRegionDensity3" value="Média"/>
 	<entry name="WastelandRegionDensity4" value="Alta"/>
 	<entry name="WastelandRegionDensity5" value="Muito Alta"/>
-	<entry name="WhisperingWightsDensity" value="Densidade de <style stop='100%'>Espectros Sussurrantes</style>"/>
+	<entry name="WhisperingWightsDensity" value="Densidade de Espectros Sussurrantes"/>
 	<entry name="WhisperingWightsDensity0" value="Nenhuma"/>
 	<entry name="WhisperingWightsDensity1" value="Muito Baixa"/>
 	<entry name="WhisperingWightsDensity2" value="Baixa"/>

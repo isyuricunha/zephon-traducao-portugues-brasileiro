@@ -235,6 +235,35 @@ def apply_translations(
 # ---------------------------------------------------------------------------
 
 
+def _sanitize_translation(original: str, translated: str) -> str:
+    """
+    Guard against AI hallucination: if the translated string contains MORE
+    XML-like tags than the original, strip all tags from the translation.
+
+    This covers cases like the AI wrapping plain text in <style ...>...</style>
+    that wasn't in the source, which crashes the game's XML parser.
+
+    If tag counts match (or translation has fewer), return as-is.
+    """
+    translated = str(translated)
+    original_tags = _RE_XML_FRAGMENT.findall(original)
+    translated_tags = _RE_XML_FRAGMENT.findall(translated)
+
+    if len(translated_tags) > len(original_tags):
+        clean = _RE_XML_FRAGMENT.sub("", translated).strip()
+        log.warning(
+            "AI hallucinated %d extra tag(s) in translation — stripped. "
+            "Original: %r  →  Got: %r  →  Cleaned: %r",
+            len(translated_tags) - len(original_tags),
+            original,
+            translated,
+            clean,
+        )
+        return clean
+
+    return translated
+
+
 def call_agent_batch(
     client: Mistral,
     agent_id: str,
@@ -282,8 +311,8 @@ def call_agent_batch(
                     f"Length mismatch: sent {len(texts)} strings, got {len(translated)} back."
                 )
 
-            # Ensure all items are strings.
-            return [str(t) for t in translated]
+            # Sanitize: strip any XML tags the AI added that weren't in the original.
+            return [_sanitize_translation(orig, t) for orig, t in zip(texts, translated)]
 
         except Exception as exc:
             wait = 2 ** attempt

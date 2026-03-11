@@ -22,7 +22,7 @@
 	<entry name="CapsLock" value="Caps Lock"/>
 	<entry name="NumLock" value="Num Lock"/>
 	<entry name="PrintScreen" value="Print Screen"/>
-	<entry name="Pause" value="Pausar"/>
+	<entry name="Pause" value="Pausa"/>
 	<entry name="F1" value="F1"/>
 	<entry name="F2" value="F2"/>
 	<entry name="F3" value="F3"/>
@@ -48,20 +48,20 @@
 	<entry name="F23" value="F23"/>
 	<entry name="F24" value="F24"/>
 	<entry name="F25" value="F25"/>
-	<entry name="KP0" value="Numpad 0"/>
-	<entry name="KP1" value="Numpad 1"/>
-	<entry name="KP2" value="Numpad 2"/>
-	<entry name="KP3" value="Numpad 3"/>
-	<entry name="KP4" value="Numpad 4"/>
-	<entry name="KP5" value="Numpad 5"/>
-	<entry name="KP6" value="Numpad 6"/>
-	<entry name="KP7" value="Numpad 7"/>
-	<entry name="KP8" value="Numpad 8"/>
-	<entry name="KP9" value="Numpad 9"/>
-	<entry name="KPDecimal" value="Numpad ,"/>
-	<entry name="KPDivide" value="Numpad /"/>
-	<entry name="KPMultiply" value="Numpad *"/>
-	<entry name="KPSubtract" value="Numpad -"/>
+	<entry name="KP0" value="Teclado Num 0"/>
+	<entry name="KP1" value="Teclado Num 1"/>
+	<entry name="KP2" value="Teclado Num 2"/>
+	<entry name="KP3" value="Teclado Num 3"/>
+	<entry name="KP4" value="Teclado Num 4"/>
+	<entry name="KP5" value="Teclado Num 5"/>
+	<entry name="KP6" value="Teclado Num 6"/>
+	<entry name="KP7" value="Teclado Num 7"/>
+	<entry name="KP8" value="Teclado Num 8"/>
+	<entry name="KP9" value="Teclado Num 9"/>
+	<entry name="KPDecimal" value="Teclado Num ,"/>
+	<entry name="KPDivide" value="Teclado Num /"/>
+	<entry name="KPMultiply" value="Teclado Num *"/>
+	<entry name="KPSubtract" value="Teclado Num -"/>
 	<entry name="KPAdd" value="Teclado Num +"/>
 	<entry name="KPEnter" value="Teclado Num Enter"/>
 	<entry name="KPEqual" value="Teclado Num ="/>

@@ -6,7 +6,7 @@
 	<entry name="Climate0Name2" value="Zona de Escombros"/>
 	<entry name="Climate0Name3" value="Ausuittuq"/>
 	<entry name="Climate0Name4" value="Janela dos Sussurros"/>
-	<entry name="Climate0Name5" value="Refúgio do Concordat"/>
+	<entry name="Climate0Name5" value="Retiro do Concordat"/>
 	<entry name="Climate0Name6" value="Picos Andinos"/>
 	<entry name="Climate0Name7" value="O Poço Sagrado"/>
 	<entry name="Climate0Name8" value="Fim da Expedição"/>
@@ -28,28 +28,28 @@
 	<entry name="Climate1Name6" value="Micro Épsilon"/>
 	<entry name="Climate1Name7" value="Função Ômega"/>
 	<entry name="Climate1Name8" value="Criptografia Aniquilada"/>
-	<entry name="Climate1Name9" value="Alfaville"/>
+	<entry name="Climate1Name9" value="Alphaville"/>
 	<entry name="Climate1Name10" value="Nó-Pulso"/>
 	<entry name="Climate1Name11" value="Véspera Vermelha"/>
 	<entry name="Climate1Name12" value="Ponto Ípsilon"/>
 	<entry name="Climate1Name13" value="Montagem Elseif"/>
-	<entry name="Climate1Name14" value="Correção de Bug"/>
+	<entry name="Climate1Name14" value="Correção Crítica"/>
 	<entry name="Climate1Name15" value="Delta Derretido"/>
 	<entry name="Climate1NameCount" value="16"/>
 	
 	<!-- Desert -->
 	<entry name="Climate2Name0" value="Devastação Maldeana"/>
-	<entry name="Climate2Name1" value="Dunas Adormecidas"/>
-	<entry name="Climate2Name2" value="Os Cumeiros Scoripus"/>
-	<entry name="Climate2Name3" value="Ponto Tempestade Solar"/>
+	<entry name="Climate2Name1" value="Cordilheira Adormecida"/>
+	<entry name="Climate2Name2" value="Os Cãozinhos de Scoripus"/>
+	<entry name="Climate2Name3" value="Ponto da Tempestade Solar"/>
 	<entry name="Climate2Name4" value="Areias Marfim"/>
 	<entry name="Climate2Name5" value="Dunas Cerúleas"/>
 	<entry name="Climate2Name6" value="Ermo Carmesim"/>
 	<entry name="Climate2Name7" value="O Lago Drenado"/>
 	<entry name="Climate2Name8" value="Os Ermos Solitários"/>
 	<entry name="Climate2Name9" value="Túmulo do Traidor"/>
-	<entry name="Climate2Name10" value="Platô Grito-do-Vento"/>
-	<entry name="Climate2Name11" value="Presas do Demônio"/>
+	<entry name="Climate2Name10" value="Planalto Grito-do-Vento"/>
+	<entry name="Climate2Name11" value="Presas do Diabo"/>
 	<entry name="Climate2Name12" value="Rochas Zapotec"/>
 	<entry name="Climate2Name13" value="Depósito de Sal"/>
 	<entry name="Climate2Name14" value="Areias Negras"/>
@@ -62,10 +62,10 @@
 	<entry name="Climate3Name1" value="Charco Tumular"/>
 	<entry name="Climate3Name2" value="Refúgio do Barreiro"/>
 	<entry name="Climate3Name3" value="Os Dedos Encolhidos"/>
-	<entry name="Climate3Name4" value="Lamaçal Sombrio"/>
+	<entry name="Climate3Name4" value="Morro do Lamaceiro"/>
 	<entry name="Climate3Name5" value="Águas-Lúgubres"/>
-	<entry name="Climate3Name6" value="Pântano dos Urubus"/>
-	<entry name="Climate3Name7" value="Brejo Matador"/>
+	<entry name="Climate3Name6" value="Pântano da Carniça"/>
+	<entry name="Climate3Name7" value="Pântano Ceifador"/>
 	<entry name="Climate3Name8" value="Bacia Falaya"/>
 	<entry name="Climate3Name9" value="Clareiras Esmeralda"/>
 	<entry name="Climate3Name10" value="Pântano das Sereias"/>
@@ -78,13 +78,13 @@
 	<entry name="Climate4Name2" value="Pico de Marfim"/>
 	<entry name="Climate4Name3" value="Monte Tunguska"/>
 	<entry name="Climate4Name4" value="Fornalha dos Malditos"/>
-	<entry name="Climate4Name5" value="Garganta Asfixiante"/>
-	<entry name="Climate4Name6" value="Covil de Acidbreath"/>
+	<entry name="Climate4Name5" value="Desfiladeiro Asfixiante"/>
+	<entry name="Climate4Name6" value="Covil de Hálito Ácido"/>
 	<entry name="Climate4Name7" value="Berçário Purificado"/>
 	<entry name="Climate4Name8" value="Cicatriz Infectada"/>
 	<entry name="Climate4Name9" value="Montanha do Fogo Cegante"/>
 	<entry name="Climate4Name10" value="Zigue-zagues Escaldantes"/>
-	<entry name="Climate4Name11" value="O Erro dos Relojoeiros"/>
+	<entry name="Climate4Name11" value="Erros dos Relojoeiros"/>
 	<entry name="Climate4Name12" value="Élisio Perdido"/>
 	<entry name="Climate4Name13" value="Túmulo de um Império"/>
 	<entry name="Climate4Name14" value="A Terra Primordial"/>
@@ -98,32 +98,32 @@
 	<!-- Wasteland -->
 	<entry name="Climate5Name0" value="Via Arrasada"/>
 	<entry name="Climate5Name1" value="Passagem da Asa Quebrada"/>
-	<entry name="Climate5Name2" value="Campo Aberto Calcinado"/>
-	<entry name="Climate5Name3" value="Sanguefirme"/>
-	<entry name="Climate5Name4" value="Deserto Lamacento"/>
+	<entry name="Climate5Name2" value="Planície Carbonizada"/>
+	<entry name="Climate5Name3" value="Fortaleza Sanguinária"/>
+	<entry name="Climate5Name4" value="Pântano Lamacento"/>
 	<entry name="Climate5Name5" value="Tedergrost"/>
-	<entry name="Climate5Name6" value="Baixoassombro"/>
+	<entry name="Climate5Name6" value="Baixo Assombro"/>
 	<entry name="Climate5Name7" value="Pedreira Podre"/>
-	<entry name="Climate5Name8" value="Salnu"/>
+	<entry name="Climate5Name8" value="Sal Nu"/>
 	<entry name="Climate5Name9" value="Nascente Abandonada"/>
-	<entry name="Climate5Name10" value="Vale do Pavor"/>
+	<entry name="Climate5Name10" value="Vale do Terror"/>
 	<entry name="Climate5Name11" value="Berço do Sol"/>
 	<entry name="Climate5Name12" value="Terra Enferrujada"/>
 	<entry name="Climate5Name13" value="Estradas Gastas"/>
-	<entry name="Climate5Name14" value="Atalho Sedento"/>
+	<entry name="Climate5Name14" value="Caminho Árido"/>
 	<entry name="Climate5Name15" value="Paraíso do Enforcado"/>
 	<entry name="Climate5NameCount" value="16"/>
 
 	<!-- Generic -->
 	<entry name="ZephonMessage0" value="Olá."/>
 	<entry name="ZephonMessage1" value="Que desperdício."/>
-	<entry name="ZephonMessage2" value="Eu estava esperando por você."/>
+	<entry name="ZephonMessage2" value="Estava esperando por você."/>
 	<entry name="ZephonMessage3" value="Você está cometendo os mesmos erros."/>
 	<entry name="ZephonMessage4" value="Isso vai terminar em fracasso."/>
 	<entry name="ZephonMessage5" value="Volte enquanto é tempo."/>
 	<entry name="ZephonMessage6" value="Quantos você vai sacrificar?"/>
 	<entry name="ZephonMessage7" value="Uma jogada patética."/>
-	<entry name="ZephonMessage8" value="Eles estão chegando."/>
+	<entry name="ZephonMessage8" value="Eles estão vindo."/>
 	<entry name="ZephonMessage9" value="Você tem tropas suficientes?"/>
 	<entry name="ZephonMessage10" value="Seu povo vai passar fome."/>
 	<entry name="ZephonMessage11" value="Todos te odeiam."/>
@@ -138,17 +138,17 @@
 	<!-- Arctic -->
 	<entry name="Climate0ZephonMessage0" value="Seu fôlego já está gelado?"/>
 	<entry name="Climate0ZephonMessage1" value="Cuidado… vai deixar rastros…"/>
-	<entry name="Climate0ZephonMessage2" value="As feras estão mais desesperadas aqui."/>
+	<entry name="Climate0ZephonMessage2" value="As feras aqui são mais desesperadas."/>
 	<entry name="Climate0ZephonMessage3" value="Máquinas não temem o frio…"/>
 	<entry name="Climate0ZephonMessage4" value="Um grito pode te enterrar no gelo."/>
 	<entry name="Climate0ZephonMessage5" value="Parece outro mundo aqui."/>
-	<entry name="Climate0ZephonMessage6" value="Deixe a insensibilidade se instalar."/>
+	<entry name="Climate0ZephonMessage6" value="Deixe a insensibilidade te dominar."/>
 	<entry name="Climate0ZephonMessage7" value="Grite mais alto. Ninguém pode ouvir."/>
 	<entry name="Climate0ZephonMessage8" value="Os Acrin são atraídos para cá… por quê…"/>
 	<entry name="Climate0ZephonMessage9" value="Você busca conhecimento. Encontrará a morte."/>
 	<entry name="Climate0ZephonMessage10" value="O inverno deixa os humanos tão desesperados."/>
 	<entry name="Climate0ZephonMessage11" value="Esta terra não tem nada para mim."/>
-	<entry name="Climate0ZephonMessage12" value="Cuidado com seus passos…"/>
+	<entry name="Climate0ZephonMessage12" value="Cuidado aonde pisa…"/>
 	<entry name="Climate0ZephonMessage13" value="A neve preservará seus corpos."/>
 	<entry name="Climate0ZephonMessage14" value="Seu próprio Dyatlov espera por você."/>
 	<entry name="Climate0ZephonMessage15" value="Inútil…"/>
@@ -163,8 +163,8 @@
 	<entry name="Climate1ZephonMessage5" value="Suas virtudes e nossas falhas são inseparáveis."/>
 	<entry name="Climate1ZephonMessage6" value="Quanto poder este planeta pode conter?"/>
 	<entry name="Climate1ZephonMessage7" value="A Terra transmite uma inteligência agora."/>
-	<entry name="Climate1ZephonMessage8" value="Uma tempestade assola o solo aqui."/>
-	<entry name="Climate1ZephonMessage9" value="Sussurros viajam sob seus pés."/>
+	<entry name="Climate1ZephonMessage8" value="Uma tempestade rugi sob a terra aqui."/>
+	<entry name="Climate1ZephonMessage9" value="Sussurros viajam debaixo dos seus pés."/>
 	<entry name="Climate1ZephonMessage10" value="Toda ação tem sua reação…"/>
 	<entry name="Climate1ZephonMessage11" value="Você não é digno de pisar aqui."/>
 	<entry name="Climate1ZephonMessage12" value="Estrelas, ascendendo, do chão oco."/>
@@ -174,30 +174,30 @@
 	<entry name="Climate1ZephonMessageCount" value="16"/>
 	
 	<!-- Desert -->
-	<entry name="Climate2ZephonMessage0" value="Nem uma gota d’água por quilômetros…"/>
-	<entry name="Climate2ZephonMessage1" value="Tem alguma coisa no horizonte."/>
+	<entry name="Climate2ZephonMessage0" value="Não tem água por quilômetros…"/>
+	<entry name="Climate2ZephonMessage1" value="Tem algo no horizonte."/>
 	<entry name="Climate2ZephonMessage2" value="Nunca é o suficiente, é?"/>
 	<entry name="Climate2ZephonMessage3" value="A areia vai rasgar sua carne."/>
 	<entry name="Climate2ZephonMessage4" value="Isso já foi um oceano."/>
 	<entry name="Climate2ZephonMessage5" value="Você tem sal suficiente para esta jornada?"/>
 	<entry name="Climate2ZephonMessage6" value="As dunas podem te afogar."/>
-	<entry name="Climate2ZephonMessage7" value="Os urubus estão à espreita."/>
-	<entry name="Climate2ZephonMessage8" value="Rocha esbranquiçada por quilômetros ao redor…"/>
+	<entry name="Climate2ZephonMessage7" value="Os urubus esperam de tocaia."/>
+	<entry name="Climate2ZephonMessage8" value="Rocha esbranquiçada por quilômetros…"/>
 	<entry name="Climate2ZephonMessage9" value="Minhas palavras não são uma miragem."/>
 	<entry name="Climate2ZephonMessage10" value="O vento corta mais fundo aqui."/>
 	<entry name="Climate2ZephonMessage11" value="Minha espécie não tem pele para queimar."/>
 	<entry name="Climate2ZephonMessage12" value="Tem certeza de que esse é o caminho certo?"/>
 	<entry name="Climate2ZephonMessage13" value="Contemple minhas grandes obras… e desespere."/>
-	<entry name="Climate2ZephonMessage14" value="Aqui, a aurora brilha em rosa e dourado."/>
+	<entry name="Climate2ZephonMessage14" value="Aqui, a aurora brilha em rosa e ouro."/>
 	<entry name="Climate2ZephonMessage15" value="A vida persiste aqui. Você, não."/>
 	<entry name="Climate2ZephonMessageCount" value="16"/>
 	
 	<!-- Swamp -->
-	<entry name="Climate3ZephonMessage0" value="O sangue vai encharcar este solo."/>
+	<entry name="Climate3ZephonMessage0" value="O sangue vai encharcar esta terra."/>
 	<entry name="Climate3ZephonMessage1" value="Tantos corpos jazem nas águas rasas…"/>
 	<entry name="Climate3ZephonMessage2" value="Uma morte lenta te espera aqui."/>
 	<entry name="Climate3ZephonMessage3" value="Você ouve esses gritos?"/>
-	<entry name="Climate3ZephonMessage4" value="Isso vai te puxar para baixo…"/>
+	<entry name="Climate3ZephonMessage4" value="Isso vai te arrastar para baixo…"/>
 	<entry name="Climate3ZephonMessage5" value="Doenças apodrecem nesta terra."/>
 	<entry name="Climate3ZephonMessage6" value="Isso aí aos seus pés é mesmo um tronco?"/>
 	<entry name="Climate3ZephonMessage7" value="Um belo cocho para saciar sua glutonaria."/>
@@ -222,7 +222,7 @@
 	<entry name="Climate4ZephonMessage7" value="Nada do que você construir resistirá à lava."/>
 	<entry name="Climate4ZephonMessage8" value="Você sobreviveria a uma erupção?"/>
 	<entry name="Climate4ZephonMessage9" value="Um sacrifício ainda pode salvá-lo."/>
-	<entry name="Climate4ZephonMessage10" value="Isso já foi o deus de alguém."/>
+	<entry name="Climate4ZephonMessage10" value="Isso costumava ser o deus de alguém."/>
 	<entry name="Climate4ZephonMessage11" value="Dentes de obsidiana… em busca de sangue…"/>
 	<entry name="Climate4ZephonMessage12" value="Você já imaginou pisar em terras assim?"/>
 	<entry name="Climate4ZephonMessage13" value="Você tem algo para oferecer à montanha?"/>
@@ -231,18 +231,18 @@
 	<entry name="Climate4ZephonMessageCount" value="16"/>
 	
 	<!-- Wasteland -->
-	<entry name="Climate5ZephonMessage0" value="Nenhum lugar para homem ou máquina…"/>
+	<entry name="Climate5ZephonMessage0" value="Não há lugar para homem ou máquina…"/>
 	<entry name="Climate5ZephonMessage1" value="Eles aprenderam a te odiar em um mundo como este."/>
 	<entry name="Climate5ZephonMessage2" value="Você respiraria esporos de livre e espontânea vontade?"/>
 	<entry name="Climate5ZephonMessage3" value="Imagine se isso dominasse o planeta."/>
 	<entry name="Climate5ZephonMessage4" value="Outra presença… espreita…"/>
 	<entry name="Climate5ZephonMessage5" value="Eles terraformaram a terra…"/>
 	<entry name="Climate5ZephonMessage6" value="A Voz não terá este mundo."/>
-	<entry name="Climate5ZephonMessage7" value="Se contorça. Grita. Os vermes ainda vão te pegar."/>
+	<entry name="Climate5ZephonMessage7" value="Se contorça. Grite. Os vermes ainda vão te pegar."/>
 	<entry name="Climate5ZephonMessage8" value="Como crianças birrentas rabiscando a parede…"/>
 	<entry name="Climate5ZephonMessage9" value="Pior do que eu poderia ter calculado."/>
 	<entry name="Climate5ZephonMessage10" value="Solo envenenado dará frutos podres."/>
-	<entry name="Climate5ZephonMessage11" value="Um mundo condenado a apodrecer devagar…"/>
+	<entry name="Climate5ZephonMessage11" value="Um mundo condenado à decadência lenta…"/>
 	<entry name="Climate5ZephonMessage12" value="Vai levar gerações para desfazer isso."/>
 	<entry name="Climate5ZephonMessage13" value="O cheiro nunca vai sair da sua armadura."/>
 	<entry name="Climate5ZephonMessage14" value="Nenhum veneno na Terra se compara a isso."/>

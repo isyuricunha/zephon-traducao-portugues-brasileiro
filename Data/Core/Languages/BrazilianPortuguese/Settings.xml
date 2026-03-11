@@ -11,35 +11,35 @@
 	<entry name="Achievements/DidOurSacrificeMeanNothing" value="Nosso Sacrifício Não Teve Nenhum Sentido?"/>
 	<entry name="Achievements/DidOurUnificationMatter" value="Nossa Unificação Importou?"/>
 	<entry name="Achievements/IsWisdomTheMeasureOfWorth" value="A Sabedoria É a Medida do Valor?"/>
-	<entry name="Achievements/MustWeSufferSo" value="Devemos Sofrer Tanto Assim?"/>
+	<entry name="Achievements/MustWeSufferSo" value="Devemos Sofrer Tanto?"/>
 	<entry name="Achievements/WasITheBestPersonAliveOrWhat" value="Eu Era a Melhor Pessoa Viva Ou O Quê?"/>
 	<entry name="Achievements/WasITrulyHuman" value="Eu Era Verdadeiramente Humano?"/>
 	<entry name="Achievements/WasPerfectionWorthIt" value="A Perfeição Valia a Pena?"/>
 	<entry name="Achievements/WasZephonTrulyAlive" value="ZEPHON Estava Verdadeiramente Vivo?"/>
-	<entry name="Achievements/WhatAmITruly" value="O Que Eu Sou, Afinal?"/>
+	<entry name="Achievements/WhatAmITruly" value="O Que Sou Eu, Afinal?"/>
 	<entry name="Achievements/WhatAreYou" value="O Que Você É?"/>
 	<entry name="Achievements/WhatPriceForLiberty" value="Qual É o Preço da Liberdade?"/>
 	<entry name="Achievements/WhereAreWe" value="Onde Estamos?"/>
 	<entry name="Achievements/WhyDidHumanityDieAlone" value="Por Que a Humanidade Morreu Sozinha?"/>
 	<entry name="Audio" value="Áudio"/>
 	<entry name="Audio/AmbientVolume" value="Volume Ambiente"/>
-	<entry name="Audio/AmbientVolumeHint" value="Controla o volume ambiente."/>
+	<entry name="Audio/AmbientVolumeHint" value="Regula o volume ambiente."/>
 	<entry name="Audio/CinematicVolume" value="Volume Cinemático"/>
-	<entry name="Audio/CinematicVolumeHint" value="Controla o volume das cenas cinemáticas."/>
+	<entry name="Audio/CinematicVolumeHint" value="Regula o volume das cenas cinemáticas."/>
 	<entry name="Audio/EffectVolume" value="Volume de Efeitos"/>
-	<entry name="Audio/EffectVolumeHint" value="Controla o volume dos efeitos."/>
+	<entry name="Audio/EffectVolumeHint" value="Regula o volume dos efeitos."/>
 	<entry name="Audio/InterfaceVolume" value="Volume da Interface"/>
-	<entry name="Audio/InterfaceVolumeHint" value="Controla o volume da interface."/>
+	<entry name="Audio/InterfaceVolumeHint" value="Regula o volume da interface."/>
 	<entry name="Audio/MasterVolume" value="Volume Geral"/>
-	<entry name="Audio/MasterVolumeHint" value="Controla o volume geral."/>
+	<entry name="Audio/MasterVolumeHint" value="Regula o volume geral."/>
 	<entry name="Audio/MusicVolume" value="Volume da Música"/>
-	<entry name="Audio/MusicVolumeHint" value="Controla o volume da música."/>
+	<entry name="Audio/MusicVolumeHint" value="Regula o volume da música."/>
 	<entry name="Audio/MuteInBackground" value="Silenciar em Segundo Plano"/>
 	<entry name="Audio/MuteInBackgroundHint" value="Silenciar todo o áudio quando a janela do jogo estiver desfocada ou minimizada."/>
 	<entry name="Audio/OutputDevice" value="Dispositivo de Saída"/>
 	<entry name="Audio/OutputDeviceHint" value=""/>
-	<entry name="Audio/ResponseVolume" value="Volume de Respostas"/>
-	<entry name="Audio/ResponseVolumeHint" value="Controla o volume das respostas."/>
+	<entry name="Audio/ResponseVolume" value="Volume de Resposta"/>
+	<entry name="Audio/ResponseVolumeHint" value="Regula o volume das respostas."/>
 	<entry name="Audio/SilenceBetweenTracks" value="Silêncio Entre Faixas"/>
 	<entry name="Audio/SilenceBetweenTracksHint" value=""/>
 	<entry name="Controls" value="Controles"/>
@@ -56,7 +56,7 @@
 	<entry name="Controls/Cargo8" value="Carga 9"/>
 	<entry name="Controls/Cargo9" value="Carga 10"/>
 	<entry name="Controls/Chat" value="Bate-papo"/>
-	<entry name="Controls/DismantleBuilding" value="Desmontar Edifício"/>
+	<entry name="Controls/DismantleBuilding" value="Desmontar Construção"/>
 	<entry name="Controls/ForceEndTurn" value="Forçar Fim do Turno"/>
 	<entry name="Controls/Forward" value="Avançar (Compêndio)"/>
 	<entry name="Controls/LobbyAdvancedParameters" value="Mostrar Parâmetros Avançados do Lobby"/>
@@ -89,9 +89,9 @@
 	<entry name="Controls/RebuildGUI" value="Reconstruir Interface"/>
 	<entry name="Controls/ReloadModifiedResources" value="Recarregar Recursos Modificados"/>
 	<entry name="Controls/SaveJPGScreenShot" value="Salvar Captura de Tela (JPG)"/>
-	<entry name="Controls/SaveJPGScreenShotWithoutHUD" value="Salvar Captura de Tela (JPG) sem HUD"/>
+	<entry name="Controls/SaveJPGScreenShotWithoutHUD" value="Salvar Captura de Tela (JPG) Sem HUD"/>
 	<entry name="Controls/SavePNGScreenShot" value="Salvar Captura de Tela (PNG)"/>
-	<entry name="Controls/SavePNGScreenShotWithoutHUD" value="Salvar Captura de Tela (PNG) sem HUD"/>
+	<entry name="Controls/SavePNGScreenShotWithoutHUD" value="Salvar Captura de Tela (PNG) Sem HUD"/>
 	<entry name="Controls/ScrollDown" value="Rolar para Baixo"/>
 	<entry name="Controls/ScrollLeft" value="Rolar para a Esquerda"/>
 	<entry name="Controls/ScrollRight" value="Rolar para a Direita"/>
@@ -112,7 +112,7 @@
 	<entry name="Controls/ToggleSceneUpdate" value="Alternar Atualização da Cena"/>
 	<entry name="Controls/ToggleSettingsScreen" value="Alternar Tela de Configurações"/>
 	<entry name="Controls/ToggleStatsScreen" value="Alternar Tela de Estatísticas"/>
-	<entry name="Controls/ToggleUnitOverlay" value="Alternar Sobreposição de Unidades"/>
+	<entry name="Controls/ToggleUnitOverlay" value="Alternar Sobreposição de Unidade"/>
 	<entry name="Controls/ToggleYieldOverlay" value="Alternar Sobreposição de Produção"/>
 	<entry name="Controls/UnitAction0" value="Ação da Unidade 1"/>
 	<entry name="Controls/UnitAction1" value="Ação da Unidade 2"/>
@@ -145,11 +145,11 @@
 	<entry name="General/AutoCycleUnits" value="Ciclar Unidades Automaticamente"/>
 	<entry name="General/AutoCycleUnitsHint" value="Alternar automaticamente para a próxima unidade ociosa."/>
 	<entry name="General/AutoSendReports" value="Enviar Estatísticas de Uso e Relatórios de Falhas"/>
-	<entry name="General/AutoSendReportsHint" value="Enviar automaticamente estatísticas de uso e relatórios de falhas para a Proxy Studios para ajudar a melhorar os recursos, a estabilidade e o desempenho do jogo.<br/><br/><style color='GUI/Yellow'/>A privacidade é importante para nós. Nos esforçamos para coletar apenas o necessário para melhorar o jogo para todos. Os dados coletados incluem interações anonimizadas com o jogo (como número de tentativas e falhas de conexão multijogador, tipos de partidas iniciadas, recursos usados, botões clicados e tempo de jogo), além de informações técnicas anonimizadas (como versão e idioma do jogo, sistema operacional e configuração de hardware, e dados básicos sobre falhas e erros). Esses dados são processados de acordo com o interesse legítimo de oferecer um produto de alta qualidade e confiável; são armazenados por até 1 ano e nunca compartilhados com terceiros."/>
+	<entry name="General/AutoSendReportsHint" value="Enviar automaticamente estatísticas de uso e relatórios de falhas para a Proxy Studios para ajudar a melhorar os recursos, a estabilidade e o desempenho do jogo.<br/><br/><style color='GUI/Yellow'/>A privacidade é importante para nós. Nos esforçamos para coletar apenas o necessário para melhorar o jogo para todos. Os dados coletados incluem interações anonimizadas com o jogo (como número de tentativas de conexão multijogador e falhas, tipos de partidas iniciadas, recursos usados, botões clicados e tempo de jogo), além de informações técnicas anonimizadas (como versão e idioma do jogo, sistema operacional e configuração de hardware, e dados básicos sobre falhas e erros). Esses dados são processados conforme o interesse legítimo de oferecer um produto de alta qualidade e confiável; são armazenados por até 1 ano e nunca compartilhados com terceiros."/>
 	<entry name="General/EdgeScroll" value="Rolagem nas Bordas"/>
 	<entry name="General/EdgeScrollHint" value="Mover a câmera quando o mouse estiver nas bordas da tela no modo tela cheia."/>
 	<entry name="General/FriendNames" value="Nomes de Amigos"/>
-	<entry name="General/FriendNamesHint" value="Permitir o uso dos nomes dos seus amigos em mensagens no jogo vindas do ZEPHON."/>
+	<entry name="General/FriendNamesHint" value="Permitir o uso dos nomes dos seus amigos em mensagens no jogo enviadas pelo ZEPHON."/>
 	<entry name="General/Language" value="Idioma"/>
 	<entry name="General/LanguageHint" value="O idioma escrito."/>
 	<entry name="General/ResetTips" value="Redefinir Dicas"/>
@@ -163,7 +163,7 @@
 	<entry name="General/ScrollToAction" value="Rolagem Automática para Ação"/>
 	<entry name="General/ScrollToActionHint" value="Rolar automaticamente a câmera para atividades durante o turno da IA."/>
 	<entry name="General/ShowAttackArea" value="Mostrar Área de Ataque"/>
-	<entry name="General/ShowAttackAreaHint" value="Sempre mostrar a área de ataque da unidade. Quando desativado, ainda é possível visualizá-la segurando Shift."/>
+	<entry name="General/ShowAttackAreaHint" value="Sempre mostrar a área de ataque da unidade. Quando desativado, ainda pode ser exibida segurando Shift."/>
 	<entry name="General/ShowCliffHighlights" value="Destaque de Penhascos"/>
 	<entry name="General/ShowCliffHighlightsHint" value="Exibir linhas tracejadas para destacar penhascos."/>
 	<entry name="General/ShowCinematics" value="Mostrar Cinemáticas"/>
@@ -173,7 +173,7 @@
 	<entry name="General/ShowPerformance" value="Mostrar Desempenho"/>
 	<entry name="General/ShowPerformanceHint" value="Exibir informações de desempenho."/>
 	<entry name="General/ShowSubtitles" value="Mostrar Legendas"/>
-	<entry name="General/ShowSubtitlesHint" value="Exibir legendas na parte inferior das cenas cinematográficas, traduzindo ou transcrevendo os diálogos e a narrativa."/>
+	<entry name="General/ShowSubtitlesHint" value="Exibir legendas na parte inferior das cenas cinematográficas que traduzem ou transcrevem os diálogos e a narrativa."/>
 	<entry name="General/ShowTips" value="Mostrar Dicas"/>
 	<entry name="General/ShowTipsHint" value="Exibir dicas úteis do jogo."/>
 	<entry name="General/TerminateWithDisableMods" value="Desativar Mods em Erro de Carregamento"/>
@@ -182,7 +182,7 @@
 	<entry name="General/TerminateWithMarkContentCorruptHint" value=""/>
 	<entry name="Network" value="Rede"/>
 	<entry name="Network/ListenPort" value="Porta de Escuta"/>
-	<entry name="Network/ListenPortHint" value="Porta TCP para escutar conexões de entrada ao hospedar uma partida."/>
+	<entry name="Network/ListenPortHint" value="Porta TCP para conexões de entrada ao hospedar uma partida."/>
 	<entry name="Network/PreferRelayedData" value="Priorizar Dados Retransmitidos"/>
 	<entry name="Network/PreferRelayedDataHint" value="Em vez de se conectar diretamente ao host, retransmita todos os dados por um servidor de relay, se disponível.<br/><br/>Isso aumentará a latência da rede.<br/><br/>Quando desativado, os dados ainda serão retransmitidos se a conexão direta inicial falhar.<br/><br/><style color='GUI/Yellow'/>Use apenas se estiver com problemas de conexão e não conseguir resolvê-los de outra forma."/>
 	<entry name="Network/RemoteAddress" value="Endereço Remoto"/>
@@ -192,7 +192,7 @@
 	<entry name="Video/AnisotropicFilteringHint" value=""/>
 	<entry name="Video/Brightness" value="Brilho"/>
 	<entry name="Video/BrightnessHint" value=""/>
-	<entry name="Video/CloudShadows" value="Sombras de Nuvens"/>
+	<entry name="Video/CloudShadows" value="Sombras das Nuvens"/>
 	<entry name="Video/CloudShadowsHint" value=""/>
 	<entry name="Video/Contrast" value="Contraste"/>
 	<entry name="Video/ContrastHint" value=""/>
@@ -213,18 +213,18 @@
 	<entry name="Video/FixedTimeOfDayHint" value=""/>
 	<entry name="Video/FixedTimeOfDayAt" value="Hora do Dia Fixa em"/>
 	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
-	<entry name="Video/FXAA" value="Antisserilhamento"/>
-	<entry name="Video/FXAAHint" value="Reduz o serilhamento suavizando bordas com FXAA, mas pode reduzir o desempenho. Depende do poder de processamento da sua placa de vídeo."/>
+	<entry name="Video/FXAA" value="Antisserrilhado"/>
+	<entry name="Video/FXAAHint" value="Reduz o serrilhado suavizando bordas com FXAA, mas pode reduzir o desempenho. Depende do poder de processamento da sua placa de vídeo."/>
 	<entry name="Video/Gamma" value="Gama"/>
 	<entry name="Video/GammaHint" value=""/>
 	<entry name="Video/GUIScale" value="Escala da Interface"/>
 	<entry name="Video/GUIScaleCustom" value="Personalizado: %1%%%"/>
 	<entry name="Video/GUIScaleHint" value="Ajusta o tamanho da interface gráfica."/>
-	<entry name="Video/MaxFocusedTickrate" value="FPS Máx. (em foco)"/>
+	<entry name="Video/MaxFocusedTickrate" value="FPS Máximo (em foco)"/>
 	<entry name="Video/MaxFocusedTickrateHint" value=""/>
-	<entry name="Video/MaxMinimizedTickrate" value="FPS Máx. (minimizado)"/>
+	<entry name="Video/MaxMinimizedTickrate" value="FPS Máximo (minimizado)"/>
 	<entry name="Video/MaxMinimizedTickrateHint" value=""/>
-	<entry name="Video/MaxUnfocusedTickrate" value="FPS Máx. (sem foco)"/>
+	<entry name="Video/MaxUnfocusedTickrate" value="FPS Máximo (sem foco)"/>
 	<entry name="Video/MaxUnfocusedTickrateHint" value=""/>
 	<entry name="Video/Monitor" value="Monitor (tela cheia)"/>
 	<entry name="Video/MonitorHint" value=""/>

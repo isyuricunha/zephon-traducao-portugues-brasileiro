@@ -143,7 +143,7 @@
 	<entry name="HollowWarlord16" value="Maile"/>
 	<entry name="HollowWarlord17" value="Keoni"/>
 	<entry name="HollowWarlord18" value="Ikaika"/>
-	<entry name="HollowWarlord19" value="'Alika"/>
+	<entry name="HollowWarlord19" value="’Alika"/>
 	<entry name="HollowWarlord20" value="Keola"/>
 	<entry name="HollowWarlord21" value="Nāinoa"/>
 	<entry name="HollowWarlord22" value="Makana"/>
@@ -334,12 +334,12 @@
 	<entry name="TwistedMother0" value="Desgraça"/>
 	<entry name="TwistedMother1" value="Tristeza"/>
 	<entry name="TwistedMother2" value="Angústia"/>
-	<entry name="TwistedMother3" value="Desdita"/>
-	<entry name="TwistedMother4" value="Aflição"/>
-	<entry name="TwistedMother5" value="Dor"/>
+	<entry name="TwistedMother3" value="Pena"/>
+	<entry name="TwistedMother4" value="Dor no Coração"/>
+	<entry name="TwistedMother5" value="Dolor"/>
 	<entry name="TwistedMother6" value="Melancolia"/>
 	<entry name="TwistedMother7" value="Arrependimento"/>
-	<entry name="TwistedMother8" value="Desgosto"/>
+	<entry name="TwistedMother8" value="Abatimento"/>
 	<entry name="TwistedMother9" value="Catatonia"/>
 	<entry name="TwistedMother10" value="Lamento"/>
 	<entry name="TwistedMother11" value="Infelicidade"/>
@@ -347,11 +347,11 @@
 	<entry name="TwistedMother13" value="Ruína"/>
 	<entry name="TwistedMother14" value="Melancolia"/>
 	<entry name="TwistedMother15" value="Tormento"/>
-	<entry name="TwistedMother16" value="Abatimento"/>
+	<entry name="TwistedMother16" value="Mágoa"/>
 	<entry name="TwistedMother17" value="Tédio"/>
 	<entry name="TwistedMother18" value="Enxaqueca"/>
-	<entry name="TwistedMother19" value="Agonia"/>
-	<entry name="TwistedMother20" value="Indecisão"/>
+	<entry name="TwistedMother19" value="Agita"/>
+	<entry name="TwistedMother20" value="Hesitação"/>
 	<entry name="TwistedMother21" value="Angústia"/>
 	<entry name="TwistedMother22" value="Remorso"/>
 	<entry name="TwistedMother23" value="Inveja"/>
@@ -368,8 +368,8 @@
 	<entry name="TwistedMotherCount" value="34"/>
 	<entry name="UntoldProphet0" value="Adelelmus"/>
 	<entry name="UntoldProphet1" value="Xavier"/>
-	<entry name="UntoldProphet2" value="Prudencio"/>
-	<entry name="UntoldProphet3" value="Olegarious"/>
+	<entry name="UntoldProphet2" value="Prudêncio"/>
+	<entry name="UntoldProphet3" value="Olegário"/>
 	<entry name="UntoldProphet4" value="Quixote"/>
 	<entry name="UntoldProphet5" value="Ignatius"/>
 	<entry name="UntoldProphet6" value="Dominica"/>

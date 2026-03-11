@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="BetaStart" value="Relate todos os bugs nos canais #zephon-beta e #zephon-beta-feedback no servidor oficial do Discord da Proxy Studios.<br/><br/>Lembre-se de que você está sob NDA e esses são os únicos canais de comunicação permitidos."/>
+	<entry name="BetaStart" value="Por favor, reporte todos os bugs nos canais #zephon-beta e #zephon-beta-feedback no servidor oficial do Discord da Proxy Studios.<br/><br/>Lembre-se de que você está sob NDA e esses são os únicos canais de comunicação permitidos."/>
 	<entry name="BetaStartTitle" value="Bem-vindo ao Beta"/>
 	<entry name="CallDeclined" value="Chamada Recusada"/>
 	<entry name="ConfirmDelete" value="Tem certeza de que deseja excluir “%1%”?"/>
@@ -13,7 +13,7 @@
 	<entry name="ConnectingToServer" value="Conectando ao servidor…"/>
 	<entry name="ConnectionLost" value="Conexão perdida."/>
 	<entry name="DemoEndTitle" value="Obrigado por Jogar"/>
-	<entry name="DemoEndDefault" value="Isso encerra a experiência da demo.<string name='Messages/DemoEndShared'/>"/>
+	<entry name="DemoEndDefault" value="Isso conclui a experiência demo.<string name='Messages/DemoEndShared'/>"/>
 	<entry name="DemoEndLost" value="Você foi derrotado. Tentar novamente?<string name='Messages/DemoEndShared'/>"/>
 	<entry name="DemoEndShared" value="<br/><br/>If you enjoyed playing, please wishlist and follow ZEPHON on Steam.
 	<br/><br/>If you would like to leave us feedback, we welcome you to post on the Steam forums or on the Proxy Studios Discord."/>
@@ -24,7 +24,7 @@
 	<entry name="Error" value="Erro"/>
 	<entry name="GameLoaded" value="Jogo carregado"/>
 	<entry name="GameSaved" value="Jogo salvo"/>
-	<entry name="GraphicsDriverOutdated" value="Seu driver de vídeo está desatualizado.<br/><br/>Para melhorar a estabilidade e o desempenho, atualize seu driver de vídeo pelo site de suporte do fabricante da sua placa de vídeo."/>
+	<entry name="GraphicsDriverOutdated" value="Seu driver de vídeo está desatualizado.<br/><br/>Para melhorar a estabilidade e o desempenho, atualize seu driver de vídeo visitando o site de suporte do fabricante da sua placa de vídeo."/>
 	<entry name="IncompatibleVersion" value="Versão do jogo incompatível."/>
 	<entry name="Info" value="Info"/>
 	<entry name="Kicked" value="Você foi expulso do servidor."/>
@@ -42,7 +42,7 @@
 	<entry name="PlayerLeft" value="%1% saiu."/>
 	<entry name="PleaseEnterYourName" value="Digite seu nome."/>
 	<entry name="PleaseWait" value="<style color='GUI/Red'/>Aguarde"/>
-	<entry name="PreviewStart" value="Atenção: ainda estamos em fase de testes pré-lançamento, correção de bugs e finalização das traduções. Você pode encontrar alguns problemas, mas nada que impeça o jogo. Se encontrar algum erro grave, avise-nos que corrigiremos em até 24 horas.<br/><br/>Fique à vontade para usar o painel de depuração [Ctrl+D] se quiser trapacear (por exemplo, para desbloquear todos os mutadores).<br/><br/>Lembre-se de que você está sob embargo até 4 de novembro, às 6h PT / 13h GMT.<br/><br/>Lançamento no Steam em 8 de novembro, às 6h PT / 13h GMT."/>
+	<entry name="PreviewStart" value="Aviso: ainda estamos em fase de testes pré-lançamento, correção de bugs e finalização das traduções. Você pode encontrar alguns problemas, mas nada que impeça o jogo. Se encontrar algum erro grave, nos avise que corrigiremos em até 24 horas.<br/><br/>Fique à vontade para usar o painel de depuração [Ctrl+D] se quiser trapacear (por exemplo, para desbloquear todos os mutadores).<br/><br/>Lembre-se de que você está sob embargo até 4 de novembro, às 6h PT / 13h GMT.<br/><br/>Lançamento no Steam em 8 de novembro, às 6h PT / 13h GMT."/>
 	<entry name="PreviewStartTitle" value="Bem-vindo à Prévia"/>
 	<entry name="ReceivingInfo" value="Recebendo informações…"/>
 	<entry name="RestartRequired" value="Você precisa reiniciar o jogo para que as alterações tenham efeito."/>
@@ -50,7 +50,7 @@
 	<entry name="ScreenShotSaved" value="Captura de tela salva"/>
 	<entry name="SetBinding" value="Pressione uma nova combinação de teclas para atribuir a %1%."/>
 	<entry name="ScreenShotSaveError" value="Erro ao salvar captura de tela"/>
-	<entry name="ServerUnreachable" value="Não foi possível conectar ao servidor.<br/><br/>Para melhorar a conectividade, certifique-se de que desativou firewalls e habilitou o UPnP no roteador ou encaminhou a porta TCP %1% para sua máquina local."/>
+	<entry name="ServerUnreachable" value="Não foi possível conectar ao servidor.<br/><br/>Para melhorar a conectividade, certifique-se de que desativou firewalls e habilitou UPnP no roteador ou encaminhou a porta TCP %1% para sua máquina local."/>
 	<entry name="SelectTarget" value="Selecionar alvo"/>
 	<entry name="TerminatedWithDisableMods" value="Os mods foram desativados devido a uma falha. Visite a tela de mods para reativá-los."/>
 	<entry name="TermsAndConditions" value="Termos e Condições"/>

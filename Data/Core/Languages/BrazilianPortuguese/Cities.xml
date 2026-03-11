@@ -28,13 +28,13 @@
 	<entry name="AnchoriteCount" value="25"/>
 	<entry name="Chieftess0" value="Arranhão Enferrujado"/>
 	<entry name="Chieftess1" value="Nó Quebrado"/>
-	<entry name="Chieftess2" value="Sanguesuga"/>
-	<entry name="Chieftess3" value="Esventrador"/>
+	<entry name="Chieftess2" value="Canal de Sangue"/>
+	<entry name="Chieftess3" value="Esfolador"/>
 	<entry name="Chieftess4" value="Lua Negra"/>
 	<entry name="Chieftess5" value="Sem Volta"/>
 	<entry name="Chieftess6" value="Serra"/>
 	<entry name="Chieftess7" value="A Brecha dos Caídos"/>
-	<entry name="Chieftess8" value="Garganta Estrangulada"/>
+	<entry name="Chieftess8" value="Garganta Obstruída"/>
 	<entry name="Chieftess9" value="Toca dos Alfas"/>
 	<entry name="Chieftess10" value="Mordida Selvagem"/>
 	<entry name="Chieftess11" value="Passagem Devastada"/>
@@ -104,17 +104,17 @@
 	<entry name="FallenSoldier18" value="Nellis"/>
 	<entry name="FallenSoldier19" value="Mercury"/>
 	<entry name="FallenSoldier20" value="Tonopah"/>
-	<entry name="FallenSoldier21" value="Bacia Calico"/>
-	<entry name="FallenSoldier22" value="Pequeno Yangtzé"/>
+	<entry name="FallenSoldier21" value="Calico Basin"/>
+	<entry name="FallenSoldier22" value="Little Yangtze"/>
 	<entry name="FallenSoldier23" value="Goodsprings"/>
 	<entry name="FallenSoldier24" value="Primm"/>
-	<entry name="FallenSoldier25" value="Reserva da Praia Boulder"/>
-	<entry name="FallenSoldier26" value="Enseada Cottonwood"/>
-	<entry name="FallenSoldier27" value="Colina da Fortificação"/>
-	<entry name="FallenSoldier28" value="Velha Nipton"/>
+	<entry name="FallenSoldier25" value="Boulder Beach Reserve"/>
+	<entry name="FallenSoldier26" value="Cottonwood Cove"/>
+	<entry name="FallenSoldier27" value="Fortification Hill"/>
+	<entry name="FallenSoldier28" value="Old Nipton"/>
 	<entry name="FallenSoldier29" value="Novac"/>
-	<entry name="FallenSoldier30" value="Monturo de Sucata"/>
-	<entry name="FallenSoldier31" value="Toca da Raposa"/>
+	<entry name="FallenSoldier30" value="Gasheap"/>
+	<entry name="FallenSoldier31" value="Foxlair"/>
 	<entry name="FallenSoldierCount" value="32"/>
 	<entry name="FurtiveTribunal0" value="The Kodinsk"/>
 	<entry name="FurtiveTribunal1" value="The Surgut"/>
@@ -210,22 +210,22 @@
 	<entry name="HollowWarlord7" value="Glicoburgo"/>
 	<entry name="HollowWarlord8" value="Viicaya Alcazar"/>
 	<entry name="HollowWarlord9" value="Ginásio Fasthold"/>
-	<entry name="HollowWarlord10" value="Rocca Twitch"/>
-	<entry name="HollowWarlord11" value="Bermblow"/>
+	<entry name="HollowWarlord10" value="Rocca do Espasmo"/>
+	<entry name="HollowWarlord11" value="Quebra-mar"/>
 	<entry name="HollowWarlord12" value="Barbacã"/>
 	<entry name="HollowWarlord13" value="Fortaleza"/>
-	<entry name="HollowWarlord14" value="Reduto Plume"/>
+	<entry name="HollowWarlord14" value="Reduto Pluma"/>
 	<entry name="HollowWarlord15" value="Presidiojo"/>
 	<entry name="HollowWarlord16" value="O Baluarte"/>
 	<entry name="HollowWarlord17" value="Laager Isolado"/>
 	<entry name="HollowWarlord18" value="Estaçãone"/>
-	<entry name="HollowWarlord19" value="Hooktch"/>
-	<entry name="HollowWarlord20" value="Snatchshiel"/>
-	<entry name="HollowWarlord21" value="Quartel Pique"/>
+	<entry name="HollowWarlord19" value="Gancho Tcheco"/>
+	<entry name="HollowWarlord20" value="Escudo Arrebatador"/>
+	<entry name="HollowWarlord21" value="Quartel do Pico"/>
 	<entry name="HollowWarlord22" value="Rancho do Jerk"/>
-	<entry name="HollowWarlord23" value="Poleiro do Cock"/>
-	<entry name="HollowWarlord24" value="O Aglomerado"/>
-	<entry name="HollowWarlord25" value="Circuito Crunch"/>
+	<entry name="HollowWarlord23" value="Poleiro do Galo"/>
+	<entry name="HollowWarlord24" value="O Agachamento"/>
+	<entry name="HollowWarlord25" value="Circuito Esmagador"/>
 	<entry name="HollowWarlord26" value="Estação Sarco"/>
 	<entry name="HollowWarlord27" value="Ninho de Primp"/>
 	<entry name="HollowWarlord28" value="Equilíbrio Plyo"/>
@@ -313,7 +313,7 @@
 	<entry name="PlatinumScion14" value="Estepe do Mogul"/>
 	<entry name="PlatinumScion15" value="Arcologia Agregada"/>
 	<entry name="PlatinumScion16" value="Estaleiros Ship-It"/>
-	<entry name="PlatinumScion17" value="Banco Ensolarado"/>
+	<entry name="PlatinumScion17" value="Banco Solar"/>
 	<entry name="PlatinumScion18" value="Marginópolis"/>
 	<entry name="PlatinumScion19" value="Cume do Fluxo"/>
 	<entry name="PlatinumScion20" value="Baía dos Acionistas"/>
@@ -424,9 +424,9 @@
 	<entry name="TwistedMother24" value="Killiluktuk"/>
 	<entry name="TwistedMother25" value="Gretzkyniq"/>
 	<entry name="TwistedMother26" value="Shatner’s Creek"/>
-	<entry name="TwistedMother27" value="Sealine Dock"/>
-	<entry name="TwistedMother28" value="Biever’s Butte"/>
-	<entry name="TwistedMother29" value="Hayden’s Fall"/>
+	<entry name="TwistedMother27" value="Doca Sealine"/>
+	<entry name="TwistedMother28" value="Morro de Biever"/>
+	<entry name="TwistedMother29" value="Queda de Hayden"/>
 	<entry name="TwistedMotherCount" value="30"/>
 	<entry name="UntoldProphet0" value="Obispo"/>
 	<entry name="UntoldProphet1" value="Consagração"/>
@@ -434,7 +434,7 @@
 	<entry name="UntoldProphet3" value="Santificação"/>
 	<entry name="UntoldProphet4" value="Jejuar"/>
 	<entry name="UntoldProphet5" value="Castillo Sagrado"/>
-	<entry name="UntoldProphet6" value="Basilíca"/>
+	<entry name="UntoldProphet6" value="Basilica"/>
 	<entry name="UntoldProphet7" value="Encruzilhada"/>
 	<entry name="UntoldProphet8" value="Purgatório"/>
 	<entry name="UntoldProphet9" value="Cordeiros"/>
@@ -478,6 +478,6 @@
 	<entry name="Zephon21" value="PORTO VV89V"/>
 	<entry name="Zephon22" value="ARBORFORT 689O"/>
 	<entry name="Zephon23" value="ÁREA DE RISCO LL3M"/>
-	<entry name="Zephon24" value="NÚCLEO DO RAIO 924TT"/>
+	<entry name="Zephon24" value="NÚCLEO RELÂMPAGO 924TT"/>
 	<entry name="ZephonCount" value="25"/>
 </language>

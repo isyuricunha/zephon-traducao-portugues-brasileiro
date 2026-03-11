@@ -18,13 +18,13 @@
 	<entry name="ChangePlayerTo" value="<icon texture='GUI/Bullet'/>Altera o controle%1% para %2%"/>
 	<entry name="Disembark" value="<icon texture='GUI/Bullet'/>Desembarca%1%"/>
 	<entry name="Embark" value="<icon texture='GUI/Bullet'/>Embarca%1%"/>
-	<entry name="KillCargo" value="<icon texture='GUI/Bullet'/>Mata carga%1%"/>
-	<entry name="Pull" value="<icon texture='GUI/Bullet'/>Puxa%1%"/>
+	<entry name="KillCargo" value="<icon texture='GUI/Bullet'/>Elimina carga%1%"/>
+	<entry name="Pull" value="<icon texture='GUI/Bullet'/>Atrai%1%"/>
 	<entry name="RemoveBuffs" value="<icon texture='GUI/Bullet'/>Remove benefícios%1% (exceto benefícios de ações passivas)"/>
-	<entry name="RemoveDebuffs" value="<icon texture='GUI/Bullet'/>Remove malefícios%1% (exceto quebrado, danificado, abalado e malefícios de ações passivas)"/>
-	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>Restaura pontos de ação%1%"/>
+	<entry name="RemoveDebuffs" value="<icon texture='GUI/Bullet'/>Remove efeitos negativos%1% (exceto quebrado, danificado, abalado e efeitos de ações passivas)"/>
+	<entry name="ResetActionPoints" value="<icon texture='GUI/Bullet'/>Recupera pontos de ação%1%"/>
 	<entry name="ResetCooldowns" value="<icon texture='GUI/Bullet'/>Reinicia tempos de recarga%1%"/>
-	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>Restaura pontos de movimento%1%"/>
+	<entry name="ResetMovement" value="<icon texture='GUI/Bullet'/>Recupera pontos de movimento%1%"/>
 	<entry name="Reveal" value="<icon texture='GUI/Bullet'/>Revela tiles%1%"/>
 
 	<!-- %1% name, %2% conditional from Modifiers.xml -->

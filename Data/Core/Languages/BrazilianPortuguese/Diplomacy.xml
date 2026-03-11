@@ -1207,38 +1207,38 @@
 	<entry name="HonorableAristocrat/AcceptTradeAgreementWithThirdParty/AcceptParty" value="É difícil encontrar parceiros que valham seu sal, mas estou disposto a dar uma chance a %3%."/>
 	<entry name="HonorableAristocrat/AcceptTradeAgreementWithThirdParty/AskParty" value="Ahh, sempre estou a fim de algo mais exótico! Tem um fornecedor confiável para me indicar?"/>
 	<entry name="HonorableAristocrat/AcceptTribute/AcceptAmount" value="E eu que achava que era eu o gourmet… Espero que você consiga controlar seu apetite."/>
-	<entry name="HonorableAristocrat/AcceptTribute/AskAmount" value="Parece um pouco <i>hangry</i>… quanto custaria para te satisfazer?"/>
+	<entry name="HonorableAristocrat/AcceptTribute/AskAmount" value="Parece um pouco hangry… quanto custaria para te satisfazer?"/>
 	<entry name="HonorableAristocrat/AcceptTroopWithdrawal" value="Jamais me rebaixaria a invadir o domínio alheio! Recuaremos imediatamente."/>
-	<entry name="HonorableAristocrat/AcceptWar" value="Tão ansioso para comer crow, <i>ja</i>? Tá bom, mas quando acabar com você, será você quem vai se alimentar por um tubo."/>
+	<entry name="HonorableAristocrat/AcceptWar" value="Tão ansioso para comer crow, ja? Tá bom, mas quando acabar com você, será você quem vai se alimentar por um tubo."/>
 	<entry name="HonorableAristocrat/AcceptWarAgainstThirdParty/AcceptParty" value="Da última vez que recebi %3%… sobraram restos. RESTOS!! Que insulto imperdoável ao meu chef — vamos apagar essa mancha na minha honra!"/>
 	<entry name="HonorableAristocrat/AcceptWarAgainstThirdParty/AskParty" value="Jamais me rebaixaria a atacar sem motivo justo… contra quem eu teria razão para me ofender?"/>
-	<entry name="HonorableAristocrat/AdmitDefeat" value="<i>Mein Gott</i>… Não pode terminar assim! Extinguir a última nobreza que resta no mundo… pois quem, senão eu, poderia transformar esses horrores <i>unheimlich</i> em iguarias refinadas? <i>Fine</i>? <i>Fine</i>. Meus inimigos acham que podem se banquetear com os restos do meu império? Não! Abutres ambiciosos — vão se engasgar com ele!"/>
+	<entry name="HonorableAristocrat/AdmitDefeat" value="Mein Gott… Não pode terminar assim! Extinguir a última nobreza que resta no mundo… pois quem, senão eu, poderia transformar esses horrores unheimlich em iguarias refinadas? Fine? Fine. Meus inimigos acham que podem se banquetear com os restos do meu império? Não! Abutres ambiciosos — vão se engasgar com ele!"/>
 	<entry name="HonorableAristocrat/AskForProposals" value="Mais? Sempre tenho mais tempo para negócios."/>
 	<entry name="HonorableAristocrat/AskForSupport/Anchorite" value="Anchorite, você entende de privação como eu não entendo. Pode ficar de braços cruzados, sabendo como meu povo sofre?"/>
 	<entry name="HonorableAristocrat/AskForSupport/Chieftess" value="Será que hoje seu capricho te leva para onde? Quando peço ajuda… para a generosidade ou para a malícia?"/>
 	<entry name="HonorableAristocrat/AskForSupport/Zephon" value="Máquina. Você entende melhor que a maioria a importância de protocolos. De regras. Sou obrigado a honrar minhas dívidas. Para isso, preciso de ajuda."/>
 	<entry name="HonorableAristocrat/CancelAction" value="Minhas sinceras desculpas! Estou mais focado em temperar do que em raciocinar."/>
 	<entry name="HonorableAristocrat/Condemn" value="Isso não é como as coisas são feitas. Não é nobre. Não é honroso. Não está no cardápio. Exijo que pare."/>
-	<entry name="HonorableAristocrat/Condemn/Abhorrent" value="Eu… <i>ahem</i>. <i>Ugh</i>, <i>ahem</i>. Não consigo te olhar sem perder até um jantar leve. Você provoca sensações tão… desperdiçadoras!"/>
+	<entry name="HonorableAristocrat/Condemn/Abhorrent" value="Eu… ahem. Ugh, ahem. Não consigo te olhar sem perder até um jantar leve. Você provoca sensações tão… desperdiçadoras!"/>
 	<entry name="HonorableAristocrat/Condemn/DataHack" value="Isso eu não aprovo. Burlar sistemas sem permissão é desonroso. É roubo, puro e simples. Não vou tolerar."/>
 	<entry name="HonorableAristocrat/Condemn/Independent" value="Não, isso não serve. O mundo é uma rede interligada de acordos, obrigações e negócios. Quem fica de fora, sozinho, minam isso — e dão mau exemplo. Entre para a nossa rede, eu aviso."/>
-	<entry name="HonorableAristocrat/Condemn/Untrustworthy" value="Engano e arbitragem andam de mãos dadas… mas mentir e ser <i>PEGO</i> na mentira? Isso é pura loucura."/>
-	<entry name="HonorableAristocrat/CondemnAlliance" value="Deveria elogiar seu instinto de trabalhar com outros, mesmo que tenha que criticar sua escolha. %3%, <i>sério</i>? Ai, meu Deus…"/>
+	<entry name="HonorableAristocrat/Condemn/Untrustworthy" value="Engano e arbitragem andam de mãos dadas… mas mentir e ser PEGO na mentira? Isso é pura loucura."/>
+	<entry name="HonorableAristocrat/CondemnAlliance" value="Deveria elogiar seu instinto de trabalhar com outros, mesmo que tenha que criticar sua escolha. %3%, sério? Ai, meu Deus…"/>
 	<entry name="HonorableAristocrat/CondemnCityDestruction" value="Nossa, %3%? Sumiu? Cadê sua humanidade? Sua compaixão?"/>
 	<entry name="HonorableAristocrat/CondemnInterferenceAttempt" value="Não, não, NÃO. Isso está totalmente errado. Cadê sua honra?!"/>
 	<entry name="HonorableAristocrat/CondemnTradeAgreement" value="Se fosse pra negociar com alguém… e eu, sou fígado picado? Em vez disso, faz acordo com %3%…?"/>
 	<entry name="HonorableAristocrat/CondemnWar" value="Tem tanta gente viva assim pra você desperdiçar almas numa briga bestinha com %3%? Cresce, cara."/>
 	<entry name="HonorableAristocrat/DeclareWar/Anchorite" value="Antigo, meu respeito, como sempre. Junto a ele, uma declaração de guerra. Não é tolo a ponto de se surpreender, imagino. Bom."/>
-	<entry name="HonorableAristocrat/DeclareWar/Chieftess" value="… você comeu o QUÊ?! <i>Mein Gott</i> — tenho que te desafiar em nome de todos os chefs!"/>
+	<entry name="HonorableAristocrat/DeclareWar/Chieftess" value="… você comeu o QUÊ?! Mein Gott — tenho que te desafiar em nome de todos os chefs!"/>
 	<entry name="HonorableAristocrat/DeclareWar/EmulatedMind" value="Peço desculpas antecipadas pelo que vamos fazer. Lamento muito, mas não posso deixar o arrependimento paralisar minhas ações. Prepare-se para a guerra, entendeu."/>
-	<entry name="HonorableAristocrat/DeclareWar/FallenSoldier" value="Acho que entende de honra, não? Nesse caso, vai perceber a teia de obrigações que me trouxe até aqui. Não <i>escolhi</i> a guerra — minha honra me força a ela. Espero que isso lhe console."/>
-	<entry name="HonorableAristocrat/DeclareWar/FurtiveTribunal" value="Senhoras. Um beijo na mão é pura cortesia, romance castíssimo. Mas uma declaração de guerra? Ah, isso sim é um compromisso com um relacionamento <i>ardente</i>."/>
+	<entry name="HonorableAristocrat/DeclareWar/FallenSoldier" value="Acho que entende de honra, não? Nesse caso, vai perceber a teia de obrigações que me trouxe até aqui. Não escolhi a guerra — minha honra me força a ela. Espero que isso lhe console."/>
+	<entry name="HonorableAristocrat/DeclareWar/FurtiveTribunal" value="Senhoras. Um beijo na mão é pura cortesia, romance castíssimo. Mas uma declaração de guerra? Ah, isso sim é um compromisso com um relacionamento ardente."/>
 	<entry name="HonorableAristocrat/DeclareWar/HeartlessArtificer" value="Talvez não entenda meus deveres, Artificer, ou tenha empatia pela rede de obrigações que me leva a eles. Mas vai entender os mecanismos, ao menos, que nos trouxeram a isto — à guerra entre nós."/>
-	<entry name="HonorableAristocrat/DeclareWar/HollowWarlord" value="Em nome da amizade, perdoo quase tudo. Mas a forma como devorou aqueles <i>canapés</i>… sem tirar a luva suja, enfiando o punho inteiro no prato! <i>Quince</i> e <i>sauerkraut</i> de uma vez?! Você… precisa ser <i>destruído</i>!"/>
-	<entry name="HonorableAristocrat/DeclareWar/HonorableAristocrat" value="Ah, alguém que entende minha perspectiva. Não vou pedir títulos, nem carta de apresentação. Mas <i>sabe</i> que só pode haver um, não? Bom."/>
+	<entry name="HonorableAristocrat/DeclareWar/HollowWarlord" value="Em nome da amizade, perdoo quase tudo. Mas a forma como devorou aqueles canapés… sem tirar a luva suja, enfiando o punho inteiro no prato! Quince e sauerkraut de uma vez?! Você… precisa ser destruído!"/>
+	<entry name="HonorableAristocrat/DeclareWar/HonorableAristocrat" value="Ah, alguém que entende minha perspectiva. Não vou pedir títulos, nem carta de apresentação. Mas sabe que só pode haver um, não? Bom."/>
 	<entry name="HonorableAristocrat/DeclareWar/InfiniteCount" value="Pelo menos o NeoDuque tem a cara de pau de me ofender diretamente. Sua excelência, cadê sua nobreza de ações? Vou facilitar: uma luva branca na cara, um duelo com exércitos ao amanhecer."/>
-	<entry name="HonorableAristocrat/DeclareWar/PlatinumScion" value="Quem se exclui de nossos sistemas de respeito e amizade perde o direito de se beneficiar de suas regras. Ainda assim, cumprirei-as — <i>Senhor</i>. Estamos em guerra."/>
-	<entry name="HonorableAristocrat/DeclareWar/PracticalRomantic" value="Meu amigo, receio que tenha deixado seus laços emocionais suplantarem seus impulsos práticos. A honra me obriga a levá-lo à batalha e, assim, corrigir esse erro. Leve <i>no pessoal</i>, sim."/>
+	<entry name="HonorableAristocrat/DeclareWar/PlatinumScion" value="Quem se exclui de nossos sistemas de respeito e amizade perde o direito de se beneficiar de suas regras. Ainda assim, cumprirei-as — Senhor. Estamos em guerra."/>
+	<entry name="HonorableAristocrat/DeclareWar/PracticalRomantic" value="Meu amigo, receio que tenha deixado seus laços emocionais suplantarem seus impulsos práticos. A honra me obriga a levá-lo à batalha e, assim, corrigir esse erro. Leve no pessoal, sim."/>
 	<entry name="HonorableAristocrat/DeclareWar/RogueOperative" value="Honra pode ser refúgio de canalhas… dizem os canalhas. Prefiro ser honrado e claro, ter aliados à minha mesa a vagar sozinho nas sombras. Espero que uma guerrezinha mude seu comportamento…"/>
 	<entry name="HonorableAristocrat/DeclareWar/TwistedMother" value="Madame, peço perdão. Seus quitutes eram deliciosos, mas as circunstâncias me obrigam a iniciar hostilidades. Lamento profundamente."/>
 	<entry name="HonorableAristocrat/DeclareWar/UntoldProphet" value="Mesmo hoje, me entristece não podermos coexistir. Vamos decidir quem governa tudo sob o céu — a nobreza ou a igreja."/>
@@ -2241,7 +2241,7 @@
 	<entry name="Zephon/OfferPeace/PlatinumScion" value="Uma forma tão tradicional. Conformidade tediosa: terno, sorriso, amoralidade. Novo sujeito de estudo necessário."/>
 	<entry name="Zephon/OfferPeace/PracticalRomantic" value="Nossas forças alcançaram seus objetivos e estão retornando às suas posições no 2º paralelo."/>
 	<entry name="Zephon/OfferPeace/RogueOperative" value="Hacker, temos novidades! Decidimos encerrar as operações militares contra você. Temos 97%% de certeza de que o incidente recente de hacking (fonte desconhecida) não foi a causa dessa mudança de ideia."/>
-	<entry name="Zephon/OfferPeace/TwistedMother" value="Cara Senhora/Senhor/Coisa, devido às suas repetidas mudanças de endereço, estamos sofren<cough>sofrendo</cough> erros de rastreamento por GPS. Vamos suspender nosso serviço para investigar."/>
+	<entry name="Zephon/OfferPeace/TwistedMother" value="Cara Senhora/Senhor/Coisa, devido às suas repetidas mudanças de endereço, estamos sofrensofrendo erros de rastreamento por GPS. Vamos suspender nosso serviço para investigar."/>
 	<entry name="Zephon/OfferPeace/UntoldProphet" value="Nas histórias, as crianças acreditam em coisas impossíveis. Você acredita que desejamos paz, que desejamos um tempo?"/>
 	<entry name="Zephon/OfferTradeAgreement" value="Construímos esse acordo comercial para ser ideal para ambos. Rejeitar nossa oferta será mais custoso do que você imagina."/>
 	<entry name="Zephon/Praise" value="Seu comportamento está bem dentro dos limites de tolerância dos nossos modelos. Nenhuma crítica pode ser feita."/>

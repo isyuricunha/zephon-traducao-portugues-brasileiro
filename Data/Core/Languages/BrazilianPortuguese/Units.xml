@@ -114,7 +114,7 @@
 	<entry name="HadesBomber" value="Bombardeiro Hades"/>
 	<entry name="HadesBomberProperties" value="<icon texture='GUI/Bullet'/>Grande aeronave mecânica que desmaterializa inimigos com sua bomba de antimatéria"/>
 	<entry name="Hammerhead" value="Hammerheads"/>
-	<entry name="HammerheadProperties" value="<icon texture='GUI/Bullet'/>Aeronaves mecânicas encarregadas de capturar postos avançados e remover <style bold/>Bleed<style/>"/>
+	<entry name="HammerheadProperties" value="Aeronaves mecânicas encarregadas de capturar postos avançados e remover Bleed"/>
 	<entry name="HashmallimHost" value="Hashmallim Host"/>
 	<entry name="HashmallimHostProperties" value="<icon texture='GUI/Bullet'/>Grande veículo mecânico flutuante que manipula a gravidade para ignorar cobertura, danificar unidades grandes e afetar a precisão de aliados e inimigos"/>
 	<entry name="Headquarters" value="<string name='Buildings/Headquarters'/>"/>
@@ -196,9 +196,9 @@
 	<entry name="ReaverCamp" value="Acampamento <nbsp/>Devastador"/>
 	<entry name="ReaverCampFlavor" value="<string name='Quests/ThickerThanWater/BrothersKeeper/JoinArshem2'/>"/>
 	<entry name="ReaverCampProperties" value="<icon texture='GUI/Bullet'/>Fortificação mecânica de grande porte"/>
-	<entry name="RepairDrone" value="Melisai <nbsp/>de <nbsp/>Reparo"/>
+	<entry name="RepairDrone" value="Melisai de Reparo"/>
 	<entry name="RepairDroneProperties" value="<icon texture='GUI/Bullet'/>Infantaria mecânica flutuante que repara aliados mecânicos"/>
-	<entry name="ResourceTransport" value="Transporte <nbsp/>de <nbsp/>Recursos"/>
+	<entry name="ResourceTransport" value="Transporte de Recursos"/>
 	<entry name="Scrambler" value="Embaralhadores"/>
 	<entry name="ScramblerProperties" value="<icon texture='GUI/Bullet'/>Motociclistas biomecânicos especializados em entrar e sair de combate com agilidade"/>
 	<entry name="Sentry" value="Sentinelas"/>
@@ -207,7 +207,7 @@
 	<entry name="SeraphimArchangelProperties" value="<icon texture='GUI/Bullet'/>Titã mecânico flutuante que aniquila inimigos com sua lâmina de singularidade"/>
 	<entry name="Sharpshooter" value="Franco-Atiradores"/>
 	<entry name="SharpshooterProperties" value="<icon texture='GUI/Bullet'/>Infantaria biológica com rifles de precisão anti-infantaria, além de capacidades de furtividade e reconhecimento"/>
-	<entry name="ShochitrisLair" value="Toca <nbsp/>da <nbsp/>Shoch'itris"/>
+	<entry name="ShochitrisLair" value="Toca da Shoch'itris"/>
 	<entry name="ShochitrisLairProperties" value="<icon texture='GUI/Bullet'/>Grande fortificação biológica que cria Deformidades"/>
 	<entry name="Splenetics" value="Esplênicos"/>
 	<entry name="SpleneticsProperties" value="<string name='Units/MilitantProperties'/>"/>

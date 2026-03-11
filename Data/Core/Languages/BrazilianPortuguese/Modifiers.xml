@@ -32,7 +32,7 @@
 	<entry name="DreamPrison" value=" em unidade inimiga não-sede quebrada"/>
 	<entry name="DreamPrisonRestore" value=" quando o Devorador de Sonhos morre"/>
 	<entry name="EachTurn" value=" por turno"/>
-	<entry name="EachTurnInBleed" value=" por turno em <style bold='1' color='#ff0000'>Bleed</style>"/>
+	<entry name="EachTurnInBleed" value=" por turno em Bleed"/>
 	<entry name="EachTurnLogisticsExperts" value=" por turno (<icon texture='Icons/Traits/LogisticsExperts' height='20'/><nbsp/><string name='Traits/LogisticsExperts'/>)"/>
 	<entry name="EachTurnOnCenterTileAndOnAdjacentTiles" value=" por turno na peça central e com metade dos ataques nas peças adjacentes"/>
 	<entry name="EachTurnResourceNetwork" value=" por turno (<icon texture='Icons/Traits/ResourceNetwork' height='20'/><nbsp/><string name='Traits/ResourceNetwork'/>)"/>
@@ -202,9 +202,9 @@
 	<entry name="ToZephon" value=" para ZEPHON"/>
 	<entry name="UnitsOnDeath" value=" unidades ao morrer"/>
 	<entry name="UzhodaisZeal" value=" por unidade inimiga adjacente"/>
-	<entry name="VoiceAircraftUpgrade" value=" para unidades produzidas por cada <i>Paean to the Dawn</i> em cada cidade própria"/>
-	<entry name="VoiceVehiclesUpgrade" value=" é obtido ao morrer como produção em cada <i>Canticle of Dusk</i> na cidade"/>
-	<entry name="VoiceInfantryUpgrade" value=" para unidades produzidas por cada <i>Midnight Chorus</i> na cidade"/>
+	<entry name="VoiceAircraftUpgrade" value=" para unidades produzidas por cada Paean to the Dawn em cada cidade própria"/>
+	<entry name="VoiceVehiclesUpgrade" value=" é obtido ao morrer como produção em cada Canticle of Dusk na cidade"/>
+	<entry name="VoiceInfantryUpgrade" value=" para unidades produzidas por cada Midnight Chorus na cidade"/>
 	<entry name="WhenAttackingFromForestsOrRuins" value=" ao atacar de florestas ou ruínas"/>
 	<entry name="WhenAttackingFromHighGround" value=" ao atacar de terreno elevado"/>
 	<entry name="WhenDurationRunsOut" value=" quando a duração acabar"/>

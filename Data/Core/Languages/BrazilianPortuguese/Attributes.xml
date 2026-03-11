@@ -135,7 +135,7 @@
 	<entry name="ExperienceGainRate" value="Taxa de Ganho de Experiência"/>
 	<entry name="FlatResourcesFromOutposts" value="Recursos Fixos de Postos Avançados"/>
 	<entry name="Food" value="Comida"/>
-	<entry name="FoodDescription" value="Usado para sustentar a população nas cidades, além de produzir e manter principalmente unidades Humanas e de <style font='Voices'/>The Voice<style reset='true'/>."/>
+	<entry name="FoodDescription" value="Usado para sustentar a população nas cidades, além de produzir e manter principalmente unidades Humanas e de The Voice."/>
 	<entry name="FoodIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
 	<entry name="FoodCost" value="Custo de Comida"/>
 	<entry name="FoodCostDescription" value="A quantidade de comida necessária para produzir a entidade."/>

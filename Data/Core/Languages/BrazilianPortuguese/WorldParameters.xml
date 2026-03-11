@@ -33,32 +33,32 @@
 	<entry name="ArcticRegionDensity4" value="Alto"/>
 	<entry name="ArcticRegionDensity5" value="Muito Alto"/>
 	<entry name="AutoDisableSimultaneousTurns" value="Desativar Turnos Simultâneos Automaticamente"/>
-	<entry name="AutoDisableSimultaneousTurnsHint" value="Desativa automaticamente os turnos simultâneos quando unidades inimigas não-AI se aproximarem a 5 tiles de distância umas das outras."/>
+	<entry name="AutoDisableSimultaneousTurnsHint" value="Desativa automaticamente os turnos simultâneos quando unidades inimigas não-IA se aproximarem a 5 tiles de distância umas das outras."/>
 	<entry name="AvoidDuplicateRandomFactions" value="Evitar Facções Aleatórias Duplicadas"/>
 	<entry name="AvoidDuplicateRandomFactionsHint" value="Ajusta as chances de facções aleatórias para que cada facção apareça um número igual de vezes no jogo."/>
-	<entry name="BleedDensity" value="Densidade de Bleed"/>
+	<entry name="BleedDensity" value="Densidade de"/>
 	<entry name="BleedDensity0" value="Nenhum"/>
 	<entry name="BleedDensity1" value="Muito Baixo"/>
-	<entry name="BleedDensity2" value="Baixa"/>
-	<entry name="BleedDensity3" value="Média"/>
-	<entry name="BleedDensity4" value="Alta"/>
-	<entry name="BleedDensity5" value="Muito Alta"/>
+	<entry name="BleedDensity2" value="Baixo"/>
+	<entry name="BleedDensity3" value="Médio"/>
+	<entry name="BleedDensity4" value="Alto"/>
+	<entry name="BleedDensity5" value="Muito Alto"/>
 	<entry name="BrushDensity" value="Densidade de Vegetação"/>
-	<entry name="BrushDensity0" value="Nenhuma"/>
-	<entry name="BrushDensity1" value="Muito Baixa"/>
-	<entry name="BrushDensity2" value="Baixa"/>
-	<entry name="BrushDensity3" value="Média"/>
-	<entry name="BrushDensity4" value="Alta"/>
-	<entry name="BrushDensity5" value="Muito Alta"/>
-	<entry name="CacheDensity" value="Densidade de Escombros"/>
-	<entry name="CacheDensity0" value="Nenhuma"/>
-	<entry name="CacheDensity1" value="Muito Baixa"/>
-	<entry name="CacheDensity2" value="Baixa"/>
-	<entry name="CacheDensity3" value="Média"/>
-	<entry name="CacheDensity4" value="Alta"/>
-	<entry name="CacheDensity5" value="Muito Alta"/>
+	<entry name="BrushDensity0" value="Nenhum"/>
+	<entry name="BrushDensity1" value="Muito Baixo"/>
+	<entry name="BrushDensity2" value="Baixo"/>
+	<entry name="BrushDensity3" value="Médio"/>
+	<entry name="BrushDensity4" value="Alto"/>
+	<entry name="BrushDensity5" value="Muito Alto"/>
+	<entry name="CacheDensity" value="Densidade de Depósitos"/>
+	<entry name="CacheDensity0" value="Nenhum"/>
+	<entry name="CacheDensity1" value="Muito Baixo"/>
+	<entry name="CacheDensity2" value="Baixo"/>
+	<entry name="CacheDensity3" value="Médio"/>
+	<entry name="CacheDensity4" value="Alto"/>
+	<entry name="CacheDensity5" value="Muito Alto"/>
 	<entry name="ChieftessCityDensity" value="Densidade de Cidades da Chieftess"/>
-	<entry name="ChieftessCityDensity0" value="Nenhuma"/>
+	<entry name="ChieftessCityDensity0" value="Nenhum"/>
 	<entry name="ChieftessCityDensity1" value="Muito Baixo"/>
 	<entry name="ChieftessCityDensity2" value="Baixo"/>
 	<entry name="ChieftessCityDensity3" value="Médio"/>
@@ -81,12 +81,12 @@
 	<entry name="DLC1" value="The Twisted & The Hollow DLC"/> <!-- DLC name. Do not translate. -->
 	<entry name="DLC2" value="The Platinum & The Infinite DLC"/> <!-- DLC name. Do not translate. -->
 	<entry name="DesertRegionDensity" value="Densidade de Região Desértica"/>
-	<entry name="DesertRegionDensity0" value="None"/>
-	<entry name="DesertRegionDensity1" value="Muito Baixa"/>
-	<entry name="DesertRegionDensity2" value="Baixa"/>
-	<entry name="DesertRegionDensity3" value="Média"/>
-	<entry name="DesertRegionDensity4" value="Alta"/>
-	<entry name="DesertRegionDensity5" value="Muito Alta"/>
+	<entry name="DesertRegionDensity0" value="Nenhum"/>
+	<entry name="DesertRegionDensity1" value="Muito Baixo"/>
+	<entry name="DesertRegionDensity2" value="Baixo"/>
+	<entry name="DesertRegionDensity3" value="Médio"/>
+	<entry name="DesertRegionDensity4" value="Alto"/>
+	<entry name="DesertRegionDensity5" value="Muito Alto"/>
 	<entry name="Difficulty" value="Dificuldade"/>
 	<entry name="DifficultyHint" value="Modifica as vantagens da IA."/>
 	<entry name="Difficulty0" value="Muito Fácil"/>
@@ -99,10 +99,10 @@
 	<entry name="Difficulty2Hint" value="<style name='Bold'/>%1%:<style name='Default'/> sem vantagem ou desvantagem."/>
 	<entry name="Difficulty2RecommendationHint" value="<style name='Italic'/>Recomendado para fãs de estratégia por turnos."/>
 	<entry name="Difficulty3" value="Difícil"/>
-	<entry name="Difficulty3Hint" value="<style name='Bold'/>%1%:<style name='Default'/> pequena vantagem em lealdade da cidade e nível das unidades, além de um pequeno aumento na agressividade diplomática da IA.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> de nível<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> de agressividade"/>
+	<entry name="Difficulty3Hint" value="<style name='Bold'/>%1%:<style name='Default'/> pequena vantagem de lealdade da cidade e nível das unidades, além de um pequeno aumento na agressividade diplomática da IA.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> de nível<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> de agressividade"/>
 	<entry name="Difficulty3RecommendationHint" value="<style name='Italic'/>Recomendado para veteranos de jogos da Proxy Studios."/>
 	<entry name="Difficulty4" value="Muito Difícil"/>
-	<entry name="Difficulty4Hint" value="<style name='Bold'/>%1%:<style name='Default'/> vantagem moderada em lealdade da cidade e nível das unidades, além de um aumento moderado na agressividade diplomática da IA.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> nível<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressividade"/>
+	<entry name="Difficulty4Hint" value="<style name='Bold'/>%1%:<style name='Default'/> vantagem moderada de lealdade da cidade e nível das unidades, além de um aumento moderado na agressividade diplomática da IA.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> de lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> nível<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressividade"/>
 	<entry name="Difficulty4RecommendationHint" value="<style name='Italic'/>Recomendado após vencer o modo Difícil."/>
 	<entry name="Difficulty5" value="Ultra Difícil"/>
 	<entry name="Difficulty5Hint" value="<style name='Bold'/>%1%:<style name='Default'/> grande vantagem de lealdade da cidade e nível de unidade, além de um grande aumento na agressividade diplomática da IA.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> nível<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressividade"/>
@@ -110,13 +110,13 @@
 	<entry name="Difficulty6" value="Pesadelo"/>
 	<entry name="Difficulty6Hint" value="<style name='Bold'/>%1%:<style name='Default'/> vantagem extrema de lealdade da cidade e nível de unidade, além de um aumento extremo na agressividade diplomática da IA.<br/><icon texture='GUI/Bullet'/>%2% <string name='Attributes/LoyaltyIcon'/> lealdade<br/><icon texture='GUI/Bullet'/>%3% <string name='Attributes/LevelIcon'/> nível<br/><icon texture='GUI/Bullet'/>%4% <icon texture='Icons/Notifications/Diplomacy1' height='20'/> agressividade"/>
 	<entry name="Difficulty6RecommendationHint" value="<style name='Italic'/>Não recomendado."/>
-	<entry name="DustStormDensity" value="Densidade de Tempestade de Areia"/>
+	<entry name="DustStormDensity" value="Densidade da Tempestade de Areia"/>
 	<entry name="DustStormDensity0" value="Nenhum"/>
-	<entry name="DustStormDensity1" value="Muito Baixa"/>
-	<entry name="DustStormDensity2" value="Baixa"/>
-	<entry name="DustStormDensity3" value="Média"/>
-	<entry name="DustStormDensity4" value="Alta"/>
-	<entry name="DustStormDensity5" value="Muito Alta"/>
+	<entry name="DustStormDensity1" value="Muito Baixo"/>
+	<entry name="DustStormDensity2" value="Baixo"/>
+	<entry name="DustStormDensity3" value="Médio"/>
+	<entry name="DustStormDensity4" value="Alto"/>
+	<entry name="DustStormDensity5" value="Muito Alto"/>
 	<entry name="EscalationPace" value="Ritmo de Escalada"/>
 	<entry name="EscalationPaceHint" value="Ajusta a velocidade com que a escalada rumo ao clímax progride — ou se progride."/>
 	<entry name="EscalationPace0" value="Nenhum"/>
@@ -138,21 +138,21 @@
 	<entry name="GameNameHint" value="Como este jogo aparece na lista de jogos multijogador."/>
 	<entry name="GameVisibility" value="Visibilidade do Jogo"/>
 	<entry name="GameVisibility0" value="Apenas Amigos"/>
-	<entry name="GameVisibility0Hint" value="O jogo não aparece publicamente e só pode ser acessado por listas de amigos, convites ou conexão direta."/>
+	<entry name="GameVisibility0Hint" value="O jogo não é listado publicamente e só pode ser ingressado por listas de amigos, convites ou conexão direta."/>
 	<entry name="GameVisibility1" value="Privado"/>
-	<entry name="GameVisibility1Hint" value="O jogo não aparece publicamente e só pode ser acessado por convites ou conexão direta."/>
+	<entry name="GameVisibility1Hint" value="O jogo não é listado publicamente e só pode ser ingressado por convites ou conexão direta."/>
 	<entry name="GameVisibility2" value="Público"/>
-	<entry name="GameVisibility2Hint" value="O jogo aparece publicamente e qualquer pessoa pode entrar."/>
+	<entry name="GameVisibility2Hint" value="O jogo é listado publicamente e qualquer pessoa pode ingressar."/>
 	<entry name="GameVisibility3" value="Jogador Único"/>
-	<entry name="GameVisibility3Hint" value="Ninguém mais pode entrar no jogo."/>
+	<entry name="GameVisibility3Hint" value="Ninguém mais pode ingressar neste jogo."/>
 	<entry name="Growth" value="Crescimento Populacional"/>
 	<entry name="Growth0" value="Muito Baixo"/>
 	<entry name="Growth1" value="Baixo"/>
 	<entry name="Growth2" value="Médio"/>
 	<entry name="Growth3" value="Alto"/>
 	<entry name="Growth4" value="Muito Alto"/>
-	<entry name="Ironman" value="Ironman"/>
-	<entry name="IronmanHint" value="Limita o controle do jogador sobre o arquivo de salvamento, removendo efetivamente a capacidade de corrigir erros e mudar decisões feitas durante o jogo.<br/><br/>Algumas conquistas só podem ser desbloqueadas com o modo ironman ativado."/>
+	<entry name="Ironman" value="Modo Ferro"/>
+	<entry name="IronmanHint" value="Limita o controle do jogador sobre o arquivo de salvamento, removendo efetivamente a capacidade de corrigir erros e mudar decisões tomadas durante a partida.<br/><br/>Algumas conquistas só podem ser desbloqueadas com o modo Ferro ativado."/>
 	<entry name="LandMass" value="Massa Terrestre"/>
 	<entry name="LandMassHint" value="Quantidade de terrenos."/>
 	<entry name="LandMass0" value="Muito Baixo"/>
@@ -161,7 +161,7 @@
 	<entry name="LandMass3" value="Alto"/>
 	<entry name="LandMass4" value="Muito Alto"/>
 	<entry name="MapEditor" value="Painel de Depuração"/>
-	<entry name="MaximumTechnologyTier" value="Tier Máximo de Tecnologia"/>
+	<entry name="MaximumTechnologyTier" value="Nível Máximo de Tecnologia"/>
 	<entry name="MaximumTechnologyTier0" value="0"/>
 	<entry name="MaximumTechnologyTier1" value="1"/>
 	<entry name="MaximumTechnologyTier2" value="2"/>
@@ -184,9 +184,9 @@
 	<entry name="Mutators/CanFreeWillExist" value="<string name='Settings/Achievements/CanFreeWillExist'/>"/>
 	<entry name="Mutators/CanFreeWillExistHint" value="O dano de armas é aleatorizado em ±20%."/>
 	<entry name="Mutators/DidHonorBalanceGreed" value="<string name='Settings/Achievements/DidHonorBalanceGreed'/>"/>
-	<entry name="Mutators/DidHonorBalanceGreedHint" value="Sempre que você cancela qualquer acordo, vira <style='color:untrustworthy;'>Não Confiável</style> para sempre."/>
+	<entry name="Mutators/DidHonorBalanceGreedHint" value="Sempre que você cancelar qualquer acordo, ficará marcado como Não Confiável para sempre."/>
 	<entry name="Mutators/DidIDoomMyFriends" value="<string name='Settings/Achievements/DidIDoomMyFriends'/>"/>
-	<entry name="Mutators/DidIDoomMyFriendsHint" value="Terrenos não avistados voltam a ser inexplorados a cada turno."/>
+	<entry name="Mutators/DidIDoomMyFriendsHint" value="Terrenos não visualizados voltam a ser inexplorados a cada turno."/>
 	<entry name="Mutators/DidMyDeathMeanAnything" value="<string name='Settings/Achievements/DidMyDeathMeanAnything'/>"/>
 	<entry name="Mutators/DidMyDeathMeanAnythingHint" value="Mudança de moral dobrada ao morrer."/>
 	<entry name="Mutators/DidOurSacrificeMeanNothing" value="<string name='Settings/Achievements/DidOurSacrificeMeanNothing'/>"/>
@@ -200,7 +200,7 @@
 	<entry name="Mutators/WasITheBestPersonAliveOrWhat" value="<string name='Settings/Achievements/WasITheBestPersonAliveOrWhat'/>"/>
 	<entry name="Mutators/WasITheBestPersonAliveOrWhatHint" value="Recursos acumulados rendem juros compostos de 10% por turno."/>
 	<entry name="Mutators/WasITrulyHuman" value="<string name='Settings/Achievements/WasITrulyHuman'/>"/>
-	<entry name="Mutators/WasITrulyHumanHint" value="O dano é dividido entre todos os aliados adjacentes à unidade alvo."/>
+	<entry name="Mutators/WasITrulyHumanHint" value="O dano é dividido entre todos os aliados adjacentes da unidade alvo."/>
 	<entry name="Mutators/WasPerfectionWorthIt" value="<string name='Settings/Achievements/WasPerfectionWorthIt'/>"/>
 	<entry name="Mutators/WasPerfectionWorthItHint" value="Unidades duplicadas custam +20% de recursos."/>
 	<entry name="Mutators/WasZephonTrulyAlive" value="<string name='Settings/Achievements/WasZephonTrulyAlive'/>"/>
@@ -208,11 +208,11 @@
 	<entry name="Mutators/WhatAmITruly" value="<string name='Settings/Achievements/WhatAmITruly'/>"/>
 	<entry name="Mutators/WhatAmITrulyHint" value="Velocidade de produção de unidades dobrada."/>
 	<entry name="Mutators/WhatAreYou" value="<string name='Settings/Achievements/WhatAreYou'/>"/>
-	<entry name="Mutators/WhatAreYouHint" value="Só é possível pesquisar tecnologias com sua afinidade ou sem afinidade."/>
+	<entry name="Mutators/WhatAreYouHint" value="Só é possível pesquisar tecnologias da sua afinidade ou sem afinidade."/>
 	<entry name="Mutators/WhatPriceForLiberty" value="<string name='Settings/Achievements/WhatPriceForLiberty'/>"/>
 	<entry name="Mutators/WhatPriceForLibertyHint" value="Líderes têm todas as afinidades de pesquisa."/>
 	<entry name="Mutators/WhereAreWe" value="<string name='Settings/Achievements/WhereAreWe'/>"/>
-	<entry name="Mutators/WhereAreWeHint" value="Todos os terrenos começam explorados."/>
+	<entry name="Mutators/WhereAreWeHint" value="Todos os terrenos começam explorados desde o início."/>
 	<entry name="Mutators/WhyDidHumanityDieAlone" value="<string name='Settings/Achievements/WhyDidHumanityDieAlone'/>"/>
 	<entry name="Mutators/WhyDidHumanityDieAloneHint" value="Matanças reduzem a moral."/>
 	<entry name="Pace" value="Velocidade do Jogo"/>
@@ -223,7 +223,7 @@
 	<entry name="Pace3" value="Rápido"/>
 	<entry name="Pace4" value="Muito Rápido"/>
 	<entry name="QuestPace" value="Ritmo de Missões"/>
-	<entry name="QuestPaceHint" value="Ajusta a velocidade com que novas missões são acionadas — ou se serão acionadas."/>
+	<entry name="QuestPaceHint" value="Ajusta a velocidade com que novas missões são acionadas e se serão acionadas."/>
 	<entry name="QuestPace0" value="Nenhum"/>
 	<entry name="QuestPace1" value="Muito Lento"/>
 	<entry name="QuestPace2" value="Lento"/>
@@ -296,7 +296,7 @@
 	<entry name="RuinsDensity2" value="Baixa"/>
 	<entry name="RuinsDensity3" value="Média"/>
 	<entry name="RuinsDensity4" value="Alta"/>
-	<entry name="RuinsDensity5" value="Muito Alta"/>
+	<entry name="RuinsDensity5" value="Muito Alto"/>
 	<entry name="Seed" value="Semente do Mundo"/>
 	<entry name="SimultaneousTurns" value="Turnos Simultâneos"/>
 	<entry name="SimultaneousTurnsHint" value="Se ativado, todos os jogadores agem juntos.<br/><br/>Se desativado, apenas jogadores da mesma equipe agem ao mesmo tempo.<br/><br/>Desativar também fará com que os turnos da IA demorem mais, embora elas façam melhores jogadas em guerras contra outras IAs."/>
@@ -331,7 +331,7 @@
 	<entry name="SwampRegionDensity3" value="Média"/>
 	<entry name="SwampRegionDensity4" value="Alta"/>
 	<entry name="SwampRegionDensity5" value="Muito Alta"/>
-	<entry name="TurnTimer" value="Temporizador de Turno"/>
+	<entry name="TurnTimer" value="Tempo por Turno"/>
 	<entry name="TurnTimer0" value="Nenhum"/>
 	<entry name="TurnTimer1" value="Muito Curto (1 minuto)"/>
 	<entry name="TurnTimer2" value="Curto (2 minutos)"/>
@@ -339,7 +339,7 @@
 	<entry name="TurnTimer4" value="Longo (4 minutos)"/>
 	<entry name="TurnTimer5" value="Muito Longo (5 minutos)"/>
 	<entry name="VictoryRequiresDefeatingNPCs" value="Vitória Exige Derrotar NPCs"/>
-	<entry name="VictoryRequiresDefeatingNPCsHint" value="Se derrotar os NPCs (Anchorite, Chieftess, ZEPHON) for necessário para vencer uma vitória por eliminação."/>
+	<entry name="VictoryRequiresDefeatingNPCsHint" value="Se derrotar os NPCs (Anchorite, Chieftess, ZEPHON) for necessário para vencer por eliminação."/>
 	<entry name="VolcanicRegionDensity" value="Densidade da Região Vulcânica"/>
 	<entry name="VolcanicRegionDensity0" value="Nenhum"/>
 	<entry name="VolcanicRegionDensity1" value="Muito Baixa"/>
@@ -363,7 +363,7 @@
 	<entry name="WildlifeDensity5" value="Muito Alto"/>
 	<entry name="WorldSeed" value="Semente do Mundo"/>
 	<entry name="WorldParameters" value="Parâmetros do Mundo"/>
-	<entry name="WorldParametersHint" value="Uma string codificada de todos os parâmetros do mundo, incluindo os mutadores, mas sem os jogadores.<br/><br/>Use isso para compartilhar sua configuração de mundo com outros ou para salvar para mais tarde."/>
+	<entry name="WorldParametersHint" value="Uma string codificada de todos os parâmetros do mundo, incluindo os mutadores, mas sem os jogadores.<br/><br/>Use isso para compartilhar sua configuração de mundo com outros ou salvar para usar depois."/>
 	<entry name="WastelandRegionDensity" value="Densidade de Regiões Devastadas"/>
 	<entry name="WastelandRegionDensity0" value="Nenhuma"/>
 	<entry name="WastelandRegionDensity1" value="Muito Baixa"/>

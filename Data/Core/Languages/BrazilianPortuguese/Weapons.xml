@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AbkhanBite" value="Mordida de Abkhan"/>
+	<entry name="AbkluthBite" value="Mordida de Abkluth"/>
+	<entry name="AbyssalMiasma" value="Miasma Abissal"/>
+	<entry name="AntiArmorGrenade" value="Granada Antiblindagem"/>
+	<entry name="AntimatterBomb" value="Bomba de Antimatéria"/>
+	<entry name="AntimatterExplosive" value="Granada de Antimatéria"/>
+	<entry name="AntimatterSword" value="Espada de Antimatéria"/>
+	<entry name="Apotheosis" value="<string name='Actions/Apotheosis'/>"/>
+	<entry name="ApotheosisFlavor" value="<string name='Actions/ApotheosisFlavor'/>"/>
+	<entry name="AraneanEye" value="Olho Araneano"/>
+	<entry name="ArmorPiercingMinigun" value="Metralhadora Perfurante"/>
+	<entry name="ArmorPiercingRounds" value="Munição Perfurante"/>
+	<entry name="AssaultRifle" value="Fuzil de Assalto"/>
+	<entry name="AxiomaticPendulum" value="Pêndulo Axiomático"/>
+	<entry name="BanefulOmen" value="Presságio Funesto"/>
+	<entry name="BattleCannon" value="Canhão de Batalha"/>
+	<entry name="BioAcidSpray" value="Spray de Bioácido"/>
+	<entry name="BlackHole" value="<string name='Actions/BlackHole'/>"/>
+	<entry name="BlackHoleFlavor" value="<string name='Actions/BlackHoleFlavor'/>"/>
+	<entry name="BladedLabrum" value="Lábio Cortante"/>
+	<entry name="Bleed" value="<string name='Features/Bleed'/>"/>
+	<entry name="BleedFlavor" value="<string name='Features/BleedFlavor'/>"/>
+	<entry name="BleedIncitation" value="Incitação ao Sangramento"/>
+	<entry name="BlestCannon" value="Canhão Abençoado"/>
+	<entry name="BreacherShotgunShell" value="Escopeta de Arrombamento (Bala)"/>
+	<entry name="BreacherShotgunShellFlavor" value="<string name='Weapons/BreacherShotgunFlavor'/>"/>
+	<entry name="BreacherShotgunSlug" value="Escopeta de Arrombamento (Chumbo)"/>
+	<entry name="BreacherShotgunSlugFlavor" value="<string name='Weapons/BreacherShotgunFlavor'/>"/>
+	<entry name="Bombardment" value="<string name='Actions/Bombardment'/>"/>
+	<entry name="BombardmentFlavor" value="<string name='Actions/BombardmentFlavor'/>"/>
+	<entry name="Castigate" value="Castigar"/>
+	<entry name="CensureOfTheElect" value="Censura do Eleito"/>
+	<entry name="CircularSaw" value="Serra Circular"/>
+	<entry name="CrlasGambit" value="Gambito de Cr'la"/>
+	<entry name="CrushSequence" value="Sequência Esmagadora"/>
+	<entry name="CrodeusBite" value="Mordida de Crodeus"/>
+	<entry name="CycloneAutocannon" value="Metralhadora Ciclone"/>
+	<entry name="Deathshriek" value="<string name='Traits/Deathshriek'/>"/>
+	<entry name="DeathshriekFlavor" value="<string name='Traits/DeathshriekFlavor'/>"/>
+	<entry name="DefenseGrid" value="Grade de Defesa"/>
+	<entry name="DeformingRake" value="Gadanhar"/>
+	<entry name="DevouringMaw" value="Goela Devoradora"/>
+	<entry name="DimensionalNeedles" value="Agulhas Dimensionais"/>
+	<entry name="Disintegrate" value="Desintegrar"/>
+	<entry name="DustStorm" value="<string name='Features/DustStorm'/>"/>
+	<entry name="DustStormFlavor" value="<string name='Features/DustStormFlavor'/>"/>
+	<entry name="DragoonSpear" value="Lança Dragão"/>
+	<entry name="EarthlyRuin" value="Ruína Terrena"/>
+	<entry name="EMP" value="PEM"/>
+	<entry name="EMPProperties" value="<icon texture='GUI/Bullet'/>Utilizável contra inimigos mecânicos não-titãs"/>
+	<entry name="ElysianBattery" value="Bateria Elísia"/>
+	<entry name="ErelimBlades" value="Lâminas Erelim"/>
+	<entry name="ExoskeletonFist" value="Espada de Exoesqueleto"/>
+	<entry name="ExoskeletonGatlingGun" value="Metralhadora de Exoesqueleto"/>
+	<entry name="Extirpate" value="Extirpar"/>
+	<entry name="ExtirpateFlavor" value="<string name='Actions/ExtirpateFlavor'/>"/>
+	<entry name="Fire" value="<string name='Features/Fire'/>"/>
+	<entry name="FireFlavor" value="<string name='Features/FireFlavor'/>"/>
+	<entry name="Flamethrower" value="Lança-Chamas"/>
+	<entry name="FragmentationGrenade" value="Granada de Fragmentação"/>
+	<entry name="FrostBreath" value="Bafo Gélido"/>
+	<entry name="FusedBillhooks" value="Foices Fundidas"/>
+	<entry name="GalgalimMissileBattery" value="Bateria de Mísseis Galgalim"/>
+	<entry name="GaussAutocannon" value="Autocanhão Gauss"/>
+	<entry name="GaussAutocannonOvercharged" value="Autocanhão Gauss (Sobrecarregado)"/>
+	<entry name="GaussAutocannonOverchargedFlavor" value="<string name='Weapons/GaussAutocannonFlavor'/>"/>
+	<entry name="GaussCannon" value="Canhão Gauss"/>
+	<entry name="GaussCannonOvercharged" value="Canhão Gauss (Sobrecarregado)"/>
+	<entry name="GaussCannonOverchargedFlavor" value="<string name='Weapons/GaussCannonFlavor'/>"/>
+	<entry name="GaussCarbine" value="Carabina Gauss"/>
+	<entry name="GaussCarbineOvercharged" value="Carabina Gauss (Sobrecarregado)"/>
+	<entry name="GaussCarbineOverchargedFlavor" value="<string name='Weapons/GaussCarbineFlavor'/>"/>
+	<entry name="GaussPistol" value="Pistola Gauss"/>
+	<entry name="GaussPistolOvercharged" value="Pistola Gauss (Sobrecarregada)"/>
+	<entry name="GaussPistolOverchargedFlavor" value="<string name='Weapons/GaussPistolFlavor'/>"/>
+	<entry name="GaussRifle" value="Rifle Gauss"/>
+	<entry name="GaussRifleOvercharged" value="Rifle Gauss (Sobrecarregado)"/>
+	<entry name="GaussRifleOverchargedFlavor" value="<string name='Weapons/GaussRifleFlavor'/>"/>
+	<entry name="GolgothanDeluge" value="Dilúvio Golgotano"/>
+	<entry name="GoliathCannon" value="Canhão Goliath"/>
+	<entry name="GravitationalPull" value="Atração Gravitacional"/>
+	<entry name="GravitonAccelerator" value="Acelerador de Grávitons"/>
+	<entry name="GravitonProjector" value="Projetor de Grávitons"/>
+	<entry name="GravityField" value="<string name='Features/GravityField'/>"/>
+	<entry name="GravityFieldFlavor" value="<string name='Features/GravityFieldFlavor'/>"/>
+	<entry name="GrenadeLauncher" value="Lançador de Granadas"/>
+	<entry name="GrenadePod" value="Pod de Granadas"/>
+	<entry name="HadesCannon" value="Canhão Hades"/>
+	<entry name="HeavyMachineGun" value="Metralhadora Pesada"/>
+	<entry name="HolyInferno" value="<string name='Actions/HolyInferno'/>"/>
+	<entry name="HolyInfernoFlavor" value="<string name='Actions/HolyInfernoFlavor'/>"/>
+	<entry name="HorrorsOfSpace" value="Horrores do Espaço"/>
+	<entry name="HymnOfDecay" value="<string name='Actions/HymnOfDecay'/>"/>
+	<entry name="HymnOfDecayFlavor" value="<string name='Actions/HymnOfDecayFlavor'/>"/>
+	<entry name="IcarusSatellite" value="Satélite Ícaro"/>
+	<entry name="IcarusSatelliteFlavor" value="<string name='Actions/IcarusSatelliteFlavor'/>"/>
+	<entry name="IncandescentIcon" value="<string name='Items/IncandescentIcon'/>"/>
+	<entry name="IncandescentIconFlavor" value="<string name='Items/IncandescentIconFlavor'/>"/>
+	<entry name="IncendiaryGrenade" value="Granada Incendiária"/>
+	<entry name="IncendiaryGrenadeFlavor" value="<string name='Actions/IncendiaryGrenadeFlavor'/>"/>
+	<entry name="Incinerator" value="Incinerador"/>
+	<entry name="IndiscriminateConsumption" value="Consumo Indiscriminado"/>
+	<entry name="InterceptorMissile" value="Míssil Interceptador"/>
+	<entry name="IokBile" value="Bílis de Iok"/>
+	<entry name="IonDischarge" value="<string name='Actions/IonDischarge'/>"/>
+	<entry name="IonDischargeFlavor" value="<string name='Actions/IonDischargeFlavor'/>"/>
+	<entry name="JaggedCradle" value="Berço Irregular"/>
+	<entry name="Katana" value="Katana"/>
+	<entry name="LandanGrahamsDisintegrator" value="Desintegrador de Landan Graham"/>
+	<entry name="LandanGrahamsDisintegratorOvercharged" value="Desintegrador de Landan Graham (Sobrecarregado)"/>
+	<entry name="LandanGrahamsDisintegratorOverchargedFlavor" value="<string name='Weapons/LandanGrahamsDisintegratorFlavor'/>"/>
+	<entry name="LaserArray" value="Matriz de Lasers"/>
+	<entry name="LarvaeCannon" value="Canhão de Larvas"/>
+	<entry name="LaserCannon" value="Canhão Laser"/>
+	<entry name="LaserRifle" value="Arma Laser"/>
+	<entry name="LeechingTouch" value="Toque Sanguessuga"/>
+	<entry name="Machete" value="Facão"/>
+	<entry name="MangledChelae" value="Quelas Dilaceradas"/>
+	<entry name="MindBreak" value="Quebra da Mente"/>
+	<entry name="Mines" value="<string name='Features/Mines'/>"/>
+	<entry name="Minigun" value="Metralhadora"/>
+	<entry name="MinesFlavor" value="<string name='Features/MinesFlavor'/>"/>
+	<entry name="MissileBot" value="Robô Míssil"/>
+	<entry name="MissileLauncher" value="Lançador de Mísseis"/>
+	<entry name="MissilePod" value="Pod de Mísseis"/>
+	<entry name="None" value="Nenhuma"/>
+	<entry name="Oblivion" value="Oblívio"/>
+	<entry name="OnFire" value="<string name='Traits/OnFire'/>"/>
+	<entry name="OnFireFlavor" value="<string name='Traits/OnFireFlavor'/>"/>
+	<entry name="OrolosCannon" value="Canhão Orolos"/>
+	<entry name="ParadoxTheriac" value="Teríaco Paradoxal"/>
+	<entry name="ParticleProjector" value="Projetor de Partículas"/>
+	<entry name="Pestilence" value="<string name='Actions/Pestilence'/>"/>
+	<entry name="PestilenceFlavor" value="<string name='Actions/PestilenceFlavor'/>"/>
+	<entry name="Phalx" value="Falange"/>
+	<entry name="Pistol" value="Pistola"/>
+	<entry name="PlasmaCannon" value="Canhão de Plasma"/>
+	<entry name="PlasmaGun" value="Arma de Plasma"/>
+	<entry name="PowerFist" value="Manopla Energética"/>
+	<entry name="Quakecaller" value="<string name='Items/Quakecaller'/>"/>
+	<entry name="QuakecallerFlavor" value="<string name='Items/QuakecallerFlavor'/>"/>
+	<entry name="ResonatingScythes" value="Foices Ressonantes"/>
+	<entry name="Retort" value="Retorta"/>
+	<entry name="Reyndverra" value="<string name='Items/Reyndverra'/>"/>
+	<entry name="ReyndverraFlavor" value="<string name='Quests/Reyndverra/TakeBlade2'/>"/>
+	<entry name="SanctifiedTrephine" value="Trépano Santificado"/>
+	<entry name="SaturationSystem" value="Sistema de Saturação"/>
+	<entry name="Scissorhand" value="Mão-de-Tesoura"/>
+	<entry name="SeedOfExtinction" value="<string name='Actions/SeedOfExtinction'/>"/>
+	<entry name="SeedOfExtinctionFlavor" value="<string name='Actions/SeedOfExtinctionFlavor'/>"/>
+	<entry name="Shredder" value="Triturador"/>
+	<entry name="ShirakiCruiseMissile" value="Míssil de Cruzeiro Shiraki"/>
+	<entry name="Shrieker" value="Gritador"/>
+	<entry name="SiegeCannon" value="Canhão de Cerco"/>
+	<entry name="Sikka" value="Sikka"/>
+	<entry name="SingularityBlade" value="Lâmina da Singularidade"/>
+	<entry name="SniperRifle" value="Fuzil de Precisão"/>
+	<entry name="SomethingWicked" value="Algo Sinistro"/>
+	<entry name="SomethingWickedFlavor" value="<string name='Quests/CircusCambion/ErelimPuppets2'/>"/>
+	<entry name="Spjut" value="Gungnir"/>
+	<entry name="StickyFoam" value="Espuma Adesiva"/>
+	<entry name="StickyFoamFlavor" value="<string name='Actions/StickyFoamFlavor'/>"/>
+	<entry name="StormOfStorms" value="<string name='Quests/StormOfStorms'/>"/>
+	<entry name="StormOfStormsFlavor" value="<string name='Quests/StormOfStorms/Intro2'/>"/>
+	<entry name="Subjugator" value="Subjugador"/>
+	<entry name="SubmachineGun" value="Metralhadora"/>
+	<entry name="SuicideDrones" value="<string name='Items/SuicideDrones'/>"/>
+	<entry name="SuicideDronesFlavor" value="<string name='Items/SuicideDronesFlavor'/>"/>
+	<entry name="SurthodaisHand" value="Mão de Surthodai"/>
+	<entry name="TachyonCannon" value="Canhão Taquiônico"/>
+	<entry name="TachyonRay" value="Raio Taquiônico"/>
+	<entry name="TacticalNuclearMissile" value="<string name='Actions/TacticalNuclearMissile'/>"/>
+	<entry name="TacticalNuclearMissileFlavor" value="<string name='Actions/TacticalNuclearMissileFlavor'/>"/>
+	<entry name="TheFog" value="<string name='Features/TheFog'/>"/>
+	<entry name="TheFogFlavor" value="<string name='Features/TheFogFlavor'/>"/>
+	<entry name="ThricefoldHunger" value="Fome Tripla"/>
+	<entry name="ValkyrieAutocannon" value="Metralhadora Valquíria"/>
+	<entry name="VorodaiProselyte" value="<string name='Items/VorodaiProselyte'/>"/>
+	<entry name="VorodaiProselyteFlavor" value="<string name='Items/VorodaiProselyteFlavor'/>"/>
+	<entry name="WitheringBreath" value="Hálito Debilitante"/>
+	<entry name="WitheringBreathFlavor" value="<string name='Actions/WitheringBreathFlavor'/>"/>
+	<entry name="WrathOfTheLeviathan" value="Ira do Leviatã"/>
+	
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
+	<entry name="AbkhanBiteFlavor" value="Seu cérebro reage de um jeito estranho quando você vê um Abkhan morder e atravessar o tanque em que está. Em vez de tentar fugir, você pode começar a se perguntar que tipo de presa esse monstro caçava em seu mundo natal. E então começa a pensar se os Acrin trouxeram alguns daqueles junto também. Se estão pairando acima de sua cabeça na frota em ruínas... esperando que alguém os acorde."/>
+	<entry name="AbkluthBiteFlavor" value="Ainda dá para ver a primeira cicatriz que um Abkluth me deixou. Suas mandíbulas cravaram fundo no meu braço e me deixaram com quatro linhas retas, com a marca perfeita de seus dentes serrilhados. Não deixei os médicos repararem o dano estético. Não queria esquecer o que um alienígena podia fazer comigo."/>
+	<entry name="AbyssalMiasmaFlavor" value="Tínhamos o Titã acuado. EU SABIA que podíamos acabar com ele, mas éramos lentos demais! Isso deu tempo para que se firmasse e cuspisse um enxame de insetos. O céu escureceu. Eles arrancaram os olhos de nossos atiradores. Rastejaram garganta abaixo. Nos afogaram enquanto escorria baba em nossos pulmões…"/>
+	<entry name="AntiArmorGrenadeFlavor" value="Nos primeiros dias, essas eram nossas únicas ferramentas para perfurar blindagens pesadas. Elas pesavam… mais do que outras munições. Deixavam bons soldados arrogantes demais. Carregar um explosivo desses e você já achava que podia encarar blindados pesados de igual para igual. Era um último recurso, não o primeiro."/>
+	<entry name="AntimatterBombFlavor" value="Os deuses antigos puniram um dos seus por compartilhar o segredo do fogo conosco. Eles sabiam que isso levaria a isto: uma bomba capaz de desfazer o que os deuses colocaram neste planeta. Suas chamas se espalhariam e transformariam a terra em vidro. Então, os deuses teriam que olhar para baixo e se verem na Terra arruinada."/>
+	<entry name="AntimatterExplosiveFlavor" value="Usar uma dessas exigia treinamento avançado… você precisava encontrar os soldados que realmente conseguiam seguir instruções. Depois, eliminava aqueles que tratavam essas armas como brinquedos. Seus melhores soldados eram os que respeitavam o poder que tinham em mãos. Os piores eram os que fantasiavam em usá-las para matar."/>
+	<entry name="AntimatterSwordFlavor" value="Havia poder em sacar sua lâmina e desferir um único golpe—mas de que adiantava tal poder se corpo e lâminas eram fracos demais? A resposta estava na Antimatéria. Essas lâminas eram a força imparável de que precisávamos para perfurar objetos inamovíveis. A tecnologia de Antimatéria servia para bons escudos… mas servia ainda melhor para matar."/>
+	<entry name="AraneanEyeFlavor" value="Ouvi um cadete perguntar à nossa cientista-chefe por que os Espreitadores Araneanos eram perigosos. Ela nos pediu para imaginar sermos capazes de matar algo com um único olhar. Talvez seja só isso que eles fazem—nos observar. Apenas lançando olhares cortantes que atravessam nossos ossos."/>
+	<entry name="ArmorPiercingMinigunFlavor" value="Disparar uma tempestade de balas perfurantes já era ruim o suficiente, mas essa peça de hardware dizimava infantaria e reconhecimento. Assim que sua presa desacelerava, você podia simplesmente triturá-la até não restar nada."/>
+	<entry name="ArmorPiercingRoundsFlavor" value="Perguntei à equipe de Atiradores de Elite por que tinham uma caixa de munição AP com “ferro frio” rabiscado nela. “Impede que os fantasmas saiam”, disse a Observadora. Sair? Sair de quê? Ela revirou os olhos para mim. “Dos corpos. Obviamente.”"/>
+	<entry name="AssaultRifleFlavor" value="A arma de fogo padrão dos exércitos do velho mundo ainda tinha serventia no alvorecer de um novo. Precisávamos de armas que pudessem recarregar rápido e disparar ainda mais rápido."/>
+	<entry name="AxiomaticPendulumFlavor" value="Merda. A lâmina do doido Phenaris passou raspando pelo meu rosto. Estávamos do mesmo maldito lado. Gritei para ele tomar cuidado. “Dor. Prazer.”, disse, “Nós oscilamos de um para o outro em um ritmo constante. Você também deveria… acho que ia gostar.”"/>
+	<entry name="BanefulOmenFlavor" value="A Voz tinha uma maldição na manga para cada tipo de arma que lançávamos contra ela. Houve um breve momento em que podíamos abater cultistas da Voz em combate corpo a corpo—nossa força era maior que sua fé. Então vieram os Cr’la, e com um simples suspiro, podiam drenar toda a força de nossos corpos."/>
+	<entry name="BattleCannonFlavor" value="Uma cientista se recusou a projetar esses canhões. Ela nos alertou que “a guerra blindada só daria lugar a um século de morte”. Ela não estava errada. Ainda assim, a transferimos para a divisão de agrotecnologia. Ela merecia espaço para imaginar um mundo melhor. Nosso trabalho era garantir que houvesse pessoas para vivê-lo."/>
+	<entry name="BioAcidSprayFlavor" value="Os Vermes Aegyllianos precisavam dissolver sua comida antes de comê-la. Ou talvez não precisassem. Talvez só gostassem do sabor. Só de pensar nisso, meu estômago revirava. Depois de vê-los devorar? Fiquei dias sem conseguir comer."/>
+	<entry name="BladedLabrumFlavor" value="Precisávamos de um maldito *biólogo* para descobrir por que esse verme gigante não caía, não importa o que jogássemos nele. “Parem de mandar mechs e tanques atrás dele”, disseram depois de analisar as imagens das câmeras. “Ele está *comendo* o metal. Aqueles dentes estão pingando ácido que começa a digestão enquanto rasga sua armadura.”"/><entry name="BleedIncitationFlavor" value="Graças aos deuses, um médico me encontrou rápido. Fui descuidado, achei que aguentaria o que quer que o Cavaleiro das Crias atirasse em mim. Caí, o sangue escorrendo de mim como suor. Perguntei se ela já tinha visto algo parecido. “Não. Mas isso não significa mais muita coisa.”"/>
+	<entry name="BlestCannonFlavor" value="“Abençoado?” Abençoado por quem? Os Prebostes gritam sobre “O Único Acima”, mas não compartilham detalhes sobre ele. Nenhuma outra máquina em nossas fileiras adorava alguma divindade cibernética. Não me senti nada bem ouvindo máquinas exigirem que você se ajoelhasse diante de um deus sobre o qual não diziam nada…"/>
+	<entry name="BreacherShotgunFlavor" value="O garoto praticamente pulava de empolgação no refeitório. “Eu entrei lá de foguete e BOOM, derreti o Ishim! Mas aí uma Esfera Galgalim apareceu, então eu recarreguei e BOOM, abri um buraco nela! Mas aí um esquadrão de ANASHIM apareceu, então eu recarreguei de novo e BOOM, BOOM, BOOM!” Dias depois, ele ignorou uma ordem de retirada e um Espreitador Areano estourou sua cabeça com um tiro certeiro na cabine do Jaeger."/>
+	<entry name="CastigateFlavor" value="Será que o poder da Voz funcionava como nos velhos contos de fadas que minha avó me entediava? Será que os cultistas conheciam “os nomes verdadeiros” das coisas? Quando um monstro gigante gritava com você em uma língua morta — será que ele havia aprendido seu nome verdadeiro? Quem você realmente era? Ou era só algum nonsense biológico que fazia a dor intensa percorrer seu corpo?"/>
+	<entry name="CensureOfTheElectFlavor" value="Civis recrutados para enterrar os mortos não sabiam se deviam classificar os ferimentos causados por esses monstros como traumatismo contuso ou lacerações. Depende se você foi atingido pela carne afiada nas extremidades dos membros ou pelo pedaço carnudo no meio. Nunca imaginei que teria que pensar em “carne afiada” quando me alistei…"/>
+	<entry name="CircularSawFlavor" value="Eram lâminas famintas — dentes dispostos na ponta de uma roda, prontos para consumir metal ou carne. Não era uma forma eficiente de ferir uma criatura, mas era muito, muito boa em infligir dor. Se você ouvisse isso em uma noite escura, sabia que havia algo lá fora… e faminto."/>
+	<entry name="CrlasGambitFlavor" value="Os Discípulos de Cr'la nunca pareciam respeitar a mesma realidade que o resto de nós. Toda vez que invocavam a vontade de Cr'la, um deles caía. Nenhuma criatura com instinto de autopreservação lutaria assim. Eles lutavam por uma causa maior — e essa causa exigia uma vida em troca de outra."/>
+	<entry name="CrodeusBiteFlavor" value="Gritei para minha tripulação do Corsair pular no segundo em que o Crodeus mergulhou em nós. Eu queria ser o último a sair, pegando um paraquedas e indo para a escotilha — mas o Crodeus foi rápido demais. Seus dentes perfuraram a nave e esmagaram minha perna. Então sua mandíbula afrouxou, e eu caí em direção à terra, olhando para trás e vendo o metal escorrendo de sua bocarra negra como um buraco."/>
+	<entry name="CrushSequenceFlavor" value="Se um Orbe Galgalim tivesse seu esquadrão na mira, a última coisa que você veria seria uma enorme parede de aço e lasers erguendo-se sobre você. Vi essa perspectiva em algumas filmagens de câmera recuperadas de um de nossos pelotões. Fiquei um pouco enjoado quando percebi que captou o som de ossos sendo esmagados antes de escurecer."/>
+	<entry name="CycloneAutocannonFlavor" value="Os Ciclones foram construídos com esquemas da antiga era, mas com menos… preocupação com a segurança. Os técnicos removeram os reguladores de aquecimento, aumentaram a contagem de munição e afrouxaram os protocolos de mira. Quem se importava se as balas atingissem nossas próprias aeronaves? Não adiantaria nada se o inimigo nos bombardeasse até a aniquilação."/>
+	<entry name="DefenseGridFlavor" value="Sempre que atacávamos as cidades de ZEPHON, todo o campo de batalha se iluminava com essas esferas crepitantes que explodiam ao atingir o solo. Naqueles poucos segundos em que pairavam no céu, tudo brilhava de forma estranha — azul? Ou era vermelho? Aquela energia que emitiam bagunçava meus nervos ópticos. Talvez até minha memória."/>
+	<entry name="DeformingRakeFlavor" value="Não deixe as Deformidades te matarem. Sua morte não será rápida. Seu corpo cairá e se levantará novamente, arrastando sua consciência para um último passeio infernal."/>
+	<entry name="DevouringMawFlavor" value="Os titãs Acrin devoravam tudo. Pessoas, máquinas, fábricas: eles conseguiam dobrar e moldar suas bocas para puxar qualquer coisa para suas entranhas. Vi um matar um Vulkan R-5. Os tentáculos em sua bocarra cresceram até o tamanho de um prédio para se espalhar e sugá-lo."/>
+	<entry name="DimensionalNeedlesFlavor" value="Espinhos brilhantes cresciam na bocarra de cada Crodeus — eles pulsavam forte e se apagavam, e você juraria que desapareciam para outro plano da realidade quando não estava olhando. Voavam longe e acertavam com força — imobilizavam a presa para facilitar a alimentação da fera."/>
+	<entry name="DisintegrateFlavor" value="Quando a Voz desejava, podia escolher a violência. Se sobrevivesse a um ataque desses, teria que aceitar o fato de que algo profundo lá fora no universo, algo que você nunca encontrou… queria que você sentisse dor. Isso podia ofuscar até mesmo o dano físico que seu poder infligia."/>
+	<entry name="DragoonSpearFlavor" value="Os cavaleiros Abkluth precisavam de armas para combate corpo a corpo que pudessem usar enquanto montados. Se a lança era boa o suficiente para nossos ancestrais, era boa o suficiente para nós. Claro, nenhum de nossos ancestrais jamais imaginou que empunharíamos lanças enquanto montávamos grandes bestas-lagartos…"/>
+	<entry name="EarthlyRuinFlavor" value="Assim que um batedor avistou o primeiro verme Throkos, ordenei que abandonássemos o forte. Mal conseguimos sair — meu Corsair acabou de decolar quando os Escolhidos de Throkos arrebentaram a barricada. A piloto não acreditou. O que ela esperava? Essas coisas cavavam através de rocha sólida, o que uma parede iria fazer?"/>
+	<entry name="ElysianBatteryFlavor" value="Um dia, fiquei perto demais de um Redemoinho Elohim disparando sua bateria… me custou alguns centímetros de cabelo depois que apaguei o fogo. Coisa perturbadora pra caralho. De perto, as armas deles não soavam como plasma ou energia… soavam como um coral."/>
+	<entry name="EMPFlavor" value="Eu odiava EMPs. Contra inimigos ZEPHON e ciber, claro, eram ferramentas vitais. Mas desligar eletrônicos era uma via de mão dupla, e eu odiava ficar exposto sem apoio de fogo."/>
+	<entry name="ErelimBladesFlavor" value="As lâminas afiadíssimas dos Erelim precisavam ser leves, duráveis e dobráveis dentro do corpo humano. Não eram como qualquer outra lâmina já forjada. Os técnicos descobriram como sobrepor camadas de metal que se uniam ao serem acionadas. Eram perfeitamente ocultáveis — e deixavam seus criadores excepcionalmente paranoicos."/>
+	<entry name="ExoskeletonFistFlavor" value="Você não podia colocar essas espadas nas mãos de qualquer soldado. Se o Exoesqueleto deles pifasse, tudo o que você segurava era um pedaço inútil de sucata com espinhos. Eu vi alguns Comandantes treinando sem os trajes, aprendendo a manejar essas lâminas mesmo no limite. Sobreviver de verdade significava nunca desistir — nunca deixar que o peso de uma arma fosse o que te matasse."/>
+	<entry name="ExoskeletonGatlingGunFlavor" value="Eu peguei um Comandante… conversando com seu traje uma vez. Ele parecia estar em uma conversa completa com suas armas. Talvez, com aquelas coisas disparando sobre cada ombro, a audição dele tivesse ido pro saco? Mas era um soldado danado de bom. Não dava pra discutir com os resultados."/>
+	<entry name="FlamethrowerFlavor" value="Ironicamente, lança-chamas eram armas de precisão. Inimigos espertos sabiam não se aglomerar ou ficar atrás de cobertura quando viam um. Operadores cuidadosos os atraíam para o forno antes de acender a chama."/>
+	<entry name="FragmentationGrenadeFlavor" value="Encontramos os primeiros desses em guarnições antigas marcadas com bandeiras esquecidas. Alguns civis do nosso grupo comentaram que essas armas um dia mudaram a face da guerra. Agora, eram apenas… o ponto de partida. O nível básico de poder que precisaríamos para vencer as guerras que viriam."/>
+	<entry name="FrostBreathFlavor" value="Dentro do ventre de um Abkhan há uma bolsa de carne resfriada a temperaturas abaixo de zero que permanece fria mesmo após a morte. Uma vez, levei correndo um biólogo cabeça-dura para a enfermaria depois que ele sofreu queimadura de frio ao tocar em uma durante uma dissecação. Ele perdeu dois dedos. Soldados pegos pelo hálito do Abkhan perdiam pedaços inteiros de carne."/>
+	<entry name="FusedBillhooksFlavor" value="Arranque um gancho de um Caitiff morto e você pode vomitar com o cheiro. Descobri o motivo depois de um cientista analisar. “Não foi feito em uma fábrica”, ela disse. “Cresceu no corpo do hospedeiro. É basicamente um tumor.”"/>
+	<entry name="GalgalimMissileBatteryFlavor" value="O alcance e a precisão dessa bateria de mísseis eram incríveis. Antes, ansiávamos por armas que pudessem atingir seus alvos sem qualquer visão deles. Agora que as tínhamos, nos sentíamos conectados a um poder superior."/>
+	<entry name="GaussAutocannonFlavor" value="Carregar armamentos de Gauss em nossos aviões transformou o céu noturno em um espetáculo de luzes. O brilho dos projéteis conseguia iluminar a noite. Tínhamos que ter cuidado — operações aéreas no céu acima às vezes colocavam nossos soldados em terra sob os holofotes. Missões furtivas ficaram ainda mais arriscadas."/>
+	<entry name="GaussCannonFlavor" value="Dominar a ciência por trás dos armamentos de Gauss não foi fácil, mas o resultado foi uma arma que podia ser ajustada em intensidade dependendo do objetivo. Depois de um tempo, acho que nossos melhores soldados ficaram viciados no cheiro de ozônio que pairava depois de disparar um projétil."/>
+	<entry name="GaussCarbineFlavor" value="Eu causei um inferno com o comando por causa do problema de energia dos Fuzis de Gauss. E me orgulho de ter contribuído para que descobrissem como embutir Carabinas de Gauss na armadura de nossos soldados. Todo aquele poder compactado em uma arma que podia descansar no seu ombro. Os técnicos fizeram um trabalho incrível com essa."/>
+	<entry name="GaussPistolFlavor" value="Como os mecânicos enfiaram a tecnologia de Gauss em uma pistola, eu não sei. Pesava o dobro de um Deagle, como levantar uma lata de lixo com uma mão, e você ainda tinha que carregar o pacote de energia. Teria quebrado seus dois pulsos toda vez que fosse disparada, se não fosse sem recuo."/>
+	<entry name="GaussRifleFlavor" value="Fuzis de Gauss portáteis eram pesados pra caramba. Quase arrebentei minhas costas quando tentei arrancar um das mãos de um soldado abatido. Não dava pra ir longe com ele de qualquer forma — a energia necessária para manter essas coisas funcionando tinha que ser puxada da armadura de um exoesqueleto. Por sorte, eu só precisava dele para um tiro de vida ou morte…"/>
+	<entry name="GolgothanDelugeFlavor" value="Como matar uma besta de carne devoradora? Ficar longe dela, para começar. Mas esses desgraçados evoluíam rápido. Começaram a nos borrifar com ácido à distância. Se quisesse sobreviver, precisava aguentar a dor, arrancar qualquer armadura corroída e então correr como o inferno, porque ela com certeza estaria vindo, pronta para te devorar."/>
+	<entry name="GoliathCannonFlavor" value="Esses canhões eram tão grandes que peguei soldados cansados tirando sonecas dentro deles. Nenhuma quantidade de disciplina os fazia parar. Eles perguntavam: “o que você vai fazer, me explodir?”. Se o cano quente dessa arma titânica podia te fazer dormir, acho que você realmente não temia o que seu comandante pudesse fazer."/>
+	<entry name="GravitationalPullFlavor" value="Zandra Kyne não servia muito em combate — estava ocupada demais tagarelando sobre “a última vez” que tentou —, mas sua tecnologia de portais podia tirar o inimigo de posição, preparando-os perfeitamente para uma emboscada. Eu pensaria duas vezes antes de tentar isso em um titã, no entanto."/>
+	<entry name="GravitonAcceleratorFlavor" value="Armamentos Gravitacionais Avançados podiam fazer coisas indescritíveis a um corpo humano — e devastariam completamente um alienígena. Os cientistas do R&amp;D nos alertaram que aumentar o Acelerador por muito tempo poderia começar a distorcer o próprio tempo. “Ótimo”, lembro de um recruta responder. “Então eles vão morrer mais rápido.”"/>
+	<entry name="GravitonProjectorFlavor" value="Por que transformamos a gravidade em uma arma? Quando você está encarando alvos móveis do tamanho de prédios, precisa ser criativo se quiser ter alguma chance de sobrevivência. Essas novas armas colocavam pressão adicional em objetos maiores e nos ajudaram a equilibrar o campo de batalha."/>
+	<entry name="GrenadeLauncherFlavor" value="Achávamos que, conforme a guerra avançava, os Reavers seriam uma ameaça menor. Sem pesquisadores, sem fábricas, eles nunca poderiam igualar nosso poder de fogo. Mas cada avanço que fazíamos era apenas mais uma arma que eles podiam roubar e usar para nos explodir em pedacinhos."/>
+	<entry name="GrenadePodFlavor" value="Fomos encurralados por Atiradores inimigos. Eles pegaram Torres primeiro. Pensei que era o fim, mas então um daqueles pilotos Jaeger veio pelo comunicador gritando “Cavalaria!!”. Ele avançou, disparou um conjunto de granadas e espalhou pedaços de corpos por todo o penhasco. Um acertou o para-brisa do mecha. Nós comemoramos, mas... o garoto parecia abalado depois disso. Ele não estava preparado para tanta carnificina."/>
+	<entry name="HadesCannonFlavor" value="Nossos pilotos relataram que o Canhão Hades fazia o céu ao redor vibrar e faiscar — como o Fogo de Santelmo, as luzes nos mastros dos navios à vela. Ninguém morreu por causa disso, então os técnicos não podiam priorizar o conserto. O que estava acontecendo lá em cima no céu?"/>
+	<entry name="HeavyMachineGunFlavor" value="Fabricar metralhadoras resfriadas a ar confiáveis ia levar tempo. Invadimos antigos depósitos de armas e fizemos o possível para colocar em funcionamento armamentos automáticos mais antigos. Pelo menos tínhamos melhorias no gerenciamento de munição — salvamos muitas vidas só garantindo que essas armas não engasgassem."/>
+	<entry name="HorrorsOfSpaceFlavor" value="Quando a Sussurradora entrou em campo, ela atacava a mente e o corpo. Inteligente da parte dela. Um milhão de guerras foram vencidas apenas assustando o inimigo até ele fugir. Mas a Sussurradora não pensava assim. Ela só queria compartilhar a Voz com o mundo."/>
+	<entry name="IncineratorFlavor" value="Incluir lança-chamas no equipamento de unidades maiores significava que podíamos expandir as capacidades das linhas de combustível — ganhar um pouco de alcance e fazer o fogo se espalhar mais rápido. Só precisávamos ter mais cuidado do que nunca com os Incineradores: o fogo não se importa com quem queima."/>
+	<entry name="IndiscriminateConsumptionFlavor" value="Primeiro foi Rodney. Depois Gina. Então o Acrin que havia se juntado a nós, Kor'thok. Disparamos balas, tentamos ignorar o sangue, mas cada um de nós que era consumido apenas restaurava aquela carne em decomposição. Só havia uma saída: puxar o pino de uma granada e mergulhar direto naquela bocarra maldita…"/>
+	<entry name="InterceptorMissileFlavor" value="Os pilotos transformavam o disparo de Mísseis Interceptadores em um jogo. Você ganhava um bom dinheiro se conseguisse prever quanto dano causaria. Apostar em vidas mantinha os pilotos distraídos do perigo que enfrentavam no ar. Nós permitíamos — na maioria das vezes."/>
+	<entry name="IokBileFlavor" value="Os adoradores alados do circo de horrores de Iok sempre iam direto para as máquinas. Um enxame deles se amontoou em um Tanque Vanquisher em que eu estava e nos borrifou com a gosma de seus estômagos enquanto fugíamos. Parecia um sonho estranho… sentir o líquido nojento atingir minha pele e queimar um pouco, então me virar e ver o tanque derretendo como um cubo de gelo no deserto."/>
+	<entry name="JaggedCradleFlavor" value="Os Devoradores de Sonhos queriam te atrair para perto e te deixar à beira de um pesadelo. Pesadelos eram o que eles mais gostavam de saborear. Eles traziam à tona o subconsciente — a própria coisa que fazia de você, você — direto para a superfície. Essa era uma das formas mais limpas de arrancar sua alma do corpo."/>
+	<entry name="KatanaFlavor" value="A maioria dos soldados que pegava a lâmina não se dava ao trabalho de aprender as formas do mundo antigo. Você seria ridicularizado se o fizesse. Mas, durante a patrulha do amanhecer, eu encontrava alguns dos nossos soldados reunidos longe do acampamento, golpeando o ar em uníssono, fluindo de postura em postura. Eles tendiam a ser os que sobreviviam por mais tempo também."/>
+	<entry name="LandanGrahamsDisintegratorFlavor" value="Nunca tive certeza do que se passava com Graham. Mas ele ficou ao nosso lado até o fim. Não era um lutador, mas o que quer que ele tivesse recuperado do naufrágio do Azad o mantinha em movimento. Como se cada morte o tornasse mais forte."/>
+	<entry name="LarvaeCannonFlavor" value="Havia algo *errado* com uma criatura que usava seus filhotes como arma. Ruim o suficiente estar coberto de merda contaminada pela Voz, o fato de estar viva? De estar… rastejando em você? Isso levou alguns de nós à beira do abismo. Nem todos voltaram."/>
+	<entry name="LaserArrayFlavor" value="Mais uma discussão entre mim e a engenheira-chefe. “Por que precisa de lasers? Os Galgalim esmagam tudo no caminho.” “Não por muito tempo”, retruquei. “Tudo contra o que estamos lutando lá fora está ficando maior.” Eu sabia que ela sabia disso. Quando estávamos a sós, ela me disse o quanto estava assustada com o pouco tempo que nos restava."/>
+	<entry name="LaserCannonFlavor" value="Dominar a Arma de Laser só deixou nossos combatentes mais ansiosos para empunhar o Canhão de Laser. Esta era uma arma feita para pura punição — qualquer coisa que atingisse se dobrava como um jogador de pôquer novato."/>
+	<entry name="LaserRifleFlavor" value="Uma arma de laser dispara em linha reta de A a B. Não há queda de projétil, nem resistência do vento, nada. Os soldados costumavam reclamar que isso tirava a arte de mirar. Felizmente, ainda éramos alunos na arte de matar. Com o tempo, essas se tornaram algumas de nossas ferramentas favoritas."/>
+	<entry name="LeechingTouchFlavor" value="A energia da Voz que deu vida a esses aberrações podia ser voltada contra o inimigo. Fazia sentido. Eles já eram pedaços de membros moldados juntos. Estique um pouco mais essa energia e talvez ganhassem outro membro, outro olho… Vi eles raspando um pouco do fluido das máquinas também. Talvez ela só se alimentasse de metal."/>
+	<entry name="MacheteFlavor" value="Facões eram a primeira ferramenta de um sobrevivente para se manter vivo. Facões podem cortar madeira, preparar comida e ser aquecidos para cauterizar ferimentos superficiais. No mundo antigo, tinham alguma utilidade em combate. Faziam quase nada contra as máquinas colossais e os alienígenas profanos que agora rastejam pela Terra."/>
+	<entry name="MangledChelaeFlavor" value="Ah. Era por isso que esses insetos queriam carne humana. Usando corpos humanos como… fábricas de ossos. Afiando caixas torácicas e cartilagens em projéteis. Gritei quando um fêmur fraturado atingiu a cabeça da minha motorista um dia. O veículo de escolta começou a rodopiar fora de controle e eu simplesmente… perdi o controle. Ela não merecia morrer daquele jeito."/>
+	<entry name="MindBreakFlavor" value="A mente humana pode ser surpreendentemente resiliente. Era preciso uma criatura tão poderosa quanto o Devorador de Sonhos para causar algum dano a ela à distância. Se você não estiver preparado, um ataque como esse o reduzirá a um destroço aos berros, um monte de carne e dor pronto para ser ingerido por um monstro de outro mundo."/>
+	<entry name="MinigunFlavor" value="O cano longo e pesado de uma minigun deixa qualquer sargento de armas de sangue quente animado, mas todo o entusiasmo some quando você precisa lubrificar e limpar cada maldito cano. Miniguns são armas para os pacientes, os cuidadosos, aqueles que se dispõem a trabalhar para disparar dez mil cartuchos a duas mil balas por minuto."/>
+	<entry name="MissileBotFlavor" value="Plataformas de mísseis miniaturas ambulantes facilitaram para os intelectuais que não conseguiam carregar armas antitanque ajudarem no campo de batalha. Meu amigo tratava seu robô como uma arma sagrada. Ele falava poeticamente sobre como ficar parado enquanto ele mirava extraía energia da própria terra. Morreu em um campo aberto, exposto a uma bala de atirador de elite."/>
+	<entry name="MissileLauncherFlavor" value="Nas escolas, nos ensinavam sobre a “parábola da janela quebrada”. Algo sobre vidraceiros pagando crianças para quebrar janelas e depois cobrarem para consertá-las, acho? Isso me fez pensar nos lançadores de mísseis de duas toneladas nos baluartes acima. Mísseis quebravam coisas. Mercadores cobravam para consertá-las. Mercadores vendiam mais mísseis. Talvez um sinal de que estávamos de volta a um mundo governado por mercadores da guerra…"/>
+	<entry name="MissilePodFlavor" value="Quando um míssil não era suficiente, você precisava de um banco inteiro deles. Nesse ponto, você se importava um pouco menos com precisão e muito mais em bombardear seu alvo com explosões. Às vezes, eu me preocupava com o que aconteceria se um míssil não armasse direito — se explodisse dentro do Pod. Um intendente deu de ombros e disse: “Pelo menos você os leva junto.”"/>
+	<entry name="OblivionFlavor" value="“Oblívio — um pensamento capaz de eliminar um inimigo do outro lado do mundo” — essa era a lenda que todos lembrávamos. Quando conheci a Mente Emulada, não achei que ela tivesse algo parecido com um pensamento coerente. Mas disparar o Oblívio concentrava sua mente fragmentada. Toda vez que ela o disparava, conhecia alguns segundos de paz."/>
+	<entry name="OrolosCannonFlavor" value="Um Orolos nascia de salas espessas e tumorais que brotavam no Cântico do Crepúsculo. Saía de lá, ensanguentado e molhado, como uma bolha no segundo antes de estourar. Os cultistas enfiavam ganchos nos membros do Orolos e prendiam canhões eriçados de espinhos de obsidiana nele. Aquele olho na cara feia do Orolos se acendia como o de uma criança vendo seu brinquedo favorito."/>
+	<entry name="ParadoxTheriacFlavor" value="“A dor lenta… falta um certo impacto, mas desce tão bem. Você a saboreia como uma bebida forte, para deixar o sangue se espalhar pelos sentidos…” Deus, esses Phenaris só AMAM falar. Me coloque em uma unidade cheia de Vermes Aegyllan qualquer dia. Esses desgraçados odeiam estar vivos, então calam a boca bem mais rápido."/>
+	<entry name="ParticleProjectorFlavor" value="Algumas das armas produzidas para IA simplesmente… disparavam matéria como uma mangueira de incêndio. Não sei se era um efeito colateral intencional, mas essa matéria grudava no alvo e levava dias para sair se eles recuassem. Podia realmente emperrar infantaria e blindados, dificultando colocá-los de volta no campo de batalha."/>
+	<entry name="PhalxFlavor" value="Uma Falange de Zelote alcançava um bom preço no mercado negro. Outros Acrin não tocavam nelas. Diziam que cada Falange estava ligada ao seu dono e, se aquele Zelote ainda vivesse, faria qualquer coisa — até arrastar você para o vazio — para recuperar suas lâminas."/>
+	<entry name="PistolFlavor" value="Usar uma pistola era como fazer amizade com um valentão do pátio da escola. Quando seu alvo é fraco e indefeso, ela faz você se sentir poderoso. Mas no segundo em que enfrenta algo com dentes, percebe que fez um péssimo amigo."/>
+	<entry name="PlasmaCannonFlavor" value="Um canhão de plasma de tamanho maior significava uma explosão maior quando você não o manuseava corretamente. Os mecânicos humanos tiveram dificuldade em aprender essa lição. As queimaduras se acumulavam e a quantidade de material desperdiçado era… inconcebível. Apenas as máquinas conseguiam montá-los. Mantê-los. Queimar seus inimigos vivos com eles."/>
+	<entry name="PlasmaGunFlavor" value="A queimadura radioativa de uma Arma de Plasma as tornava impraticáveis para a maioria dos soldados — mas nos Destruidores Malakim, elas faziam todo o sentido. Eram corpos quase mortos amarrados em metal, e ninguém — nem mesmo eles — se importava muito com a condição de longo prazo de sua carne."/>
+	<entry name="PowerFistFlavor" value="Não havia nada mais satisfatório do que encarar uma abominação horrível de além das estrelas e socá-la bem na cara. Os técnicos bolaram um “acelerante de levitação magnética” que permitia aos nossos mechs golpear com mais força do que um campeão de boxe. O velho direto à moda antiga ainda era a melhor maneira de terminar uma luta."/>
+	<entry name="ResonatingScythesFlavor" value="Uma cascavel sacode o rabo para assustar predadores. Ela fica quieta quando está caçando. Os Caçadores Phenaris não fazem isso. Seus membros zumbem nessa frequência que faz o ar ao seu redor tremer enquanto rastreiam sua trilha. Eles querem que você saiba que está sendo caçado."/>
+	<entry name="RetortFlavor" value="Talvez eu não devesse ter sentido uma alegria sombria ao ver os Reavers estragarem um disparo de balista nas costas de um Wastelander. Eles não antecipavam o alvo e tudo o que faziam era espetar seus próprios capangas. Me fez desejar estar lutando contra um Abkluth. Pelo menos a coisa que está tentando te matar tem dois neurônios para esfregar um no outro."/>
+	<entry name="SanctifiedTrephineFlavor" value="Os Prebostes pegaram algum tipo de programação médica e a distorceram para se adequar à sua filosofia doentia. Eles gritavam sobre serrar armaduras para implantar a “verdadeira divindade” no ventre de seus inimigos. Para ser honesto, nunca conheci uma máquina que me fizesse querer tanto ser ateu."/>
+	<entry name="SaturationSystemFlavor" value="Primeiro, ouvimos seu grito. Depois, a noite ficou clara como o dia — mas era uma luz mais fria, mais azul. A luz de uma grande salva disparando em direção ao céu — a minutos de transformar sua trincheira em uma cicatriz queimada por plasma na pele da terra."/>
+	<entry name="ScissorhandFlavor" value="Sim, eu sei que não eram *tesouras*. Tesouras usam duas lâminas para cortar com um movimento deslizante. Os Executores Anashim têm *garras*. E um *idiota* é alguém estúpido o suficiente para dizer isso a uma máquina assassina de dois metros e meio de altura que vai usar suas garras *como tesouras* para decapitar qualquer um que a irrite."/>
+	<entry name="ShirakiCruiseMissileFlavor" value="Não havia ninguém chamado “Shiraki” na equipe que colocou esses mísseis em operação. O nome veio da forma que a fumaça fazia depois de obliterar um alvo. Ela se estendia até o céu, as diferentes detonações das ogivas formando a silhueta de uma grande árvore."/>
+	<entry name="ShredderFlavor" value="Quase denunciamos os engenheiros por motim depois que os peguei mexendo nos Trituradores. Parecia muito sabotagem… mas… eles descobriram que, se brincassem com a velocidade das lâminas, elas soavam como um coro mecânico. Falavam em fazer um espetáculo para os civis. Como se ver um esquadrão de drones guinchantes fosse de alguma forma distraí-los da morte e destruição…"/>
+	<entry name="ShriekerFlavor" value="Orolos Plangente perderam toda a audição durante sua transfiguração. De qualquer forma, o estrondo grave de suas armas era tão poderoso que teria estourado suas cabeças. Não imaginei que os cultistas da Voz se interessariam tanto por mecanismos… mas quem eu estou enganando? A Voz adora um megafone."/>
+	<entry name="SiegeCannonFlavor" value="Um velho amigo operando um Tanque de Cerco Vanquisher chamava estes de “quebra-muralhas”. Eles adoravam o cheiro de ozônio e enxofre que deixavam para trás. É possível que o cheiro fosse… algum produto químico que explodiria o cérebro dos operadores. Não havia tempo para se preocupar. Tínhamos uma guerra para vencer."/>
+	<entry name="SikkaFlavor" value="Peguei a lâmina ensanguentada de um Zelote. Precisávamos evacuar e eu estava disposto a tentar qualquer coisa. Talvez meu sangue pudesse abrir uma porta no Sangramento. Apertei-a contra o ferimento aberto onde antes ficava minha orelha e a ergui para o trecho de gavinhas alienígenas se contorcendo. Elas se esticaram e pairaram ao redor da lâmina, mas… nada aconteceu. Meu coração afundou. Íamos morrer porque meu sangue não era bom o suficiente para uma planta de além das estrelas."/>
+	<entry name="SingularityBladeFlavor" value="Aquilo era mesmo uma arma? Ou era apenas energia? Um pedaço da existência apontado casualmente por máquinas que entendiam algum propósito superior? Não dava para se esconder. Ela corroía seus companheiros de batalha. E o pior de tudo: levava algo de volta e dava nova vida ao anjo."/>
+	<entry name="SniperRifleFlavor" value="“No fim, é só respirar”, disse um atirador veterano durante uma caçada aos Abkhan. “Mirar é fácil. Mas para acertar um tiro limpo, você precisa expirar do jeito certo ao puxar o gatilho. Um saco fazer isso com o fedor do Sangramento ou o ar vulcânico quente enchendo seus pulmões…”"/>
+	<entry name="SpjutFlavor" value="“Uma lança que poderia perfurar os céus.”—Certa vez, flagrei uma operadora de Valkyria rabiscando essa frase em seu chassi. Ela parecia hipnotizada pela armadura, como se esta lhe sussurrasse um comando. Coisa perturbadora. Seria sensato confiar em operadoras como ela? Talvez por isso os superiores estivessem debatendo a instalação de um interruptor de emergência…"/>
+	<entry name="SubjugatorFlavor" value="Quem projetou as armas dos Acrin não as otimizou apenas para seus corpos monstruosos—elas foram feitas para danificar a vida biológica sem matá-la. Qualquer humano que sobrevivesse ao ataque inicial dos Acrin… os soldados estariam prontos para capturá-los e escravizá-los."/>
+	<entry name="SubmachineGunFlavor" value="Nunca me senti muito bem abrindo mão do alcance de um fuzil de assalto—que, aliás, não era lá essas coisas—, mas às vezes esse era o preço da velocidade. E dado o que estávamos enfrentando… digamos que nem sempre era preciso correr mais que os Abkhan. Bastava correr mais que o cara ao seu lado."/>
+	<entry name="SurthodaisHandFlavor" value="Os dedos trêmulos dos Surthodai poderiam dar a qualquer um… como eles chamavam? “Quirofofobia”? O que me assustava era como, se você se visse na pegada do monstro, por uma fração de segundo, sentiria seus dedos recuarem. Como se alguma parte dele não quisesse machucar você. Mas então eles se fechavam com força e quebravam seus ossos."/>
+	<entry name="TachyonCannonFlavor" value="Senti algo muito ruim no estômago no dia em que percebi o que alimentava a tecnologia Taquiônica: Tempo. Ou algo *errado* com o tempo. Toda vez que disparávamos o canhão, estávamos gastando um poder que não tínhamos como controlar. O dano temporal estava no futuro? No passado? Ou… em ambos ao mesmo tempo? Quando descobriríamos? Achávamos que éramos tão espertos. Não sabíamos nada do que estávamos brincando."/>
+	<entry name="TachyonRayFlavor" value="Os humanos nunca deveriam empunhar tanto poder, mas a história humana já era uma longa sequência de decisões ruins. Por que não pegar as forças mais poderosas do universo e colocá-las dentro de uma arma? Não tínhamos mais nada a perder e tudo a ganhar."/>
+	<entry name="ThricefoldHungerFlavor" value="Esquadrão de Batedores Gladius. Especializado em caçar Cavaleiros das Ninhadas. Apostavam em qual cabeça atacaria primeiro em cada luta. Foram dizimados quando uma das feras atacou com as três de uma vez."/>
+	<entry name="ValkyrieAutocannonFlavor" value="Os trajes Valkyria fundiam os nervos dos pilotos com o armamento, e eles podiam disparar a Metralhadora Automática com um simples movimento de dedo. Se você olhasse na cabine, veria como mantinham as mãos imóveis, esperando até o momento de liberar o inferno."/>
+	<entry name="WrathOfTheLeviathanFlavor" value="Tanta morte em um instante. Eu estava encolhido na jaula de um Leviatã, impotente enquanto três esquadrões de Pretorianos avançavam sobre nós, espadas erguidas. A fera não hesitou. Ela se ergueu e abriu seus membros, batendo-os e a cabeça no chão. Todos aqueles malditos dedos se fecharam com força ao redor dos soldados imobilizados, estourando crânios como frutas gordas e suculentas."/>
+</language>

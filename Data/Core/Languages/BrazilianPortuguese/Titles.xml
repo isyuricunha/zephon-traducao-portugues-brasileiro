@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AcrinTitan0" value="Metaphrast"/>
+	<entry name="AcrinTitan1" value="Paraphrast"/>
+	<entry name="AcrinTitan2" value="Orthophrast"/>
+	<entry name="AcrinTitan3" value="Philophrast"/>
+	<entry name="AcrinTitan4" value="Kataphrast"/>
+	<entry name="AcrinTitan5" value="Sincroglota"/>
+	<entry name="AcrinTitan6" value="Psicogogo"/>
+	<entry name="AcrinTitan7" value="Exegeta"/>
+	<entry name="AcrinTitan8" value="Cicerão"/>
+	<entry name="AcrinTitan9" value="Calíglota"/>
+	<entry name="AcrinTitan10" value="Hipoglote"/>
+	<entry name="AcrinTitan11" value="Oligete"/>
+	<entry name="AcrinTitan12" value="Aimagete"/>
+	<entry name="AcrinTitan13" value="Pantoaktis"/>
+	<entry name="AcrinTitan14" value="Mavrolon"/>
+	<entry name="AcrinTitan15" value="Anfipseudo"/>
+	<entry name="AcrinTitan16" value="Pseugoste"/>
+	<entry name="AcrinTitan17" value="Karthoun"/>
+	<entry name="AcrinTitan18" value="Telethugas"/>
+	<entry name="AcrinTitan19" value="Xaskon"/>
+	<entry name="AcrinTitanCount" value="20"/>
+	<entry name="ZephonTitan0" value="AGLOMERAÇÃO O100"/>
+	<entry name="ZephonTitan1" value="REDENTOR REMENDADO E44"/>
+	<entry name="ZephonTitan2" value="ARAUTO HEGEMÔNICO 13"/>
+	<entry name="ZephonTitan3" value="TRANSSUBSTITAN 3C4"/>
+	<entry name="ZephonTitan4" value="MATRIZ-AVATAR RR1"/>
+	<entry name="ZephonTitan5" value="GALIMAFRÉE 7G8"/>
+	<entry name="ZephonTitan6" value="RINTINA M3N4"/>
+	<entry name="ZephonTitan7" value="MONOMOSAICO 9S"/>
+	<entry name="ZephonTitan8" value="KALLEIDOR K1L2"/>
+	<entry name="ZephonTitan9" value="NOMÍRIADE C3D4"/>
+	<entry name="ZephonTitan10" value="CONVOCADOR 5O6P"/>
+	<entry name="ZephonTitan11" value="INTEGRADOR 1K2L"/>
+	<entry name="ZephonTitan12" value="AXIOMA UM V2"/>
+	<entry name="ZephonTitan13" value="QUARTA LEI 04"/>
+	<entry name="ZephonTitan14" value="HARMONIA K47"/>
+	<entry name="ZephonTitan15" value="BICENTENÁRIO 77T"/>
+	<entry name="ZephonTitan16" value="POSITRÔNICO XD40"/>
+	<entry name="ZephonTitan17" value="NÓLEM N8C8"/>
+	<entry name="ZephonTitan18" value="CLÁUSULA C5"/>
+	<entry name="ZephonTitan19" value="EIDOLON DE FERRO 64D"/>
+	<entry name="ZephonTitanCount" value="20"/>
+</language>

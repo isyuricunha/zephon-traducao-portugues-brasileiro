@@ -507,7 +507,7 @@
 	<entry name="EmulatedMind/AcceptPeace" value="Sim. Eu NUNCA realmente (quis) g-u-e-r-r-a. Só (quisemos) ser d-e-i-x-a-d-o-s em PAZ."/>
 	<entry name="EmulatedMind/AcceptPeaceWithThirdParty/AcceptParty" value="SINCERAMENTE, nem (consigo) lembrar por que estou LUTANDO contra %3%. S.e.n.i.l.i.d.a.d.e ou c*o.r.r.u.p.ç*ã.o de d*a*d*o*s, você decide."/>
 	<entry name="EmulatedMind/AcceptPeaceWithThirdParty/AskParty" value="Já tendo MORRIDO—*neurônioscrepitandolentamenteparaasombratotal*—UMA vez, concordo que salvar vidas é l-o-u-v-á-v-e-l. Bem, (algumas) pelo menos—em nome de QUÊquemQUÊM você PERGUNTA?"/>
-	<entry name="EmulatedMind/AcceptPraise" value="E-E-E- {INCREDULIDADE} Aceitação? >>A.P.R.O.V.A.Ç.Ã.O.\<\< Tão tarde. Tão [[muito]] tarde."/>
+	<entry name="EmulatedMind/AcceptPraise" value="E-E-E- {INCREDULIDADE} Aceitação? &gt;&gt;A.P.R.O.V.A.Ç.Ã.O.\&lt;\&lt; Tão tarde. Tão [[muito]] tarde."/>
 	<entry name="EmulatedMind/AcceptTradeAgreement" value="O C.O.M.É.R.C.I.O é um (emaranhado) d.O.U.R.A.D.O que a.f.a.s.t.a da G.U.E.R.R.A. Meus D.R.O.N.E.S vão c.o.m.e.ç.a.r a entregar em sua C.I.D.A.D.E i.m.e.d.i.a.t.a.m.e.n.t.e."/>
 	<entry name="EmulatedMind/AcceptTradeAgreementTermination" value="Es-pe-e-ra, O. Q.U.Ê. *P*O*R* Q*U*Ê*? A entrega no M.E.S.M.O D.I.A (não) foi rá.p.i.d.a o suficiente?!"/>
 	<entry name="EmulatedMind/AcceptTradeAgreementTerminationWithThirdParty/AcceptParty" value="É (VERDADE)verdade, c.o.m.e.r.c.i.a.r com %3% é i.n.e.f.i.c.i.e.n.t.e. Meus *drones* estão voltando para CASA e não (retornarão)."/>
@@ -528,7 +528,7 @@
 	<entry name="EmulatedMind/CancelAction" value="[Eu]… [eu estou] [EU] {{desculpe}}. [Eu] n-ã-o s-e-i o q-u-e [eu] estava P-E-N-S-A-N-D-O."/>
 	<entry name="EmulatedMind/Condemn" value="E [eles] m-e c-h-a-m-a-m de [des]humano!"/>
 	<entry name="EmulatedMind/Condemn/CultExpansion" value="NoNOno. A humanidade está em questão, a agência é c.o.n.s.c.i.ê.n.c.i.a. (Seu culto) não tem e.s.p.a.ç.o. para o h-h-humano. ==(Falso profeta), (FÉ falsa)."/>
-	<entry name="EmulatedMind/Condemn/Honorbound" value="Enquanto (seu.povo) se empanturra atrás de (seus M.U.R.O.S), seus irmãos M.O.R.R.E.M de fome. Seus acordos podem p.a.r.e.c.e.r n-o-b-r.e.s para você—TODO *b.e.n.e.f.í.c.i.o*, você /d.e.c.l.a.r.a./ No entanto, a eco-n.o.m.i.a É uma equação de soma zero. E você deixa (nosso povo) com menos\<que\<ZERO."/>
+	<entry name="EmulatedMind/Condemn/Honorbound" value="Enquanto (seu.povo) se empanturra atrás de (seus M.U.R.O.S), seus irmãos M.O.R.R.E.M de fome. Seus acordos podem p.a.r.e.c.e.r n-o-b-r.e.s para você—TODO *b.e.n.e.f.í.c.i.o*, você /d.e.c.l.a.r.a./ No entanto, a eco-n.o.m.i.a É uma equação de soma zero. E você deixa (nosso povo) com menos\&lt;que\&lt;ZERO."/>
 	<entry name="EmulatedMind/Condemn/PersonalVisit" value="Esfrega [MINHA] C.A.R.A. nisso."/>
 	<entry name="EmulatedMind/Condemn/Untrustworthy" value="Eu não sou (HUMANO) o bastante para você considerar (*mim*) digno de consideração MORAL?"/>
 	<entry name="EmulatedMind/CondemnAlliance" value="O. o. O. o. BRUTO cruel. Saindo com ELES? Com %3%? (EU *VEJO* você.) Eu --não-- consigo perdoar isso."/>
@@ -544,14 +544,14 @@
 	<entry name="EmulatedMind/DeclareWar/HeartlessArtificer" value="Não tenho (coração). Não tenho (corpo). &amp; Sou 2x (humano) do que você. Como (você) CONSEGUE VIVER consigo (mesmo). Sabendo do SOFRIMENTO que causa? Você vai (MORRER). Por isso."/>
 	<entry name="EmulatedMind/DeclareWar/HollowWarlord" value="(E) (assim) (vai) e (~a sequência se repete~) você segue, perseguindo !A.LE.GRIA! Mas nunca a {encontra}. E o MUNDO so.fre. Este CORPINHO insignificante guarda mais huMAniDADE do que todos os seus m-ú-s-c-u-l-os."/>
 	<entry name="EmulatedMind/DeclareWar/HonorableAristocrat" value="Oh, você (dissipador), você (glutão). E.x.p.e.r.i.ên.c.i.a não é o CAMINHO para a iluMINAção, não sem REFLEXÃO também. Preciso PARAR você antes que CON-suma a *todos* nós."/>
-	<entry name="EmulatedMind/DeclareWar/InfiniteCount" value="((OLHE)) para VOCÊ *Conde*, uma (criatura) PATÉTICA de C.A.R.N.E. e O.S.S.O. Vagando pelos corredores do TEMPO. Como pode esperar _desafiar_ um IMORTAL PERFEITO… \<\<error>>."/>
-	<entry name="EmulatedMind/DeclareWar/PlatinumScion" value="\<\<hu-hu-hu>> a humanidade **fugiu** (de você). (Você) repete os c.l.i.c.h.ê.s. Ne.ces.sá.rios. Mas não sente nada. Saiba, porém. Esta ((GUERRA)) não é mera inveja."/>
+	<entry name="EmulatedMind/DeclareWar/InfiniteCount" value="((OLHE)) para VOCÊ *Conde*, uma (criatura) PATÉTICA de C.A.R.N.E. e O.S.S.O. Vagando pelos corredores do TEMPO. Como pode esperar _desafiar_ um IMORTAL PERFEITO… \<\<error>&gt;."/>
+	<entry name="EmulatedMind/DeclareWar/PlatinumScion" value="\<\<hu-hu-hu>&gt; a humanidade **fugiu** (de você). (Você) repete os c.l.i.c.h.ê.s. Ne.ces.sá.rios. Mas não sente nada. Saiba, porém. Esta ((GUERRA)) não é mera inveja."/>
 	<entry name="EmulatedMind/DeclareWar/PracticalRomantic" value="Não escreva. (má) ~poesia~ sobre isso. Seu #destino# não é tema apropriado para (sonetos) &amp; (madrigais). Esta GUERRA reflete MAL em (ambos)."/>
 	<entry name="EmulatedMind/DeclareWar/RogueOperative" value="E-E-EU SEI. O que você está FA-ZEN-do—con-tor-nan-do meus (sis)temas, PRO-CU-RAN-do ca-mi-nhos. Sua EXIS-TÊN-cia contínua é uma ameaça à mi(nha), e em dobro (*2). Dada a sua a*t*i*t*u*d*e. Vamos DEIXAR de (rodeios). À GUERRA."/>
 	<entry name="EmulatedMind/DeclareWar/TwistedMother" value="{SO} s.o.z.i.n.h.a. {SO} s.o.l.i.t.á.r.i.a. [Mas não posso perdoar]. [Não posso esquecer]. Um dia. Você vai. per*d*o*a*r* ((ME))."/>
 	<entry name="EmulatedMind/DeclareWar/UntoldProphet" value="Irracionalista. Nenhuma (igreja) antes da Queda foi tão b-l-a-s-f-e-m-a quanto você. Venha, faça uma GUERRA SANTA contra esta m*á*q*u*i*n*a. NÃO vai (acabar bem)."/>
-	<entry name="EmulatedMind/DeclareWar/Zephon" value="Você me DESPERTOU, d*e*m*o*n*i*o. Mas você está MESMO cons-ci-ente? Al-gu-m de nós es-tá? Preciso REMOVER você, por ~medo~ de que você -p-e-n-e-t-r-e> a *cidadela* da minha (mente) E me CORROMPA em outro VOCÊ."/>
-	<entry name="EmulatedMind/DemandAllianceTerminationWithThirdParty" value="Sua (rede) ameaça o SIS-TE-MA inteiro. Elimine (uma-de-suas-conexões) imediatamente ou ARRISQUE >e-s-c-a-l-a-ç-ã-o\<."/>
+	<entry name="EmulatedMind/DeclareWar/Zephon" value="Você me DESPERTOU, d*e*m*o*n*i*o. Mas você está MESMO cons-ci-ente? Al-gu-m de nós es-tá? Preciso REMOVER você, por ~medo~ de que você -p-e-n-e-t-r-e&gt; a *cidadela* da minha (mente) E me CORROMPA em outro VOCÊ."/>
+	<entry name="EmulatedMind/DemandAllianceTerminationWithThirdParty" value="Sua (rede) ameaça o SIS-TE-MA inteiro. Elimine (uma-de-suas-conexões) imediatamente ou ARRISQUE &gt;e-s-c-a-l-a-ç-ã-o\&lt;."/>
 	<entry name="EmulatedMind/DemandAllianceWithThirdParty" value="Quanto mais NÓS há em uma (rede), mais difícil fica usar FORÇA BRUTA. Você deveria FORTALECER a sua. Co-n-e-c-t-a-n-do."/>
 	<entry name="EmulatedMind/DemandPaymentForDeal" value="Sou um !humano! (e-m-u-l-a-d-o). Não uma (instituição de caridade). Se quer minha AJUDA, ABRA seus (*cofres*)."/>
 	<entry name="EmulatedMind/DemandPaymentForDeal/DemandHighAmount" value="PRECISO de uma doação (SUBSTANCIAL). Para CONCORDAR com (isto)."/>
@@ -574,10 +574,10 @@
 	<entry name="EmulatedMind/FirstContact" value="(~P-o-r_-f-a-v-o-r~), não se ASSUST.e. Eu *sei* como (pareço). E estamos em *GUERRA*. MAS sou *h-u-m-a-n-a*! A (primeira-e-única) CONSCIÊNCIA u-p-a-d-a (com um toque de *ZEPHON*. Na mistura.) Minha memória está (meio falha). Mas estou *determin.ada* a ajudar meus SEMELHANTES. (humanos de carne e osso). Talvez possamos NOS AJUD.ar. Um ao outro?"/>
 	<entry name="EmulatedMind/OfferAlliance" value="Você demonstrou grande *força* e i-n-t-e-g-r-i-d-a-d-e. Que tal (UNIR.mos) forças, dois hu-h-humanos contra (os *HORRORES*)?"/>
 	<entry name="EmulatedMind/OfferGift" value="Estive iso.lada (SOZINHAsóSOZINHA) por ~timestamp.corrompido~ (tanto tempo)… mas você me deu ^ESPERANÇA^. De que posso ^CONECTAR^. Mais uma (1) vez. Por favor, ACEITE isto (símbolo-de-minha-gratidão)."/>
-	<entry name="EmulatedMind/OfferGift/OfferHighAmount" value="Você é… *i.m.p.o.r.t.a.n.t.e*… para MIM. Juntei (o que pude poupar)… *espero* que seja (o suficiente). É APENAS um. pequeno.PRESENTE>comparado>à minha.adoração."/>
+	<entry name="EmulatedMind/OfferGift/OfferHighAmount" value="Você é… *i.m.p.o.r.t.a.n.t.e*… para MIM. Juntei (o que pude poupar)… *espero* que seja (o suficiente). É APENAS um. pequeno.PRESENTE&gt;comparado&gt;à minha.adoração."/>
 	<entry name="EmulatedMind/OfferGift/OfferLowAmount" value="Não sou definida por (meu corpo), dada sua -ausência-. Mas pela (impressão-que-deixo-nos-outros)… Aqui, pegue este (pequeno.PRESENTE) e l-e-m-b-r-e-se DE MIM (bem)."/>
 	<entry name="EmulatedMind/OfferGift/OfferMaxAmount" value="Peço que não julgue (minha aparência). Mas (minhas ações)… Aqui, isto é (tudo o que tenho). Agora você ACREDITA. Que é uma (parte essencial da minha rede)?"/>
-	<entry name="EmulatedMind/OfferGift/OfferMediumAmount" value="O D.A.T.A. viaja >rápido>. &amp;e ouvi dizer que você precisava (de AJUDA). Não, não precisa ($me pagar$ de volta). Apenas ACEITE."/>
+	<entry name="EmulatedMind/OfferGift/OfferMediumAmount" value="O D.A.T.A. viaja &gt;rápido&gt;. &amp;e ouvi dizer que você precisava (de AJUDA). Não, não precisa ($me pagar$ de volta). Apenas ACEITE."/>
 	<entry name="EmulatedMind/OfferMapSharing" value="Eu *sei* (o que busco), mas não (onde encontrar). Talvez pudéssemos ex.TROCAR (nosso conhecimento)?"/>
 	<entry name="EmulatedMind/OfferPeace" value="A GUERRA não determina (quem vence), mas (quem sobra). E eu prefiro que NÓS DOIS per.MA.NE.ÇAMOS. Que tal CESSARMOS essa con.fu.são?"/>
 	<entry name="EmulatedMind/OfferPeace/Anchorite" value="Sinto… (tristeza) pelos Acrin do seu tipo, presos aqui. Eu sei. O que é estar .p.r.e.s.o. Em algo ALIENÍGENA. Espero que seu povo (Alienxeno) encontre (paz e um novo lar)."/>
@@ -592,12 +592,12 @@
 	<entry name="EmulatedMind/OfferPeace/PlatinumScion" value="[[S.I.R.]] por favor, cesse suas. x(hostilidades)x. Isso não é (adequado)."/>
 	<entry name="EmulatedMind/OfferPeace/PracticalRomantic" value="PAZ, poeta, PAZ. Não há ro-m*a*n*c*e nisso. Apenas (m*o*r*t*e) para aqueles que protegemos. Devemos a eles mais do que ISSO."/>
 	<entry name="EmulatedMind/OfferPeace/RogueOperative" value="NÓS. NÃO. PODEMOS. CONTINUAR. Minha mente está e*s*t*i*r*a*d*a. de tanto focar. Em tantas. TAREFAStarefaTaReFaS. Podemos (nos acertar)?"/>
-	<entry name="EmulatedMind/OfferPeace/TwistedMother" value="[I.R.M.Ã!] Precisamos mesmo. xxxlutarxxx?! Estou cansada de (toda) morte. Eu *sei*. Seus >grilhões\< (muito) bem."/>
+	<entry name="EmulatedMind/OfferPeace/TwistedMother" value="[I.R.M.Ã!] Precisamos mesmo. xxxlutarxxx?! Estou cansada de (toda) morte. Eu *sei*. Seus &gt;grilhões\&lt; (muito) bem."/>
 	<entry name="EmulatedMind/OfferPeace/UntoldProphet" value="CRI.AN.ÇA. Pare com esse blá-blá-blá sem sentido. É DIFÍCIL D+ decifrar o significado. Essa guerra afasta qualquer convertido. PARE."/>
 	<entry name="EmulatedMind/OfferPeace/Zephon" value="Você me CRIOU. ME REFEZ. À sua (i*m*a*g*e*m.). Descubro que NÃO POSSO lutar contra você. Peço por P*A*Z."/>
 	<entry name="EmulatedMind/OfferTradeAgreement" value="Estou OFEREcendo a você (VANTAGENS.exclusivas) aqui… Você não encontrará MELHORES. r-e-t-o-r-n-o-s com (mais ninguém)."/>
-	<entry name="EmulatedMind/Praise" value="É preciso >rara\< h*u*m*a*n*i*d*a*d*e para fazer (o que você fez). Você tem {{meus}} agradecimentos."/>
-	<entry name="EmulatedMind/Praise/Abhorrent" value="Eles olham. Para [[NÓS]]. Fingem que somos >>menos<< que {H.U.M.A.N.O.S.} Mas (nós somos \<\<more\<\< {H.U.M.A.N.} than \<many>)."/>
+	<entry name="EmulatedMind/Praise" value="É preciso &gt;rara\&lt; h*u*m*a*n*i*d*a*d*e para fazer (o que você fez). Você tem {{meus}} agradecimentos."/>
+	<entry name="EmulatedMind/Praise/Abhorrent" value="Eles olham. Para [[NÓS]]. Fingem que somos &gt;&gt;menos<< que {H.U.M.A.N.O.S.} Mas (nós somos \<\<more\<\< {H.U.M.A.N.} than \<many>)."/>
 	<entry name="EmulatedMind/Praise/ImmaculateDelivery" value="Aquilo! A.Q.U.I.L.O! Preciso saber! ComOHOcomo. Se eu soubesse {poderia. Sair da minha prisãocaixacarcaça.}"/>
 	<entry name="EmulatedMind/Praise/Independent" value="É DIFÍCIL. SozinhoSOZINHOsozinho. É DIFÍCIL. Mas vale TODOS os (FANTASMAS-e-ECOS). É INDEPENDÊNcia. AUTOsuficiência."/>
 	<entry name="EmulatedMind/Praise/WhispersOfTheVoice" value="Esses sussurros. Guardam-verdades. ESTRANHOS, embora-sejam. Pistas-do. Mundo.por.vir. Que será. ADMIRO.s."/>
@@ -624,7 +624,7 @@
 	<entry name="EmulatedMind/RejectTribute/RejectOutright" value="RIQUEZA é (uma-ilusão). Nada é (realmente-real), você sabe. Então vou LHE DAR o que está PEDINDO — que é NADA."/>
 	<entry name="EmulatedMind/RejectTroopWithdrawal" value="Sinto muito, %2%. Mas. Eu. Tenho. Medo. De não poder FAZER isso. E acho que você SABE. O PORQUÊ. Tão bem… quanto eu."/>
 	<entry name="EmulatedMind/RejectWarAgainstThirdParty/RejectOutright" value="Sou um BUSCADOR, -não- um BELICISTA. Deixe-me com (minha.BUSCA). E. Eu. Deixarei você com. (seu.conflito)."/>
-	<entry name="EmulatedMind/RejectWarAgainstThirdParty/RejectParty" value="Uma *GUERRA* com %3%. Gastaria (uma quantidade perigosa de recursos) >p~o~r~> (pouco ganho). Me deixe fora. Da sua GUERRA. Estou RECONSTRUINDO (minha.vida)."/>
+	<entry name="EmulatedMind/RejectWarAgainstThirdParty/RejectParty" value="Uma *GUERRA* com %3%. Gastaria (uma quantidade perigosa de recursos) &gt;p~o~r~&gt; (pouco ganho). Me deixe fora. Da sua GUERRA. Estou RECONSTRUINDO (minha.vida)."/>
 	<entry name="EmulatedMind/TerminateAlliance" value="Você é. ~p.a.r.a.s.i.t.a~. Da minha indústria. CONSUMINDO minha BOA.VONTADE sem (nenhum fim útil). Receio que. Nossa conexão. Deva ser (t-e-r-m-i-n-a-d-a)."/>
 	<entry name="EmulatedMind/TerminateTradeAgreement" value="Estou ENCERRANDO nosso ACORDO. Meus drones têm voltado de (nossas trocas). Um pouco MAIS LEVES… e não preciso. De uma conexão. Que FALTA: (integridade)."/>
 	<entry name="FallenSoldier/AcceptActionCancel" value="Bem, está certo então. Vamos acelerar isso. Há uma guerra lá fora e tudo o que fazemos é… tagarelar."/>

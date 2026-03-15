@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AcrinBoneWhistle" value="Assobio de Osso Acrin"/>
+	<entry name="AkavishRig" value="Plataforma Akavish"/>
+	<entry name="Archaegis" value="Arquegis"/>
+	<entry name="ArgosyTarge" value="Escudo Argosy"/>
+	<entry name="ArkOfGoldrauch" value="Arca de Goldrauch"/>
+	<entry name="ArshamsSatchelGifted" value="Bolsa de Arshem (Presenteada)"/>
+	<entry name="ArshamsSatchelGiftedFlavor" value="<string name='Quests/ThickerThanWater/JoinArshemSuccess2'/>"/>
+	<entry name="ArshamsSatchelLooted" value="Bolsa de Arshem (Saqueada)"/>
+	<entry name="ArshamsSatchelLootedFlavor" value="<string name='Quests/ThickerThanWater/StopArshemSuccess2'/>"/>
+	<entry name="AttarOfPhenaris" value="Essência de Phenaris"/>
+	<entry name="CacheOfTheInsensate" value="Esconderijo dos Insensatos"/>
+	<entry name="CandleOfGlory" value="Vela da Glória"/>
+	<entry name="ChayotCrospect" value="Crospecto Chayot"/>
+	<entry name="CursecharmOfCrla" value="Talismã Amaldiçoado de Cr'la"/>
+	<entry name="DimensionalShunts" value="Desvios Dimensionais"/>
+	<entry name="DimensionalShuntsFlavor" value="<string name='Quests/ConcordatCompromised/ComplyCarefullySuccess3'/>"/>
+	<entry name="DistortedLens" value="Lente Distorcida"/>
+	<entry name="DynameisPlate" value="Placa Dynameis"/>
+	<entry name="ExousiaParser" value="Analisador Exousia"/>
+	<entry name="GauntletOfRuin" value="Manopla da Ruína"/>
+	<entry name="GladialEmanator" value="Emanador Gladial"/>
+	<entry name="HoloDecoy" value="Isca Holográfica"/>
+	<entry name="HungeringCirclet" value="Diadema Voraz"/>
+	<entry name="ICARFluidDeflector" value="Defletor de Fluido ICAR"/>
+	<entry name="ICARLogo0" value="Fragmento do Logotipo da ICAR"/>
+	<entry name="ICARLogo0Flavor" value="<string name='Quests/TheDeadHandOfCapitalism/KillMechSuccess2'/>"/>
+	<entry name="ICARLogo1" value="<string name='Items/ICARLogo0'/>"/>
+	<entry name="ICARLogo1Flavor" value="<string name='Items/ICARLogo0Flavor'/>"/>
+	<entry name="ICARLogo2" value="<string name='Items/ICARLogo0'/>"/>
+	<entry name="ICARLogo2Flavor" value="<string name='Items/ICARLogo0Flavor'/>"/>
+	<entry name="ICARLogo3" value="<string name='Items/ICARLogo0'/>"/>
+	<entry name="ICARLogo3Flavor" value="<string name='Items/ICARLogo0Flavor'/>"/>
+	<entry name="ICARLogo4" value="<string name='Items/ICARLogo0'/>"/>
+	<entry name="ICARLogo4Flavor" value="<string name='Items/ICARLogo0Flavor'/>"/>
+	<entry name="ICARLogo5" value="<string name='Items/ICARLogo0'/>"/>
+	<entry name="ICARLogo5Flavor" value="<string name='Items/ICARLogo0Flavor'/>"/>
+	<entry name="IncandescentIcon" value="Ícone Incandescente"/>
+	<entry name="InvasiveAuditor" value="Auditor Invasivo"/>
+	<entry name="Iokla" value="Iok'la"/>
+	<entry name="KnifeOfTheChieftess" value="Faca da Chefe Tribal"/>
+	<entry name="KnifeOfTheChieftessFlavor" value="<string name='Quests/TheTiesThatBind/HandOverJezinaSuccess2'/>"/>
+	<entry name="Pathcutter" value="Cortador de Caminhos"/>
+	<entry name="PFCManual" value="Manual do Soldado P.F.C."/>
+	<entry name="PhaseFontead" value="Fontead de Fase"/>
+	<entry name="PhilosophersStone" value="Pedra Filosofal"/>
+	<entry name="PhilosophersStoneFlavor" value="<string name='Quests/PhilosophersStone/StoneRetrieved2'/>"/>
+	<entry name="PlanarPhlebotomizer" value="Flebotomizador Planar"/>
+	<entry name="Quakecaller" value="Evocador de Tremores"/>
+	<entry name="QuakecallerFlavor" value="<string name='Quests/TheMartialEthic/Intro2'/>"/>
+	<entry name="QuantumReflector" value="Refletor Quântico"/>
+	<entry name="QuantumReflectorFlavor" value="<string name='Quests/FormFunction/FlushCortexSuccess2'/>"/>
+	<entry name="RallyingHolobeacon" value="Holofarol de Reagrupamento"/>
+	<entry name="ReactiveTrigger" value="Gatilho Reativo"/>
+	<entry name="Reyndverra" value="Reyndverra"/>
+	<entry name="ReyndverraFlavor" value="<string name='Quests/Reyndverra/TakeBlade2'/>"/>
+	<entry name="SchismOfRegimina" value="Cisma de Regimina"/>
+	<entry name="SpotterDrone" value="Drone de Reconhecimento"/>
+	<entry name="StolenFlesh" value="Carne Roubada"/>
+	<entry name="SuicideDrones" value="Drones Suicidas"/>
+	<entry name="TheFalseSpeakersCore" value="Núcleo do Falso Orador"/>
+	<entry name="TheFalseSpeakersCoreFlavor" value="<string name='Quests/WhispersOfAFalseProphet/DestroyKryptArchaiSuccess2'/>"/>
+	<entry name="TraumaKit" value="Kit de Trauma"/>
+	<entry name="TribunalsTether" value="Laço do Tribunal"/>
+	<entry name="TribunalsTetherFlavor" value="<string name='Quests/ThePulledThread/RecoverTetherSuccess2'/>"/>
+	<entry name="VorodaiProselyte" value="Proselita Vorodai"/>
+	
+	<!-- Flavor. %1% is filled in with player name. To display '%', it must written as '%%'. -->
+	<entry name="AcrinBoneWhistleFlavor" value="“Na igreja, ou no mercado, quando me encontrares,<br/>Passa por mim como se não te importasses com uma mosca;<br/>Rouba-me um olhar do teu belo olho negro,<br/>Mas olha como se não estivesses olhando para mim,<br/>Mas olha como se não estivesses olhando para mim.<br/>Assobia e eu irei, &amp;c.”<br/>— Robert Burns"/>
+	<entry name="AkavishRigFlavor" value="Esse equipamento era uma tecnologia fascinante — um modificador muscular que se adaptava a qualquer corpo humano, qualquer corpo Acrin, qualquer máquina. Ele estudava o padrão dos seus movimentos e dava um pequeno impulso aos seus músculos ou motores para você se mover mais rápido. Talvez a única peça de tecnologia que fizemos que não me deixou inquieto. Às vezes, eu saía escondido com um, usava-o para correr longas distâncias pela base. Ajudava a clarear a mente."/>
+	<entry name="ArchaegisFlavor" value="Como fazer um escudo refletir lasers quentes o suficiente para derreter sua pele? Ou balas que rasgam órgãos em pedaços? Precisávamos de uma tecnologia capaz de aprender que tipo de ataque estava vindo e alterar um campo de força para mandar o ataque de volta para onde veio. Plantar um minúsculo cérebro cibernético em tecnologia humana avançada foi nosso primeiro passo para dar vida a isso."/>
+	<entry name="ArgosyTargeFlavor" value="Certa vez, encontrei o Relojoeiro que criou esse escudo. Ele cuspiu no meu pé depois que agradeci por tê-lo feito. Justo — ele havia criado o escudo para proteger caravanas de refugiados tentando atravessar zonas de guerra ativas. Nós os “requisitamos” e tornamos essas zonas de guerra ainda piores. Ele podia manter seus princípios — eu estava feliz em manter nosso povo vivo."/>
+	<entry name="ArkOfGoldrauchFlavor" value="Os humanos que se sacrificaram para se aproximar da Voz ensinaram seus subordinados a criar pequenos recipientes capazes de carregar um fragmento de seu poder. Pensei que esses “Arcas” seriam ferramentas de dano, mas, em vez disso, eram instrumentos de cura. Por que a Voz ansiava por sangue em um momento e aliviava a dor no seguinte?"/>
+	<entry name="AttarOfPhenarisFlavor" value="Com um pequeno frasco de líquido extraído de tentáculos de Sangue, os servos da Voz podiam abrir portais através do tempo e espaço. Mas o processo era horrível. Vi um erguer um conta-gotas cheio da substância até o olho. No breve segundo antes de ele piscar para o outro lado do continente, vi tentáculos de Sangue crescendo em sua íris."/>
+	<entry name="CacheOfTheInsensateFlavor" value="Os engenheiros se inspiraram na natureza. Pareciam tão fascinados com a forma como certos insetos paralisavam suas presas antes de devorá-las vivas. Veneno não era exatamente eficaz contra todas as aberrações que enfrentaríamos. Mas um recipiente — ainda que caro — de partículas hipercarregadas poderia derrubar nossos maiores inimigos."/>
+	<entry name="CandleOfGloryFlavor" value="“Uma vela feita com a gordura de um enforcado paralisará todos que a contemplarem.” É um mito antigo... mas a Voz sabia como trazê-lo à vida. Como? Será que ela vem sussurrando em nossos ouvidos há séculos?"/>
+	<entry name="ChayotCrospectFlavor" value="A tecnologia de análise espectral no conjunto de varredura do Exterminador Chayot tinha... muitos usos. As máquinas a usavam para escanear terrenos desconhecidos. Os soldados a usavam para disparar um monte de lasers na cara do inimigo e fazê-los ver todo tipo de cores bonitas. Ambos funcionavam."/>
+	<entry name="CursecharmOfCrlaFlavor" value="Vire um desses e encontrará uma maldição escrita em Acrin antigo. “Feridas antigas sempre podem ser reabertas.” A Voz nem sempre podia te machucar... mas, nos piores momentos, sabia como fazer você se lembrar de toda a dor que já sentiu."/>
+	<entry name="DistortedLensFlavor" value="Alguns adoradores da Voz carregavam monoculos polidos que distorciam a luz ao redor. Suas vítimas conseguiam VER os sussurros da Voz — não apenas ouvi-los — e o que viam arranhava os limites de suas mentes. Você sentiria essa dor na alma, algo que não conseguiria esquecer, e se perguntaria qual era o sentido de resistir."/>
+	<entry name="DynameisPlateFlavor" value="Quando estávamos construindo máquinas capazes de pensar por si mesmas, esse pedaço de armadura não parecia lá grande coisa. Mas os engenheiros que o criaram nos presentearam com um milagre silencioso: o metal se transformava em líquido, reforçava a armadura à qual era fundido e a tornava ainda mais resistente."/>
+	<entry name="ExousiaParserFlavor" value="Poderíamos usar os dados extraídos dos Saqueadores Exousia para aprimorar as capacidades de mira de outra unidade — mas a droga da tecnologia era tão instável. Um vento forte podia embaralhar o sinal, e levar um tiro de verdade desligava tudo de uma vez."/>
+	<entry name="GauntletOfRuinFlavor" value="Desenterramos isso de um antigo laboratório governamental. Só de pensar naquele lugar ainda sinto calafrios. Alguém no mundo antigo brincava com a morte como se fosse um brinquedo — e isso, uma arma que mirava qualquer tipo de crescimento, era tudo o que restava de seu trabalho."/>
+	<entry name="GladialEmanatorFlavor" value="Os Relojoeiros foram os primeiros a projetar o Emanador — e foram eles que destruíram a maioria deles. Isso tornou muito mais fácil matar, e aqueles reclusos de princípios rígidos não suportavam o que haviam criado."/>
+	<entry name="HoloDecoyFlavor" value="Taticamente, hologramas eram... aceitáveis. Fumaça, neve, até um dia ensolarado podiam atrapalhar a projeção. Mas ver um sempre alegrava um pouco o meu dia. Um lembrete do que queríamos que o futuro fosse. Algo que pegava um sonho e o tornava real apenas brilhando uma luz."/>
+	<entry name="HungeringCircletFlavor" value="Os seguidores da Voz adorariam prender essas monstruosidades de metal em suas cabeças. Quando sangravam, a faixa se apertava contra seus crânios e lhes dava a fúria de um berserker. Alguns as usavam para se tornarem melhores lutadores. Mas eu podia perceber que outros as usavam porque amavam a dor."/>
+	<entry name="ICARFluidDeflectorFlavor" value="— Então é um escudo de água? — perguntei ao agente do Concordat.<br/>— Pela TERCEIRA VEZ, é um defletor de fluidos — disse o agente. — É tecnologia de ponta pré-guerra. Tecnologia hidrostática experimental.<br/>— Então é um escudo de água — falei com um sorriso.<br/>Ele me deu um desconto só para eu pegar a coisa e ir embora."/>
+	<entry name="IncandescentIconFlavor" value="Uma das armas mais poderosas criadas em nossa pesquisa de IA parecia uma humilde lanterna — mas a luz que emitia fazia muito mais do que iluminar. Ela abrigava fótons inteligentes que podiam ser programados para distinguir amigo de inimigo. Apenas passar por um campo deles podia irritar a pele, e a exposição prolongada era um inferno para a carne e a armadura."/>
+	<entry name="InvasiveAuditorFlavor" value="Ah, DOÍA ter um desses discos de metal idiotas grudados no pescoço. Os fios cravando na sua espinha — tá, beleza, já me acostumei. A IA de combate dentro dele analisa o campo de batalha e o que você ouve é uma máquina dizendo “vire à direita, esquive à esquerda, dispare três tiros”. Mas o que ela está realmente fazendo é tocar o seu sistema nervoso como um violão. Cada tiro que você dispara é uma nota bem sincronizada."/>
+	<entry name="IoklaFlavor" value="Iok'la. Só de dizer a palavra faz sua pele arrepiar. Malditos malucos diziam que era “uma palavra feita carne”. E que ênfase na carne. Era verde, coriácea e se enrolava em você para te dar só um pouco mais de… corpo. Eu odiava pegar um. Mas toda vez que fazia isso, conseguia ficar na luta por mais e mais tempo."/>
+	<entry name="PathcutterFlavor" value="Uma matriz de IA de feixe largo, montada em um drone protótipo. Inútil para combate, já que leva uma hora para aquecer. Você a posiciona, aponta para onde quer ir e desativa o seguro. Depois, tapa os ouvidos para seu uivo e segue. Ela encontra caminhos impossivelmente perfeitos através da selva mais emaranhada, seja de plantas ou urbana, rotas que você nunca mais encontrará."/>
+	<entry name="PFCManualFlavor" value="Todos os soldados são ensinados a estudar os velhos métodos. Mas e quanto aos… métodos ainda não escritos? Este era outro objeto assustador, um livro de táticas de um ano com cinco dígitos. Todo soldado queria colocar as mãos nele para ter um vislumbre do futuro. Poucos de nós paramos para nos perguntar como ele chegou aqui em primeiro lugar."/>
+	<entry name="PhaseFonteadFlavor" value="Esses dispositivos começaram a aparecer do nada em depósitos e kits de atiradores. Eu me ofereci como cobaia para descobrir o que era. Ativei um e senti o que parecia eletricidade fluindo pelas minhas veias. Atirava mais rápido e acertava com mais força do que qualquer um na minha unidade — mas também tinha essa constante sensação de déjà vu. Como se já tivesse vivido tudo aquilo antes. Como se fosse viver tudo… de novo?"/>
+	<entry name="PlanarPhlebotomizerFlavor" value="Eu tinha uma regra: se você quisesse carregar o Flebotomizador Planar, tinha que ser capaz de pronunciá-lo cinco vezes rápido. Eliminava qualquer um burro demais para acidentalmente usá-lo na nossa própria esquadra."/>
+	<entry name="RallyingHolobeaconFlavor" value="Usávamos a tecnologia de holoprojetores como os exércitos antigos usavam corpos de tambores. Ou corneteiros. Quando a situação apertava, tropas carregando esses faróis projetavam mensagens de casa, novas ordens do comando ou apenas imagens fantasmagóricas de cavalaria carregando acima. Qualquer centelha de esperança era suficiente para reacender a luta em nosso povo."/>
+	<entry name="ReactiveTriggerFlavor" value="Munição perfurante não é barata. Mas muitas defesas são frágeis se você martelá-las com fogo repetido ou acionar qualquer blindagem reativa. Um dispositivo simples que disparasse projéteis traçantes antes de um ataque principal só facilitaria um pouco a penetração."/>
+	<entry name="SchismOfRegiminaFlavor" value="Há muito tempo, ZEPHON emprestou uma de suas criações a um grupo de humanos à beira da morte. Esses sobreviventes retribuíram sua bondade roubando os códigos de acesso da unidade e tentando matar seu salvador. A retaliação foi brutal. Agora, a única lembrança daqueles idiotas é um disco rígido com os códigos, comprado e vendido no mercado negro com o máximo de sigilo. Se ZEPHON descobrisse onde esse disco está, não mediria esforços para destruí-lo."/>
+	<entry name="SpotterDroneFlavor" value="A névoa da guerra pode mexer com a sua cabeça. Se você não sabe o que está bem na sua frente, começa a imaginar todo tipo de monstro esperando no escuro. Drones poderiam ajudar com isso. Às vezes, só enxergar um pouco mais longe ajudava nossos soldados a manterem a sanidade."/>
+	<entry name="StolenFleshFlavor" value="Pedaços da carne do Soldado Caído às vezes chegam ao mercado negro, arrancados dos corpos de seu povo. A maior parte se deteriorava, pois era caro preservar e manter nutrido sem sua influência. O Concordat decifrou o código, é claro. Sempre disposto a compartilhar seus tesouros… pelo preço certo."/>
+	<entry name="SuicideDronesFlavor" value="Essas coisas não eram drones 'suicidas'. 'Suicídio' é algo que só os vivos podem fazer. Humanos, Acrin, talvez cultistas da Voz, mas não máquinas. Não brinquedos que eram granadas com asas. Idiotas. Nunca conseguiram fazê-los mudar o nome."/>
+	<entry name="TraumaKitFlavor" value="Nossos médicos… bem, eram amadores. Mas tinham sobrevivido e remendavam você o suficiente para voltar ao campo. Os kits do Concordat, porém, eram… outra coisa. O melhor do velho mundo misturado com o que as IAs e os alienígenas sabiam. Chamavam de 'kit de trauma', mas o verdadeiro trauma era ver *aquilo* abrindo você e costurando de volta. Se conseguisse esquecer, valia cada centavo."/>
+	<entry name="VorodaiProselyteFlavor" value="Uma pessoa sozinha nunca poderia invocar um Vorodai. Mas um fragmento de seu poder? Uma garra prateada que se estendia do Sangramento para cortar seu inimigo? Isso já era o suficiente."/>
+</language>
